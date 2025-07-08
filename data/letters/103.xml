@@ -131,6 +131,13 @@
 				<language ident="la" usage="5">Latein</language>
 			</langUsage>
 		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy>
+					<category n="t5"/>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
 		<revisionDesc>
 			<change status="untouched">init</change>
 		</revisionDesc>
