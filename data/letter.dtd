@@ -207,7 +207,7 @@
         type CDATA #REQUIRED>
 <!-- REFERENCE (29175x) [https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ref.html] -->
 <!-- defines a reference to another location, possibly modified by additional text or comment -->
-<!ELEMENT ref (#PCDATA|pb)*>
+<!ELEMENT ref (#PCDATA|lb|pb)*>
 <!ATTLIST ref
         source CDATA #IMPLIED
         type CDATA #IMPLIED
@@ -318,12 +318,12 @@
 <!-- xml:id: «fn(\d+|[a-z]+)»; footnotes -->
 <!-- HIGHLIGHTED (29739x) [https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html] -->
 <!-- marks a word or phrase as graphically distinct from the surrounding text (e.g. "italic", often within notes) -->
-<!ELEMENT hi (#PCDATA|persName|placeName|ref|bibl|note|cit|ptr|foreign)*>
+<!ELEMENT hi (#PCDATA|persName|placeName|ref|bibl|note|cit|ptr|foreign|lb|pb)*>
 <!ATTLIST hi
         rend CDATA #IMPLIED>
 <!-- CODE-SWITCHING (3808x) [https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-foreign.html] -->
 <!-- identifies a word or phrase as belonging to some language other than that of the surrounding text -->
-<!ELEMENT foreign (#PCDATA|note|persName|placeName|ptr|pb)*>
+<!ELEMENT foreign (#PCDATA|note|persName|placeName|ptr|lb|pb)*>
 <!ATTLIST foreign
         xml:lang CDATA #REQUIRED>
 <!-- CITED QUOTATIONS (6739x) [https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-cit.html] -->
