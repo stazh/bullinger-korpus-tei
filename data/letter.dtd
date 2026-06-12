@@ -329,7 +329,7 @@
         xml:lang CDATA #REQUIRED>
 <!-- CITED QUOTATIONS (6739x) [https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-cit.html] -->
 <!-- contains a quotation from some other document -->
-<!ELEMENT cit (#PCDATA|ref)*>
+<!ELEMENT cit (#PCDATA|ref|lb|pb)*>
 <!ATTLIST cit
         type CDATA #IMPLIED>
 <!-- POINTERS (4797x) [https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-ptr.html] -->
@@ -348,7 +348,7 @@
         type CDATA #IMPLIED>
 <!-- DELETED TEXT (5x) [https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-del.html] -->
 <!-- strikethrough; crossed out (in CSS: "text-decoration: line-through") -->
-<!ELEMENT del (#PCDATA|persName|placeName)*>
+<!ELEMENT del (#PCDATA|persName|placeName|lb|pb)*>
 <!-- TABLES (1x) [https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-table.html] -->
 <!-- contains text displayed in tabular form, in rows and columns -->
 <!ELEMENT table (row)*>
