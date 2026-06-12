@@ -81,26 +81,35 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4402!Autograph!00%20E_II_357__fol__479_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4402/Autograph/00 E_II_357__fol__479_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="366,374 614,345 777,390 859,329 1304,377 1509,332 1683,379 1749,337 1967,392 2044,345 2399,350 2399,227 2347,221 2189,303 1960,269 1907,313 1559,266 1435,290 1375,245 1167,298 801,266 579,324 366,237">381,363 482,349 583,342 684,336 786,332 887,331 988,330 1090,328 1191,328 1292,331 1394,331 1495,331 1596,334 1697,334 1799,338 1900,340 2001,343 2103,343 2204,342 2305,338 2407,337</zone>
+			<zone xml:id="p1z2-0" points="392,487 785,456 838,416 1014,450 1151,403 2160,424 2162,340 2057,382 1896,348 1825,382 1757,337 1683,379 1446,337 1341,382 614,345 392,406">408,435 495,430 583,423 671,418 759,414 847,411 935,409 1022,405 1110,405 1198,402 1286,402 1374,402 1462,403 1550,403 1637,403 1725,405 1813,405 1901,405 1989,405 2077,408 2165,408</zone>
+			<zone xml:id="p1z3-0" points="419,514 537,556 640,508 722,545 1043,495 1119,540 1183,495 1535,487 1738,543 1912,487 2373,548 2373,432 2305,419 2004,461 1820,421 1683,464 1159,400 1030,453 948,421 419,485">432,510 529,509 626,505 724,501 821,495 919,492 1016,489 1113,486 1211,483 1308,483 1406,483 1503,483 1600,483 1698,483 1795,486 1893,489 1990,489 2087,490 2185,492 2282,497 2380,501</zone>
+			<zone xml:id="p1z4-0" points="413,622 500,651 698,595 764,627 803,590 1312,572 1667,587 1730,637 1957,590 2118,648 2323,608 2531,645 2505,566 1978,506 1620,548 1338,487 1188,553 985,556 822,500 724,543 637,511 413,553">429,614 534,603 639,594 744,590 850,584 955,579 1060,572 1166,572 1271,572 1376,569 1482,569 1587,569 1692,573 1797,574 1903,578 2008,581 2113,584 2219,590 2324,594 2429,601 2535,614</zone>
+			<zone xml:id="p1z5-0" points="466,706 608,761 706,693 1019,724 1222,658 1643,661 1767,722 1970,677 2189,716 2189,632 2039,643 1960,593 1733,640 1636,585 1472,632 1409,595 1177,632 990,587 864,648 703,606 466,651">480,703 565,698 651,693 736,686 822,682 908,674 993,670 1079,665 1164,659 1250,656 1336,653 1421,653 1507,653 1592,655 1678,656 1764,659 1849,660 1935,662 2020,665 2106,668 2192,671</zone>
+			<zone xml:id="p1z6-0" points="448,780 464,782 471,777 477,782 493,777 500,780 514,777 521,769 535,769 540,722 519,722 511,711 503,719 485,703 477,706 458,701">468,748 493,743 519,741 545,739</zone>
+			<zone xml:id="p1z7-0" points="619,819 695,793 732,827 798,803 840,824 924,809 1011,843 1046,824 1125,843 1135,716 1054,701 1006,730 872,687 727,759 672,719 627,719">635,793 660,789 685,787 710,784 735,781 760,779 785,778 810,776 835,774 860,773 885,771 910,769 935,766 960,763 985,761 1010,759 1035,756 1060,754 1085,754 1110,754 1136,754</zone>
+			<zone xml:id="p1z8-0" points="1572,867 1662,885 1722,861 1744,872 1825,827 1920,840 1983,827 1988,740 1944,756 1915,732 1865,764 1765,774 1736,795 1699,793 1665,764 1625,785 1578,772">1586,844 1611,842 1636,840 1661,837 1686,834 1711,833 1737,830 1762,826 1787,825 1812,823 1837,821 1863,820 1888,820 1913,819 1938,817 1963,818 1989,820</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4402!Autograph!01%20E_II_357__fol__479_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">4402/Autograph/01 E_II_357__fol__479_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="847,652 945,627 1116,644 1199,608 1371,622 1470,579 1544,610 1655,578 1564,526 1341,561 1253,513 853,542">854,627 896,621 940,615 985,612 1030,606 1075,603 1120,597 1164,594 1209,591 1254,591 1299,588 1344,588 1388,585 1433,582 1478,582 1523,582 1568,582 1612,579 1657,579</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Hoc momento hasce a fratre <persName ref="p8178">Thoma</persName> accipio, qui petit, ut, si ad <persName ref="p1341">Gryndallum</persName> scripseris, eas cum tuis coniunctas ad hunc mittas.</s>
-					<s n="2" xml:lang="la">Mittit praeterea pasquillum de novo papatu necessario editum, quem lectum ad te mox misero, si forte dignum iudices, qui typis excudatur, quamquam non sunt forte magis irritandi isti crabrones.</s>
-					<s n="3" xml:lang="la">21. augusti 1560.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Hoc momento hasce a fratre <persName ref="p8178">Thoma</persName> accipio, qui petit, ut, si ad <lb xml:id="p1z2"/><persName ref="p1341">Gryndallum</persName> scripseris, eas cum tuis coniunctas ad hunc mittas.</s>
+					<s n="2" xml:lang="la"><lb xml:id="p1z3"/>Mittit praeterea pasquillum de novo papatu necessario editum, <lb xml:id="p1z4"/>quem lectum ad te mox misero, si forte dignum iudices, qui typis excudatur, <lb xml:id="p1z5"/>quamquam non sunt forte magis irritandi isti crabrones.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z6"/>21. <lb xml:id="p1z7"/>augusti 1560.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">T[uus] <persName ref="p8055">Ambr[osius</persName>].</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z8"/>T[uus] <persName ref="p8055">Ambr[osius</persName>].</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">D. <persName ref="p495">Bullingero</persName> suo.</s>
+					<s n="5" xml:lang="la">D. <pb/><lb xml:id="p2z1"/><persName ref="p495">Bullingero</persName> suo.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>

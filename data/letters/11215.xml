@@ -79,11 +79,24 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11215!Autograph!00%20E_II_343__fol__191_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11215/Autograph/00 E_II_343__fol__191_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="752,340 1103,293 1235,322 1349,271 1419,311 1571,291 1645,342 1703,309 1841,349 2276,309 2439,342 2412,217 2103,273 1998,226 1891,244 1808,201 1743,246 1551,192 1472,235 1065,242 902,166 752,244">763,309 851,304 939,307 1028,295 1116,295 1204,293 1293,292 1381,292 1469,292 1558,292 1646,295 1735,300 1823,299 1911,301 2000,301 2088,301 2176,301 2265,301 2353,301 2442,313</zone>
+			<zone xml:id="p1z2-0" points="705,427 989,394 1492,430 1723,392 1915,432 2112,389 2188,436 2385,445 2385,349 2345,329 2126,374 1602,324 1322,362 1184,320 926,367 864,322 705,338">716,391 799,385 883,385 967,382 1051,379 1134,378 1218,376 1302,379 1386,376 1469,381 1553,382 1637,384 1721,385 1804,388 1888,391 1972,391 2056,391 2139,389 2223,390 2307,391 2391,391</zone>
+			<zone xml:id="p1z3-0" points="691,533 868,481 969,524 1141,479 1479,481 1533,517 1674,479 1906,533 2430,492 2428,425 2063,441 2016,403 1765,454 989,394 888,450 689,434">701,480 787,477 874,471 961,471 1048,473 1134,471 1221,474 1308,474 1395,474 1481,474 1568,477 1655,477 1742,477 1828,480 1915,480 2002,483 2089,483 2175,480 2262,483 2349,482 2436,486</zone>
+			<zone xml:id="p1z4-0" points="680,604 1414,562 1797,615 2204,586 2300,633 2425,622 2423,494 2253,539 1951,499 1844,550 1495,494 1322,541 1011,501 949,539 680,530">692,579 778,569 865,567 952,564 1039,561 1125,561 1212,561 1299,563 1386,561 1472,564 1559,569 1646,570 1733,575 1819,576 1906,576 1993,576 2080,577 2166,576 2253,576 2340,576 2427,576</zone>
+			<zone xml:id="p1z5-0" points="696,698 1246,656 1298,694 1504,662 1642,714 1839,669 2092,729 2215,671 2443,691 2410,624 2182,588 1877,629 1671,582 1410,622 1360,584 1061,573 931,640 694,595">707,665 794,662 881,659 968,656 1055,655 1142,654 1229,653 1316,653 1403,655 1490,657 1577,659 1664,662 1751,665 1838,668 1925,668 2012,671 2099,671 2186,671 2273,671 2360,671 2448,680</zone>
+			<zone xml:id="p1z6-0" points="676,792 884,821 1078,767 1338,794 1421,761 1555,817 1723,767 1893,803 2063,770 2166,823 2401,819 2401,727 2320,756 1956,705 1815,743 1721,698 1392,696 1184,736 953,676 770,732 676,698">689,773 774,767 860,762 946,761 1032,759 1118,758 1204,758 1289,758 1375,758 1461,759 1547,761 1633,761 1719,761 1805,764 1890,766 1976,765 2062,768 2148,767 2234,771 2320,773 2406,776</zone>
+			<zone xml:id="p1z7-0" points="673,897 1443,864 1510,902 1613,864 1922,929 2018,875 2110,920 2472,888 2472,817 2293,794 2130,839 1940,788 1716,830 1394,785 1159,841 1074,797 756,837 673,803">686,874 775,868 864,865 954,862 1043,862 1133,862 1222,862 1312,859 1401,862 1491,865 1580,862 1669,865 1759,865 1848,865 1938,865 2027,868 2117,868 2206,868 2296,868 2385,871 2475,877</zone>
+			<zone xml:id="p1z8-0" points="691,976 1515,962 1761,1007 1996,969 2112,1040 2430,1014 2430,884 2347,879 2074,931 2025,891 1622,938 1486,879 1184,944 1049,902 691,931">704,964 790,965 877,966 963,964 1050,964 1137,964 1223,961 1310,964 1396,962 1483,963 1570,962 1656,961 1743,961 1829,961 1916,961 2003,960 2089,957 2176,956 2262,958 2349,958 2436,958</zone>
+			<zone xml:id="p1z9-0" points="685,1119 781,1099 819,1072 902,1078 942,1110 1011,1078 1076,1099 1105,1076 1143,1078 1143,987 1081,989 1056,969 1023,991 973,982 850,1038 785,998 682,1000">695,1068 720,1066 745,1065 770,1065 795,1065 821,1065 846,1066 871,1068 896,1068 922,1068 947,1070 972,1070 997,1069 1022,1068 1048,1068 1073,1068 1098,1068 1123,1070 1149,1068</zone>
+			<zone xml:id="p1z10-0" points="1725,1320 1765,1336 1902,1269 2103,1327 2186,1309 2300,1336 2343,1313 2343,1195 2009,1226 1850,1143 1725,1137">1737,1274 1767,1268 1798,1266 1828,1264 1859,1262 1890,1264 1920,1264 1951,1262 1981,1262 2012,1263 2043,1265 2073,1265 2104,1265 2134,1265 2165,1265 2196,1265 2226,1264 2257,1262 2287,1264 2318,1264 2349,1262</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11215!Autograph!01%20E_II_343__fol__191_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11215/Autograph/01 E_II_343__fol__191_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="862,1038 924,1024 948,1046 1010,1054 1054,1036 1124,1078 1194,1042 1290,1044 1294,924 1156,964 1014,944 998,926 896,972 866,960">874,1024 900,1021 926,1021 952,1020 979,1018 1005,1018 1031,1018 1058,1016 1084,1014 1110,1012 1137,1012 1163,1012 1189,1012 1216,1011 1242,1010 1268,1009 1295,1009</zone>
+			<zone xml:id="p2z2-0" points="886,1162 1038,1166 1178,1120 1254,1160 1300,1144 1302,1088 1188,1080 1162,1062 1036,1082 1004,1060 972,1074 888,1046">898,1113 923,1113 949,1113 974,1113 1000,1113 1025,1111 1051,1110 1076,1110 1102,1110 1128,1110 1153,1110 1179,1110 1204,1110 1230,1109 1255,1108 1281,1108 1307,1110</zone>
+			<zone xml:id="p2z3-0" points="980,1214 1006,1218 1018,1228 1048,1214 1052,1218 1068,1218 1070,1176 1050,1176 1020,1156 1004,1168 982,1168">991,1209 1017,1209 1044,1208 1071,1206</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -91,22 +104,22 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Obsecro te, mi <persName ref="p495">Bullingere</persName><note xml:id="fna" type="footnote" n="a">Obsecro te, mi <persName ref="p495">Bullingere</persName> <hi>durch größere Schrift hervorgehoben.</hi></note>, ut puerum<note xml:id="fn2" type="footnote" n="2"><persName ref="p8469">Heinrich Hindermann</persName>; s. ebd.</note> ingenio praestanti, quantum multorum testimonio intelligo, vestratemque, si potest ullo pacto fieri, ne negligatis.</s>
-					<s n="3" xml:lang="la">Adiutus hic a nostris fuit aliquamdiu; verum sic nunc habet res, ut versari cum parentibus amplius commode non possit, noverca<note xml:id="fn3" type="footnote" n="3">Nicht namentlich bekannt.</note> et vitrico<note xml:id="fn4" type="footnote" n="4"><persName ref="p5533">Peter Kriesi</persName>; s. ebd.</note>.</s>
-					<s n="4" xml:lang="la">Dabis operam, sicubi possit iuvari; est indignum, si non excolatur ingenium tam aptum.</s>
-					<s n="5" xml:lang="la">Rogarunt me <persName ref="p164">Amerbachius</persName> et alii quidam, ut ea de re te caeterosque fratres rogarem.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Obsecro te, mi <persName ref="p495">Bullingere</persName><note xml:id="fna" type="footnote" n="a">Obsecro te, mi <persName ref="p495">Bullingere</persName> <hi>durch größere Schrift hervorgehoben.</hi></note>, ut puerum<note xml:id="fn2" type="footnote" n="2"><persName ref="p8469">Heinrich Hindermann</persName>; s. ebd.</note> ingenio praestanti, <lb xml:id="p1z2"/>quantum multorum testimonio intelligo, vestratemque, si potest ullo pacto <lb xml:id="p1z3"/>fieri, ne negligatis.</s>
+					<s n="3" xml:lang="la">Adiutus hic a nostris fuit aliquamdiu; verum <lb xml:id="p1z4"/>sic nunc habet res, ut versari cum parentibus amplius commode non <lb xml:id="p1z5"/>possit, noverca<note xml:id="fn3" type="footnote" n="3">Nicht namentlich bekannt.</note> et vitrico<note xml:id="fn4" type="footnote" n="4"><persName ref="p5533">Peter Kriesi</persName>; s. ebd.</note>.</s>
+					<s n="4" xml:lang="la">Dabis operam, sicubi possit iuvari; <lb xml:id="p1z6"/>est indignum, si non excolatur ingenium tam aptum.</s>
+					<s n="5" xml:lang="la">Rogarunt me <lb xml:id="p1z7"/><persName ref="p164">Amerbachius</persName> et alii quidam, ut ea de re te caeterosque fratres rogarem.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Valebis in domino Christo, qui nos in sancta voluntate ipsius conservet.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z8"/>Valebis in domino Christo, qui nos in sancta voluntate ipsius <lb xml:id="p1z9"/>conservet.</s>
 					<s n="7" xml:lang="la">Amen.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><persName ref="p1365">Simon Grynęus</persName> tuus.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z10"/><persName ref="p1365">Simon Grynęus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="la">Domino <persName ref="p495">Heynricho Bullingero</persName>, amico.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heynricho <lb xml:id="p2z2"/>Bullingero</persName>, amico<lb xml:id="p2z3"/>.</s>
 				</p>
 			</div>
 		</body>

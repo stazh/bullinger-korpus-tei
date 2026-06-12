@@ -78,38 +78,54 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11384!Autograph!00%20E_II_343__fol__155_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11384/Autograph/00 E_II_343__fol__155_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="412,428 1090,467 1272,422 1465,464 1734,425 1817,472 1862,428 2503,425 2503,349 2402,386 2305,336 1956,339 1867,383 1794,334 1661,389 1484,339 1356,396 1312,352 1207,391 1048,342 501,370 412,308">426,421 530,417 634,418 738,421 843,421 947,421 1051,421 1155,420 1260,421 1364,421 1468,419 1572,421 1677,418 1781,418 1885,418 1989,418 2094,415 2198,415 2302,415 2406,415 2511,415</zone>
+			<zone xml:id="p1z2-0" points="501,506 2534,508 2534,425 2279,459 2146,412 2013,467 1731,425 1468,467 1246,428 1090,467 501,448">516,489 617,489 718,492 819,490 920,489 1022,489 1123,488 1224,486 1325,486 1426,486 1528,484 1629,486 1730,486 1831,486 1932,485 2034,483 2135,483 2236,483 2337,483 2438,483 2540,483</zone>
+			<zone xml:id="p1z3-0" points="508,584 2542,566 2516,516 2154,488 1903,532 1773,495 1458,532 960,501 834,540 743,498 508,503">522,564 623,561 724,561 826,561 927,558 1028,558 1130,557 1231,555 1332,555 1434,552 1535,555 1636,555 1738,555 1839,555 1940,552 2042,552 2143,552 2244,552 2346,552 2447,552 2549,549</zone>
+			<zone xml:id="p1z4-0" points="514,678 1116,623 1395,662 1499,626 1770,657 2349,623 2482,678 2534,644 2516,555 2242,597 2060,561 1864,597 1825,563 1653,597 1538,563 1309,595 944,566 816,605 514,579">528,635 628,630 729,625 829,624 930,621 1031,618 1131,618 1232,616 1332,615 1433,615 1534,615 1634,615 1735,615 1835,617 1936,615 2037,615 2137,615 2238,618 2338,618 2439,616 2540,615</zone>
+			<zone xml:id="p1z5-0" points="516,741 618,704 954,738 1022,696 1116,733 1317,694 1729,727 1872,683 2289,743 2355,699 2561,712 2563,662 1061,626 1004,662 769,636 516,675">531,698 632,698 734,695 836,692 938,689 1040,689 1141,686 1243,683 1345,683 1447,680 1549,678 1650,678 1752,677 1854,677 1956,679 2058,680 2159,683 2261,683 2363,686 2465,688 2567,692</zone>
+			<zone xml:id="p1z6-0" points="519,790 2550,767 2519,696 2475,733 2323,699 2029,730 1875,686 1507,730 1366,694 1181,738 1025,696 957,741 798,712 519,754">534,773 635,770 736,766 837,764 938,761 1039,755 1140,754 1241,752 1342,749 1443,749 1544,746 1645,743 1746,743 1847,744 1948,744 2049,746 2150,749 2251,749 2352,749 2453,751 2555,758</zone>
+			<zone xml:id="p1z7-0" points="524,866 832,884 1134,824 1199,858 1956,816 2527,840 2508,761 2394,798 2180,754 1937,790 1854,751 1372,798 527,795">540,844 639,843 739,839 839,836 938,832 1038,827 1138,824 1237,818 1337,817 1437,814 1537,810 1636,809 1736,806 1836,807 1935,808 2035,809 2135,809 2234,810 2334,814 2434,815 2534,812</zone>
+			<zone xml:id="p1z8-0" points="527,965 621,923 798,962 991,910 1319,905 1364,939 1567,887 1877,931 2021,892 2344,926 2516,894 2516,842 2081,816 529,881">543,919 642,916 741,910 840,906 939,902 1038,898 1137,895 1236,892 1335,889 1434,886 1533,883 1632,883 1731,883 1830,883 1929,883 2028,883 2127,883 2226,883 2325,881 2424,880 2523,880</zone>
+			<zone xml:id="p1z9-0" points="527,1017 1020,986 1093,1022 1398,967 2561,980 2561,918 2344,928 2305,894 2190,939 2128,894 1909,941 1572,892 1494,933 991,910 798,962 647,926 529,954">540,997 641,991 742,987 844,980 945,977 1046,970 1148,969 1249,964 1350,961 1452,961 1553,955 1654,956 1756,955 1857,958 1958,958 2060,958 2161,955 2262,958 2364,956 2465,957 2567,958</zone>
+			<zone xml:id="p1z10-0" points="535,1103 2055,1027 2368,1082 2534,1033 2534,975 2211,1001 1979,957 1846,1001 1562,965 1205,980 1137,1022 537,1017">549,1071 648,1060 748,1054 847,1048 947,1045 1046,1042 1146,1039 1245,1036 1345,1032 1444,1030 1544,1027 1644,1024 1743,1024 1843,1023 1942,1021 2042,1021 2141,1024 2241,1024 2340,1026 2440,1027 2540,1027</zone>
+			<zone xml:id="p1z11-0" points="529,1150 1074,1121 1176,1158 1643,1108 1802,1179 1875,1137 2198,1168 2472,1121 2472,1069 2125,1077 2034,1038 1867,1080 1737,1048 1679,1082 1562,1046 1332,1085 1252,1048 1121,1085 774,1064 532,1116">543,1137 639,1131 736,1128 833,1122 930,1118 1026,1114 1123,1110 1220,1107 1317,1104 1413,1104 1510,1104 1607,1104 1704,1103 1800,1101 1897,1101 1994,1104 2091,1104 2187,1104 2284,1106 2381,1110 2478,1107</zone>
+			<zone xml:id="p1z12-0" points="501,1239 571,1249 631,1226 688,1244 808,1212 897,1254 1012,1223 1014,1134 933,1147 881,1129 769,1181 688,1142 501,1179">516,1203 541,1203 566,1203 591,1203 616,1203 641,1201 666,1200 691,1200 716,1200 741,1200 767,1199 792,1197 817,1197 842,1197 867,1197 892,1197 917,1197 942,1196 967,1194 992,1193 1018,1191</zone>
+			<zone xml:id="p1z13-0" points="2146,1309 2214,1327 2287,1288 2381,1335 2412,1312 2446,1332 2540,1291 2540,1254 2493,1257 2464,1236 2404,1254 2378,1228 2347,1241 2323,1220 2292,1226 2261,1199 2146,1189">2161,1289 2186,1286 2212,1284 2238,1282 2263,1279 2289,1278 2315,1280 2340,1280 2366,1280 2392,1282 2417,1283 2443,1283 2469,1283 2494,1283 2520,1282 2546,1280</zone>
+			<zone xml:id="p1z14-0" points="2216,1398 2229,1398 2271,1364 2292,1366 2302,1377 2313,1374 2349,1390 2360,1382 2378,1385 2378,1314 2349,1304 2313,1314 2302,1301 2289,1312 2255,1322 2216,1314">2230,1358 2255,1358 2281,1358 2307,1357 2333,1355 2359,1355 2385,1355</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11384!Autograph!01%20E_II_343__fol__155_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11384/Autograph/01 E_II_343__fol__155_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="693,864 811,831 1270,860 1299,837 1412,858 1463,903 1550,882 1550,805 1462,811 1393,762 1024,793 783,765 693,803">698,839 740,836 783,836 826,834 868,833 911,833 954,831 996,828 1039,827 1082,827 1125,827 1167,827 1210,827 1253,828 1295,831 1338,834 1381,835 1423,833 1466,836 1509,839 1552,833</zone>
+			<zone xml:id="p2z2-0" points="815,929 846,942 884,924 912,936 967,916 990,931 1134,912 1206,945 1313,914 1315,865 1260,855 1195,891 1084,858 1044,879 975,868 916,893 815,891">821,913 847,913 873,913 899,911 925,910 951,910 977,910 1003,910 1029,908 1055,907 1081,907 1107,906 1133,904 1159,904 1185,904 1211,904 1237,904 1263,904 1289,903 1316,901</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Valde mihi doluit, quod tam diu visus es negligere me in tantis calamitatibus; hactenus enim divexatus sum ab academia, a senatu, a peste, a morbis.</s>
-					<s n="3" xml:lang="la">Et adhuc divexamur; nam conatur magistratus praescribere rationem synodi et excommunicationis nobis absque nobis, imo praescripsit<note xml:id="fn1" type="footnote" n="1">Am 19. November hatten die beiden Räte eine neue Synodal- und Bannordnung eingeführt (Abschrift u. a. in <placeName ref="l28">Basel</placeName> UB, Ms. Ki. Ar. 23a, 92v.-95v.). Die Räte erhielten erweiterte Befugnisse bei der Aufsicht über die Pfarrer und im Bannwesen; die gemischte Kommission der "Synodusherren" oder Kirchenverordneten wurde abgeschafft. Vgl. <persName ref="p8418">Myconius</persName> an <persName ref="p5565">Capito</persName>, 23. Dezember 1539 (<persName ref="p5565">Capito</persName>, Corr. 256f, <ref target="file10760">Nr. 722</ref>); ders. an <persName ref="p8049">Vadian</persName>, 7. März 1540 (<persName ref="p8049">Vadian</persName> BW V 612f, <ref target="file11147">Nr. 1104</ref>); <bibl source="b147">Burckhardt-Biedermann</bibl> 455f; Das Tagebuch des <persName ref="p1278">Johannes Gast</persName>, bearb. v. Paul Burckhardt, Basel 1945, S. 35.</note>.</s>
-					<s n="4" xml:lang="la">Ea re<pb type="edition" next="280"/> nihil unquam gravius accidit, non quidem propter me, sed propter ecclesiam, quod is<note xml:id="fn2" type="footnote" ana="lex" n="2">der Magistrat.</note> vestigia papismi videtur sectari.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Valde mihi doluit, quod tam diu visus es negligere me in tantis calamitatibus; <lb xml:id="p1z2"/>hactenus enim divexatus sum ab academia, a senatu, a peste, <lb xml:id="p1z3"/>a morbis.</s>
+					<s n="3" xml:lang="la">Et adhuc divexamur; nam conatur magistratus praescribere rationem <lb xml:id="p1z4"/>synodi et excommunicationis nobis absque nobis, imo praescripsit<note xml:id="fn1" type="footnote" n="1">Am 19. November hatten die beiden Räte eine neue Synodal- und Bannordnung eingeführt (Abschrift u. a. in <placeName ref="l28">Basel</placeName> UB, Ms. Ki. Ar. 23a, 92v.-95v.). Die Räte erhielten erweiterte Befugnisse bei der Aufsicht über die Pfarrer und im Bannwesen; die gemischte Kommission der "Synodusherren" oder Kirchenverordneten wurde abgeschafft. Vgl. <persName ref="p8418">Myconius</persName> an <persName ref="p5565">Capito</persName>, 23. Dezember 1539 (<persName ref="p5565">Capito</persName>, Corr. 256f, <ref target="file10760">Nr. 722</ref>); ders. an <persName ref="p8049">Vadian</persName>, 7. März 1540 (<persName ref="p8049">Vadian</persName> BW V 612f, <ref target="file11147">Nr. 1104</ref>); <bibl source="b147">Burckhardt-Biedermann</bibl> 455f; Das Tagebuch des <persName ref="p1278">Johannes Gast</persName>, bearb. v. Paul Burckhardt, Basel 1945, S. 35.</note>.</s>
+					<s n="4" xml:lang="la">Ea re<pb type="edition" next="280"/> nihil unquam gravius <lb xml:id="p1z5"/>accidit, non quidem propter me, sed propter ecclesiam, quod is<note xml:id="fn2" type="footnote" ana="lex" n="2">der Magistrat.</note> vestigia papismi <lb xml:id="p1z6"/>videtur sectari.</s>
 					<s n="5" xml:lang="la">Bone deus, quam sumus miseri discipuli magni praeceptoris!</s>
-					<s n="6" xml:lang="la">Verum postquam literas tuas postremas<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note> accepi, redditus sum mihi et de te spero quemadmodum hactenus.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z7"/>Verum postquam literas tuas postremas<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note> accepi, redditus sum mihi et de te spero <lb xml:id="p1z8"/>quemadmodum hactenus.</s>
 					<s n="7" xml:lang="la">Fac, ita perdures in finem usque.</s>
-					<s n="8" xml:lang="la">Quęso autem, ut per hunc tabellarium<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> scribas, quid tibi videatur, an senatui liceat, quod sibi sumpsit.</s>
+					<s n="8" xml:lang="la">Quęso autem, ut per hunc <lb xml:id="p1z9"/>tabellarium<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> scribas, quid tibi videatur, an senatui liceat, quod sibi sumpsit.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" ana="farewell">Vale cum tuis in domino semper.</s>
-					<s n="10" xml:lang="la">Serius sum nactus tabellionem, quamobrem pluribus scribere non valeo.</s>
+					<s n="9" xml:lang="la" ana="farewell"><lb xml:id="p1z10"/>Vale cum tuis in domino semper.</s>
+					<s n="10" xml:lang="la">Serius sum nactus tabellionem, quamobrem pluribus <lb xml:id="p1z11"/>scribere non valeo.</s>
 					<s n="11" xml:lang="la">Deinceps scribam plaenius.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la"><placeName ref="l28">Basileę</placeName>, raptim, 22. decembris anno 39.</s>
-					<s n="13" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="12" xml:lang="la"><placeName ref="l28">Basileę</placeName>, raptim, 22. <lb xml:id="p1z12"/>decembris anno 39.</s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z13"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z14"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="14" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName>, in domino suo.</s>
+					<s n="14" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>in domino suo.</s>
 				</p>
 			</div>
 		</body>

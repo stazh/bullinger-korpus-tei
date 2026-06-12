@@ -81,6 +81,13 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1860!Autograph!00%20E_II_365__fol__130_a_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">1860/Autograph/00 E_II_365__fol__130_a_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="273,231 629,220 674,256 752,201 961,273 1156,206 1546,237 1613,192 2105,184 2442,253 2442,134 2203,97 1838,156 1629,120 1574,162 1270,153 1214,114 1103,164 273,123">289,217 396,205 504,208 612,205 720,203 828,203 936,202 1044,199 1152,199 1260,198 1368,196 1475,195 1583,193 1691,190 1799,187 1907,184 2015,185 2123,184 2231,184 2339,189 2447,196</zone>
+			<zone xml:id="p1z2-0" points="315,334 512,304 632,351 794,317 861,348 913,306 1217,304 1276,337 1509,298 1738,345 1933,295 2295,337 2387,304 2387,231 2170,187 2128,228 1952,187 1821,234 1721,187 1551,240 1156,206 964,270 769,220 638,267 596,228 315,209">330,301 433,298 536,298 639,298 742,298 845,292 948,292 1052,295 1155,291 1258,292 1361,289 1464,286 1567,286 1670,286 1774,286 1877,283 1980,281 2083,286 2186,280 2289,280 2393,283</zone>
+			<zone xml:id="p1z3-0" points="312,446 668,393 1259,407 1373,454 1440,409 1707,390 2183,423 2406,384 2537,421 2537,304 2401,292 2292,340 1977,331 1936,295 1682,351 1607,309 1537,354 1434,312 1081,362 994,317 627,365 515,304 312,337">327,402 437,393 548,393 659,390 770,390 880,390 991,390 1102,389 1213,387 1323,387 1434,387 1545,384 1656,384 1766,384 1877,384 1988,381 2099,378 2209,379 2320,378 2431,373 2542,375</zone>
+			<zone xml:id="p1z4-0" points="304,501 604,529 827,482 891,535 997,499 1512,521 1565,485 1780,538 2537,510 2537,421 2323,446 2144,404 1746,460 1599,395 1381,451 1245,404 927,454 847,404 688,401 304,451">318,488 429,480 540,476 652,476 763,476 874,476 986,476 1097,476 1208,476 1320,479 1431,479 1542,476 1654,479 1765,479 1876,479 1988,479 2099,479 2210,479 2322,479 2433,479 2545,485</zone>
+			<zone xml:id="p1z5-0" points="301,629 615,624 719,582 1315,627 1379,585 1490,649 2086,571 2526,618 2526,515 2270,490 2150,540 1000,496 744,551 301,501">315,590 425,584 536,583 647,581 758,581 868,578 979,576 1090,575 1201,575 1311,576 1422,575 1533,572 1644,572 1754,570 1865,569 1976,569 2087,569 2197,571 2308,572 2419,575 2530,581</zone>
+			<zone xml:id="p1z6-0" points="312,707 563,724 621,685 1468,746 1540,696 1738,719 1922,677 2487,696 2490,613 1991,574 1885,618 1626,602 1521,654 1384,588 1225,663 1122,615 877,666 654,610 315,646">327,694 435,688 544,685 652,683 761,682 869,684 978,685 1086,682 1195,682 1303,681 1412,680 1520,679 1629,676 1737,673 1846,670 1954,670 2063,667 2171,667 2280,667 2388,670 2497,676</zone>
+			<zone xml:id="p1z7-0" points="312,797 590,844 674,794 877,833 1081,805 1161,852 1337,813 1741,824 1824,783 1966,780 2119,844 2376,783 2504,822 2504,721 2417,749 2306,693 1924,732 1537,699 1287,763 1111,716 833,758 312,732">327,795 436,792 545,792 654,790 764,792 873,792 982,789 1091,789 1201,786 1310,786 1419,787 1528,783 1638,780 1747,777 1856,776 1965,773 2075,772 2184,772 2293,772 2402,775 2512,783</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1860!Autograph!01%20E_II_365__fol__130_a_v_.tif/full/max/0/default.jpg" n="2">
@@ -92,15 +99,15 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Literas tuas scriptas die 21. aprilis nos accepimus die 23. aprilis; intelligimus, quid scribas de <persName ref="p18091">Gachlingero</persName>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Literas tuas scriptas die 21. aprilis nos accepimus die 23. aprilis; intelligimus, quid <lb xml:id="p1z2"/>scribas de <persName ref="p18091">Gachlingero</persName>.</s>
 					<s n="2" xml:lang="la">Ut his diebus audivimus, ille ipse est, qui fuit ante.</s>
-					<s n="3" xml:lang="la">- Perturbat nos imbecillitas tua; monendus nobis videris his <persName ref="p18722">Erasmi</persName> verbis:</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z3"/>- Perturbat nos imbecillitas tua; monendus nobis videris his <persName ref="p18722">Erasmi</persName> verbis:</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">"Vitis nisi subinde amputetur, ipsa sua foecunditate gracilescit et perit; ita cohibendum est immoderatum studium felicibus ingeniis, ne parum moderato labore consummantur."</s>
+					<s n="4" xml:lang="la">"Vitis <lb xml:id="p1z4"/>nisi subinde amputetur, ipsa sua foecunditate gracilescit et perit; ita cohi<lb xml:id="p1z5"/>bendum est immoderatum studium felicibus ingeniis, ne parum moderato labore <lb xml:id="p1z6"/>consummantur."</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Rogamus igitur te per dominum, ne immodico studio nobis occidas neque maceres <persName ref="p495">Bullingerum</persName>, sed pocius eum virum orbi conserves.</s>
+					<s n="5" xml:lang="la">Rogamus igitur te per dominum, ne immodico studio nobis occidas <lb xml:id="p1z7"/>neque maceres <persName ref="p495">Bullingerum</persName>, sed pocius eum virum orbi conserves.</s>
 				</p>
 				<p>
 					<note type="date">[Datum, Unterschrift und Adresse fehlen.]</note>

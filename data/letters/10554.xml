@@ -78,33 +78,55 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10554!Autograph!00%20E_II_343__fol__70_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10554/Autograph/00 E_II_343__fol__70_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="256,484 285,484 319,505 348,492 374,494 387,505 437,502 439,400 421,400 397,384 353,405 329,390 301,411 259,403">271,459 299,457 327,456 356,456 384,454 412,453 441,453</zone>
+			<zone xml:id="p1z2-0" points="460,295 544,256 787,288 915,243 986,275 1043,230 1415,254 1501,214 1548,246 2505,178 2508,105 2325,71 2121,149 2014,123 1778,180 1441,131 1015,191 866,157 756,207 536,167 465,199">477,262 578,254 680,250 782,243 883,236 985,229 1087,226 1188,222 1290,218 1392,214 1494,210 1595,205 1697,202 1799,199 1900,195 2002,188 2104,184 2205,181 2307,177 2409,171 2511,170</zone>
+			<zone xml:id="p1z3-0" points="465,353 926,337 1041,295 1117,322 1190,282 2220,277 2487,233 2489,194 468,288">483,322 583,318 684,314 784,308 885,298 985,294 1086,287 1186,283 1287,277 1387,274 1488,269 1588,268 1689,265 1789,261 1890,254 1990,251 2091,247 2191,244 2292,238 2392,233 2493,223</zone>
+			<zone xml:id="p1z4-0" points="484,392 769,408 907,363 949,397 2116,311 2176,345 2437,314 2505,288 2508,230 1812,303 1616,267 486,353">498,381 598,377 699,370 799,364 900,357 1001,353 1101,348 1202,343 1303,337 1403,334 1504,331 1605,328 1705,322 1806,321 1907,316 2007,310 2108,304 2209,298 2309,294 2410,287 2511,277</zone>
+			<zone xml:id="p1z5-0" points="481,463 2539,374 2542,290 2484,285 1849,361 1666,329 1535,369 484,395">498,444 600,436 702,432 804,429 907,420 1009,415 1111,408 1214,404 1316,397 1418,393 1521,390 1623,384 1725,384 1827,381 1930,374 2032,370 2134,363 2237,357 2339,356 2441,356 2544,351</zone>
+			<zone xml:id="p1z6-0" points="468,541 1124,471 1219,513 1559,450 1904,473 2516,421 2518,379 2301,358 2225,395 1483,395 1375,434 1192,411 473,471">486,519 587,508 689,501 791,491 893,484 995,477 1097,474 1198,465 1300,460 1402,456 1504,450 1606,445 1708,442 1810,435 1911,434 2013,427 2115,423 2217,417 2319,413 2421,409 2523,405</zone>
+			<zone xml:id="p1z7-0" points="468,599 2537,468 2539,421 2322,416 473,541">486,584 589,571 692,561 795,552 898,545 1001,536 1104,531 1207,527 1310,521 1413,516 1516,510 1619,506 1722,499 1825,495 1928,489 2031,485 2134,478 2237,474 2340,467 2443,463 2547,453</zone>
+			<zone xml:id="p1z8-0" points="486,677 1229,588 1386,612 1467,578 1538,615 1637,575 2544,549 2537,465 492,596">504,644 606,637 708,627 811,617 913,606 1016,597 1118,590 1221,583 1323,578 1426,573 1528,569 1630,563 1733,558 1835,551 1938,547 2040,540 2143,533 2245,527 2348,523 2450,517 2553,513</zone>
+			<zone xml:id="p1z9-0" points="471,732 939,677 999,709 1253,664 1457,683 1553,643 1757,675 1951,625 1993,662 2118,601 2505,601 2510,533 1919,591 1820,565 1768,601 1634,575 1514,617 1200,588 1093,635 897,617 473,683">486,706 587,700 688,691 789,681 891,672 992,665 1093,658 1194,651 1296,644 1397,641 1498,634 1599,627 1701,623 1802,617 1903,613 2004,606 2106,599 2207,592 2308,586 2409,581 2511,572</zone>
+			<zone xml:id="p1z10-0" points="468,816 1046,730 2510,675 2516,596 473,732">486,778 587,762 689,754 791,741 892,734 994,727 1096,717 1197,712 1299,709 1401,703 1503,698 1604,693 1706,687 1808,683 1909,676 2011,669 2113,660 2214,656 2316,652 2418,645 2520,635</zone>
+			<zone xml:id="p1z11-0" points="463,881 863,805 994,834 1138,785 1229,821 1281,774 1457,808 1640,751 2550,722 2555,654 2312,659 1603,730 1046,730 468,816">480,844 589,826 698,818 808,803 917,795 1027,788 1136,780 1245,771 1355,766 1464,758 1574,751 1683,744 1793,736 1902,729 2011,725 2121,714 2230,710 2340,703 2449,698 2559,692</zone>
+			<zone xml:id="p1z12-0" points="465,920 2571,771 2573,735 2427,706 468,866">483,903 587,890 692,879 796,872 901,861 1005,853 1110,845 1214,837 1319,832 1423,825 1528,818 1633,811 1737,802 1842,794 1946,790 2051,780 2155,775 2260,772 2364,765 2469,758 2574,751</zone>
+			<zone xml:id="p1z13-0" points="476,991 965,923 1713,902 1799,863 2544,860 2537,764 481,915">492,963 595,950 698,940 801,933 904,924 1007,917 1110,910 1213,900 1316,893 1419,888 1522,882 1625,875 1728,868 1831,862 1934,852 2037,846 2140,839 2243,832 2346,825 2449,821 2553,817</zone>
+			<zone xml:id="p1z14-0" points="479,1036 832,996 923,1038 986,991 1130,1020 1616,947 1715,978 2071,902 2448,920 2503,910 2508,842 481,978">492,1020 592,1010 693,1004 794,995 895,987 996,980 1096,974 1197,967 1298,960 1399,954 1500,947 1600,940 1701,933 1802,923 1903,914 2004,904 2104,900 2205,893 2306,885 2407,880 2508,874</zone>
+			<zone xml:id="p1z15-0" points="484,1106 680,1109 866,1051 1564,1043 2066,968 2102,1002 2338,944 2401,978 2526,965 2531,915 2293,889 1844,960 1757,936 1708,975 1530,952 1297,1004 489,1028">498,1076 599,1069 701,1058 803,1051 905,1045 1007,1041 1109,1035 1210,1028 1312,1021 1414,1017 1516,1007 1618,999 1720,991 1822,981 1923,973 2025,962 2127,957 2229,950 2331,942 2433,939 2535,948</zone>
+			<zone xml:id="p1z16-0" points="484,1161 1964,1075 2204,1017 2340,1041 2453,1020 2458,978 2338,944 2100,1002 1749,996 1192,1072 897,1043 730,1104 489,1106">501,1142 599,1133 697,1127 795,1120 893,1110 991,1105 1089,1098 1187,1091 1285,1084 1383,1078 1482,1071 1580,1060 1678,1054 1776,1048 1874,1039 1972,1032 2070,1022 2168,1016 2266,1009 2364,1000 2463,999</zone>
+			<zone xml:id="p1z17-0" points="481,1219 970,1174 1083,1206 1334,1148 1443,1182 1587,1127 2186,1083 2529,1109 2510,988 2414,1038 2223,1015 1964,1075 1658,1062 1600,1104 1548,1072 1501,1109 486,1161">498,1208 600,1198 702,1190 804,1183 906,1173 1008,1167 1110,1162 1212,1150 1314,1143 1416,1136 1518,1126 1620,1120 1722,1113 1824,1103 1926,1096 2028,1089 2130,1082 2232,1073 2334,1067 2436,1059 2538,1055</zone>
+			<zone xml:id="p1z18-0" points="497,1289 798,1308 920,1242 1206,1224 1352,1263 1485,1195 1619,1232 1812,1192 2165,1221 2173,1111 2032,1138 1864,1104 1457,1179 1334,1148 1085,1203 502,1224">510,1273 593,1265 676,1258 760,1250 843,1242 926,1237 1010,1231 1093,1223 1176,1218 1260,1212 1343,1206 1426,1198 1510,1193 1593,1184 1676,1179 1760,1173 1843,1167 1926,1163 2010,1157 2093,1154 2177,1154</zone>
+			<zone xml:id="p1z19-0" points="1757,1365 1802,1344 1849,1357 2016,1336 2053,1357 2150,1321 2184,1344 2270,1331 2278,1219 2207,1208 2126,1226 2110,1211 2021,1245 1985,1219 1943,1229 1770,1192">1774,1336 1799,1335 1824,1333 1849,1332 1874,1330 1900,1328 1925,1326 1950,1323 1975,1320 2000,1319 2026,1317 2051,1315 2076,1314 2101,1312 2126,1310 2152,1308 2177,1307 2202,1304 2227,1301 2252,1299 2278,1297</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10554!Autograph!01%20E_II_343__fol__70_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10554/Autograph/01 E_II_343__fol__70_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="595,1161 721,1139 910,1158 965,1138 1040,1144 1043,1029 746,1092 663,1045 599,1036">600,1142 626,1147 652,1142 678,1139 704,1137 730,1135 756,1134 782,1134 808,1134 834,1132 860,1134 886,1134 912,1133 938,1132 964,1131 990,1130 1016,1130 1042,1128</zone>
+			<zone xml:id="p2z2-0" points="607,1233 644,1253 682,1231 724,1258 777,1248 805,1225 860,1250 933,1218 1003,1233 1005,1176 968,1179 923,1148 851,1187 776,1198 674,1189 609,1164">612,1226 638,1225 664,1224 690,1224 717,1223 743,1222 769,1220 795,1218 822,1218 848,1218 874,1217 900,1215 927,1214 953,1214 979,1212 1006,1212</zone>
+			<zone xml:id="p2z3-0" points="636,1363 771,1382 889,1338 952,1349 1020,1337 1024,1261 984,1233 885,1262 814,1231 730,1258 682,1236 642,1252">644,1320 669,1318 694,1316 720,1314 745,1313 770,1311 796,1309 821,1308 846,1308 872,1306 897,1304 922,1304 948,1303 973,1301 998,1300 1024,1300</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Miseras proxime ad me literas addita copia epistolę <persName ref="p1753">Leonis</persName> ad confratrem meum <persName ref="p8412">Megandrum</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p495">Bullingers</persName> Brief an <persName ref="p1391">Haller</persName> ist nicht erhalten. Die (undatierte) Abschrift des Briefes von <persName ref="p1753">Jud</persName> an <persName ref="p8412">Megander</persName> (von der Hand <persName ref="p8364">Beat Gerings</persName>) findet sich in Zürich StA, E II 381, 1803r.-1804r.</note>, charissime <persName ref="p495">Heinrice</persName><note xml:id="fna" type="footnote" n="a"><hi>vor</hi> <persName ref="p495">Heinrice</persName> <hi>gestrichenes</hi> Huld[rice].</note>, quas ut receperim et quando, omnino videtur opere pretium ut scias.</s>
-					<s n="3" xml:lang="la">17. ianuarii venerat minister ille <placeName ref="l760">Salodori</placeName> amandatus<note xml:id="fn2" type="footnote" n="2">Bei dem aus <placeName ref="l760">Solothurn</placeName> ausgewiesenen Pfarrer handelt es sich wohl um den auch unten <ref target="file10555">Nr. 519</ref>, 50. 57f und <ref target="file10560">Nr. 524</ref>, 37-39 als Bote genannten, im übrigen unbekannten Verwandten <persName ref="p8412">Meganders</persName>.</note> adferens tuam et <persName ref="p1753">Leonis</persName> ad nos omnes epistolam<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10540">Nr. 504</ref> bzw. <ref target="file10538">Nr. 502</ref>.</note>, deinde etiam <persName ref="p1753">Leonis</persName> ad <persName ref="p8412">Megandrum</persName>.</s>
-					<s n="4" xml:lang="la">Has cum simul legissemus, 19. redditę sunt tuę ad me<note xml:id="fnb" type="footnote" n="b">ad me <hi>am Rande nachgetragen.</hi></note> cum <persName ref="p1753">Leonis</persName> apographo, sed apertę et abraso titulo <persName ref="p8412">Megandro</persName>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z2"/>S.</s>
+					<s n="2" xml:lang="la">Miseras proxime ad me literas addita copia epistolę <persName ref="p1753">Leonis</persName> ad confratrem meum <persName ref="p8412">Megandrum</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p495">Bullingers</persName> Brief an <persName ref="p1391">Haller</persName> ist nicht erhalten. Die (undatierte) Abschrift des Briefes von <persName ref="p1753">Jud</persName> an <persName ref="p8412">Megander</persName> (von der Hand <persName ref="p8364">Beat Gerings</persName>) findet sich in Zürich StA, E II 381, 1803r.-1804r.</note>, charissime <lb xml:id="p1z3"/><persName ref="p495">Heinrice</persName><note xml:id="fna" type="footnote" n="a"><hi>vor</hi> <persName ref="p495">Heinrice</persName> <hi>gestrichenes</hi> Huld[rice].</note>, quas ut receperim et quando, omnino videtur opere pretium ut scias.</s>
+					<s n="3" xml:lang="la">17. ianuarii <lb xml:id="p1z4"/>venerat minister ille <placeName ref="l760">Salodori</placeName> amandatus<note xml:id="fn2" type="footnote" n="2">Bei dem aus <placeName ref="l760">Solothurn</placeName> ausgewiesenen Pfarrer handelt es sich wohl um den auch unten <ref target="file10555">Nr. 519</ref>, 50. 57f und <ref target="file10560">Nr. 524</ref>, 37-39 als Bote genannten, im übrigen unbekannten Verwandten <persName ref="p8412">Meganders</persName>.</note> adferens tuam et <persName ref="p1753">Leonis</persName> ad nos omnes epistolam<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10540">Nr. 504</ref> bzw. <ref target="file10538">Nr. 502</ref>.</note>, <lb xml:id="p1z5"/>deinde etiam <persName ref="p1753">Leonis</persName> ad <persName ref="p8412">Megandrum</persName>.</s>
+					<s n="4" xml:lang="la">Has cum simul legissemus, 19. redditę sunt tuę ad me<note xml:id="fnb" type="footnote" n="b">ad me <hi>am Rande nachgetragen.</hi></note> cum <persName ref="p1753">Leonis</persName> apographo, <lb xml:id="p1z6"/>sed apertę et abraso titulo <persName ref="p8412">Megandro</persName>.</s>
 					<s n="5" xml:lang="la">Is mihi, ut erant nimirum et sibi datę, reddidit.</s>
-					<s n="6" xml:lang="la">Subinde vereor, ne et tibi et mihi succenseat et suspicetur, quid tandem nos agamus.</s>
-					<s n="7" xml:lang="la">Vellem, inquam, talem suspitionem (si qua sit) a corde illius evulsam ac ut plane sciret, cur admodum inter nos conveniat.</s>
-					<s n="8" xml:lang="la">Tu interim curabis, ne <persName ref="p1753">Leo</persName> - mihi alioqui charissimus - et tibi quoque indignetur, quod suarum copiam ad me miseris.</s>
-					<s n="9" xml:lang="la">Scio, quam se mutuo hi duo hactenus amarint, ut nec hac nec ulla facile dissipentur epistola, nobis siquidem optime inter nos convenit.</s>
+					<s n="6" xml:lang="la">Subinde <lb xml:id="p1z7"/>vereor, ne et tibi et mihi succenseat et suspicetur, quid tandem nos agamus.</s>
+					<s n="7" xml:lang="la">Vellem, inquam, talem suspitionem <lb xml:id="p1z8"/>(si qua sit) a corde illius evulsam ac ut plane sciret, cur admodum inter nos conveniat.</s>
+					<s n="8" xml:lang="la">Tu interim <lb xml:id="p1z9"/>curabis, ne <persName ref="p1753">Leo</persName> - mihi alioqui charissimus - et tibi quoque indignetur, quod suarum copiam ad me miseris.</s>
+					<s n="9" xml:lang="la">Scio, <lb xml:id="p1z10"/>quam se mutuo hi duo hactenus amarint, ut nec hac nec ulla facile dissipentur epistola, nobis siquidem <lb xml:id="p1z11"/>optime inter nos convenit.</s>
 					<s n="10" xml:lang="la">Praeterea non ignoro, qua integritate <persName ref="p8412">Caspar</persName><pb type="edition" next="77"/><note xml:id="fn4" type="footnote" n="4"><persName ref="p8412">Kaspar Megander</persName>.</note> mecum omnia egerit hoc sane negocio.</s>
-					<s n="11" xml:lang="la">Quare summopere curandum, ut nulla inter nos tam levi causa simultas dissęminetur.</s>
-					<s n="12" xml:lang="la">Dolui certe et noctes duxi insomnes timens, ne sęminarium fiant literae hae tam fraudulenter apertę futurae inimicicię inter nos omnes.</s>
+					<s n="11" xml:lang="la"><lb xml:id="p1z12"/>Quare summopere curandum, ut nulla inter nos tam levi causa simultas dissęminetur.</s>
+					<s n="12" xml:lang="la">Dolui certe et noctes <lb xml:id="p1z13"/>duxi insomnes timens, ne sęminarium fiant literae hae tam fraudulenter apertę futurae inimicicię <lb xml:id="p1z14"/>inter nos omnes.</s>
 					<s n="13" xml:lang="la">Age igitur, charissime <persName ref="p495">Heinrice</persName>, ut ab utroque veniam impetrem.</s>
-					<s n="14" xml:lang="la">Nam si non fuissent nescio cuius fraude interceptę, apertae tandemque <persName ref="p8412">Megandro</persName> redditę, nullus unquam mortalium a me extorsisset, sed bona fide, ut volebas, remisissem.</s>
-					<s n="15" xml:lang="la">Facile <persName ref="p8412">Megandro</persName> et <persName ref="p1753">Leoni</persName> inter se conveniet, modo tibi et <persName ref="p1753">Leoni</persName> identidem.</s>
-					<s n="16" xml:lang="la">Pro tua itaque prudentia et humanitate omnia hęc eluas, et de nobis omnibus optime quemadmodum et nos de vobis sperate.</s>
+					<s n="14" xml:lang="la">Nam si non fuissent <lb xml:id="p1z15"/>nescio cuius fraude interceptę, apertae tandemque <persName ref="p8412">Megandro</persName> redditę, nullus unquam mortalium a me ext<lb xml:id="p1z16"/>orsisset, sed bona fide, ut volebas, remisissem.</s>
+					<s n="15" xml:lang="la">Facile <persName ref="p8412">Megandro</persName> et <persName ref="p1753">Leoni</persName> inter se conveniet, <lb xml:id="p1z17"/>modo tibi et <persName ref="p1753">Leoni</persName> identidem.</s>
+					<s n="16" xml:lang="la">Pro tua itaque prudentia et humanitate omnia hęc eluas, et de nobis om<lb xml:id="p1z18"/>nibus optime quemadmodum et nos de vobis sperate.</s>
 				</p>
 				<p>
 					<s n="17" xml:lang="la" ana="farewell">Vale.</s>
@@ -113,11 +135,11 @@
 					<s n="18" xml:lang="la">Ultima ianuarii anno 35.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la">Tuus <persName ref="p1391">Berch. Hall.</persName></s>
+					<s n="19" xml:lang="la"><lb xml:id="p1z19"/>Tuus <persName ref="p1391">Berch. Hall.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="20" xml:lang="la"><persName ref="p495">Heinrico Bullingero</persName>, fratri suo charissimo.</s>
+					<s n="20" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Heinrico Bul<lb xml:id="p2z2"/>lingero</persName>, fratri <lb xml:id="p2z3"/>suo charissimo.</s>
 				</p>
 			</div>
 		</body>

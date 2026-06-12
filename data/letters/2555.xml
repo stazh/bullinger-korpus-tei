@@ -84,29 +84,43 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2555!Autograph!00%20E_II_357__fol__753_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">2555/Autograph/00 E_II_357__fol__753_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="0,1595 9,1590 22,1599 37,1586 50,1586 71,1597 84,1595 86,1483 71,1483 65,1489 56,1485 13,1506 0,1502">2,1579 31,1577 60,1576 89,1576</zone>
+			<zone xml:id="p1z2-0" points="340,321 789,267 1058,304 1127,261 1226,304 1530,265 2069,295 2069,209 1989,233 1698,170 1508,237 1060,183 670,246 422,187 340,211">352,298 438,288 524,280 610,273 696,270 782,265 868,262 955,259 1041,259 1127,256 1213,258 1299,256 1385,256 1471,258 1558,259 1644,260 1730,265 1816,266 1902,268 1988,268 2075,277</zone>
+			<zone xml:id="p1z3-0" points="364,397 1259,321 1366,362 1674,325 1909,369 2064,347 2067,295 1692,308 1437,265 1371,304 1166,272 606,291 498,336 364,306">376,361 460,352 545,346 629,338 714,337 799,332 883,326 968,325 1053,322 1137,322 1222,319 1307,319 1391,319 1476,321 1561,321 1645,322 1730,325 1815,329 1899,332 1984,334 2069,337</zone>
+			<zone xml:id="p1z4-0" points="362,478 834,397 1681,405 1705,323 364,397">376,439 442,434 509,423 575,416 642,408 709,404 775,396 842,392 908,391 975,388 1042,385 1108,382 1175,382 1241,382 1308,382 1374,382 1441,382 1508,383 1574,385 1641,383 1708,385</zone>
+			<zone xml:id="p1z5-0" points="379,511 1274,448 1881,496 1899,416 1433,422 1364,384 1054,427 991,392 379,465">391,501 466,492 542,485 617,476 693,471 768,463 844,457 919,453 995,448 1070,448 1146,445 1222,443 1297,445 1373,445 1448,445 1524,448 1599,448 1675,450 1750,450 1826,453 1902,453</zone>
+			<zone xml:id="p1z6-0" points="362,621 1209,504 2024,539 2017,463 978,496 918,459 470,534 366,506">376,573 458,567 541,559 624,551 706,543 789,533 872,525 954,519 1037,513 1120,508 1203,504 1285,504 1368,504 1451,504 1533,507 1616,512 1699,515 1781,517 1864,519 1947,516 2030,510</zone>
+			<zone xml:id="p1z7-0" points="366,666 690,662 1153,580 1920,593 1905,541 1513,515 1366,547 1226,504 369,618">379,651 456,644 533,634 611,625 688,619 765,609 843,601 920,597 997,589 1075,582 1152,579 1229,576 1307,573 1384,573 1461,570 1539,571 1616,576 1693,578 1771,579 1848,580 1926,582</zone>
+			<zone xml:id="p1z8-0" points="373,733 1159,657 1711,653 2004,700 2024,621 1118,590 957,649 858,621 375,670">385,722 467,712 549,704 631,696 713,690 795,680 877,675 959,672 1041,666 1123,658 1206,654 1288,651 1370,648 1452,648 1534,648 1616,650 1698,653 1780,655 1862,660 1944,663 2027,669</zone>
+			<zone xml:id="p1z9-0" points="390,812 886,748 933,778 1101,739 1489,759 1493,692 1075,664 556,754 511,720 394,741">403,785 457,777 512,773 566,769 621,763 676,757 730,752 785,749 840,747 894,741 949,738 1004,734 1058,733 1113,730 1168,728 1222,725 1277,725 1332,722 1386,722 1441,722 1496,719</zone>
+			<zone xml:id="p1z10-0" points="394,914 534,853 808,868 888,817 2019,806 2021,756 1707,731 399,804">409,869 489,859 570,850 651,840 732,829 813,821 894,816 975,810 1056,805 1137,800 1218,797 1298,794 1379,794 1460,791 1541,788 1622,788 1703,788 1784,790 1865,791 1946,794 2027,794</zone>
+			<zone xml:id="p1z11-0" points="431,935 606,959 836,907 1136,933 1422,892 1480,922 1629,873 1933,933 1976,821 1054,806 890,817 784,881 433,881">442,931 518,924 595,918 672,910 749,903 825,897 902,890 979,888 1056,883 1132,878 1209,875 1286,872 1363,872 1439,869 1516,867 1593,866 1670,863 1746,863 1823,866 1900,869 1977,869</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2555!Autograph!01%20E_II_357__fol__753_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">2555/Autograph/01 E_II_357__fol__753_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="919,1944 1098,1914 1200,1940 1314,1892 1479,1878 1539,1879 1614,1926 1622,1828 1528,1810 1358,1851 1228,1801 1173,1825 1109,1806 1064,1838 929,1820">925,1929 959,1919 994,1914 1029,1907 1064,1903 1099,1900 1133,1896 1168,1893 1203,1889 1238,1886 1273,1883 1307,1881 1342,1879 1377,1876 1412,1875 1447,1875 1481,1872 1516,1868 1551,1866 1586,1865 1621,1863</zone>
+			<zone xml:id="p2z2-0" points="943,2039 995,2054 1058,2014 1136,2044 1305,2042 1453,1991 1605,2029 1611,1921 1525,1901 1296,1931 1215,1967 949,1942">949,2022 982,2019 1015,2015 1048,2012 1081,2009 1114,2004 1147,2002 1180,2000 1213,1998 1246,1995 1279,1995 1312,1995 1345,1995 1378,1992 1411,1990 1444,1988 1477,1986 1510,1986 1543,1986 1576,1986 1609,1986</zone>
+			<zone xml:id="p2z3-0" points="950,2143 1021,2161 1257,2118 1293,2143 1357,2116 1669,2162 1673,2029 1555,2068 1399,2001 1269,2069 953,2071">955,2132 990,2130 1026,2127 1062,2125 1098,2122 1134,2120 1170,2118 1205,2114 1241,2111 1277,2111 1313,2111 1349,2109 1385,2108 1421,2107 1456,2105 1492,2105 1528,2103 1564,2102 1600,2101 1636,2100 1672,2102</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de">Lieber Herr, wellt ingelegten brieff mines lieben bruͦders sun by dem h. <persName ref="p8171">Theodoro</persName> zuͦschicken, das er den glich by eignem botten gen <placeName ref="l907">Kempten</placeName> schaffe mitt anzögung, herr <persName ref="p4868">Jacob Funckelin</persName> hab uff hutt selbs hinuß ryten wellen, wie war ist, so seyen löff fuͤrgefallen, da man nitt wisse, was es seye, das er noch verziechen muͤsß.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Lie<lb xml:id="p1z2"/>ber Herr, wellt ingelegten brieff mines lieben bruͦders <lb xml:id="p1z3"/>sun by dem h. <persName ref="p8171">Theodoro</persName> zuͦschicken, das er den <lb xml:id="p1z4"/>glich by eignem botten gen <placeName ref="l907">Kempten</placeName> schaffe <lb xml:id="p1z5"/>mitt anzögung, herr <persName ref="p4868">Jacob Funckelin</persName> hab uff <lb xml:id="p1z6"/>hutt selbs hinuß ryten wellen, wie war ist, so seyen <lb xml:id="p1z7"/>löff fuͤrgefallen, da man nitt wisse, was es seye, <lb xml:id="p1z8"/>das er noch verziechen muͤsß.</s>
 					<s n="2" xml:lang="de">Werd aber bald hinusß.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="de">Soll er mittler zyt alles zuͦrichten.</s>
+					<s n="3" xml:lang="de"><lb xml:id="p1z9"/>Soll er mittler zyt alles zuͦrichten.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="de">Hab den brieff dem Ransperger von <placeName ref="l473">Sant Gallen</placeName> uffgeben; fuͤrt guͤter hinuß.</s>
+					<s n="4" xml:lang="de"><lb xml:id="p1z10"/>Hab den brieff dem Ransperger von <placeName ref="l473">Sant Gallen</placeName> <lb xml:id="p1z11"/>uffgeben; fuͤrt guͤter hinuß.</s>
 					<s n="5" xml:lang="de">Datum 14. februarij.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de">An herrn m. <persName ref="p495">Heinrich Bullinger</persName> zuͦ Zuͤrich.</s>
+					<s n="6" xml:lang="de"><pb/><lb xml:id="p2z1"/>An herrn m. <lb xml:id="p2z2"/><persName ref="p495">Heinrich Bullinger</persName> <lb xml:id="p2z3"/>zuͦ Zuͤrich.</s>
 				</p>
 			</div>
 		</body>

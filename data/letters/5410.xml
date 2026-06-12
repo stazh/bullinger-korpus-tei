@@ -70,24 +70,33 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5410!Autograph!00%20E_II_368__fol__554_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">5410/Autograph/00 E_II_368__fol__554_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="417,338 1149,386 1354,347 1870,422 1879,261 1678,300 1544,252 1354,316 413,225">426,322 499,317 572,319 645,322 718,327 791,328 864,330 937,331 1010,334 1083,334 1156,336 1229,339 1302,341 1375,346 1448,348 1521,351 1594,354 1667,357 1740,360 1813,363 1887,360</zone>
+			<zone xml:id="p1z2-0" points="497,404 950,411 1117,468 1334,424 1504,475 1568,429 1769,457 1784,382 1449,398 1235,349 976,386 493,331">506,393 570,388 634,393 698,396 762,396 826,402 890,402 955,405 1019,406 1083,408 1147,411 1211,411 1275,415 1339,419 1404,420 1468,423 1532,426 1596,430 1660,434 1724,436 1789,441</zone>
+			<zone xml:id="p1z3-0" points="493,497 1129,492 1369,556 1539,515 1687,585 1837,588 1798,461 1495,490 1407,440 1122,468 895,418 490,424">503,477 569,471 636,474 703,474 769,477 836,477 903,480 969,483 1036,486 1103,487 1170,494 1236,496 1303,498 1370,502 1436,506 1503,511 1570,512 1636,517 1703,526 1770,533 1837,536</zone>
+			<zone xml:id="p1z4-0" points="488,577 773,629 868,576 1255,630 1325,588 1775,614 1557,526 1301,561 1139,512 981,552 895,493 711,545 486,493">498,557 565,557 632,557 699,560 767,563 834,566 901,569 969,572 1036,575 1103,578 1171,581 1238,583 1305,584 1373,587 1440,590 1507,592 1575,596 1642,598 1709,599 1777,605</zone>
+			<zone xml:id="p1z5-0" points="495,652 751,696 846,651 1093,702 1738,711 1778,704 1776,620 1561,663 1473,623 1305,654 492,581">506,650 569,644 633,646 697,647 761,649 825,650 889,652 952,656 1016,660 1080,664 1144,666 1208,669 1272,670 1336,673 1399,676 1463,677 1527,679 1591,680 1655,682 1719,682 1783,682</zone>
+			<zone xml:id="p1z6-0" points="493,780 629,758 811,806 930,768 1208,830 1281,793 1718,811 1773,800 1771,713 490,709">501,760 564,751 628,751 692,752 756,754 820,757 883,759 947,763 1011,764 1075,766 1139,769 1202,771 1266,775 1330,775 1394,778 1458,778 1521,780 1585,782 1649,786 1713,787 1777,790</zone>
+			<zone xml:id="p1z7-0" points="497,866 757,844 1153,916 1279,879 1424,941 1769,886 1767,797 1277,839 1096,795 799,822 493,780">506,832 569,832 632,834 696,835 759,839 823,840 886,844 949,846 1013,849 1076,851 1140,858 1203,857 1266,861 1330,862 1393,864 1457,868 1520,870 1583,873 1647,873 1710,873 1774,873</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5410!Autograph!01%20E_II_368__fol__554_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">5410/Autograph/01 E_II_368__fol__554_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="646,413 726,386 1017,390 1135,464 1246,448 1244,298 1078,329 1055,307 849,302 715,258 644,262">651,379 680,383 710,384 740,382 770,382 799,382 829,382 859,382 889,383 918,385 948,385 978,385 1008,385 1037,387 1067,388 1097,388 1127,388 1156,387 1186,385 1216,389 1246,388</zone>
+			<zone xml:id="p2z2-0" points="1355,412 1385,404 1399,409 1408,402 1434,417 1443,409 1480,418 1497,412 1499,343 1475,343 1444,367 1390,361 1381,369 1356,360">1360,394 1388,394 1416,394 1444,392 1472,391 1500,391</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de">Der connestabel und der herr <persName ref="p20637">von S. Andre</persName> sind zuͦ <placeName ref="l367">Orlienz</placeName> in <placeName ref="l832">Franckrych</placeName> mitsampt anderen herren in einem friden ze handlen.</s>
-					<s n="2" xml:lang="de">Doch hat der connestabel vertröst für 200000 cronen und der herr <persName ref="p20637">von S. Andre</persName> für 5000 cronen etc.</s>
-					<s n="3" xml:lang="la">Pestis in castris non grassatur, ut ferebatur, sed febris quaedam contagiosa pervasit totum exercitum <note type="misc">Auf der Rückseite (unter e. weggeschnittenen Zeile) von der Hand des <persName ref="p8009">Fabricius</persName> "Storchen".</note>.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Der connestabel und der herr <persName ref="p20637">von S. Andre</persName> sind zuͦ <lb xml:id="p1z2"/><placeName ref="l367">Orlienz</placeName> in <placeName ref="l832">Franckrych</placeName> mitsampt anderen <lb xml:id="p1z3"/>herren in einem friden ze handlen.</s>
+					<s n="2" xml:lang="de">Doch hat <lb xml:id="p1z4"/>der connestabel vertröst für 200000 cronen <lb xml:id="p1z5"/>und der herr <persName ref="p20637">von S. Andre</persName> für 5000 cronen etc.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z6"/>Pestis in castris non grassatur, ut ferebatur, sed <lb xml:id="p1z7"/>febris quaedam contagiosa pervasit totum exercitum <note type="misc">Auf der Rückseite (unter e. weggeschnittenen Zeile) von der Hand des <persName ref="p8009">Fabricius</persName> "Storchen".</note>.</s>
 				</p>
 				<p>
 					<note>[Darunter von anderer Hand:]</note>
-					<s n="4" xml:lang="fr">Pour bailler au m[aitre] de la poste a <placeName ref="l587">Zürich</placeName>.</s>
+					<s n="4" xml:lang="fr"><pb/><lb xml:id="p2z1"/>Pour bailler au m[aitre] de la poste a <lb xml:id="p2z2"/><placeName ref="l587">Zürich</placeName>.</s>
 				</p>
 			</div>
 		</body>

@@ -72,37 +72,49 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10764!Autograph!00%20E_II_362__S__37_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10764/Autograph/00 E_II_362__S__37_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="391,370 1392,331 1460,373 1493,341 1603,375 2382,360 2356,263 2267,313 2095,258 2002,313 1702,289 1658,250 1561,300 1181,235 956,297 884,261 798,300 391,253">406,323 505,325 604,328 703,328 802,330 901,331 1000,331 1099,331 1198,333 1297,334 1397,334 1496,337 1595,338 1694,340 1793,337 1892,343 1991,340 2090,340 2189,337 2288,334 2388,328</zone>
+			<zone xml:id="p1z2-0" points="381,404 829,433 1316,396 1473,440 1811,414 1989,448 2103,412 2322,448 2429,404 2429,339 2307,381 2267,347 1929,386 1496,344 1449,381 1314,341 1178,378 920,336 857,375 576,334 381,362">394,388 496,388 598,391 700,394 802,391 904,394 1006,392 1108,394 1210,394 1312,397 1415,399 1517,403 1619,403 1721,406 1823,406 1925,406 2027,406 2129,406 2231,400 2333,396 2436,388</zone>
+			<zone xml:id="p1z3-0" points="388,480 824,498 1037,459 1486,508 1642,467 1908,513 2111,469 2426,490 2424,407 2325,446 2273,414 1882,448 1806,414 1637,443 1426,404 975,433 386,401">403,456 504,455 606,453 707,453 809,456 910,454 1012,455 1113,456 1215,459 1316,460 1418,462 1519,465 1621,465 1722,468 1824,468 1925,468 2027,468 2128,468 2230,468 2331,465 2433,462</zone>
+			<zone xml:id="p1z4-0" points="386,534 1611,529 1936,568 1994,532 2294,571 2434,537 2434,482 2218,469 1913,508 1817,469 1478,508 1035,459 821,498 628,459 386,485">400,519 502,516 604,516 706,516 808,516 910,515 1012,516 1114,516 1216,519 1318,522 1421,525 1523,525 1625,525 1727,527 1829,528 1931,525 2033,528 2135,526 2237,525 2339,525 2442,522</zone>
+			<zone xml:id="p1z5-0" points="386,618 865,579 1230,620 1512,589 1689,633 1804,594 1949,636 2015,592 2244,631 2481,605 2481,513 2382,560 2304,526 2043,571 1611,529 1457,566 1324,526 1204,558 386,534">400,582 504,580 608,579 712,576 816,576 921,576 1025,576 1129,578 1233,579 1337,582 1442,584 1546,585 1650,586 1754,588 1858,588 1963,591 2067,588 2171,588 2275,588 2379,585 2484,579</zone>
+			<zone xml:id="p1z6-0" points="388,662 490,683 568,646 628,675 787,641 985,691 1363,675 1363,610 1321,594 1215,623 1121,589 500,584 388,620">403,644 451,641 499,641 548,641 596,641 644,640 693,638 741,638 789,638 838,638 886,638 934,638 983,638 1031,638 1079,638 1128,641 1176,641 1224,642 1273,644 1321,646 1370,644</zone>
+			<zone xml:id="p1z7-0" points="1764,1011 1830,1001 1866,1019 1957,983 2009,1003 2119,985 2119,928 2093,933 2064,912 1991,946 1939,904 1887,936 1764,928">1779,979 1805,977 1832,975 1858,973 1885,973 1912,973 1938,973 1965,973 1991,973 2018,975 2045,976 2071,976 2098,976 2125,976</zone>
+			<zone xml:id="p1z8-0" points="1809,1071 1843,1084 1884,1079 1918,1045 1939,1042 2025,1058 2088,1042 2108,1063 2137,1058 2137,990 2059,985 2015,1006 1952,985 1866,1016 1837,1001 1809,1011">1824,1036 1850,1034 1877,1033 1903,1033 1930,1033 1956,1033 1983,1033 2010,1033 2036,1033 2063,1033 2089,1033 2116,1036 2143,1039</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10764!Autograph!01%20E_II_362__S__38_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10764/Autograph/01 E_II_362__S__38_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1128,865 1619,852 1663,827 1854,848 1861,780 1576,807 1467,796 1390,754 1283,798 1183,758 1129,774">1134,833 1170,830 1206,829 1243,827 1279,827 1316,825 1352,824 1389,824 1425,824 1462,824 1498,824 1534,824 1571,823 1607,821 1644,821 1680,821 1717,821 1753,821 1790,821 1826,821 1863,821</zone>
+			<zone xml:id="p2z2-0" points="1156,920 1463,895 1632,939 1774,890 1902,936 1902,873 1670,838 1599,863 1445,838 1247,880 1157,860">1161,901 1198,897 1235,892 1272,889 1309,889 1346,889 1383,889 1421,889 1458,889 1495,889 1532,889 1569,889 1606,889 1643,889 1681,889 1718,889 1755,887 1792,886 1829,886 1866,886 1904,886</zone>
+			<zone xml:id="p2z3-0" points="1222,994 1386,954 1434,979 1490,955 1926,968 1927,895 1831,926 1778,896 1680,945 1475,905 1422,938 1300,909 1222,930">1227,962 1262,958 1297,955 1332,953 1367,952 1402,952 1437,952 1472,952 1507,952 1542,953 1577,955 1612,955 1647,953 1682,952 1717,952 1752,952 1787,949 1822,949 1857,949 1892,949 1928,949</zone>
+			<zone xml:id="p2z4-0" points="1293,1060 1377,1040 1433,1068 1541,1055 1643,1070 1636,974 1592,970 1563,984 1517,964 1462,998 1294,989">1298,1018 1324,1016 1351,1015 1378,1015 1404,1013 1431,1013 1458,1014 1484,1015 1511,1015 1538,1013 1564,1012 1591,1012 1618,1013 1645,1015</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gracia et pax etc.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gracia et pax etc.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Ego et <persName ref="p264">Benedictus</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p264">Benedikt Burgauer</persName>.</note> una destinati sumus <placeName ref="l28">Basileam</placeName><note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file10762">Nr. 724</ref>, Anm. 3; zu den Einladungsschreiben <placeName ref="l28">Basels</placeName> an <placeName ref="l587">Zürich</placeName> vom 4. Januar und <placeName ref="l587">Zürichs</placeName> an <placeName ref="l441">Schaffhausen</placeName> vom 10. Januar vgl. <bibl source="b197">EA</bibl> IV/1c 598.</note> - comites erunt consul Waldkilchius et ex tribunis unus<note xml:id="fn3" type="footnote" n="3">Zunftmeister <persName ref="p21394">Hans Schmid</persName> (s. <persName ref="p3067">Stumpf</persName>, Abendmahlsstreit 75).</note> -, ea tamen lege, quod ego et <persName ref="p264">Benedictus</persName> proprio et reliquorum conpresbiterorum sumptu pergamus.</s>
+					<s n="2" xml:lang="la">Ego et <persName ref="p264">Benedictus</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p264">Benedikt Burgauer</persName>.</note> una destinati sumus <placeName ref="l28">Basileam</placeName><note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file10762">Nr. 724</ref>, Anm. 3; zu den Einladungsschreiben <placeName ref="l28">Basels</placeName> an <placeName ref="l587">Zürich</placeName> vom 4. Januar und <placeName ref="l587">Zürichs</placeName> an <placeName ref="l441">Schaffhausen</placeName> vom 10. Januar vgl. <bibl source="b197">EA</bibl> IV/1c 598.</note> - comites erunt consul <lb xml:id="p1z2"/>Waldkilchius et ex tribunis unus<note xml:id="fn3" type="footnote" n="3">Zunftmeister <persName ref="p21394">Hans Schmid</persName> (s. <persName ref="p3067">Stumpf</persName>, Abendmahlsstreit 75).</note> -, ea tamen lege, quod ego et <persName ref="p264">Benedictus</persName> proprio et reliquorum <lb xml:id="p1z3"/>conpresbiterorum sumptu pergamus.</s>
 					<s n="3" xml:lang="la">Viden, charissime frater, et prudentiam et pietatem nostri senatus?</s>
-					<s n="4" xml:lang="la">Decreverant, quod neminem illuc vellent mittere ex ministris, sed tantum ex senatoribus duos.</s>
-					<s n="5" xml:lang="la">Nescio, quid tandem illis in mentem venerit, quod et nos addiderunt.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z4"/>Decreverant, quod neminem illuc vellent mittere ex ministris, sed tantum ex senatoribus duos.</s>
+					<s n="5" xml:lang="la">Nescio, <lb xml:id="p1z5"/>quid tandem illis in mentem venerit, quod et nos addiderunt.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Tu vero fac me cerciorem, quos nodos<note xml:id="fn4" type="footnote" n="4">Vgl. <bibl source="b473">Otto</bibl> 244, Nr. 1233.</note> tractaturi simus.</s>
+					<s n="6" xml:lang="la">Tu vero fac me cerciorem, quos nodos<note xml:id="fn4" type="footnote" n="4">Vgl. <bibl source="b473">Otto</bibl> 244, Nr. 1233.</note> <lb xml:id="p1z6"/>tractaturi simus.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" ana="farewell"><pb type="edition" next="73"/>Vale, 15. ianuarii 1536.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><persName ref="p2810">Erasmus Ritter</persName>, ex animo tuus.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z7"/><persName ref="p2810">Erasmus Ritter</persName>, <lb xml:id="p1z8"/>ex animo tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="de">Dem wolgelerten herren Meister <persName ref="p495">Heinrich Bullinger</persName>, predicanten zuͦ <placeName ref="l587">Zurich</placeName>, minem lieben herren und guͦten freundt.</s>
+					<s n="9" xml:lang="de"><pb/><lb xml:id="p2z1"/>Dem wolgelerten herren Meister <lb xml:id="p2z2"/><persName ref="p495">Heinrich Bullinger</persName>, predicanten zuͦ <lb xml:id="p2z3"/><placeName ref="l587">Zurich</placeName>, minem lieben herren und <lb xml:id="p2z4"/>guͦten freundt.</s>
 				</p>
 			</div>
 		</body>

@@ -78,11 +78,24 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10168!Original!00%20E_II_360__S__263_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10168/Original/00 E_II_360__S__263_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="394,377 2580,405 2577,288 2273,318 2131,257 1941,293 1840,237 1578,307 1299,240 1139,299 1053,249 871,279 391,226">409,331 517,334 626,334 735,334 844,337 953,340 1061,338 1170,340 1279,343 1388,343 1497,346 1605,348 1714,352 1823,352 1932,358 2041,358 2149,361 2258,361 2367,361 2476,364 2585,361</zone>
+			<zone xml:id="p1z2-0" points="385,452 1016,424 1192,472 1516,433 1849,494 2080,444 2187,489 2248,450 2611,466 2611,391 2393,419 2329,374 2223,408 2002,371 1935,416 385,366">400,412 510,413 621,415 732,416 843,415 954,421 1065,421 1176,421 1287,424 1398,427 1509,429 1619,430 1730,434 1841,435 1952,437 2063,438 2174,438 2285,438 2396,438 2507,435 2618,432</zone>
+			<zone xml:id="p1z3-0" points="383,503 545,533 609,491 785,547 824,511 891,545 949,505 1092,531 1257,494 1589,553 1681,508 1773,570 1824,525 1882,564 2027,522 2078,564 2175,519 2513,558 2614,528 2614,466 2538,444 2187,486 2103,444 1662,480 1516,430 1340,469 975,427 383,450">397,477 508,480 619,486 730,486 841,486 953,489 1064,489 1175,492 1286,492 1397,495 1509,498 1620,502 1731,504 1842,507 1953,508 2065,510 2176,510 2287,510 2398,510 2509,510 2621,513</zone>
+			<zone xml:id="p1z4-0" points="377,595 1056,575 1111,614 1167,578 1433,606 1581,572 1678,626 1773,589 2248,634 2617,609 2597,525 2513,558 2175,519 2078,564 2036,522 1773,558 949,505 751,545 612,497 572,533 377,500">391,552 502,555 614,558 725,562 837,564 949,564 1060,564 1172,564 1284,564 1395,567 1507,570 1619,574 1730,576 1842,578 1954,582 2065,583 2177,585 2289,585 2400,585 2512,588 2624,588</zone>
+			<zone xml:id="p1z5-0" points="366,651 804,651 874,701 1078,648 1346,687 1729,653 1899,709 1980,665 2175,707 2348,667 2455,709 2600,684 2600,617 1824,592 1676,626 1581,572 1449,612 1206,578 1111,614 1053,575 363,595">382,627 493,631 604,633 715,636 826,636 938,636 1049,636 1160,639 1271,639 1382,640 1494,642 1605,645 1716,647 1827,650 1938,652 2050,656 2161,659 2272,660 2383,662 2494,662 2606,662</zone>
+			<zone xml:id="p1z6-0" points="380,732 949,715 1089,757 1251,715 1514,762 1642,720 1885,774 1921,734 2600,771 2597,715 2326,667 2175,709 1980,665 1787,693 1729,653 1346,687 380,651">394,707 504,704 614,704 725,705 835,704 946,707 1056,707 1167,707 1277,710 1388,711 1498,713 1608,716 1719,717 1829,719 1940,724 2050,728 2161,729 2271,731 2382,734 2492,737 2603,737</zone>
+			<zone xml:id="p1z7-0" points="366,838 589,793 804,855 944,790 1111,855 1357,866 1486,827 1952,860 2173,815 2276,855 2605,818 2603,774 2524,754 2203,740 2114,774 1653,723 1516,765 1229,720 1089,760 813,715 363,740">379,779 490,779 602,779 713,779 825,779 937,779 1048,779 1160,780 1272,782 1383,782 1495,785 1607,788 1718,788 1830,791 1942,794 2053,794 2165,797 2277,797 2388,800 2500,803 2612,803</zone>
+			<zone xml:id="p1z8-0" points="1430,941 1541,961 1589,930 1673,955 1731,935 1773,958 1902,938 1902,857 1854,832 1684,899 1636,871 1536,905 1430,874">1445,934 1470,933 1496,932 1522,931 1547,931 1573,928 1599,925 1625,927 1650,928 1676,928 1702,928 1727,928 1753,926 1779,925 1805,925 1830,925 1856,925 1882,924 1908,922</zone>
+			<zone xml:id="p1z9-0" points="1469,1047 1572,1058 1620,1022 1734,1042 1765,1016 1944,1000 1946,935 1910,930 1837,935 1810,955 1729,935 1678,955 1625,941 1541,961 1472,952">1484,1003 1510,1006 1536,1004 1562,1001 1588,998 1614,997 1640,997 1666,995 1692,994 1718,994 1744,993 1770,991 1796,991 1822,991 1848,991 1874,990 1900,989 1926,988 1952,988</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10168!Original!01%20E_II_360__S__264_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10168/Original/01 E_II_360__S__264_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1136,770 1324,746 1479,777 1528,753 1790,778 1793,689 1606,665 1439,699 1333,663 1252,681 1132,660">1140,737 1172,735 1205,734 1238,735 1271,739 1304,740 1337,742 1369,746 1402,749 1435,747 1468,746 1501,746 1534,746 1567,748 1599,749 1632,749 1665,751 1698,752 1731,752 1764,752 1797,755</zone>
+			<zone xml:id="p2z2-0" points="1160,823 1261,851 1358,833 1746,865 1808,844 1805,773 1594,807 1390,746 1308,796 1158,785">1164,818 1196,818 1228,819 1260,821 1293,821 1325,823 1357,825 1389,827 1422,827 1454,828 1486,830 1518,830 1551,832 1583,833 1615,833 1647,833 1680,835 1712,836 1744,836 1776,834 1809,839</zone>
+			<zone xml:id="p2z3-0" points="1148,919 1331,901 1512,942 1596,908 1650,931 1762,898 1787,919 1832,912 1831,851 1661,872 1551,841 1147,859">1152,886 1186,886 1220,888 1254,889 1288,889 1322,891 1356,894 1390,896 1424,898 1458,898 1492,898 1526,898 1560,898 1594,898 1628,898 1662,898 1696,898 1730,898 1764,898 1798,898 1833,898</zone>
+			<zone xml:id="p2z4-0" points="1138,965 1247,1005 1358,977 1480,1012 1595,972 1813,995 1812,906 1540,946 1137,925">1143,955 1176,955 1210,955 1243,955 1277,955 1311,957 1344,958 1378,958 1411,958 1445,960 1479,961 1512,962 1546,964 1579,962 1613,962 1647,964 1680,964 1714,964 1747,964 1781,964 1815,964</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
@@ -91,24 +104,24 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Min fruntlichen groüß und waß ich goütz<note xml:id="fn3" type="footnote" ana="lex" n="3">Gutes.</note> vermag zuo befor, leiber<note xml:id="fn4" type="footnote" ana="lex" n="4">lieber.</note> her M. <persName ref="p495">Heinrich</persName>.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Min fruntlichen groüß und waß ich goütz<note xml:id="fn3" type="footnote" ana="lex" n="3">Gutes.</note> vermag zuo befor, leiber<note xml:id="fn4" type="footnote" ana="lex" n="4">lieber.</note> her M. <persName ref="p495">Heinrich</persName>.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de">Es hatt mir mys Anly<note xml:id="fn5" type="footnote" n="5">Nicht näher bekannt.</note> anzeygtt, wey<note xml:id="fn6" type="footnote" ana="lex" n="6">wie.</note> das im empfolen<note xml:id="fn7" type="footnote" ana="lex" n="7">befohlen, aufgetragen.</note> syg, an mir<note xml:id="fn8" type="footnote" ana="lex" n="8">von mir.</note> ze erfaren, ob mir min wyn feyl syg ader nitt, und das in kürtzem uch lassen wüssen.</s>
-					<s n="3" xml:lang="de">Hand wir unß berett under einanderen, und wend<note xml:id="fn9" type="footnote" ana="lex" n="9">wollen.</note> in nach mer<note xml:id="fn10" type="footnote" ana="lex" n="10">noch länger.</note> lassen byeinanderen liggen byß eptwan uff ein wynachtt; so ich dan selber hinuber küm<note xml:id="fn11" type="footnote" ana="lex" n="11">kommen würde.</note>, wyl<note xml:id="fn12" type="footnote" ana="lex" n="12">will.</note> ich den loügen<note xml:id="fn13" type="footnote" n="13">schauen, sehen (<bibl source="b590">SI</bibl> III 1221).</note>, wey ich im theüge<note xml:id="fn14" type="footnote" n="14">tun, machen werde.</note>.</s>
+					<s n="2" xml:lang="de"><lb xml:id="p1z2"/>Es hatt mir mys Anly<note xml:id="fn5" type="footnote" n="5">Nicht näher bekannt.</note> anzeygtt, wey<note xml:id="fn6" type="footnote" ana="lex" n="6">wie.</note> das im empfolen<note xml:id="fn7" type="footnote" ana="lex" n="7">befohlen, aufgetragen.</note> syg, an mir<note xml:id="fn8" type="footnote" ana="lex" n="8">von mir.</note> ze erfaren, ob mir <lb xml:id="p1z3"/>min wyn feyl syg ader nitt, und das in kürtzem uch lassen wüssen.</s>
+					<s n="3" xml:lang="de">Hand wir unß be<lb xml:id="p1z4"/>rett under einanderen, und wend<note xml:id="fn9" type="footnote" ana="lex" n="9">wollen.</note> in nach mer<note xml:id="fn10" type="footnote" ana="lex" n="10">noch länger.</note> lassen byeinanderen liggen byß eptwan <lb xml:id="p1z5"/>uff ein wynachtt; so ich dan selber hinuber küm<note xml:id="fn11" type="footnote" ana="lex" n="11">kommen würde.</note>, wyl<note xml:id="fn12" type="footnote" ana="lex" n="12">will.</note> ich den loügen<note xml:id="fn13" type="footnote" n="13">schauen, sehen (<bibl source="b590">SI</bibl> III 1221).</note>, wey ich im <lb xml:id="p1z6"/>theüge<note xml:id="fn14" type="footnote" n="14">tun, machen werde.</note>.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="de">Nitt mer<note xml:id="fn15" type="footnote" n="15">Nicht mehr als ... (will sie schreiben).</note> dan gott syg mitt uch alzytt, und greusend<note xml:id="fn16" type="footnote" ana="lex" n="16">grüßet.</note> mir uwere frouwen<note xml:id="fn17" type="footnote" ana="bio" n="17"><persName ref="p8051">Anna Bullinger, geb. Adlischwyler</persName>.</note> und die kynd und wer uch leyb ist.</s>
+					<s n="4" xml:lang="de">Nitt mer<note xml:id="fn15" type="footnote" n="15">Nicht mehr als ... (will sie schreiben).</note> dan gott syg mitt uch alzytt, und greusend<note xml:id="fn16" type="footnote" ana="lex" n="16">grüßet.</note> mir uwere frouwen<note xml:id="fn17" type="footnote" ana="bio" n="17"><persName ref="p8051">Anna Bullinger, geb. Adlischwyler</persName>.</note> und <lb xml:id="p1z7"/>die kynd und wer uch leyb ist.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="de">Geben uff zynstag vor Michaelis im 32. jar.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de">Von mir, <persName ref="p8521">Barbel Zenderin</persName>, zu <placeName ref="l2">Arow</placeName>.</s>
+					<s n="6" xml:lang="de"><lb xml:id="p1z8"/>Von mir, <persName ref="p8521">Barbel <lb xml:id="p1z9"/>Zenderin</persName>, zu <placeName ref="l2">Arow</placeName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="7" xml:lang="de">An den ersammen und volgelerten heren M. <persName ref="p495">Heinrich Bullinger</persName>, predicanten <placeName ref="l587">Zürich</placeName>, minem leyben heren.</s>
+					<s n="7" xml:lang="de"><pb/><lb xml:id="p2z1"/>An den ersammen und <lb xml:id="p2z2"/>volgelerten heren M. <persName ref="p495">Heinrich <lb xml:id="p2z3"/>Bullinger</persName>, predicanten <placeName ref="l587">Zü<lb xml:id="p2z4"/>rich</placeName>, minem leyben heren.</s>
 				</p>
 			</div>
 		</body>

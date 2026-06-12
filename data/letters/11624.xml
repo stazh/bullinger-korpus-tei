@@ -79,38 +79,53 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11624!Autograph!00%20E_II_364__fol__75_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11624/Autograph/00 E_II_364__fol__75_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="348,522 508,491 613,541 699,479 937,463 1183,518 1584,451 1658,487 2261,453 2263,315 2144,301 1908,389 1691,367 1617,415 1443,339 1367,372 1200,348 1116,401 987,343 711,422 582,382 477,451 351,398">361,492 456,481 551,473 647,468 742,465 837,465 933,462 1028,459 1123,459 1219,459 1314,459 1409,456 1505,453 1600,450 1695,447 1791,444 1886,444 1981,441 2077,438 2172,435 2268,435</zone>
+			<zone xml:id="p1z2-0" points="470,646 599,675 823,608 1126,653 1324,608 1715,627 1898,570 2161,577 2163,470 2115,463 2006,520 1875,479 1669,534 1426,510 1307,565 1240,518 1150,556 1057,506 787,556 475,546">486,620 570,616 654,610 738,608 822,605 906,599 990,599 1074,599 1158,596 1242,593 1326,592 1410,587 1494,584 1578,581 1662,577 1746,575 1830,571 1914,568 1998,560 2082,555 2166,552</zone>
+			<zone xml:id="p1z3-0" points="494,785 744,725 1345,778 1512,730 1712,751 1867,692 2142,727 2144,634 1879,601 1774,653 1631,611 1429,692 1231,639 1016,687 906,639 730,711 498,663">510,737 592,731 674,728 756,725 838,725 920,722 1002,721 1084,719 1166,716 1248,713 1330,711 1412,709 1494,707 1576,704 1658,698 1740,696 1822,690 1904,686 1986,678 2068,670 2151,659</zone>
+			<zone xml:id="p1z4-0" points="498,921 692,859 923,904 975,861 1359,878 1784,832 1863,863 2013,820 2123,859 2161,847 2163,766 1927,787 1617,732 1281,809 983,751 928,792 501,785">513,856 595,850 678,850 761,845 844,845 927,846 1009,844 1092,841 1175,839 1258,836 1341,835 1423,832 1506,829 1589,826 1672,823 1755,818 1837,814 1920,810 2003,807 2086,802 2169,799</zone>
+			<zone xml:id="p1z5-0" points="489,1023 816,973 1147,1014 1255,959 1400,983 1541,942 1674,992 1763,947 2144,933 2146,859 2101,835 1970,892 1753,835 1204,930 1016,861 909,933 780,863 694,933 494,918">504,984 586,978 668,972 751,970 833,967 915,963 998,962 1080,957 1162,954 1245,952 1327,950 1409,948 1492,945 1574,940 1656,937 1739,932 1821,928 1903,925 1986,921 2068,916 2151,907</zone>
+			<zone xml:id="p1z6-0" points="491,1135 1262,1085 1359,1130 1481,1080 1758,1119 1851,1073 2137,1068 2142,971 2032,944 1567,1021 1357,968 1033,1047 866,990 575,1042 496,1016">504,1107 585,1100 667,1098 749,1095 831,1092 913,1090 995,1088 1077,1084 1159,1083 1241,1083 1323,1080 1404,1077 1486,1076 1568,1071 1650,1068 1732,1065 1814,1058 1896,1054 1978,1050 2060,1044 2142,1038</zone>
+			<zone xml:id="p1z7-0" points="482,1231 553,1264 854,1195 897,1226 1393,1197 1545,1266 2144,1169 2146,1071 2113,1066 1686,1142 1467,1092 1171,1128 1092,1090 909,1154 739,1104 484,1142">495,1208 577,1205 660,1202 743,1197 826,1194 909,1193 991,1193 1074,1190 1157,1190 1240,1187 1323,1185 1405,1186 1488,1184 1571,1181 1654,1178 1737,1175 1819,1172 1902,1171 1985,1165 2068,1160 2151,1151</zone>
+			<zone xml:id="p1z8-0" points="491,1386 599,1348 897,1374 1033,1305 1338,1333 1402,1379 1696,1300 1846,1350 1901,1305 1975,1343 2077,1309 2077,1235 1934,1183 1829,1238 1548,1266 1119,1209 933,1214 811,1271 661,1226 494,1240">504,1316 582,1317 661,1313 740,1310 819,1307 898,1307 976,1306 1055,1304 1134,1304 1213,1301 1292,1301 1370,1298 1449,1295 1528,1293 1607,1291 1686,1289 1764,1289 1843,1288 1922,1287 2001,1286 2080,1283</zone>
+			<zone xml:id="p1z9-0" points="494,1469 1839,1424 1858,1348 1701,1379 1481,1331 1400,1376 1338,1333 1033,1305 878,1376 756,1348 496,1386">510,1435 577,1429 645,1429 712,1426 780,1426 848,1423 915,1420 983,1420 1050,1420 1118,1417 1186,1417 1253,1413 1321,1411 1388,1411 1456,1408 1523,1405 1591,1402 1659,1399 1726,1399 1794,1397 1862,1399</zone>
+			<zone xml:id="p1z10-0" points="487,1615 727,1572 1333,1593 1493,1545 1772,1591 1920,1555 1922,1443 1870,1441 1662,1498 1433,1441 1338,1498 1154,1436 873,1452 735,1529 570,1479 491,1503">501,1572 572,1567 643,1565 714,1560 785,1558 856,1557 927,1552 999,1551 1070,1548 1141,1545 1212,1545 1283,1542 1354,1539 1425,1536 1497,1536 1568,1536 1639,1533 1710,1529 1781,1525 1852,1521 1924,1519</zone>
+			<zone xml:id="p1z11-0" points="482,1734 656,1765 828,1701 885,1736 1197,1686 1443,1770 1591,1715 1593,1615 1293,1646 1185,1579 720,1636 642,1596 601,1631 487,1607">498,1704 552,1702 607,1698 662,1695 717,1690 772,1688 827,1689 882,1689 937,1686 992,1684 1047,1683 1101,1680 1156,1680 1211,1678 1266,1672 1321,1671 1376,1677 1431,1675 1486,1675 1541,1674 1596,1674</zone>
+			<zone xml:id="p1z12-0" points="1319,2063 1534,2073 1808,2015 1980,2094 2058,2077 2075,1856 1827,1922 1662,1894 1438,1939 1331,1908">1331,2056 1368,2042 1405,2038 1442,2035 1479,2033 1516,2030 1553,2026 1590,2022 1627,2020 1664,2020 1701,2018 1738,2012 1775,2009 1812,2010 1849,2008 1886,2005 1923,2001 1960,1997 1997,1995 2034,1992 2071,1987</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11624!Autograph!01%20E_II_364__fol__75_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11624/Autograph/01 E_II_364__fol__75_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1004,1424 1226,1418 1347,1369 1428,1414 1601,1361 1779,1437 1926,1369 1930,1278 1675,1223 1403,1279 1138,1225 1016,1248">1014,1384 1059,1381 1105,1373 1151,1364 1197,1361 1243,1360 1288,1356 1334,1352 1380,1349 1426,1348 1472,1348 1517,1346 1563,1343 1609,1337 1655,1333 1701,1330 1746,1330 1792,1328 1838,1328 1884,1328 1930,1330</zone>
+			<zone xml:id="p2z2-0" points="1073,1547 1110,1566 1182,1526 1259,1552 1355,1505 1607,1494 1668,1541 1878,1516 1883,1400 1605,1465 1300,1426 1240,1456 1079,1437">1080,1521 1120,1516 1160,1513 1200,1511 1240,1508 1280,1507 1320,1506 1361,1504 1401,1503 1441,1501 1481,1501 1521,1498 1561,1493 1601,1492 1642,1490 1682,1489 1722,1487 1762,1483 1802,1482 1842,1481 1883,1486</zone>
+			<zone xml:id="p2z3-0" points="1079,1672 1170,1627 1251,1636 1285,1622 1311,1624 1316,1569 1225,1568 1150,1546 1126,1565 1088,1562">1089,1620 1114,1617 1139,1614 1164,1610 1189,1607 1215,1606 1240,1604 1265,1602 1290,1602 1316,1602</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Ego ad te nihil habeo scribente ad te <persName ref="p8055">Ambrosio</persName> nostro<note xml:id="fn1" type="footnote" n="1">Vgl. den Brief <persName ref="p8055">Ambrosius Blarers</persName> vom gleichen Tag (oben <ref target="file11623">Nr. 1580</ref>).</note>.</s>
-					<s n="3" xml:lang="la">Literas vero ab <placeName ref="l18">Augusta</placeName> ad me datas<note xml:id="fn2" type="footnote" n="2">Ein entsprechendes Schreiben aus <placeName ref="l18">Augsburg</placeName> liegt nicht vor.</note> hic mitto.</s>
-					<s n="4" xml:lang="la">Tantum mille gratias ago, quod pro <persName ref="p3963">Georgio</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p3963">Georg Wimpfer</persName>; vgl. oben <ref target="file11563">Nr. 1520</ref>, 21-25.</note>, pastore in <placeName ref="l489">Stain</placeName>, tam fuisti sollicitus, ut iam stipendium bona parte tuo beneficio auctum habeat<note xml:id="fn4" type="footnote" n="4">Das Einkommen des Pfarrers von <placeName ref="l489">Stein am Rhein</placeName> ist erst für das Jahr 1548 genau bekannt; s. C[arl] A[ugust] <hi>Bächtold,</hi> Geschichte der Pfarrpfründen im Kanton Schaffhausen, Schaffhausen 1882, S. 226f (hier irrtümlich "Georg Mumpfer").</note>.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z2"/>Literas vero ab <placeName ref="l18">Augusta</placeName> ad me datas<note xml:id="fn2" type="footnote" n="2">Ein entsprechendes Schreiben aus <placeName ref="l18">Augsburg</placeName> liegt nicht vor.</note> hic mitto.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z3"/>Tantum mille gratias ago, quod pro <persName ref="p3963">Georgio</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p3963">Georg Wimpfer</persName>; vgl. oben <ref target="file11563">Nr. 1520</ref>, 21-25.</note>, <lb xml:id="p1z4"/>pastore in <placeName ref="l489">Stain</placeName>, tam fuisti sollicitus, ut iam <lb xml:id="p1z5"/>stipendium bona parte tuo beneficio auctum <lb xml:id="p1z6"/>habeat<note xml:id="fn4" type="footnote" n="4">Das Einkommen des Pfarrers von <placeName ref="l489">Stein am Rhein</placeName> ist erst für das Jahr 1548 genau bekannt; s. C[arl] A[ugust] <hi>Bächtold,</hi> Geschichte der Pfarrpfründen im Kanton Schaffhausen, Schaffhausen 1882, S. 226f (hier irrtümlich "Georg Mumpfer").</note>.</s>
 					<s n="5" xml:lang="la">De aliis literas habes <persName ref="p8055">Ambrosii</persName>.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Christus te servet incolumem<note xml:id="fn5" type="footnote" n="5"><persName ref="p4079">Zwick</persName> war wegen der grassierenden Pest um die Zürcher Theologen besorgt, wie auch aus seinem Brief vom gleichen Tag an <persName ref="p8127">Pelikan</persName> hervorgeht (s. Zürich ZB, Ms F 47, 50).</note> idque pro ecclesiae suae gloria.</s>
-					<s n="7" xml:lang="la">Quid enim futurum putas, si piis ministris ecclesiae destituantur?</s>
+					<s n="6" xml:lang="la">Christus <lb xml:id="p1z7"/>te servet incolumem<note xml:id="fn5" type="footnote" n="5"><persName ref="p4079">Zwick</persName> war wegen der grassierenden Pest um die Zürcher Theologen besorgt, wie auch aus seinem Brief vom gleichen Tag an <persName ref="p8127">Pelikan</persName> hervorgeht (s. Zürich ZB, Ms F 47, 50).</note> idque pro ecclesiae suae <lb xml:id="p1z8"/>gloria.</s>
+					<s n="7" xml:lang="la">Quid enim futurum putas, si piis <lb xml:id="p1z9"/>ministris ecclesiae destituantur?</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Totam domum tuam salvam cupio.</s>
-					<s n="9" xml:lang="la" ana="farewell">Vale.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z10"/>Totam domum tuam salvam cupio.</s>
+					<s n="9" xml:lang="la" ana="farewell"><lb xml:id="p1z11"/>Vale.</s>
 					<s n="10" xml:lang="la">5. novembris 1541.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la">Tuus <persName ref="p4079">Io. Zvick</persName>.</s>
+					<s n="11" xml:lang="la"><lb xml:id="p1z12"/>Tuus <persName ref="p4079">Io. Zvick</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="12" xml:lang="la">Domino <persName ref="p495">Hainricho Bullingero</persName>, charissimo in Christo fratri.</s>
+					<s n="12" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Hainricho Bullingero</persName>, <lb xml:id="p2z2"/>charissimo in Christo <lb xml:id="p2z3"/>fratri.</s>
 				</p>
 			</div>
 		</body>

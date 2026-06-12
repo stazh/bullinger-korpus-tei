@@ -82,37 +82,52 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11495!Autograph!00%20E_II_343__fol__223_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11495/Autograph/00 E_II_343__fol__223_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="398,447 508,415 793,461 856,429 992,463 1329,429 1451,467 1608,415 1977,433 1975,356 1929,346 1504,366 1152,305 908,350 823,301 593,358 396,301">408,408 486,408 565,406 644,409 722,411 801,411 880,409 958,411 1037,411 1116,412 1195,411 1273,411 1352,411 1431,411 1509,411 1588,411 1667,411 1745,411 1824,411 1903,411 1982,414</zone>
+			<zone xml:id="p1z2-0" points="500,518 1030,490 1957,524 1957,449 1825,419 1634,469 1122,425 1043,465 880,427 500,457">510,486 582,486 655,486 727,486 800,486 872,486 945,484 1017,485 1090,483 1162,484 1235,486 1308,486 1380,486 1453,486 1525,486 1598,486 1670,486 1743,486 1815,486 1888,488 1961,486</zone>
+			<zone xml:id="p1z3-0" points="506,593 1975,579 1975,522 1878,500 1612,536 880,490 506,541">516,561 589,558 662,558 735,558 808,555 881,555 954,552 1028,552 1101,554 1174,552 1247,554 1320,554 1393,555 1466,555 1540,555 1613,555 1686,555 1759,555 1832,558 1905,558 1979,558</zone>
+			<zone xml:id="p1z4-0" points="506,689 843,632 886,665 1977,663 1943,583 1561,563 506,626">516,641 589,641 662,638 735,635 809,632 882,631 955,629 1029,629 1102,626 1175,626 1249,629 1322,628 1395,629 1468,627 1542,629 1615,629 1688,627 1762,629 1835,629 1908,629 1982,629</zone>
+			<zone xml:id="p1z5-0" points="508,764 768,717 892,754 1053,713 1957,721 1797,648 1073,683 795,644 508,687">519,731 591,724 663,722 735,717 807,712 879,710 951,710 1023,710 1095,710 1167,710 1240,710 1312,710 1384,710 1456,710 1528,713 1600,713 1672,713 1744,713 1816,713 1888,713 1961,707</zone>
+			<zone xml:id="p1z6-0" points="502,849 1166,789 1272,833 1634,805 2008,843 2008,766 1792,778 1612,723 1164,726 1053,776 648,732 502,766">513,808 588,802 663,800 738,794 813,793 888,791 963,788 1038,788 1113,788 1188,790 1263,791 1338,791 1413,791 1488,794 1563,794 1638,794 1713,795 1788,797 1863,797 1938,797 2014,800</zone>
+			<zone xml:id="p1z7-0" points="506,919 856,876 1099,910 1199,864 1309,908 1963,896 1929,821 1587,807 506,850">516,883 588,876 661,871 733,867 806,865 878,860 951,858 1023,859 1096,856 1168,859 1241,859 1314,860 1386,862 1459,864 1531,865 1604,868 1676,870 1749,871 1821,871 1894,871 1967,871</zone>
+			<zone xml:id="p1z8-0" points="500,1014 644,965 811,1006 1099,945 1295,984 1721,943 1981,980 1981,902 1874,882 1591,925 1150,884 975,929 870,886 754,933 500,927">510,970 583,965 657,960 731,955 805,950 878,946 952,943 1026,943 1100,940 1173,940 1247,940 1321,940 1395,940 1468,940 1542,940 1616,940 1690,943 1763,943 1837,943 1911,944 1985,946</zone>
+			<zone xml:id="p1z9-0" points="506,1063 746,1097 843,1045 1144,1071 1362,1026 1841,1079 2016,1061 2018,969 1870,1010 1760,963 1486,957 506,1010">516,1053 591,1044 666,1039 741,1037 816,1032 892,1027 967,1026 1042,1023 1117,1023 1192,1023 1268,1022 1343,1020 1418,1022 1493,1023 1568,1023 1644,1023 1719,1024 1794,1026 1869,1028 1944,1030 2020,1035</zone>
+			<zone xml:id="p1z10-0" points="518,1166 825,1146 945,1183 1498,1120 1597,1160 1762,1110 2022,1124 2024,1067 1538,1051 1463,1087 1288,1030 919,1104 520,1065">528,1137 602,1136 677,1129 752,1125 827,1121 902,1119 977,1116 1052,1115 1127,1116 1202,1113 1277,1113 1351,1113 1426,1111 1501,1110 1576,1110 1651,1110 1726,1109 1801,1107 1876,1107 1951,1109 2026,1107</zone>
+			<zone xml:id="p1z11-0" points="510,1258 561,1274 650,1234 671,1252 723,1260 793,1228 817,1238 817,1185 766,1185 730,1160 699,1177 669,1171 646,1191 598,1179 587,1187 516,1160">522,1214 547,1214 572,1214 597,1214 622,1211 647,1208 672,1208 697,1208 722,1208 747,1207 772,1205 797,1203 823,1200</zone>
+			<zone xml:id="p1z12-0" points="1569,1429 1685,1412 1768,1449 1870,1431 1922,1449 1923,1368 1813,1374 1697,1319 1673,1319 1608,1366 1571,1356">1579,1403 1605,1403 1632,1402 1658,1400 1685,1398 1712,1397 1738,1397 1765,1397 1791,1397 1818,1397 1845,1396 1871,1395 1898,1394 1925,1394</zone>
+			<zone xml:id="p1z13-0" points="1648,1544 1664,1545 1723,1508 1740,1508 1748,1500 1754,1504 1768,1494 1786,1500 1797,1492 1809,1494 1811,1449 1792,1441 1780,1441 1764,1453 1750,1443 1705,1447 1650,1423">1659,1489 1684,1486 1710,1484 1736,1483 1762,1483 1788,1484 1814,1486</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11495!Autograph!01%20E_II_343__fol__223_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11495/Autograph/01 E_II_343__fol__223_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1049,1285 1308,1288 1384,1316 1523,1295 1622,1342 1716,1342 1714,1240 1584,1206 1048,1199">1054,1281 1087,1277 1120,1274 1153,1272 1186,1272 1219,1270 1252,1269 1286,1269 1319,1269 1352,1271 1385,1272 1418,1272 1451,1275 1484,1275 1518,1276 1551,1278 1584,1278 1617,1280 1650,1281 1683,1281 1717,1281</zone>
+			<zone xml:id="p2z2-0" points="1067,1431 1106,1438 1201,1401 1470,1420 1516,1408 1517,1335 1461,1318 1343,1338 1288,1322 1241,1344 1068,1323">1072,1371 1098,1367 1124,1365 1150,1365 1176,1365 1202,1365 1229,1365 1255,1365 1281,1365 1307,1365 1333,1365 1359,1365 1386,1365 1412,1365 1438,1365 1464,1365 1490,1366 1517,1368</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la"><persName ref="p1365">Grynęi</persName> literas<note xml:id="fn1" type="footnote" n="1">HBBWX, <ref target="file11484">Nr. 1441</ref>.</note> misissem pridem, si occurrisset tabellio; nam ante dies octo venerunt ad nos.</s>
-					<s n="3" xml:lang="la">Quamobrem aequi consulito, quod eas tam longe post datum accipis; nemo minus est in culpa quam ego.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la"><persName ref="p1365">Grynęi</persName> literas<note xml:id="fn1" type="footnote" n="1">HBBWX, <ref target="file11484">Nr. 1441</ref>.</note> misissem pridem, si occurrisset tabellio; nam ante <lb xml:id="p1z2"/>dies octo venerunt ad nos.</s>
+					<s n="3" xml:lang="la">Quamobrem aequi consulito, quod <lb xml:id="p1z3"/>eas tam longe post datum accipis; nemo minus est in culpa <lb xml:id="p1z4"/>quam ego.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">De vestris, quos ad nos misistis studiorum gratia, nescio, quid scribendum.</s>
-					<s n="5" xml:lang="la">Postquam duo a me discesserunt,<note xml:id="fn2" type="footnote" n="2"><persName ref="p6755">Konrad Suter</persName> und <persName ref="p8383">Christian Wirth</persName> hatten nur kurze Zeit bei <persName ref="p8418">Myconius</persName> gewohnt; vgl. <bibl source="b12">HBBW X</bibl> <ref target="file11469">[Nr. 1426]</ref>, S. 174, 4-16.</note> <persName ref="p6755">Chuͦnhartum</persName> non multo post amisimus, <persName ref="p8383">Christianum</persName> his diebus, nisi sit in patria, quod ex <persName ref="p8428">Rhellicano</persName><note xml:id="fn3" type="footnote" ana="bio" n="3"><persName ref="p8428">Rhellikan</persName> war mit der Familie <persName ref="p8383">Wirth</persName> verschwägert; vgl. <bibl source="b9">HBBW VII</bibl> <ref target="file11074">[Nr. 1032]</ref>, S. 220, 17f.</note> facile intelliges.</s>
-					<s n="6" xml:lang="la"><persName ref="p2811">Christophorus</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p2811">Christoph Rotacher</persName>.</note> adhuc perdurat apud me, iuvenis, quantum novi, non malus.</s>
-					<s n="7" xml:lang="la">Hęc ideo, ne quid in nobis, quibus eos commendastis, desiderari possit.<pb type="edition" next="32"/></s>
+					<s n="4" xml:lang="la">De vestris, quos ad nos misistis studiorum gratia, nescio, quid <lb xml:id="p1z5"/>scribendum.</s>
+					<s n="5" xml:lang="la">Postquam duo a me discesserunt,<note xml:id="fn2" type="footnote" n="2"><persName ref="p6755">Konrad Suter</persName> und <persName ref="p8383">Christian Wirth</persName> hatten nur kurze Zeit bei <persName ref="p8418">Myconius</persName> gewohnt; vgl. <bibl source="b12">HBBW X</bibl> <ref target="file11469">[Nr. 1426]</ref>, S. 174, 4-16.</note> <persName ref="p6755">Chuͦnhartum</persName> non <lb xml:id="p1z6"/>multo post amisimus, <persName ref="p8383">Christianum</persName> his diebus, nisi sit in patria, <lb xml:id="p1z7"/>quod ex <persName ref="p8428">Rhellicano</persName><note xml:id="fn3" type="footnote" ana="bio" n="3"><persName ref="p8428">Rhellikan</persName> war mit der Familie <persName ref="p8383">Wirth</persName> verschwägert; vgl. <bibl source="b9">HBBW VII</bibl> <ref target="file11074">[Nr. 1032]</ref>, S. 220, 17f.</note> facile intelliges.</s>
+					<s n="6" xml:lang="la"><persName ref="p2811">Christophorus</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p2811">Christoph Rotacher</persName>.</note> adhuc <lb xml:id="p1z8"/>perdurat apud me, iuvenis, quantum novi, non malus.</s>
+					<s n="7" xml:lang="la">Hęc <lb xml:id="p1z9"/>ideo, ne quid in nobis, quibus eos commendastis, desiderari possit.<pb type="edition" next="32"/></s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" ana="farewell">Vale semper in domino cum tuis et fratribus.</s>
-					<s n="9" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 7. ianuarii anno 1541.</s>
+					<s n="8" xml:lang="la" ana="farewell"><lb xml:id="p1z10"/>Vale semper in domino cum tuis et fratribus.</s>
+					<s n="9" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 7. ianuarii an<lb xml:id="p1z11"/>no 1541.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z12"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z13"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName>, in domino suo.</s>
+					<s n="11" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>in domino suo.</s>
 					<s n="12" xml:lang="de"><placeName ref="l587">Zü[ric]h</placeName><note xml:id="fna" type="footnote" n="a"><hi>Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.</hi></note>.</s>
 				</p>
 			</div>

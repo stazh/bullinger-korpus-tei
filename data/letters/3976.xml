@@ -67,6 +67,21 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3976!Autograph!00%20E_II_375__fol__546_b_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3976/Autograph/00 E_II_375__fol__546_b_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="779,421 872,446 1088,374 1171,426 1311,444 1318,223 1131,284 975,264 878,300 829,259 784,257">791,382 817,380 843,376 870,370 896,368 923,367 949,365 976,364 1002,364 1029,362 1055,361 1081,361 1108,361 1134,361 1161,362 1187,364 1214,362 1240,361 1267,361 1293,361 1320,361</zone>
+			<zone xml:id="p1z2-0" points="509,588 1036,581 1110,628 1313,631 1401,577 1698,626 2045,577 2293,606 2293,502 2225,482 1791,545 1651,505 1230,534 899,430 509,478">522,570 610,564 699,564 788,565 877,567 966,567 1055,570 1143,570 1232,570 1321,570 1410,570 1499,570 1588,570 1677,570 1765,570 1854,570 1943,567 2032,567 2121,567 2210,567 2299,564</zone>
+			<zone xml:id="p1z3-0" points="541,737 894,696 1185,707 1291,766 1723,755 1816,701 2027,764 2241,737 2241,646 2122,624 1946,662 1689,619 1615,671 1288,617 1041,658 973,606 811,655 707,610 541,646">552,683 636,686 721,686 806,689 890,689 975,690 1060,692 1144,695 1229,695 1314,698 1399,698 1483,698 1568,697 1653,696 1737,695 1822,695 1907,691 1991,689 2076,686 2161,680 2246,683</zone>
+			<zone xml:id="p1z4-0" points="550,836 878,804 1264,876 1428,820 1701,872 1797,854 1797,791 547,741">561,797 626,797 691,800 756,800 821,800 887,804 952,806 1017,809 1082,811 1147,812 1213,815 1278,818 1343,818 1408,818 1473,821 1539,821 1604,821 1669,821 1734,821 1800,824</zone>
+			<zone xml:id="p1z5-0" points="520,930 701,899 930,951 996,919 1205,955 2275,924 2273,854 2187,878 2086,836 1656,881 1437,836 1210,881 878,804 518,856">531,893 618,890 706,893 793,893 881,896 968,899 1056,903 1143,906 1231,909 1318,910 1406,913 1493,913 1581,913 1668,913 1756,915 1843,913 1931,912 2018,910 2106,910 2193,910 2281,916</zone>
+			<zone xml:id="p1z6-0" points="547,1052 667,1005 741,1047 1101,1011 1451,1068 1642,1020 1752,1079 1897,1043 2165,1072 2304,1018 2304,960 1939,944 1838,987 1669,930 1232,975 1149,939 653,964 545,930">558,1003 645,1000 733,1000 820,1000 908,1002 996,1005 1083,1006 1171,1009 1259,1011 1346,1012 1434,1015 1522,1015 1609,1015 1697,1015 1785,1015 1872,1015 1960,1012 2048,1010 2135,1009 2223,1009 2311,1012</zone>
+			<zone xml:id="p1z7-0" points="543,1124 637,1101 921,1158 1065,1104 1110,1142 1444,1156 1716,1119 1987,1167 2304,1133 2262,1063 2043,1081 1894,1041 1385,1088 1070,1011 969,1056 543,1050">555,1105 642,1099 730,1099 818,1099 906,1099 994,1102 1081,1105 1169,1107 1257,1108 1345,1111 1433,1113 1520,1113 1608,1114 1696,1114 1784,1116 1872,1114 1959,1111 2047,1111 2135,1111 2223,1114 2311,1120</zone>
+			<zone xml:id="p1z8-0" points="554,1210 1014,1214 1293,1275 1525,1223 1665,1270 2140,1268 2293,1234 2291,1144 1879,1192 1034,1113 926,1156 552,1158">564,1194 650,1188 737,1191 824,1191 911,1194 997,1197 1084,1202 1171,1203 1258,1207 1344,1210 1431,1212 1518,1212 1605,1215 1691,1215 1778,1215 1865,1218 1952,1215 2038,1215 2125,1215 2212,1212 2299,1215</zone>
+			<zone xml:id="p1z9-0" points="541,1293 1935,1379 2248,1342 2246,1257 2153,1288 1946,1234 1867,1291 1602,1252 1322,1288 1092,1232 538,1241">552,1281 637,1281 722,1281 807,1283 892,1286 977,1291 1062,1294 1147,1300 1232,1306 1317,1308 1403,1311 1488,1317 1573,1317 1658,1322 1743,1322 1828,1324 1913,1326 1998,1326 2083,1325 2168,1323 2254,1326</zone>
+			<zone xml:id="p1z10-0" points="525,1455 1189,1410 1288,1451 1424,1433 1523,1487 1597,1442 1809,1511 2102,1446 2293,1480 2289,1331 1759,1397 1597,1342 1234,1320 523,1345">537,1394 629,1388 722,1391 814,1391 907,1394 999,1397 1092,1400 1185,1403 1277,1406 1370,1411 1462,1417 1555,1418 1647,1423 1740,1427 1833,1427 1925,1427 2018,1427 2110,1427 2203,1427 2296,1430</zone>
+			<zone xml:id="p1z11-0" points="498,1505 1304,1538 1482,1602 1770,1572 2106,1631 2307,1588 2277,1471 2070,1525 1903,1478 1714,1523 1448,1455 1397,1487 1108,1466 1020,1419 658,1469 496,1446">510,1502 600,1493 690,1493 780,1499 870,1502 960,1505 1050,1508 1140,1517 1230,1520 1320,1526 1410,1532 1500,1535 1590,1541 1680,1544 1770,1547 1860,1550 1950,1553 2040,1553 2130,1556 2220,1559 2311,1568</zone>
+			<zone xml:id="p1z12-0" points="577,2068 1059,2023 1529,2081 1888,2050 1863,1912 1502,1991 1192,1951 577,1980">588,2030 653,2026 718,2024 783,2023 849,2022 914,2022 979,2022 1044,2022 1110,2022 1175,2022 1240,2022 1305,2024 1371,2027 1436,2027 1501,2030 1566,2030 1632,2033 1697,2035 1762,2037 1827,2039 1893,2045</zone>
+			<zone xml:id="p1z13-0" points="845,2126 1074,2095 1279,2142 1426,2099 1827,2122 1827,2081 1714,2052 1529,2079 1059,2045 991,2072 845,2034">857,2090 905,2093 954,2093 1003,2092 1052,2091 1101,2093 1149,2093 1198,2093 1247,2093 1296,2093 1345,2093 1393,2093 1442,2093 1491,2096 1540,2096 1589,2096 1637,2096 1686,2098 1735,2099 1784,2101 1833,2102</zone>
+			<zone xml:id="p1z14-0" points="874,2198 964,2171 1230,2203 1284,2162 1797,2194 1797,2129 1617,2099 1563,2133 1340,2108 1282,2142 1131,2097 1009,2147 874,2113">887,2159 932,2162 978,2162 1024,2162 1070,2162 1116,2162 1161,2159 1207,2159 1253,2159 1299,2159 1345,2159 1390,2159 1436,2159 1482,2160 1528,2162 1574,2162 1619,2162 1665,2162 1711,2162 1757,2162 1803,2165</zone>
+			<zone xml:id="p1z15-0" points="779,2271 1086,2250 1234,2286 1329,2234 1541,2334 1696,2250 2007,2275 2007,2203 1901,2183 779,2189">791,2263 852,2253 913,2248 974,2244 1035,2239 1096,2237 1157,2234 1218,2233 1279,2231 1340,2231 1402,2231 1463,2233 1524,2234 1585,2236 1646,2234 1707,2237 1768,2239 1829,2243 1890,2244 1951,2246 2013,2248</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3976!Autograph!01%20E_II_375__fol__546_b_v_.tif/full/max/0/default.jpg" n="2">
@@ -78,19 +93,19 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Reverende domine mi osservandissime.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Reverende domine mi osservandissime.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Puerum domini offendi in itinere, qui mihi eunti id ipsum ipsius exhibuit chirographum, quo continebantur, quae ipse nova habebat, ea ut r. t. communicarem, quod statim facio in his scriptis.</s>
-					<s n="3" xml:lang="la">18. die maiori in ecclesia <placeName ref="l378">Parisiensi</placeName> rex iuramentum de servanda pace praestitit praesentibus nomine catolici regis duce <placeName>Albensi</placeName>, principe <placeName>Aurigiensi</placeName> et comite <persName>Egmondano</persName>.</s>
-					<s n="4" xml:lang="la">Cultus utrinque ditissimus, ita tamen ut Franci superiores viderentur, maxime cum dux ipse <placeName>Albensis</placeName>, legationis caput, infra mediocritatem indutus esset, sumptuosissimo tamen comitatu.</s>
-					<s n="5" xml:lang="la">Ipse 22. die erat nomine sui regis sponsalia celebraturus cum <persName>Isabella</persName>, prima ex regiis filiabus, 25. autem <persName ref="p17889">Sabaudiensis</persName> idem erat facturus cum <persName ref="p20488">Margherita</persName>, sorore regis.</s>
+					<s n="2" xml:lang="la"><lb xml:id="p1z2"/>Puerum domini offendi in itinere, qui mihi eunti id ipsum ipsius exhibuit chiro<lb xml:id="p1z3"/>graphum, quo continebantur, quae ipse nova habebat, ea ut r. t. com<lb xml:id="p1z4"/>municarem, quod statim facio in his scriptis.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z5"/>18. die maiori in ecclesia <placeName ref="l378">Parisiensi</placeName> rex iuramentum de servanda pace <lb xml:id="p1z6"/>praestitit praesentibus nomine catolici regis duce <placeName>Albensi</placeName>, principe <placeName>Aurigiensi</placeName> <lb xml:id="p1z7"/>et comite <persName>Egmondano</persName>.</s>
+					<s n="4" xml:lang="la">Cultus utrinque ditissimus, ita tamen ut Franci superiores <lb xml:id="p1z8"/>viderentur, maxime cum dux ipse <placeName>Albensis</placeName>, legationis caput, infra mediocritatem <lb xml:id="p1z9"/>indutus esset, sumptuosissimo tamen comitatu.</s>
+					<s n="5" xml:lang="la">Ipse 22. die erat nomine <lb xml:id="p1z10"/>sui regis sponsalia celebraturus cum <persName>Isabella</persName>, prima ex regiis filiabus, <lb xml:id="p1z11"/>25. autem <persName ref="p17889">Sabaudiensis</persName> idem erat facturus cum <persName ref="p20488">Margherita</persName>, sorore regis.</s>
 				</p>
 				<p>
 					<note type="author">[Darunter von der Hand des <persName ref="p8009">Fabricius</persName>:]</note>
-					<s n="6" xml:lang="la">Hic non ascriptus est mensis.</s>
-					<s n="7" xml:lang="la">Ego autem interim convenire non potui d. oratorem aut d. <persName>Philippum</persName>, ut de mense percontarem.</s>
-					<s n="8" xml:lang="la">Puto haec mense iunio peracta esse.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z12"/>Hic non ascriptus est mensis.</s>
+					<s n="7" xml:lang="la">Ego autem interim <lb xml:id="p1z13"/>convenire non potui d. oratorem aut <lb xml:id="p1z14"/>d. <persName>Philippum</persName>, ut de mense percontarem.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z15"/>Puto haec mense iunio peracta esse.</s>
 				</p>
 				<p>
 					<note type="date">[Datum fehlt.]</note>

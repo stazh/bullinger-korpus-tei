@@ -73,6 +73,14 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!252!Autograph!00%20E_II_370__fol__83_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">252/Autograph/00 E_II_370__fol__83_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="810,342 1216,306 1332,355 1426,302 1862,272 2344,321 2418,272 2505,291 2508,246 2406,196 2006,159 1794,217 1696,185 1609,236 1488,212 1298,274 1177,204 814,242">822,318 906,312 991,307 1075,310 1160,305 1244,299 1329,298 1413,294 1498,289 1582,286 1667,283 1751,280 1836,274 1920,275 2005,271 2089,268 2174,268 2258,268 2343,268 2427,268 2512,268</zone>
+			<zone xml:id="p1z2-0" points="835,453 2134,338 2401,385 2539,351 2544,264 2340,321 2017,272 1492,359 1075,304 839,355">846,414 935,405 1024,399 1114,396 1203,387 1293,384 1382,378 1471,372 1561,366 1650,363 1740,357 1829,354 1919,348 2008,345 2097,342 2187,339 2276,339 2366,339 2455,339 2545,339</zone>
+			<zone xml:id="p1z3-0" points="846,497 1145,516 1243,470 1887,431 1998,484 2261,423 2546,459 2550,348 2333,385 2121,338 1993,402 1600,372 1447,434 1388,389 1269,431 1224,387 848,444">858,488 942,482 1027,476 1111,471 1196,466 1281,463 1365,456 1450,452 1535,446 1619,441 1704,438 1789,432 1873,429 1958,426 2043,423 2127,421 2212,420 2297,420 2381,421 2466,423 2551,426</zone>
+			<zone xml:id="p1z4-0" points="850,570 1513,527 1585,576 1681,521 1734,552 1883,508 1927,544 1985,506 2191,542 2442,512 2444,468 2229,440 1976,484 1906,442 1798,489 1685,446 1330,476 1247,523 1043,499 971,540 852,504">861,566 940,559 1019,554 1098,549 1178,543 1257,538 1336,533 1416,527 1495,524 1574,518 1654,514 1733,509 1812,507 1891,501 1971,500 2050,497 2129,497 2209,497 2288,495 2367,497 2447,494</zone>
+			<zone xml:id="p1z5-0" points="854,648 1198,614 1364,646 1898,576 2076,625 2255,578 2508,593 2510,550 2376,504 2195,542 1883,508 1804,559 1585,576 1515,529 1184,599 858,574">867,628 949,628 1031,625 1113,623 1196,615 1278,612 1360,607 1442,602 1525,596 1607,591 1689,585 1771,580 1854,574 1936,572 2018,569 2100,569 2183,571 2265,573 2347,576 2429,578 2512,581</zone>
+			<zone xml:id="p1z6-0" points="858,718 1711,665 1828,703 2057,650 2478,672 2480,589 2325,578 2255,623 2206,593 2046,631 1993,589 1723,642 1649,599 1468,608 1377,665 1326,616 861,638">870,703 950,698 1031,694 1111,691 1192,688 1273,682 1353,680 1434,674 1515,669 1595,664 1676,661 1757,656 1837,653 1918,651 1999,648 2079,646 2160,649 2241,647 2321,647 2402,650 2483,649</zone>
+			<zone xml:id="p1z7-0" points="856,784 2095,716 2486,759 2505,697 2087,650 1851,706 1766,669 1645,716 1585,678 1145,737 858,718">867,769 949,766 1031,763 1113,757 1195,754 1277,748 1359,745 1441,742 1523,736 1605,733 1688,730 1770,726 1852,723 1934,718 2016,718 2098,715 2180,715 2262,718 2344,719 2426,724 2509,730</zone>
+			<zone xml:id="p1z8-0" points="850,850 1358,820 1636,869 1968,799 2070,867 2076,725 852,805">861,834 921,831 982,829 1042,825 1103,824 1164,822 1224,819 1285,816 1346,812 1406,807 1467,807 1528,807 1588,804 1649,800 1710,798 1770,795 1831,793 1892,792 1952,792 2013,792 2074,789</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!252!Autograph!01%20E_II_370__fol__83_v_.tif/full/max/0/default.jpg" n="2">
@@ -84,10 +92,10 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S. P.</s>
-					<s n="2" xml:lang="la">Cum pridie ad te scripserim copiosius, colendissime pater, nunc nihil habeo, quod scribam, nisis quod <persName>Valentino Mentzero</persName> hanc tradas cautionem, quam ipsi quoque a dominis impetravi, ut liber a vectigalibus cum sua suppellectile ad ecclesiam suae fidei commissam proficisci queat.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S. P.</s>
+					<s n="2" xml:lang="la">Cum pridie ad te scripserim copiosius, <lb xml:id="p1z2"/>colendissime pater, nunc nihil habeo, quod scribam, <lb xml:id="p1z3"/>nisis quod <persName>Valentino Mentzero</persName> hanc tradas <lb xml:id="p1z4"/>cautionem, quam ipsi quoque a dominis impetravi, <lb xml:id="p1z5"/>ut liber a vectigalibus cum sua suppellectile ad <lb xml:id="p1z6"/>ecclesiam suae fidei commissam proficisci queat.</s>
 					<s n="3" xml:lang="la" ana="farewell">Vale.</s>
-					<s n="4" xml:lang="la">Dominus Iesus te diu servet incolumem cum omnibus tuis.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z7"/>Dominus Iesus te diu servet incolumem cum <lb xml:id="p1z8"/>omnibus tuis.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la">Cal[endis] Sept[embris] 1548.</s>

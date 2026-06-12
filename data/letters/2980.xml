@@ -76,6 +76,15 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2980!Autograph!00%20E_II_346__fol__535_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">2980/Autograph/00 E_II_346__fol__535_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="357,302 523,334 1004,258 2207,253 2207,205 2119,191 1857,210 1811,173 1719,214 1654,166 1511,187 1138,131 945,180 850,143 571,219 359,203">370,280 462,274 554,271 646,265 738,259 830,256 922,253 1014,249 1106,247 1198,247 1291,244 1383,243 1475,239 1567,238 1659,238 1751,236 1843,236 1935,235 2027,235 2119,232 2212,229</zone>
+			<zone xml:id="p1z2-0" points="629,369 2069,334 2189,306 2191,251 1626,297 1555,253 1090,253 988,311 631,293">644,343 721,340 799,337 876,334 954,333 1032,331 1109,328 1187,325 1265,324 1342,322 1420,320 1498,319 1575,316 1653,313 1731,310 1808,307 1886,307 1964,304 2041,299 2119,297 2197,295</zone>
+			<zone xml:id="p1z3-0" points="647,445 935,445 1060,399 1334,428 1541,389 1622,433 1894,378 2202,401 2205,309 1666,366 1242,327 1009,376 650,373">659,415 736,412 813,409 891,406 968,403 1045,400 1123,398 1200,394 1277,391 1355,388 1432,386 1509,385 1587,384 1664,382 1741,377 1819,376 1896,376 1973,371 2051,370 2128,363 2206,361</zone>
+			<zone xml:id="p1z4-0" points="645,539 972,481 1120,525 1387,461 1744,502 1822,449 2262,445 2237,385 1896,376 1622,433 1507,399 1288,445 1060,399 924,447 797,422 710,472 650,442">659,495 739,489 820,484 900,480 981,476 1061,474 1142,468 1222,463 1303,461 1383,456 1464,456 1544,453 1625,448 1705,446 1786,440 1866,438 1947,438 2027,433 2108,428 2188,423 2269,421</zone>
+			<zone xml:id="p1z5-0" points="624,659 2313,578 2315,486 1583,558 1262,548 1196,505 629,564">639,624 723,623 807,617 891,614 975,609 1059,606 1143,606 1227,603 1311,602 1395,600 1479,597 1563,598 1647,597 1731,594 1815,592 1899,588 1983,585 2067,579 2151,572 2235,567 2319,566</zone>
+			<zone xml:id="p1z6-0" points="663,700 855,730 922,691 1336,684 1546,726 1721,675 1767,710 1859,670 1977,698 2083,650 2359,673 2361,606 2262,574 2020,620 1781,599 1686,634 1580,592 1140,652 1018,615 910,661 666,647">677,686 761,683 845,683 930,680 1014,680 1098,677 1183,674 1267,672 1351,670 1436,665 1520,662 1604,662 1689,662 1773,659 1857,656 1942,651 2026,649 2110,644 2195,642 2279,639 2364,636</zone>
+			<zone xml:id="p1z7-0" points="654,760 1156,799 1265,746 1371,786 1532,737 2267,723 2269,654 2099,650 1926,703 1841,666 1514,719 1318,682 829,735 657,705">668,755 748,755 828,755 908,753 988,751 1069,749 1149,746 1229,744 1309,742 1389,737 1470,736 1550,731 1630,729 1710,728 1790,722 1871,722 1951,719 2031,716 2111,713 2191,709 2272,707</zone>
+			<zone xml:id="p1z8-0" points="647,857 1198,857 1507,809 1569,839 1624,806 1721,852 1797,806 2334,797 2336,735 2030,719 1875,756 1493,742 1421,790 1253,751 931,809 650,772">659,827 743,827 827,827 911,824 995,824 1079,818 1163,816 1247,813 1331,808 1415,805 1500,802 1584,800 1668,794 1752,791 1836,789 1920,788 2004,787 2088,782 2172,779 2256,776 2341,773</zone>
+			<zone xml:id="p1z9-0" points="638,931 1797,898 1838,820 640,857">650,895 709,896 768,895 828,894 887,892 947,892 1006,889 1066,887 1125,889 1185,883 1244,881 1303,877 1363,877 1422,875 1482,871 1541,870 1601,868 1660,865 1720,866 1779,862 1839,859</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2980!Autograph!01%20E_II_346__fol__535_v_.tif/full/max/0/default.jpg" n="2">
@@ -87,12 +96,12 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Quia de <persName ref="p458">Brenzii</persName> sermonibus mentionem fęci confutationemque eorum ex animo cupiam, en eos hic habes.</s>
-					<s n="2" xml:lang="la">Est admiranda metamorphosis et verborum confusio, quę tamen ab ineptis quibusdam non solum in pretio habetur, sed etiam adoratur.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Quia de <persName ref="p458">Brenzii</persName> sermonibus mentionem fęci confutationemque eorum <lb xml:id="p1z2"/>ex animo cupiam, en eos hic habes.</s>
+					<s n="2" xml:lang="la">Est admiranda me<lb xml:id="p1z3"/>tamorphosis et verborum confusio, quę tamen ab ineptis <lb xml:id="p1z4"/>quibusdam non solum in pretio habetur, sed etiam adoratur.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la"><persName ref="p2095">Philippus Melanchton</persName> misit ad me libellum de iuditio ecclesię etc., ubi de politia tam sacra quam prophana agitur, quam autem fęliciter, ignore.</s>
-					<s n="4" xml:lang="la" ana="farewell">Vale, mi cordatissime frater, cras aut perendie aderit princeps noster, ex quo discam fortassis, quid nobis de pietate christiana hoc in territorio sperandum sit.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z5"/><persName ref="p2095">Philippus Melanchton</persName> misit ad me libellum de iuditio ecclesię etc., <lb xml:id="p1z6"/>ubi de politia tam sacra quam prophana agitur, quam autem fęliciter, <lb xml:id="p1z7"/>ignore.</s>
+					<s n="4" xml:lang="la" ana="farewell">Vale, mi cordatissime frater, cras aut perendie aderit <lb xml:id="p1z8"/>princeps noster, ex quo discam fortassis, quid nobis de pietate <lb xml:id="p1z9"/>christiana hoc in territorio sperandum sit.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la">[<persName ref="p8354">Georgius Laetus</persName>].</s>

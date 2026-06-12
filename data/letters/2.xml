@@ -77,24 +77,32 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2!Autograph!00%20E_II_370__fol__544_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">2/Autograph/00 E_II_370__fol__544_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="550,229 839,229 997,279 1426,227 1550,259 1841,232 2100,294 2265,254 2534,269 2534,173 2470,210 2332,151 2265,197 1989,143 1856,195 1601,163 1441,197 1224,138 1078,188 1024,143 745,133 671,192 550,188">564,217 662,214 761,218 859,218 958,217 1057,214 1155,215 1254,217 1353,217 1451,219 1550,220 1649,221 1747,223 1846,223 1945,226 2043,229 2142,230 2241,235 2339,235 2438,238 2537,238</zone>
+			<zone xml:id="p1z2-0" points="538,353 765,308 980,365 1036,323 1330,348 1392,311 1661,368 1764,311 2480,355 2480,262 2428,249 2043,291 1786,227 1700,264 1165,247 1128,281 1081,244 985,279 627,234 538,276">552,310 648,304 745,306 842,307 938,304 1035,307 1132,307 1228,304 1325,304 1422,301 1519,302 1615,302 1712,301 1809,307 1905,308 2002,311 2099,315 2195,318 2292,322 2389,325 2486,325</zone>
+			<zone xml:id="p1z3-0" points="558,427 1219,395 1406,439 1619,390 1759,442 1858,395 2184,459 2354,402 2482,444 2482,348 2386,326 2090,353 1814,311 1663,368 1619,331 1461,353 1389,313 1295,360 1086,318 948,363 750,308 558,345">570,400 671,393 772,391 873,388 974,388 1075,388 1176,386 1277,385 1378,382 1479,384 1580,385 1681,385 1782,388 1883,386 1984,391 2085,388 2186,394 2287,398 2388,403 2489,405</zone>
+			<zone xml:id="p1z4-0" points="553,476 935,491 987,531 1221,464 1345,498 1624,471 1678,516 1888,466 2134,476 2199,518 2255,476 2381,526 2537,506 2537,427 2127,454 1853,395 1794,444 1616,392 1394,439 1221,397 943,447 861,402 553,427">567,468 665,471 764,466 862,466 961,463 1060,462 1158,460 1257,459 1356,459 1454,458 1553,459 1652,461 1750,463 1849,463 1948,465 2046,468 2145,472 2244,475 2342,482 2441,486 2540,492</zone>
+			<zone xml:id="p1z5-0" points="553,582 1002,540 1101,595 1251,540 1367,580 1629,545 1984,592 2065,553 2139,597 2339,565 2418,605 2453,600 2450,511 2354,538 2250,484 2206,518 1949,474 1683,513 1525,461 1342,501 1184,474 876,521 661,479 550,511">567,558 661,549 756,545 850,540 945,540 1040,540 1134,538 1229,538 1323,537 1418,537 1513,537 1607,540 1702,540 1796,542 1891,542 1986,546 2080,546 2175,551 2269,555 2364,564 2459,567</zone>
+			<zone xml:id="p1z6-0" points="560,649 1194,637 1263,676 1471,632 1594,686 1705,669 1705,553 1372,585 1315,548 1098,595 972,540 560,580">573,626 629,626 686,626 743,626 800,624 857,620 914,620 970,620 1027,622 1084,620 1141,620 1198,620 1255,623 1312,620 1368,623 1425,623 1482,620 1539,621 1596,624 1653,626 1710,620</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2!Autograph!01%20E_II_370__fol__544_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">2/Autograph/01 E_II_370__fol__544_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="690,692 863,734 931,702 980,734 1126,701 1315,713 1364,740 1369,638 1144,614 689,653">695,692 728,692 762,691 796,689 830,689 864,687 898,684 932,683 966,683 1000,683 1034,683 1067,684 1101,686 1135,691 1169,694 1203,696 1237,698 1271,701 1305,703 1339,704 1373,707</zone>
+			<zone xml:id="p2z2-0" points="885,815 947,783 1091,808 1210,780 1299,817 1351,793 1349,725 1262,728 1202,703 1113,733 1073,719 972,733 919,715 883,730">889,755 914,755 940,755 966,753 991,752 1017,752 1043,752 1069,752 1094,754 1120,755 1146,755 1171,756 1197,758 1223,759 1249,761 1274,761 1300,762 1326,763 1352,767</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="de">Lieber her gfatter, nachdem ich schon gschriben, ist so vil noch zwegen bracht, das min herren antwortend und schribend an klein und groß räth gen <placeName ref="l587">Zürich</placeName>.</s>
-					<s n="3" xml:lang="de">Das hab ich welle darzuͦ thuͦn, damitt ir wüßtind, worum[b] ich imm vorigen brieff uß angeben deß <persName ref="p8012">seckelmeisters</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8012">Sulpitius Haller</persName>.</note> gschriben hab, man werde uff diß mal nitt schriben.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="de">Lieber her gfatter, nachdem ich schon gschriben, ist <lb xml:id="p1z2"/>so vil noch zwegen bracht, das min herren antwortend und <lb xml:id="p1z3"/>schribend an klein und groß räth gen <placeName ref="l587">Zürich</placeName>.</s>
+					<s n="3" xml:lang="de">Das hab ich <lb xml:id="p1z4"/>welle darzuͦ thuͦn, damitt ir wüßtind, worum[b] ich imm vorigen <lb xml:id="p1z5"/>brieff uß angeben deß <persName ref="p8012">seckelmeisters</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8012">Sulpitius Haller</persName>.</note> gschriben hab, man <lb xml:id="p1z6"/>werde uff diß mal nitt schriben.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse:]</note>
-					<s n="4" xml:lang="de">M. <persName ref="p495">Heinrych Bullinger</persName> zuͦ <placeName ref="l587">Zürich</placeName>.</s>
+					<s n="4" xml:lang="de"><pb/><lb xml:id="p2z1"/>M. <persName ref="p495">Heinrych Bullinger</persName> <lb xml:id="p2z2"/>zuͦ <placeName ref="l587">Zürich</placeName>.</s>
 				</p>
 			</div>
 		</body>

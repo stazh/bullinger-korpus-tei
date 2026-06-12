@@ -64,6 +64,13 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8240!Autograph!00%20E_II_348__fol__45_a_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">8240/Autograph/00 E_II_348__fol__45_a_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="150,310 1308,288 1424,338 1594,318 1593,218 148,212">158,272 230,272 302,272 374,274 446,275 518,276 590,279 662,282 734,282 806,284 878,284 950,286 1022,288 1094,290 1166,289 1238,290 1310,292 1382,292 1454,292 1526,293 1599,286</zone>
+			<zone xml:id="p1z2-0" points="142,357 466,351 573,390 685,355 818,406 927,360 1620,381 1618,303 996,340 939,303 641,327 440,275 382,314 142,314">152,338 225,340 299,340 372,342 446,342 520,345 593,347 667,348 741,350 814,350 888,352 962,354 1035,355 1109,356 1183,356 1256,358 1330,358 1404,359 1477,360 1551,362 1625,366</zone>
+			<zone xml:id="p1z3-0" points="163,421 870,418 996,458 1070,418 1495,471 1644,432 1642,377 1583,371 1036,403 863,366 778,399 693,353 573,390 331,342 163,366">172,396 245,393 319,396 393,399 467,402 541,404 615,406 688,408 762,411 836,412 910,414 984,414 1058,416 1132,416 1205,418 1279,420 1353,421 1427,424 1501,426 1575,428 1649,430</zone>
+			<zone xml:id="p1z4-0" points="146,475 1306,528 1437,490 1587,527 1583,434 1495,469 1070,419 939,460 144,419">154,454 225,453 297,458 369,460 441,462 512,466 584,469 656,472 728,471 799,476 871,476 943,478 1015,478 1086,480 1158,484 1230,484 1302,484 1373,486 1445,486 1517,488 1589,490</zone>
+			<zone xml:id="p1z5-0" points="139,538 1112,549 1352,593 1476,558 1611,600 1609,528 1485,495 1371,532 1079,495 887,521 811,482 733,521 373,469 137,501">148,516 221,519 294,524 367,527 441,530 514,532 587,534 660,536 734,539 807,540 880,541 953,542 1027,545 1100,547 1173,550 1246,550 1320,552 1393,555 1466,556 1539,557 1613,556</zone>
+			<zone xml:id="p1z6-0" points="140,588 430,639 547,604 1046,619 1166,660 1591,632 1456,565 1260,602 1024,551 139,538">150,580 222,583 294,588 366,590 439,594 511,596 583,598 655,600 728,603 800,604 872,606 944,608 1017,610 1089,611 1161,613 1233,618 1306,619 1378,620 1450,619 1522,620 1595,618</zone>
+			<zone xml:id="p1z7-0" points="153,702 333,661 469,715 1123,682 1358,717 1356,636 1249,626 1190,665 902,610 151,621">164,654 223,654 283,656 343,658 403,660 463,662 523,662 582,664 642,666 702,670 762,672 822,674 882,674 942,678 1001,680 1061,682 1121,680 1181,686 1241,686 1301,684 1361,682</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8240!Autograph!01%20E_II_348__fol__45_a_v_.tif/full/max/0/default.jpg" n="2">
@@ -75,8 +82,8 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de">Zeiger diß brieffs, der bott, ist <persName>Alexander Marschalckhs</persName> <foreign xml:lang="la">(huius <persName>Saulis</persName>, qui nos persequitur, cuius etiam mentionem feci in literis meis)</foreign> leibaigen man und wirtt doch von minen g[nädigen] herren und junckhern offt und vil gebraucht, weil er deß bottenlauffens gwon, auch weg und steg ime besser dann andern bewust etc.</s>
-					<s n="2" xml:lang="de">Wolt ich dem herren nit ohne ursach dannocht anzeigen.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Zeiger diß brieffs, der bott, ist <persName>Alexander Marschalckhs</persName> <lb xml:id="p1z2"/><foreign xml:lang="la">(huius <persName>Saulis</persName>, qui nos persequitur, cuius etiam mentionem <lb xml:id="p1z3"/>feci in literis meis)</foreign> leibaigen man und wirtt doch <lb xml:id="p1z4"/>von minen g[nädigen] herren und junckhern offt und vil gebraucht, <lb xml:id="p1z5"/>weil er deß bottenlauffens gwon, auch weg und steg <lb xml:id="p1z6"/>ime besser dann andern bewust etc.</s>
+					<s n="2" xml:lang="de">Wolt ich dem <lb xml:id="p1z7"/>herren nit ohne ursach dannocht anzeigen.</s>
 				</p>
 			</div>
 		</body>

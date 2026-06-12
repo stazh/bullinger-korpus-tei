@@ -59,33 +59,43 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!7508!Autograph!00%20E_II_378__fol__1827_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">7508/Autograph/00 E_II_378__fol__1827_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="628,382 1023,339 1205,387 1390,347 1481,392 1607,354 1655,387 1850,327 1974,372 2149,339 2243,382 2473,334 2663,362 2663,258 2612,246 2519,299 2263,258 1990,301 1736,248 1230,311 716,228 628,253">642,346 743,340 844,339 945,338 1046,337 1148,337 1249,337 1350,337 1451,334 1552,331 1654,327 1755,325 1856,325 1957,325 2058,327 2160,329 2261,328 2362,327 2463,328 2564,326 2666,313</zone>
+			<zone xml:id="p1z2-0" points="747,446 924,420 1109,463 1157,428 1357,476 1471,415 1544,458 1924,402 2364,433 2582,415 2584,352 747,397">761,421 852,418 943,420 1035,420 1126,417 1218,415 1309,415 1400,412 1492,411 1583,407 1675,406 1766,404 1857,401 1949,400 2040,400 2132,402 2223,403 2314,403 2406,406 2497,406 2589,406</zone>
+			<zone xml:id="p1z3-0" points="729,562 835,564 952,499 1202,534 2033,481 2258,529 2372,483 2579,491 2549,440 2291,420 2109,461 1767,413 1549,458 1466,415 1372,468 1076,473 924,420 729,456">743,507 835,501 927,495 1019,492 1111,489 1203,486 1295,486 1388,485 1480,483 1572,482 1664,482 1756,480 1848,477 1940,479 2033,477 2125,479 2217,480 2309,478 2401,480 2493,480 2586,480</zone>
+			<zone xml:id="p1z4-0" points="732,610 1149,580 1311,625 1392,575 1580,562 1683,608 2093,590 2157,630 2326,559 2620,564 2620,496 2443,489 2354,542 2028,483 1154,544 1040,499 732,562">746,582 840,576 934,570 1028,569 1122,566 1216,563 1310,559 1404,558 1498,559 1592,558 1686,558 1780,555 1874,555 1968,557 2062,558 2156,558 2250,559 2344,558 2438,561 2532,558 2627,555</zone>
+			<zone xml:id="p1z5-0" points="724,673 825,686 881,721 906,706 937,711 995,661 1068,681 1071,592 995,633 980,615 871,590 815,608 785,600 726,625">737,662 763,659 789,659 815,658 841,657 867,656 893,656 919,654 945,653 971,653 997,652 1023,651 1049,651 1075,651</zone>
+			<zone xml:id="p1z6-0" points="1635,721 2291,757 2645,694 2620,595 2425,648 2255,592 2157,630 2101,595 2015,630 1893,597 1822,645 1635,648">1648,698 1698,694 1748,695 1798,692 1848,692 1898,691 1948,689 1999,689 2049,689 2099,687 2149,688 2199,689 2249,689 2299,689 2350,689 2400,689 2450,689 2500,689 2550,689 2600,689 2651,689</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!7508!Autograph!01%20E_II_378__fol__1827_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">7508/Autograph/01 E_II_378__fol__1827_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="215,2260 494,2221 677,2288 790,2237 1006,2271 1120,2232 1100,2148 1024,2188 861,2148 762,2207 544,2202 459,2156 309,2155 215,2194">223,2230 270,2227 317,2224 364,2224 412,2224 459,2224 506,2224 554,2224 601,2224 648,2224 696,2225 743,2225 790,2224 838,2224 885,2224 932,2224 980,2224 1027,2224 1074,2224 1122,2227</zone>
+			<zone xml:id="p2z2-0" points="260,2335 807,2308 935,2368 1020,2323 1276,2336 1275,2276 1129,2289 1039,2249 800,2292 726,2261 669,2287 611,2242 497,2287 259,2252">265,2305 315,2299 366,2301 416,2299 467,2301 518,2300 568,2301 619,2302 670,2305 720,2305 771,2304 822,2303 872,2303 923,2302 974,2302 1024,2302 1075,2305 1126,2305 1176,2305 1227,2306 1278,2308</zone>
+			<zone xml:id="p2z3-0" points="259,2380 464,2434 773,2389 1259,2404 1217,2337 935,2368 835,2332 753,2375 579,2320 259,2345">265,2377 314,2377 364,2379 414,2378 464,2380 513,2380 563,2380 613,2380 663,2380 712,2383 762,2383 812,2383 862,2383 911,2383 961,2383 1011,2383 1061,2383 1110,2386 1160,2386 1210,2386 1260,2386</zone>
+			<zone xml:id="p2z4-0" points="270,2459 305,2467 321,2454 365,2478 451,2456 478,2472 478,2393 423,2393 413,2403 397,2396 374,2416 332,2404 313,2417 298,2410 270,2417">277,2448 302,2445 327,2445 353,2445 378,2447 403,2448 429,2448 454,2447 480,2445</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Mitto ad te, domine colendissime, schedam ex qua, quae apud nos feruntur et nuper in <placeName ref="l808">Belgio</placeName> gesta sunt, percipies.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Mitto ad te, domine colendissime, schedam ex qua, quae apud nos feruntur <lb xml:id="p1z2"/>et nuper in <placeName ref="l808">Belgio</placeName> gesta sunt, percipies.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Mitto etiam literas d. <persName ref="p8018">Halleri</persName>, quas m. <persName ref="p2899">Schenkius</persName> rogavit ut meis includerem.</s>
-					<s n="4" xml:lang="la" ana="salute">Is quoque, te plurimum ut suo nomine salutem, rogavit.</s>
+					<s n="3" xml:lang="la">Mitto etiam literas d. <persName ref="p8018">Halleri</persName>, <lb xml:id="p1z3"/>quas m. <persName ref="p2899">Schenkius</persName> rogavit ut meis includerem.</s>
+					<s n="4" xml:lang="la" ana="salute">Is quoque, te plurimum ut <lb xml:id="p1z4"/>suo nomine salutem, rogavit.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la" ana="farewell">Bene vale.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Datum <placeName ref="l18">Augustę</placeName> 21. iunii anno 1568.</s>
+					<s n="6" xml:lang="la">Datum <placeName ref="l18">Augustę</placeName> 21. iunii <lb xml:id="p1z5"/>anno 1568.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">R[everentiae] t[uae] studiosissimus <persName ref="p3740">Georgius a Stetten</persName>.</s>
-					<s n="8" xml:lang="la">Reverendo, pio atque erudito domino <persName ref="p495">Henrico Bullingero</persName>, ecclesię <placeName ref="l587">Tigurinę</placeName> antistiti fidelissimo, domino et amico suo colendo.</s>
+					<s n="7" xml:lang="la">R[<lb xml:id="p1z6"/>everentiae] t[uae] studiosissimus <persName ref="p3740">Georgius a Stetten</persName>.</s>
+					<s n="8" xml:lang="la"><pb/><lb xml:id="p2z1"/>Reverendo, pio atque erudito domino <lb xml:id="p2z2"/><persName ref="p495">Henrico Bullingero</persName>, ecclesię <placeName ref="l587">Tigurinę</placeName> <lb xml:id="p2z3"/>antistiti fidelissimo, domino et amico suo <lb xml:id="p2z4"/>colendo.</s>
 					<s n="9" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
 				</p>
 			</div>

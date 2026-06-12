@@ -74,6 +74,14 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4084!Autograph!00%20E_II_368__fol__426_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4084/Autograph/00 E_II_368__fol__426_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="682,217 1039,187 1312,240 1532,195 2384,257 2464,212 2566,230 2591,177 2224,137 2061,180 1947,112 1817,142 1432,110 1259,167 1147,122 950,155 820,95 680,112">696,194 791,188 886,190 981,188 1076,191 1171,188 1266,188 1361,188 1456,188 1551,191 1646,191 1741,194 1836,195 1931,197 2026,200 2121,201 2216,203 2311,203 2406,203 2501,203 2596,203</zone>
+			<zone xml:id="p1z2-0" points="695,307 1337,277 1419,317 1457,280 1712,270 2134,320 2646,295 2626,220 2351,255 820,212 695,255">708,274 805,268 902,267 999,265 1097,265 1194,265 1291,265 1388,265 1486,266 1583,265 1680,268 1777,268 1875,268 1972,271 2069,274 2166,274 2264,276 2361,277 2458,280 2555,279 2653,280</zone>
+			<zone xml:id="p1z3-0" points="695,387 920,360 975,402 1392,335 1882,390 1974,342 2386,387 2454,350 2574,390 2574,320 2404,290 695,307">708,355 801,352 895,348 988,345 1082,340 1176,338 1269,334 1363,334 1457,334 1550,334 1644,334 1738,337 1831,338 1925,340 2019,340 2112,343 2206,341 2300,341 2393,343 2487,340 2581,343</zone>
+			<zone xml:id="p1z4-0" points="700,445 1124,422 1297,457 1509,415 1724,457 1879,422 2196,465 2271,425 2639,447 2609,340 2521,392 2069,365 1892,400 1394,337 1262,387 700,387">714,424 810,421 907,418 1003,417 1100,413 1196,412 1293,412 1389,412 1486,412 1582,413 1679,415 1775,417 1872,417 1968,418 2065,418 2161,418 2258,418 2354,419 2451,418 2547,415 2644,409</zone>
+			<zone xml:id="p1z5-0" points="697,507 2699,510 2696,452 2554,445 2321,477 1854,432 1774,470 1492,465 1447,427 1304,462 1134,425 695,447">708,492 807,489 907,488 1007,488 1107,487 1207,487 1307,487 1407,487 1507,487 1607,489 1707,489 1806,489 1906,492 2006,492 2106,495 2206,496 2306,498 2406,501 2506,498 2606,501 2706,504</zone>
+			<zone xml:id="p1z6-0" points="700,595 2704,602 2704,505 1819,542 1634,502 1422,542 1224,497 957,540 700,512">714,564 813,561 913,561 1013,564 1113,561 1212,561 1312,564 1412,564 1512,564 1611,567 1711,567 1811,567 1911,569 2010,570 2110,570 2210,571 2310,573 2409,574 2509,576 2609,574 2709,576</zone>
+			<zone xml:id="p1z7-0" points="700,647 1914,635 2221,680 2221,587 2114,580 1004,585 947,617 700,587">714,633 789,632 865,633 940,633 1016,630 1091,630 1167,630 1242,627 1318,625 1393,627 1469,627 1545,627 1620,628 1696,627 1771,626 1847,627 1922,627 1998,629 2073,630 2149,633 2225,633</zone>
+			<zone xml:id="p1z8-0" points="1712,792 1764,820 1859,780 1944,825 2029,810 2059,782 2091,802 2124,772 2146,775 2146,680 2044,692 2001,722 1829,700 1747,730 1712,717">1726,779 1751,776 1776,774 1801,773 1826,773 1851,772 1876,770 1901,770 1926,770 1951,772 1976,773 2001,771 2026,770 2051,770 2076,772 2101,775 2126,776 2151,776</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4084!Autograph!01%20E_II_368__fol__426_v_.tif/full/max/0/default.jpg" n="2">
@@ -85,18 +93,18 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Mitto acta consilii <placeName ref="l18">Augustani</placeName> coniuncta.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Mitto acta consilii <placeName ref="l18">Augustani</placeName> coniuncta.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la">De rebus <placeName ref="l832">Gallie</placeName> nihil adhuc certi.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Potest ullus scribere, ante quam ex inauguratione et unctione redierint omnes ad loca quietiora?</s>
-					<s n="4" xml:lang="la">Utitur dominus suis mediis extra captum humani ingenii et momento convertit multa negocia et obstinatissimos animos emollit et imbecillitatem confirmat et desperatas res erigit et reficit.</s>
-					<s n="5" xml:lang="la">Que de concertationibus <placeName ref="l749">Saxonicis</placeName> scripsisti, gratissima mihi fuerunt.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z2"/>Potest ullus scribere, ante quam ex inauguratione et unctione redierint omnes <lb xml:id="p1z3"/>ad loca quietiora?</s>
+					<s n="4" xml:lang="la">Utitur dominus suis mediis extra captum humani <lb xml:id="p1z4"/>ingenii et momento convertit multa negocia et obstinatissimos animos emollit <lb xml:id="p1z5"/>et imbecillitatem confirmat et desperatas res erigit et reficit.</s>
+					<s n="5" xml:lang="la">Que de concertationibus <lb xml:id="p1z6"/><placeName ref="l749">Saxonicis</placeName> scripsisti, gratissima mihi fuerunt.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Expectare debemus magnos progressus ubique.</s>
+					<s n="6" xml:lang="la">Expectare debemus magnos progressus <lb xml:id="p1z7"/>ubique.</s>
 					<s n="7" xml:lang="la" ana="farewell">Bene vale.</s>
 				</p>
 				<p>
@@ -106,7 +114,7 @@
 					<s n="9" xml:lang="la"><placeName ref="l760">Sol[uturi]</placeName> 20. septembris.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Tuus ex animo <persName ref="p629">C[oignetius]</persName>.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z8"/>Tuus ex animo <persName ref="p629">C[oignetius]</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse fehlt.]</note>

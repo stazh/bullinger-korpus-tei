@@ -79,11 +79,24 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10419!Autograph!00%20E_II_343__fol__43_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10419/Autograph/00 E_II_343__fol__43_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="197,262 270,222 332,259 546,214 991,237 1096,197 1343,234 2436,189 2436,132 2242,96 2008,132 1569,96 1498,158 1194,96 1019,161 200,130">214,232 325,221 436,213 548,207 659,203 771,200 882,197 993,195 1105,194 1216,194 1328,194 1439,192 1550,191 1662,188 1773,185 1885,182 1996,179 2107,173 2219,170 2330,166 2442,158</zone>
+			<zone xml:id="p1z2-0" points="206,327 428,332 622,279 755,310 859,265 974,310 1326,262 2202,270 2394,237 2397,172 1611,228 546,214 206,259">220,298 329,287 438,279 547,272 656,268 765,262 874,259 983,258 1092,257 1201,255 1310,253 1419,250 1528,248 1637,247 1746,244 1855,241 1964,237 2073,233 2182,229 2291,224 2400,217</zone>
+			<zone xml:id="p1z3-0" points="203,411 707,341 1490,324 1678,358 2084,299 2374,330 2377,239 1811,251 1715,290 560,282 434,330 206,327">217,367 325,358 433,348 541,340 650,334 758,331 866,325 974,325 1083,322 1191,324 1299,320 1407,318 1516,316 1624,313 1732,309 1840,304 1949,301 2057,299 2165,295 2273,290 2382,292</zone>
+			<zone xml:id="p1z4-0" points="206,456 831,391 1062,428 1146,383 1929,408 2273,360 2276,313 667,344 208,417">223,438 325,425 428,416 531,406 634,399 737,392 840,388 943,385 1046,385 1149,383 1252,382 1354,382 1457,377 1560,373 1663,368 1766,368 1869,364 1972,361 2075,357 2178,348 2281,340</zone>
+			<zone xml:id="p1z5-0" points="203,527 391,484 656,507 749,459 997,496 1067,442 1600,476 2214,425 2270,465 2442,431 2447,338 1957,408 1124,386 1059,422 704,400 470,456 206,453">217,501 328,491 440,477 552,466 663,456 775,448 887,444 998,444 1110,441 1222,441 1334,438 1445,439 1557,435 1669,433 1780,432 1892,430 2004,426 2115,420 2227,415 2339,408 2451,400</zone>
+			<zone xml:id="p1z6-0" points="217,572 828,521 1121,549 1352,504 2329,518 2450,479 2453,420 2267,459 2214,425 1707,470 1355,445 220,507">232,558 343,544 454,533 565,526 677,516 788,513 899,509 1010,504 1122,504 1233,501 1344,498 1455,495 1567,495 1678,493 1789,495 1900,490 2012,489 2123,484 2234,480 2345,472 2457,462</zone>
+			<zone xml:id="p1z7-0" points="217,653 704,577 963,608 1090,563 1222,597 1847,546 1918,580 2366,538 2481,569 2484,484 2416,473 2326,513 1256,507 220,572">235,615 347,608 460,595 572,584 685,577 798,572 910,568 1023,567 1135,561 1248,558 1361,555 1473,555 1586,552 1698,549 1811,549 1924,546 2036,543 2149,540 2261,534 2374,524 2487,516</zone>
+			<zone xml:id="p1z8-0" points="231,690 597,721 738,645 1042,710 1281,628 1425,679 1856,614 2121,670 2388,611 2366,538 1538,597 1098,558 963,608 701,580 234,642">250,683 357,670 464,660 572,652 679,644 786,635 894,633 1001,632 1108,626 1216,621 1323,618 1430,615 1538,615 1645,611 1752,607 1860,603 1967,603 2074,600 2182,593 2289,583 2397,573</zone>
+			<zone xml:id="p1z9-0" points="1540,760 1901,713 2061,743 2129,707 2202,710 2205,673 2059,645 1926,679 1864,645 1780,656 1755,636 1704,667 1546,656">1555,737 1587,733 1620,726 1653,725 1685,722 1718,716 1751,716 1783,716 1816,715 1849,713 1882,711 1914,710 1947,710 1980,710 2012,708 2045,706 2078,704 2110,704 2143,702 2176,701 2209,701</zone>
+			<zone xml:id="p1z10-0" points="225,786 268,797 324,783 341,766 360,763 375,774 414,760 428,763 437,693 400,687 383,698 369,687 324,718 299,718 296,710 284,718 276,710 234,718">247,749 274,747 301,743 328,740 356,736 383,732 410,730 438,728</zone>
+			<zone xml:id="p1z11-0" points="234,853 276,870 324,851 400,887 521,873 583,918 651,879 670,893 729,859 789,862 800,724 721,704 670,729 569,710 437,786 400,763 335,803 239,800">253,844 280,842 307,839 335,835 362,832 389,828 417,826 444,824 471,822 499,820 526,818 553,815 581,812 608,812 635,810 663,806 690,804 717,803 745,801 772,798 800,794</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10419!Autograph!01%20E_II_343__fol__43_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10419/Autograph/01 E_II_343__fol__43_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="825,1092 904,1060 941,1082 1184,1074 1228,1092 1347,1066 1346,1014 1330,1008 1253,1020 1195,998 1093,1018 908,973 824,986">830,1075 857,1063 884,1059 911,1056 939,1054 966,1054 993,1054 1021,1054 1048,1054 1075,1054 1103,1054 1130,1054 1157,1056 1185,1058 1212,1060 1239,1062 1267,1063 1294,1061 1321,1060 1349,1060</zone>
+			<zone xml:id="p2z2-0" points="941,1162 1026,1161 1081,1183 1118,1173 1143,1190 1254,1176 1301,1211 1341,1215 1354,1212 1357,1091 1279,1108 1200,1086 942,1092">946,1146 971,1146 997,1146 1023,1146 1049,1146 1074,1146 1100,1146 1126,1146 1152,1145 1177,1143 1203,1141 1229,1140 1255,1140 1280,1140 1306,1140 1332,1141 1358,1143</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -91,17 +104,17 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Attulit ad nos tabellio<note xml:id="fn2" type="footnote" n="2">Der Überbringer des Briefes ist unbekannt.</note> iste copiam literarum a <persName ref="p8055">Blaurero</persName> ad te missarum<note xml:id="fn3" type="footnote" n="3">Gemeint ist möglicherweise <persName ref="p8055">Ambrosius Blarers</persName> Brief an <persName ref="p495">Bullinger</persName> vom 23. Mai 1534 (oben <ref target="file10415">Nr. 381</ref>) und die dort erwähnte «Neue Zeitung» (s. oben <ref target="file10415">[Nr. 381]</ref> S. 189, Anm. 15).</note>, quam vellem tu ipse ad me misisses, quanquam homini huic satis pio mihique charissimo optime faveam, quicquid muneris illi a nostris contigit.</s>
-					<s n="3" xml:lang="la">Primam de bello<note xml:id="fn4" type="footnote" n="4">Es handelt sich um den Krieg zur Wiedereinsetzung Herzog <persName ref="p9708">Ulrichs von Württemberg</persName> im Mai 1534, vgl. <bibl source="b690">Wille</bibl> 176-187 und <bibl source="b342">Keller</bibl> 64-93.</note> hoc veritatem a te accepimus<note xml:id="fn5" type="footnote" n="5"><persName ref="p495">Bullingers</persName> entsprechender Brief an <persName ref="p1391">Haller</persName> oder die <placeName ref="l41">Berner</placeName> Kirche ist nicht erhalten.</note>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Attulit ad nos tabellio<note xml:id="fn2" type="footnote" n="2">Der Überbringer des Briefes ist unbekannt.</note> iste copiam literarum a <persName ref="p8055">Blaurero</persName> ad te missarum<note xml:id="fn3" type="footnote" n="3">Gemeint ist möglicherweise <persName ref="p8055">Ambrosius Blarers</persName> Brief an <persName ref="p495">Bullinger</persName> vom 23. Mai 1534 (oben <ref target="file10415">Nr. 381</ref>) und die dort erwähnte «Neue Zeitung» (s. oben <ref target="file10415">[Nr. 381]</ref> S. 189, Anm. 15).</note>, quam vellem tu ipse ad me misisse<lb xml:id="p1z2"/>s, quanquam homini huic satis pio mihique charissimo optime faveam, quicquid muneris illi a nostris contigit.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z3"/>Primam de bello<note xml:id="fn4" type="footnote" n="4">Es handelt sich um den Krieg zur Wiedereinsetzung Herzog <persName ref="p9708">Ulrichs von Württemberg</persName> im Mai 1534, vgl. <bibl source="b690">Wille</bibl> 176-187 und <bibl source="b342">Keller</bibl> 64-93.</note> hoc veritatem a te accepimus<note xml:id="fn5" type="footnote" n="5"><persName ref="p495">Bullingers</persName> entsprechender Brief an <persName ref="p1391">Haller</persName> oder die <placeName ref="l41">Berner</placeName> Kirche ist nicht erhalten.</note>.</s>
 					<s n="4" xml:lang="la">Deinde scripserunt <placeName ref="l491">Argentinenses</placeName><pb type="edition" next="196"/><note xml:id="fn6" type="footnote" n="6">Ein Brief aus <placeName ref="l491">Straßburg</placeName> an <persName ref="p1391">Haller</persName> aus dieser Zeit ist nicht erhalten.</note><note xml:id="fn7" type="footnote" n="7">Damit ist wohl die Kopie des eingangs erwähnten <persName ref="p8055">Blarer</persName>-Briefes gemeint.</note>.</s>
 					<s n="5" xml:lang="la">Terciam nunc accępimus.</s>
-					<s n="6" xml:lang="la">Nostri non cessant admirari tuorum taciturnitatem.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z4"/>Nostri non cessant admirari tuorum taciturnitatem.</s>
 					<s n="7" xml:lang="la">Videntur nonnulli male propicii negocio huic.</s>
-					<s n="8" xml:lang="la">Obsecro non cesses quottidie scribere quae accipis.</s>
-					<s n="9" xml:lang="la">Admoniti sumus strumas<note xml:id="fn8" type="footnote" n="8">«Kröpfe», Spottname, hier für die <placeName ref="l791">Walliser</placeName> (vgl. <bibl source="b590">SI</bibl> III 847f).</note> <placeName ref="l791">Vales[ianos]</placeName>, <persName ref="p18536">Allobrogum regulum</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p18536">Karl III., Herzog von Savoyen</persName>.</note> et <placeName ref="l2448">Antronios</placeName> octo<note xml:id="fn10" type="footnote" n="10">Spottname für die <placeName ref="l2448">V Orte</placeName> (vgl. <bibl source="b4">HBBW II</bibl> <ref target="file10110">[Nr. 81]</ref> 88, Anm. 3) und dazu <placeName ref="l2786">Freiburg</placeName> und <placeName ref="l468">Solothurn</placeName> (vgl. <bibl source="b197">EA</bibl> IV/IC, 414 C. 415) sowie entweder <placeName ref="l17">Appenzell</placeName> oder <placeName ref="l646">Glarus</placeName> (unten Z. 10) als achtem Partner eines Bündnisses mit dem <placeName ref="l791">Wallis</placeName> und <placeName ref="l2478">Savoyen</placeName>.</note> in foedus coiisse.</s>
-					<s n="10" xml:lang="la">Quid vero moliantur, tu facile coniecturabis, qui hominum istorum ingenia habes perspectissima.</s>
-					<s n="11" xml:lang="la">Num vero <placeName ref="l17">Abbazellani</placeName> aut <placeName ref="l646">Glareani</placeName> 7<note xml:id="fn11" type="footnote" n="11">den sieben; vgl. vorangehende Anm.</note> accesserint, plane nescimus, cęterum vero exploratissimum habemus.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z5"/>Obsecro non cesses quottidie scribere quae accipis.</s>
+					<s n="9" xml:lang="la">Admoniti sumus strumas<note xml:id="fn8" type="footnote" n="8">«Kröpfe», Spottname, hier für die <placeName ref="l791">Walliser</placeName> (vgl. <bibl source="b590">SI</bibl> III 847f).</note> <placeName ref="l791">Vales[ianos]</placeName>, <persName ref="p18536">Allobrogum regulum</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p18536">Karl III., Herzog von Savoyen</persName>.</note> <lb xml:id="p1z6"/>et <placeName ref="l2448">Antronios</placeName> octo<note xml:id="fn10" type="footnote" n="10">Spottname für die <placeName ref="l2448">V Orte</placeName> (vgl. <bibl source="b4">HBBW II</bibl> <ref target="file10110">[Nr. 81]</ref> 88, Anm. 3) und dazu <placeName ref="l2786">Freiburg</placeName> und <placeName ref="l468">Solothurn</placeName> (vgl. <bibl source="b197">EA</bibl> IV/IC, 414 C. 415) sowie entweder <placeName ref="l17">Appenzell</placeName> oder <placeName ref="l646">Glarus</placeName> (unten Z. 10) als achtem Partner eines Bündnisses mit dem <placeName ref="l791">Wallis</placeName> und <placeName ref="l2478">Savoyen</placeName>.</note> in foedus coiisse.</s>
+					<s n="10" xml:lang="la">Quid vero moliantur, tu facile coniecturabis, qui hominum istorum ingenia <lb xml:id="p1z7"/>habes perspectissima.</s>
+					<s n="11" xml:lang="la">Num vero <placeName ref="l17">Abbazellani</placeName> aut <placeName ref="l646">Glareani</placeName> 7<note xml:id="fn11" type="footnote" n="11">den sieben; vgl. vorangehende Anm.</note> accesserint, plane nescimus, cęterum vero explorat<lb xml:id="p1z8"/>issimum habemus.</s>
 					<s n="12" xml:lang="la">Haec tibi in secretis.</s>
 				</p>
 				<p>
@@ -114,14 +127,14 @@
 					<s n="15" xml:lang="de">30. maii.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la">Tuum <persName ref="p1391">minimum nummisma</persName>.</s>
+					<s n="16" xml:lang="la"><lb xml:id="p1z9"/>Tuum <persName ref="p1391">minimum nummisma</persName>.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" ana="salute"><persName ref="p2278">Consul</persName><note xml:id="fn13" type="footnote" n="13"><persName ref="p2278">Hans Jakob von Wattenwyl</persName>.</note> te salutat ex animo.</s>
+					<s n="17" xml:lang="la" ana="salute"><lb xml:id="p1z11"/><persName ref="p2278">Consul</persName><note xml:id="fn13" type="footnote" n="13"><persName ref="p2278">Hans Jakob von Wattenwyl</persName>.</note> te salutat ex animo.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="18" xml:lang="la">Suo <persName ref="p495">Heinrico Bullingero</persName>, fratri semper charissimo.</s>
+					<s n="18" xml:lang="la"><pb/><lb xml:id="p2z1"/>Suo <persName ref="p495">Heinrico Bullingero</persName>, <lb xml:id="p2z2"/>fratri semper charissimo.</s>
 				</p>
 			</div>
 		</body>

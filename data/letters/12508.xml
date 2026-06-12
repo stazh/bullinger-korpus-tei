@@ -72,11 +72,28 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12508!Autograph!00%20E_II_355__fol__116_a_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12508/Autograph/00 E_II_355__fol__116_a_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="266,278 453,249 688,287 771,242 937,298 1039,253 1288,293 1721,230 1970,259 1972,159 1728,196 1445,147 1039,219 842,155 623,183 385,113 268,132">277,238 366,235 455,235 545,235 634,235 724,235 813,235 902,235 992,235 1081,235 1171,235 1260,235 1350,232 1439,232 1528,232 1618,232 1707,229 1797,229 1886,226 1976,226</zone>
+			<zone xml:id="p1z2-0" points="321,342 540,385 854,338 1551,376 1643,327 1966,317 1946,251 1300,300 1232,264 321,280">333,330 414,326 496,324 578,321 660,321 742,318 824,318 905,315 987,318 1069,318 1151,315 1233,315 1315,314 1397,312 1478,312 1560,310 1642,308 1724,306 1806,303 1888,300 1970,298</zone>
+			<zone xml:id="p1z3-0" points="308,474 416,419 474,459 657,429 744,463 1026,402 1120,453 1522,442 1955,389 1957,321 1583,372 310,359">321,417 403,414 485,411 567,409 649,406 731,405 813,401 895,399 977,399 1059,399 1141,397 1223,396 1305,395 1387,393 1469,390 1551,387 1633,387 1715,384 1797,380 1879,374 1961,375</zone>
+			<zone xml:id="p1z4-0" points="321,525 941,542 1107,508 1192,540 1347,504 1413,548 1475,499 1919,470 1908,400 1634,446 1341,419 1148,459 978,423 701,478 612,429 476,480 406,425 323,459">333,509 412,506 492,503 571,498 651,497 731,496 810,494 890,491 969,489 1049,490 1129,488 1208,488 1288,486 1367,483 1447,481 1527,476 1606,473 1686,468 1765,466 1845,461 1925,459</zone>
+			<zone xml:id="p1z5-0" points="314,597 746,644 1126,580 1294,627 1630,563 1908,597 1910,510 314,557">327,593 406,592 485,590 564,590 644,587 723,584 802,584 882,581 961,579 1040,575 1120,575 1199,575 1278,572 1357,570 1437,568 1516,566 1595,563 1675,558 1754,557 1833,553 1913,551</zone>
+			<zone xml:id="p1z6-0" points="304,708 414,680 746,737 846,678 941,727 1077,667 1164,722 1334,672 1630,737 1927,712 1930,580 1432,640 306,631">318,679 398,676 479,676 560,673 641,673 722,670 802,670 883,667 964,667 1045,664 1126,664 1206,664 1287,661 1368,661 1449,661 1530,658 1610,658 1691,658 1772,658 1853,660 1934,652</zone>
+			<zone xml:id="p1z7-0" points="319,769 472,803 638,769 844,829 1294,763 1405,814 1485,778 1734,816 1817,778 1902,816 1902,716 1772,701 1636,735 319,740">330,763 408,763 487,763 566,763 645,763 724,763 803,763 881,760 960,760 1039,760 1118,759 1197,757 1276,757 1355,754 1433,754 1512,751 1591,751 1670,750 1749,750 1828,749 1907,748</zone>
+			<zone xml:id="p1z8-0" points="304,922 595,858 912,882 992,929 1137,867 1258,901 1375,858 1543,897 1658,852 1951,871 1951,799 1794,786 1122,835 306,810">318,861 399,863 481,858 563,858 645,858 727,855 809,855 890,855 972,855 1054,852 1136,853 1218,850 1300,849 1382,846 1463,843 1545,841 1627,838 1709,837 1791,836 1873,834 1955,837</zone>
+			<zone xml:id="p1z9-0" points="312,965 474,1003 688,956 1345,992 1602,922 1925,948 1927,861 1730,903 1640,869 1007,924 901,886 312,916">324,953 404,950 484,948 565,944 645,943 725,941 806,941 886,941 966,938 1047,935 1127,935 1207,935 1288,934 1368,932 1448,927 1529,927 1609,924 1689,921 1770,921 1850,918 1931,921</zone>
+			<zone xml:id="p1z10-0" points="308,1094 567,1054 718,1103 1048,1035 1356,1082 1694,1018 1764,1043 1766,939 1547,982 1470,944 1339,1005 1043,956 310,1001">321,1040 393,1042 465,1035 538,1034 610,1034 683,1031 755,1030 828,1028 900,1025 973,1025 1045,1027 1117,1023 1190,1028 1262,1025 1335,1022 1407,1019 1480,1019 1552,1019 1625,1014 1697,1015 1770,1013</zone>
+			<zone xml:id="p1z11-0" points="1175,1216 1281,1216 1373,1177 1488,1228 1587,1205 1606,1224 1736,1224 1770,1213 1772,1118 1653,1145 1594,1116 1475,1130 1405,1096 1318,1116 1277,1088 1177,1120">1186,1180 1215,1179 1245,1177 1274,1177 1304,1176 1333,1174 1363,1174 1392,1174 1422,1174 1451,1174 1481,1173 1510,1171 1540,1171 1569,1170 1599,1168 1628,1168 1658,1168 1687,1168 1717,1166 1746,1164 1776,1162</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12508!Autograph!01%20E_II_355__fol__116_a_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12508/Autograph/01 E_II_355__fol__116_a_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="455,742 567,717 656,750 706,724 797,740 869,715 910,736 947,712 1020,714 1021,640 982,650 957,630 818,674 689,655 607,674 516,634 457,649">461,705 489,699 517,699 545,697 573,697 601,697 629,695 657,695 685,695 713,694 741,694 769,694 797,694 825,694 853,692 881,691 909,691 937,691 965,691 993,693 1021,699</zone>
+			<zone xml:id="p2z2-0" points="489,789 526,784 587,815 640,777 861,803 1014,769 1015,733 853,722 771,751 692,752 490,737">495,771 521,770 547,768 573,767 599,767 625,765 651,765 677,765 703,764 729,762 755,761 781,761 807,761 833,761 859,761 885,760 911,758 937,757 963,757 989,757 1015,759</zone>
+			<zone xml:id="p2z3-0" points="495,878 709,844 796,903 844,871 982,833 984,779 891,786 827,815 736,787 624,817 551,794 497,804">501,845 526,842 551,840 577,838 602,837 628,835 653,835 679,833 704,833 730,833 755,833 781,833 806,831 832,829 857,829 883,829 908,829 934,829 959,829 985,827</zone>
+			<zone xml:id="p2z4-0" points="480,935 517,946 590,914 632,935 680,912 773,913 844,953 940,910 981,919 982,849 801,892 480,878">485,907 511,909 537,909 563,909 589,907 616,907 642,907 668,906 694,905 720,905 747,905 773,905 799,908 825,908 851,906 878,904 904,902 930,901 956,901 983,905</zone>
+			<zone xml:id="p2z5-0" points="774,1002 808,992 845,1015 880,1021 907,1013 943,1033 997,1033 1004,932 960,927 911,939 895,931 844,954 825,937 777,950">780,983 807,979 835,977 863,976 891,972 919,971 947,969 975,969 1003,969</zone>
+			<zone xml:id="p2z6-0" points="434,1421 449,1424 457,1418 475,1426 502,1412 517,1422 536,1418 545,1429 559,1425 562,1379 544,1379 516,1360 493,1353 480,1353 469,1360 452,1343 442,1344">441,1407 471,1403 502,1403 532,1397 563,1395</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
@@ -84,30 +101,30 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Gnäd und frid duͦrch Christum Jhesum, unsernn herenn.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Gnäd und frid duͦrch Christum Jhesum, unsernn herenn.</s>
 					<s n="2" xml:lang="de">Amen.</s>
-					<s n="3" xml:lang="de">Würdiger, wol und höchgelerter her maister <persName ref="p495">Hainrich</persName>, min schriben nit sunders, dann<note xml:id="fn2" type="footnote" n="2">nit sunders, dann: nur um [mitzuteilen], dass.</note> ich hab üwer schriben<note xml:id="fn3" type="footnote" ana="bio" n="3">Nicht erhalten. -<persName ref="p495">Bullingers</persName> Brief könnte Erbangelegenheiten des verstorbenen <persName ref="p8437">Erasmus Schmid</persName> angesprochen haben; s. <bibl source="b19">HBBW XVI</bibl> 356,24-32 und Anm. 15 (wo der an zweiter Stelle genannte Bruder "<persName ref="p8007">Johannes</persName>" durch "<persName ref="p2839">Felix</persName>" zu ersetzen ist). Die folgenden Zeilen lassen jedoch vermuten, dass der verlorene Brief eher im Anschluss an das vom 28. Januar 1546 datierte Schreiben <persName ref="p1915">Bernhard Lindauers</persName>, des Schulmeisters an der Lateinschule in <placeName ref="l489">Stein am Rhein</placeName> <hi>(HBBW</hi> XVI, <ref target="file12386">Nr. 2339</ref>), entstanden war. Der mit Arbeit überlastete <persName ref="p1915">Lindauer</persName> bat <persName ref="p495">Bullinger</persName> zu veranlassen, dass der ehemalige Konventual <persName ref="p5905">Eustachius Mörikofer</persName> ihm als Hilfslehrer beistehe.</note> empfangen und getrüw gemütt vernommen, und kan<pb type="edition" next="90"/> gedencken, das im also ist,<note xml:id="fn4" type="footnote" n="4">das im also ist: dass es sich so verhält.</note> wie ier schribend.</s>
-					<s n="4" xml:lang="de">Dann es laider hür zuͦ jar<note xml:id="fn5" type="footnote" n="5">Die Bedeutung von "hür zu jar" ist ungewiss. Vielleicht im Sinne von: heutzutage.</note> schier allenthalb<note xml:id="fn6" type="footnote" n="6">schier allenthalb: fast überall.</note> die mainüg hät<note xml:id="fn7" type="footnote" n="7">die mainüg hät: die Ansicht herrscht.</note>, und der mangel ist, wie ier schribend.</s>
-					<s n="5" xml:lang="de">Gott, der well es duͦrch sin hilff und gnäd bald besserenn.</s>
+					<s n="3" xml:lang="de">Würdiger, <lb xml:id="p1z2"/>wol und höchgelerter her maister <persName ref="p495">Hainrich</persName>, min schriben nit sunders, <lb xml:id="p1z3"/>dann<note xml:id="fn2" type="footnote" n="2">nit sunders, dann: nur um [mitzuteilen], dass.</note> ich hab üwer schriben<note xml:id="fn3" type="footnote" ana="bio" n="3">Nicht erhalten. -<persName ref="p495">Bullingers</persName> Brief könnte Erbangelegenheiten des verstorbenen <persName ref="p8437">Erasmus Schmid</persName> angesprochen haben; s. <bibl source="b19">HBBW XVI</bibl> 356,24-32 und Anm. 15 (wo der an zweiter Stelle genannte Bruder "<persName ref="p8007">Johannes</persName>" durch "<persName ref="p2839">Felix</persName>" zu ersetzen ist). Die folgenden Zeilen lassen jedoch vermuten, dass der verlorene Brief eher im Anschluss an das vom 28. Januar 1546 datierte Schreiben <persName ref="p1915">Bernhard Lindauers</persName>, des Schulmeisters an der Lateinschule in <placeName ref="l489">Stein am Rhein</placeName> <hi>(HBBW</hi> XVI, <ref target="file12386">Nr. 2339</ref>), entstanden war. Der mit Arbeit überlastete <persName ref="p1915">Lindauer</persName> bat <persName ref="p495">Bullinger</persName> zu veranlassen, dass der ehemalige Konventual <persName ref="p5905">Eustachius Mörikofer</persName> ihm als Hilfslehrer beistehe.</note> empfangen und getrüw gemütt vernom<lb xml:id="p1z4"/>men, und kan<pb type="edition" next="90"/> gedencken, das im also ist,<note xml:id="fn4" type="footnote" n="4">das im also ist: dass es sich so verhält.</note> wie ier schribend.</s>
+					<s n="4" xml:lang="de">Dann <lb xml:id="p1z5"/>es laider hür zuͦ jar<note xml:id="fn5" type="footnote" n="5">Die Bedeutung von "hür zu jar" ist ungewiss. Vielleicht im Sinne von: heutzutage.</note> schier allenthalb<note xml:id="fn6" type="footnote" n="6">schier allenthalb: fast überall.</note> die mainüg hät<note xml:id="fn7" type="footnote" n="7">die mainüg hät: die Ansicht herrscht.</note>, und <lb xml:id="p1z6"/>der mangel ist, wie ier schribend.</s>
+					<s n="5" xml:lang="de">Gott, der well es duͦrch sin hilff <lb xml:id="p1z7"/>und gnäd bald besserenn.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="6" xml:lang="de">Nüt dest weniger sag ich uich<note xml:id="fn8" type="footnote" ana="lex" n="8">euch.</note> früntlichen flissigen danck üwers günstigen, genaigten und guͦtten willens mit begär, semlichs<note xml:id="fn9" type="footnote" ana="lex" n="9">dies.</note> zuͦ verdienen<note xml:id="fn10" type="footnote" ana="lex" n="10">erwidern.</note>.</s>
+					<s n="6" xml:lang="de">Nüt dest weniger sag ich uich<note xml:id="fn8" type="footnote" ana="lex" n="8">euch.</note> früntlichen <lb xml:id="p1z8"/>flissigen danck üwers günstigen, genaigten und guͦtten willens mit <lb xml:id="p1z9"/>begär, semlichs<note xml:id="fn9" type="footnote" ana="lex" n="9">dies.</note> zuͦ verdienen<note xml:id="fn10" type="footnote" ana="lex" n="10">erwidern.</note>.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="de">Damit sind demm trüwen gott zuͦ gnaden befolhen.</s>
+					<s n="7" xml:lang="de">Damit sind demm trüwen gott <lb xml:id="p1z10"/>zuͦ gnaden befolhen.</s>
 					<s n="8" xml:lang="de">In yl, uff 14. iunii 1546.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de">Uwer williger diener <persName ref="p2839">Felix Schmid</persName>.</s>
+					<s n="9" xml:lang="de"><lb xml:id="p1z11"/>Uwer williger diener <persName ref="p2839">Felix Schmid</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="10" xml:lang="de">Dem würdigen, wolgelertten heren maister <persName ref="p495">Hainrich Bullinger</persName>, predicant <placeName ref="l587">Zürich</placeName>, minem gnädigen herenn zuͦ handen.</s>
+					<s n="10" xml:lang="de"><pb/><lb xml:id="p2z1"/>Dem würdigen, wolgelertt<lb xml:id="p2z2"/>en heren maister <persName ref="p495">Hainr<lb xml:id="p2z3"/>ich Bullinger</persName>, predicant <lb xml:id="p2z4"/><placeName ref="l587">Zürich</placeName>, minem gnädigen herenn <lb xml:id="p2z5"/>zuͦ handen.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="de"><placeName ref="l587">Zürich</placeName>.</s>
+					<s n="11" xml:lang="de"><lb xml:id="p2z6"/><placeName ref="l587">Zürich</placeName>.</s>
 				</p>
 			</div>
 		</body>

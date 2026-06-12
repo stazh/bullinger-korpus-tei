@@ -75,34 +75,46 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2010!Autograph!00%20E_II_361__fol__352_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">2010/Autograph/00 E_II_361__fol__352_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="464,224 782,183 897,224 1212,166 2013,204 2270,173 2352,207 2393,197 2395,118 1667,137 1304,77 1008,132 777,113 738,149 681,113 464,127">477,205 573,185 669,181 765,175 861,171 957,167 1053,164 1150,161 1246,161 1342,161 1438,163 1534,164 1630,164 1726,164 1823,167 1919,164 2015,164 2111,165 2207,164 2303,161 2400,164</zone>
+			<zone xml:id="p1z2-0" points="539,281 1053,231 2362,240 2354,171 541,202">552,253 642,249 733,245 824,239 915,236 1005,232 1096,230 1187,227 1278,227 1368,226 1459,225 1550,225 1641,221 1731,222 1822,220 1913,220 2004,220 2094,220 2185,220 2276,220 2367,220</zone>
+			<zone xml:id="p1z3-0" points="534,325 1385,279 2419,298 2422,238 1260,260 1210,228 534,284">546,307 639,301 733,297 827,291 921,288 1015,284 1109,280 1203,278 1297,277 1391,277 1485,274 1578,274 1672,274 1766,274 1860,274 1954,271 2048,274 2142,274 2236,272 2330,274 2424,274</zone>
+			<zone xml:id="p1z4-0" points="539,387 859,392 986,349 1183,378 1246,332 1289,375 1544,329 1948,368 2008,327 2229,325 2415,368 2463,313 1527,279 539,334">552,367 647,363 743,359 838,353 934,347 1030,343 1125,337 1221,334 1317,331 1412,328 1508,328 1604,325 1699,325 1795,325 1891,322 1986,322 2082,323 2178,324 2273,328 2369,328 2465,334</zone>
+			<zone xml:id="p1z5-0" points="539,445 1518,390 2025,423 2400,392 2403,358 1816,327 1291,375 1239,334 1099,385 988,349 866,394 539,390">552,426 644,418 737,412 829,411 922,408 1014,403 1107,400 1199,397 1292,394 1384,390 1477,388 1570,386 1662,384 1755,382 1847,382 1940,382 2032,380 2125,379 2217,379 2310,376 2403,376</zone>
+			<zone xml:id="p1z6-0" points="546,503 988,503 1311,440 2429,457 2458,385 546,445">558,477 653,469 748,466 843,462 938,456 1034,453 1129,447 1224,443 1319,440 1414,435 1510,430 1605,429 1700,432 1795,429 1890,429 1986,429 2081,429 2176,426 2271,423 2366,423 2462,420</zone>
+			<zone xml:id="p1z7-0" points="536,544 1193,553 1306,515 1400,563 1597,495 1739,527 1809,488 2054,553 2424,500 2415,421 2104,467 1323,438 1212,479 539,503">552,537 645,531 739,525 833,518 927,516 1021,511 1115,508 1209,502 1303,495 1397,492 1491,486 1584,483 1678,480 1772,480 1866,483 1960,483 2054,485 2148,483 2242,483 2336,480 2430,480</zone>
+			<zone xml:id="p1z8-0" points="551,623 659,594 731,630 873,608 974,642 1046,606 1289,587 1289,529 1236,524 1195,551 1138,524 969,556 928,529 553,546">564,588 600,585 637,585 673,585 710,582 746,582 783,582 819,582 856,581 892,579 929,579 966,575 1002,572 1039,569 1075,567 1112,567 1148,567 1185,567 1221,566 1258,564 1295,564</zone>
+			<zone xml:id="p1z9-0" points="1823,794 1873,803 1895,789 1984,820 2006,820 2035,794 2085,820 2112,801 2181,801 2181,717 2104,702 2088,719 1977,729 1946,748 1823,709">1836,785 1861,783 1886,782 1911,782 1936,782 1961,782 1986,782 2012,782 2037,782 2062,782 2087,782 2112,782 2137,782 2162,782 2188,782</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2010!Autograph!01%20E_II_361__fol__352_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">2010/Autograph/01 E_II_361__fol__352_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="483,1254 554,1230 724,1239 882,1213 1034,1237 1111,1216 1113,1165 863,1159 679,1094 488,1106">489,1224 520,1220 551,1218 582,1218 614,1215 645,1213 676,1211 707,1209 739,1207 770,1205 801,1203 832,1203 864,1203 895,1203 926,1203 957,1203 989,1202 1020,1200 1051,1200 1082,1201 1114,1203</zone>
+			<zone xml:id="p2z2-0" points="495,1311 661,1285 755,1302 906,1270 949,1298 1093,1266 1091,1229 976,1249 919,1224 838,1253 687,1229 624,1257 556,1229 498,1259">501,1299 530,1294 560,1290 590,1286 620,1284 649,1284 679,1282 709,1280 739,1278 768,1276 798,1274 828,1272 858,1270 887,1269 917,1269 947,1267 977,1266 1006,1266 1036,1264 1066,1262 1096,1260</zone>
+			<zone xml:id="p2z3-0" points="501,1366 712,1351 794,1386 882,1389 1120,1323 1122,1286 975,1311 901,1281 746,1302 658,1286 617,1310 503,1314">507,1347 537,1344 568,1342 599,1341 630,1341 661,1339 691,1338 722,1338 753,1338 784,1337 815,1335 845,1333 876,1332 907,1331 938,1327 969,1326 999,1325 1030,1323 1061,1321 1092,1319 1123,1317</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Ad me hisce diebus scripsit d. <persName ref="p8417">Musculus</persName> in hęc verba: "In praesenti hoc abs te scire cupio, an gratum tibi futurum sit, si transferaris <placeName ref="l582">Zofingam</placeName> in locum d. <persName ref="p20907">Ieorgii</persName><note xml:id="fn1" type="footnote" n="1">Die Berufung von <persName ref="p20907">Jörg Joachim</persName> nach <placeName ref="l1104">Wynigen</placeName> wurde widerrufen; s. Pfister, Die Präd. d. bern. Aarg. S. 141f, Nr. 1115f (irrtüml. Joh. Georg Will; vgl. Nachtr. zu <bibl source="b1">HBBW I</bibl>-X).</note>; nam ille translatus est ad aliam quandam ecclesiam, et vacat illius locus.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Ad me hisce diebus scripsit d. <persName ref="p8417">Musculus</persName> in hęc verba: "In praesenti hoc abs te scire cupio, an gratum tibi <lb xml:id="p1z2"/>futurum sit, si transferaris <placeName ref="l582">Zofingam</placeName> in locum d. <persName ref="p20907">Ieorgii</persName><note xml:id="fn1" type="footnote" n="1">Die Berufung von <persName ref="p20907">Jörg Joachim</persName> nach <placeName ref="l1104">Wynigen</placeName> wurde widerrufen; s. Pfister, Die Präd. d. bern. Aarg. S. 141f, Nr. 1115f (irrtüml. Joh. Georg Will; vgl. Nachtr. zu <bibl source="b1">HBBW I</bibl>-X).</note>; nam ille translatus est ad aliam <lb xml:id="p1z3"/>quandam ecclesiam, et vacat illius locus.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Quamprimum fieri potest, significa michi animum tuum; neque enim causa ista moram ferre potest" etc.</s>
-					<s n="4" xml:lang="la">Super hac <persName ref="p8417">Musculi</persName> petitione cupio ex animo sententiam tuam audire; hanc, quam primum potueris, michi significa, charissime frater.</s>
+					<s n="3" xml:lang="la">Quamprimum fieri potest, significa michi animum tuum; <lb xml:id="p1z4"/>neque enim causa ista moram ferre potest" etc.</s>
+					<s n="4" xml:lang="la">Super hac <persName ref="p8417">Musculi</persName> petitione cupio ex animo sententiam <lb xml:id="p1z5"/>tuam audire; hanc, quam primum potueris, michi significa, charissime frater.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Praesentium lator in <placeName ref="l2472">Poloniam</placeName> proficiscitur, pernoctavit apud me; videtur michi valde doctus esse et rerum Christi cupidissimus; tu illum suscipe pro tua in peregrinos charitate.</s>
+					<s n="5" xml:lang="la">Praesentium lator in <lb xml:id="p1z6"/><placeName ref="l2472">Poloniam</placeName> proficiscitur, pernoctavit apud me; videtur michi valde doctus esse et rerum Christi <lb xml:id="p1z7"/>cupidissimus; tu illum suscipe pro tua in peregrinos charitate.</s>
 					<s n="6" xml:lang="la" ana="farewell">Vale, amice incomparabilis.</s>
-					<s n="7" xml:lang="la">Date <placeName ref="l285">Lentzburgi</placeName> 16. septembris 1553.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z8"/>Date <placeName ref="l285">Lentzburgi</placeName> 16. septembris 1553.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Tuus <persName ref="p8440">Gervasius</persName>.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z9"/>Tuus <persName ref="p8440">Gervasius</persName>.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Fideli Christi servo d. <persName ref="p495">Heynricho Bullingero</persName>, amico veteri et fratri in Christo charissimo.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/>Fideli Christi servo d. <persName ref="p495">Heynricho <lb xml:id="p2z2"/>Bullingero</persName>, amico veteri et <lb xml:id="p2z3"/>fratri in Christo charissimo.</s>
 				</p>
 			</div>
 		</body>

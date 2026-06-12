@@ -79,29 +79,40 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10266!Autograph!00%20E_II_343__fol__16_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10266/Autograph/00 E_II_343__fol__16_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="288,232 367,198 562,237 743,201 2521,192 2524,85 2320,144 2233,113 1987,158 1865,107 1670,105 1526,167 1359,105 822,172 729,127 543,158 447,102 291,133">304,200 415,200 526,196 638,195 749,196 861,191 972,191 1083,191 1195,188 1306,188 1418,188 1529,188 1640,188 1752,188 1863,185 1975,185 2086,185 2197,185 2309,182 2420,177 2532,173</zone>
+			<zone xml:id="p1z2-0" points="288,305 630,263 687,302 831,260 1020,302 1314,294 1365,254 1537,294 1885,243 2538,246 2538,187 291,232">307,268 424,265 542,261 660,259 778,254 896,253 1014,248 1131,251 1249,250 1367,250 1485,250 1603,247 1721,245 1838,244 1956,244 2074,239 2192,238 2310,235 2428,235 2546,223</zone>
+			<zone xml:id="p1z3-0" points="285,373 2555,314 2555,235 2318,274 2114,240 1696,288 1365,254 1309,294 890,263 681,314 619,274 288,308">301,337 414,337 527,334 640,331 753,328 866,325 979,322 1092,319 1205,319 1318,311 1431,316 1544,312 1657,308 1770,304 1883,301 1996,298 2109,295 2222,294 2335,292 2448,291 2561,289</zone>
+			<zone xml:id="p1z4-0" points="288,435 938,384 1006,418 2501,376 2501,319 2453,305 2227,300 2103,342 2060,311 1636,348 1529,311 1436,348 1266,322 1215,362 907,328 291,382">304,409 414,403 524,398 634,394 744,388 855,388 965,385 1075,385 1185,382 1295,379 1406,376 1516,373 1626,370 1736,368 1846,364 1957,361 2067,361 2177,355 2287,352 2397,352 2508,349</zone>
+			<zone xml:id="p1z5-0" points="294,503 2521,421 2521,379 2346,359 2261,396 1648,373 1413,415 817,393 704,432 644,390 545,438 294,432">310,474 426,462 543,459 660,455 777,453 893,449 1010,447 1127,445 1244,443 1361,441 1477,436 1594,435 1711,432 1828,429 1945,426 2061,422 2178,420 2295,418 2412,414 2529,403</zone>
+			<zone xml:id="p1z6-0" points="277,585 509,526 664,562 1600,497 1735,526 2009,492 2089,545 2219,492 2529,509 2532,430 2484,424 2083,464 1939,432 1862,469 1628,432 1133,489 851,461 684,500 449,469 280,509">295,540 407,533 519,525 631,522 744,519 856,515 968,513 1080,510 1193,510 1305,504 1417,501 1529,497 1642,492 1754,491 1866,489 1978,486 2091,483 2203,480 2315,474 2427,473 2540,468</zone>
+			<zone xml:id="p1z7-0" points="274,636 791,585 1000,622 1337,574 1820,599 1857,517 1017,560 732,526 630,568 410,540 274,588">289,606 367,601 446,596 525,594 603,588 682,585 761,582 839,582 918,579 997,579 1076,578 1154,574 1233,573 1312,570 1390,566 1469,564 1548,561 1626,561 1705,562 1784,562 1863,564</zone>
+			<zone xml:id="p1z8-0" points="1803,755 2032,772 2091,738 2156,774 2371,755 2481,786 2487,619 2383,639 2332,613 2255,650 2182,610 2066,644 1993,613 1936,633 1809,610">1821,722 1854,724 1887,727 1921,728 1954,728 1988,728 2021,731 2055,732 2088,728 2122,726 2155,723 2188,722 2222,722 2255,717 2289,716 2322,715 2356,713 2389,713 2423,713 2456,712 2490,710</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10266!Autograph!01%20E_II_343__fol__16_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10266/Autograph/01 E_II_343__fol__16_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="725,1380 802,1390 859,1361 957,1388 1039,1350 1087,1370 1225,1359 1265,1387 1267,1278 1040,1268 929,1312 727,1269">731,1349 755,1348 782,1349 809,1347 836,1345 863,1343 890,1341 917,1340 944,1342 971,1342 998,1340 1025,1340 1052,1340 1079,1340 1106,1339 1133,1337 1160,1337 1187,1338 1214,1339 1241,1339 1268,1337</zone>
+			<zone xml:id="p2z2-0" points="722,1475 827,1433 869,1438 913,1479 1010,1436 1031,1457 1091,1430 1259,1453 1260,1391 1128,1379 1013,1411 877,1365 778,1393 725,1379">728,1429 754,1429 781,1428 808,1426 834,1425 861,1423 888,1421 914,1419 941,1418 968,1417 995,1417 1021,1417 1048,1417 1075,1417 1101,1416 1128,1414 1155,1414 1181,1414 1208,1414 1235,1414 1262,1414</zone>
+			<zone xml:id="p2z3-0" points="797,1559 820,1562 842,1551 883,1558 957,1533 1007,1546 1019,1454 996,1455 921,1500 868,1478 806,1487">805,1534 831,1531 857,1528 883,1525 909,1521 935,1518 961,1514 987,1511 1014,1507</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Habes hic alterum et non minus fidelem nuncium, vicinum meum<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>, charissime <persName ref="p495">Heinrice</persName>, cui tutissime credere poteris evangelistarium<note xml:id="fn2" type="footnote" n="2">Es handelt sich um <persName ref="p495">Bullingers</persName> Scholien zu den vier Evangelien. Vor allem um jene zum Johannesevangelium hatte <persName ref="p1391">Haller</persName> früher schon wiederholt gebeten (s. oben <ref target="file10230">[Nr. 199]</ref> S. 85, Anm. 25 und 140, Anm. 2).</note> tuum.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Habes hic alterum et non minus fidelem nuncium, vicinum meum<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>, charissime <persName ref="p495">Heinrice</persName>, cui tutissime <lb xml:id="p1z2"/>credere poteris evangelistarium<note xml:id="fn2" type="footnote" n="2">Es handelt sich um <persName ref="p495">Bullingers</persName> Scholien zu den vier Evangelien. Vor allem um jene zum Johannesevangelium hatte <persName ref="p1391">Haller</persName> früher schon wiederholt gebeten (s. oben <ref target="file10230">[Nr. 199]</ref> S. 85, Anm. 25 und 140, Anm. 2).</note> tuum.</s>
 					<s n="3" xml:lang="la">Quod si <persName ref="p8412">Megandro</persName> non commiseris<note xml:id="fn3" type="footnote" n="3">Vgl. oben S. 140, 4-6.</note>, fac is eo vacuus non redeat.</s>
-					<s n="4" xml:lang="la">Interim et te quoque expectabo<note xml:id="fn4" type="footnote" n="4">Vgl. oben S. 140,14-18 u. ö.</note>, et utinam vita non intercipiatur.</s>
+					<s n="4" xml:lang="la">Interim et <lb xml:id="p1z3"/>te quoque expectabo<note xml:id="fn4" type="footnote" n="4">Vgl. oben S. 140,14-18 u. ö.</note>, et utinam vita non intercipiatur.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Periit his diebus apoplexia <persName ref="p5261">Sebastianus Oeconomus</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p5261">Sebastian Hofmeister</persName>. - Als Todestag <persName ref="p5261">Hofmeisters</persName> kommt aller Wahrscheinlichkeit nach der 9. Juni 1533 in Frage, s. Hans <hi>Lieb,</hi> Sebastian Hofmeisters Geburtsjahr und Todestag, in: Schaffhauser Beiträge zur Geschichte, Bd. 57, 1980, S. 146-148.</note>, <placeName ref="l582">Zofingensis</placeName><note xml:id="fn6" type="footnote" n="6"><placeName ref="l582">Zofingen</placeName> (<placeName ref="l594">Kt. Aargau</placeName>).</note> ecclesię minister, quo doctiorem <placeName ref="l41">Berna</placeName> meo iudicio non habuit, tametsi suos subinde et defectus et affectus passus sit.</s>
-					<s n="6" xml:lang="la">Reliquit liberos quattuor, uxorem<note xml:id="fn7" type="footnote" n="7">Unbekannt, s. <hi>Wipf</hi> 145.</note> et, ut aiunt, debita multa, quod nimirum pessime nostrum offendet senatum.</s>
+					<s n="5" xml:lang="la">Periit his diebus apoplexia <persName ref="p5261">Sebastianus Oeconomus</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p5261">Sebastian Hofmeister</persName>. - Als Todestag <persName ref="p5261">Hofmeisters</persName> kommt aller Wahrscheinlichkeit nach der 9. Juni 1533 in Frage, s. Hans <hi>Lieb,</hi> Sebastian Hofmeisters Geburtsjahr und Todestag, in: Schaffhauser Beiträge zur Geschichte, Bd. 57, 1980, S. 146-148.</note>, <placeName ref="l582">Zofingensis</placeName><note xml:id="fn6" type="footnote" n="6"><placeName ref="l582">Zofingen</placeName> (<placeName ref="l594">Kt. Aargau</placeName>).</note> <lb xml:id="p1z4"/>ecclesię minister, quo doctiorem <placeName ref="l41">Berna</placeName> meo iudicio non habuit, tametsi suos subinde et defectus et affectus <lb xml:id="p1z5"/>passus sit.</s>
+					<s n="6" xml:lang="la">Reliquit liberos quattuor, uxorem<note xml:id="fn7" type="footnote" n="7">Unbekannt, s. <hi>Wipf</hi> 145.</note> et, ut aiunt, debita multa, quod nimirum pessime nostrum offendet <lb xml:id="p1z6"/>senatum.</s>
 					<s n="7" xml:lang="de">Es ist ein sundere plag, daß unser vil so übel könnend und wellend hußhan<note xml:id="fn8" type="footnote" ana="lex" n="8">haushalten.</note>.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Aliud nihil habeo quod scribam.</s>
+					<s n="8" xml:lang="la">Aliud nihil habeo <lb xml:id="p1z7"/>quod scribam.</s>
 					<s n="9" xml:lang="la">Nunc tuas expecto.</s>
 				</p>
 				<p>
@@ -111,11 +122,11 @@
 					<s n="11" xml:lang="la">12. iunii anno 33.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la">Tuus semper <persName ref="p1391">Bertol. Hallerus</persName>.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z8"/>Tuus semper <persName ref="p1391">Bertol. Hallerus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="13" xml:lang="de">An Meister <persName ref="p495">Heinrich Bullinger</persName>, predicanten ze <placeName ref="l587">Zürich</placeName>.</s>
+					<s n="13" xml:lang="de"><pb/><lb xml:id="p2z1"/>An Meister <persName ref="p495">Heinrich <lb xml:id="p2z2"/>Bullinger</persName>, predicanten <lb xml:id="p2z3"/>ze <placeName ref="l587">Zürich</placeName>.</s>
 				</p>
 			</div>
 		</body>

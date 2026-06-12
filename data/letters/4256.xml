@@ -82,6 +82,14 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4256!Autograph!00%20E_II_357__fol__474_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4256/Autograph/00 E_II_357__fol__474_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="307,335 403,373 1083,327 1305,355 1617,307 1841,348 2020,307 2209,330 2332,317 2335,234 1212,287 1106,254 1002,285 856,227 683,302 310,214">322,334 422,334 523,335 624,332 724,328 825,325 926,322 1026,319 1127,316 1228,315 1329,313 1429,311 1530,310 1631,307 1731,307 1832,307 1933,307 2033,307 2134,307 2235,304 2336,304</zone>
+			<zone xml:id="p1z2-0" points="363,441 1234,375 1650,418 1733,373 1783,411 2244,395 2312,378 2315,322 1038,327 363,390">376,409 478,403 580,400 682,395 784,394 886,388 988,381 1090,376 1192,373 1294,372 1396,372 1498,370 1600,370 1702,370 1804,370 1906,370 2008,370 2110,370 2212,370 2315,370</zone>
+			<zone xml:id="p1z3-0" points="375,511 1363,441 1962,468 2060,436 2186,474 2365,448 2368,390 1693,383 1640,421 1604,385 1259,383 375,433">388,481 487,469 586,465 685,459 784,452 884,449 983,445 1082,441 1181,438 1280,436 1380,436 1479,436 1578,436 1677,436 1776,436 1876,436 1975,436 2074,436 2173,436 2272,436 2372,439</zone>
+			<zone xml:id="p1z4-0" points="365,547 2005,496 2325,534 2350,463 1773,443 1549,481 1363,441 365,511">379,537 477,534 576,530 675,523 774,517 872,513 971,510 1070,504 1169,501 1267,501 1366,498 1465,498 1564,498 1662,498 1761,495 1860,495 1959,497 2057,496 2156,497 2255,498 2354,504</zone>
+			<zone xml:id="p1z5-0" points="375,635 1169,604 1285,564 1461,599 1821,559 2373,589 2375,511 1453,534 1214,501 985,554 786,521 582,567 378,549">388,612 487,604 587,600 686,590 786,584 885,578 985,573 1084,570 1184,564 1283,561 1383,561 1482,558 1582,560 1681,558 1781,559 1880,555 1980,558 2079,558 2179,558 2278,561 2378,564</zone>
+			<zone xml:id="p1z6-0" points="375,688 662,708 882,652 1002,693 1264,698 1345,652 1622,683 1690,625 1907,670 2010,635 2247,683 2383,655 2385,582 2005,597 1912,562 1725,602 1665,567 378,632">388,675 488,672 588,667 688,660 788,655 888,650 988,646 1088,639 1188,633 1288,630 1389,627 1489,624 1589,627 1689,623 1789,621 1889,621 1989,624 2089,624 2189,624 2289,627 2390,636</zone>
+			<zone xml:id="p1z7-0" points="1496,751 1577,730 1604,753 1632,730 1683,730 1753,756 1821,720 1874,741 1914,730 1917,695 1829,683 1811,695 1748,657 1703,690 1652,662 1622,680 1579,655 1499,673">1511,734 1536,729 1562,726 1588,724 1614,723 1640,721 1665,720 1691,720 1717,719 1743,717 1769,715 1794,714 1820,712 1846,712 1872,714 1898,713 1924,711</zone>
+			<zone xml:id="p1z8-0" points="1526,791 1710,791 1753,809 1791,783 1816,806 1856,776 1967,801 2055,788 2055,753 1970,741 1950,756 1917,725 1662,763 1569,730 1526,741">1541,788 1567,785 1593,783 1619,782 1645,782 1671,781 1697,779 1723,779 1749,779 1775,779 1801,779 1827,779 1853,778 1879,776 1905,776 1931,776 1957,776 1983,776 2009,776 2035,777 2061,779</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4256!Autograph!01%20E_II_357__fol__474_v_.tif/full/max/0/default.jpg" n="2">
@@ -93,16 +101,16 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de">Insonders furgeliepter, hertzvertrauwter herr und bruͦder.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Insonders furgeliepter, hertzvertrauwter herr und bruͦder.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de">Euwer schriben hat mir zöger h. <persName>M. R.</persName> uberantwurt, daruff ich euch nitt mitt schriben, sonder ime von mund, so vyl ich aller stuck wissens trag, by guͦtem glouben antwurt geben hab.</s>
-					<s n="3" xml:lang="de">Frouwte mich von hertzen, wa der hurat sinen glucklichen fürgang haben sollte; des herren will bescheche.</s>
-					<s n="4" xml:lang="de">Dem sind bevolchen und bittend inn hertzlich für mich.</s>
+					<s n="2" xml:lang="de">Euwer schriben <lb xml:id="p1z2"/>hat mir zöger h. <persName>M. R.</persName> uberantwurt, daruff ich euch nitt mitt schriben, <lb xml:id="p1z3"/>sonder ime von mund, so vyl ich aller stuck wissens trag, by guͦtem glouben <lb xml:id="p1z4"/>antwurt geben hab.</s>
+					<s n="3" xml:lang="de">Frouwte mich von hertzen, wa der hurat sinen glucklichen <lb xml:id="p1z5"/>fürgang haben sollte; des herren will bescheche.</s>
+					<s n="4" xml:lang="de">Dem sind bevolchen und bittend <lb xml:id="p1z6"/>inn hertzlich für mich.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="de" ana="salute">Grutzt euwer christlich husgmeind mitt allen guͦten frunden.</s>
-					<s n="6" xml:lang="de"><persName ref="p8055">Ambr[osius] Bl[aurerus</persName>], der ruwer im herren.</s>
+					<s n="6" xml:lang="de"><lb xml:id="p1z7"/><persName ref="p8055">Ambr[osius] Bl[aurerus</persName>], <lb xml:id="p1z8"/>der ruwer im herren.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse fehlt.]</note>

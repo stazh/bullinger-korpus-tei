@@ -70,6 +70,14 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2844!Autograph!00%20E_II_346__fol__191_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">2844/Autograph/00 E_II_346__fol__191_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="486,225 1958,231 1927,135 1713,135 1631,186 1374,137 1200,188 1096,131 935,180 788,112 612,155 486,120">498,211 571,205 644,207 717,208 790,208 864,208 937,208 1010,208 1083,208 1156,208 1230,208 1303,207 1376,205 1449,205 1522,205 1596,205 1669,205 1742,205 1815,206 1888,204 1962,199</zone>
+			<zone xml:id="p1z2-0" points="539,294 1259,280 1392,325 2129,278 2129,196 1770,259 935,210 539,241">551,277 630,274 709,276 788,274 867,277 946,277 1025,275 1104,277 1183,277 1262,277 1341,279 1420,277 1499,277 1578,275 1657,274 1736,274 1815,271 1894,269 1973,265 2052,261 2132,262</zone>
+			<zone xml:id="p1z3-0" points="533,398 633,355 1027,341 1251,382 1637,341 1835,378 2064,343 2066,290 1364,323 1088,288 1000,325 672,292 533,327">545,351 621,346 697,344 773,343 849,343 926,342 1002,340 1078,340 1154,340 1230,340 1307,340 1383,338 1459,337 1535,337 1611,337 1688,337 1764,334 1840,334 1916,331 1992,330 2069,331</zone>
+			<zone xml:id="p1z4-0" points="543,435 2115,410 2115,353 1964,380 1909,339 1837,378 1709,343 1176,386 882,345 704,390 633,351 545,394">557,417 635,411 713,408 791,407 869,405 947,405 1025,405 1104,404 1182,402 1260,402 1338,402 1416,402 1494,402 1572,400 1651,399 1729,396 1807,396 1885,396 1963,395 2041,392 2120,387</zone>
+			<zone xml:id="p1z5-0" points="549,518 1053,476 1427,518 1666,480 1753,521 1823,469 1923,508 2164,474 2164,431 1958,402 1845,443 1504,404 1408,451 1106,410 551,435">560,492 640,483 720,480 801,477 881,477 962,474 1042,474 1122,474 1203,471 1283,471 1364,471 1444,471 1524,471 1605,468 1685,468 1766,465 1846,465 1926,462 2007,461 2087,459 2168,456</zone>
+			<zone xml:id="p1z6-0" points="557,602 629,557 1204,545 1282,584 1568,547 1766,612 1923,578 1974,616 2062,567 2194,606 2196,455 1755,521 1645,480 1429,518 1135,478 559,506">569,560 650,550 732,545 813,542 895,542 977,542 1058,539 1140,539 1221,539 1303,539 1385,542 1466,542 1548,543 1629,542 1711,536 1793,536 1874,534 1956,533 2037,532 2119,533 2201,533</zone>
+			<zone xml:id="p1z7-0" points="561,653 733,647 849,674 974,635 1078,657 1188,616 1190,549 1027,572 855,559 806,590 631,557 563,600">572,632 603,630 634,627 665,625 696,623 727,621 758,620 789,620 820,618 851,616 882,614 913,612 944,611 975,611 1006,611 1037,611 1068,611 1099,611 1130,609 1161,609 1193,611</zone>
+			<zone xml:id="p1z8-0" points="2196,472 2229,478 2243,463 2280,478 2290,467 2305,467 2327,484 2339,484 2341,388 2292,406 2251,382 2229,400 2198,402">2210,462 2237,460 2264,459 2292,459 2319,459 2347,459</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2844!Autograph!01%20E_II_346__fol__191_v_.tif/full/max/0/default.jpg" n="2">
@@ -81,13 +89,13 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Libellus <persName>Bertrami</persName> de sacramento corporis etc.</s>
-					<s n="2" xml:lang="la">Christi mihi plurimum commendatur.</s>
-					<s n="3" xml:lang="la">Quem si potes tam populari quam Latina ad me des lingu, oro; conabor quippe aliquid contra sacramentarios, qui ex sacramentis res sacramentorum faciunt.</s>
-					<s n="4" xml:lang="la">Si contingeret lucrari principem nostrum, plurimum me effecisse existimarem.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Libellus <persName>Bertrami</persName> de sacramento corporis etc.</s>
+					<s n="2" xml:lang="la">Christi <lb xml:id="p1z2"/>mihi plurimum commendatur.</s>
+					<s n="3" xml:lang="la">Quem si potes tam populari <lb xml:id="p1z3"/>quam Latina ad me des lingu, oro; conabor quippe <lb xml:id="p1z4"/>aliquid contra sacramentarios, qui ex sacramentis res <lb xml:id="p1z5"/>sacramentorum faciunt.</s>
+					<s n="4" xml:lang="la">Si contingeret lucrari principem nostrum, <lb xml:id="p1z6"/>plurimum me effecisse existimarem.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Ego pro exemplaribus tibi satisfacturus sum.</s>
+					<s n="5" xml:lang="la">Ego pro exemplaribus <lb xml:id="p1z7"/>tibi satisfacturus sum.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse fehlt.]</note>

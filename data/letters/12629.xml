@@ -88,69 +88,88 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12629!Autograph!00%20E_II_336__fol__267_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12629/Autograph/00 E_II_336__fol__267_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="361,319 2459,337 2459,220 2420,215 2205,256 2022,222 1808,288 1667,235 1609,277 1426,241 1360,283 952,204 670,254 361,209">375,301 479,298 584,298 688,298 793,298 898,298 1002,298 1107,301 1211,303 1316,304 1421,304 1525,307 1630,307 1734,307 1839,310 1944,310 2048,310 2153,312 2257,313 2362,313 2467,313</zone>
+			<zone xml:id="p1z2-0" points="437,400 947,356 1245,395 1447,358 1926,406 2111,379 2208,421 2493,398 2493,332 2433,324 1625,309 1502,343 738,303 654,343 437,311">450,370 552,366 655,362 757,358 860,355 962,355 1065,355 1167,355 1270,358 1372,358 1475,361 1577,361 1680,361 1782,364 1885,364 1987,365 2090,369 2192,370 2295,370 2397,371 2500,372</zone>
+			<zone xml:id="p1z3-0" points="458,463 1902,432 1881,379 1452,361 458,403">471,435 542,431 614,429 686,424 758,422 830,420 902,417 974,417 1046,417 1118,417 1190,417 1261,417 1333,417 1405,417 1477,420 1549,420 1621,421 1693,422 1765,422 1837,420 1909,420</zone>
+			<zone xml:id="p1z4-0" points="442,526 1502,484 1599,526 1742,489 1839,536 1931,508 2080,542 2179,494 2493,487 2493,424 2370,408 2174,460 2122,429 2022,460 1960,408 1918,447 1593,463 1078,424 1020,460 947,426 442,471">456,504 558,501 660,495 762,489 864,486 967,483 1069,480 1171,481 1273,482 1375,483 1478,483 1580,483 1682,485 1784,486 1886,486 1989,486 2091,483 2193,486 2295,485 2397,483 2500,480</zone>
+			<zone xml:id="p1z5-0" points="460,586 1544,568 1562,492 460,528">474,572 528,569 583,566 637,562 692,560 747,558 801,555 856,552 910,551 965,549 1020,547 1074,546 1129,545 1183,544 1238,544 1293,543 1347,540 1402,542 1456,540 1511,538 1566,543</zone>
+			<zone xml:id="p1z6-0" points="458,670 992,625 1044,667 1287,615 1434,644 1517,604 1619,646 1719,607 2156,604 2221,651 2491,615 2491,562 2300,528 2020,557 1648,523 1400,581 1172,555 680,610 460,586">474,638 575,632 676,629 777,624 878,621 979,617 1080,613 1182,609 1283,605 1384,602 1485,599 1586,599 1687,599 1788,599 1890,599 1991,599 2092,599 2193,599 2294,598 2395,597 2497,596</zone>
+			<zone xml:id="p1z7-0" points="471,743 693,701 989,730 1175,680 2080,691 2211,667 2213,631 1719,607 1588,644 1517,604 1431,646 1287,617 1046,667 999,625 811,675 474,665">486,707 572,701 659,698 746,692 832,692 919,686 1006,683 1092,681 1179,677 1266,674 1353,669 1439,668 1526,665 1613,664 1699,662 1786,659 1873,658 1959,656 2046,653 2133,650 2220,650</zone>
+			<zone xml:id="p1z8-0" points="460,801 1753,727 2373,759 2485,743 2488,685 2394,651 1962,706 1912,672 1428,672 1363,709 1130,683 981,730 693,699 460,740">474,775 575,766 676,762 777,757 878,754 979,748 1080,747 1181,744 1282,740 1383,737 1484,734 1585,732 1686,731 1787,728 1888,727 1989,725 2090,725 2191,723 2292,722 2393,723 2494,725</zone>
+			<zone xml:id="p1z9-0" points="460,848 1533,801 1601,832 1850,790 1813,738 1680,735 1219,785 1049,748 939,785 562,772 463,808">474,835 543,830 612,825 681,821 750,816 819,814 888,810 957,808 1026,806 1095,805 1165,805 1234,802 1303,800 1372,799 1441,797 1510,795 1579,791 1648,789 1717,787 1786,784 1856,781</zone>
+			<zone xml:id="p1z10-0" points="466,931 1146,882 1256,921 1311,876 1483,908 1638,863 2025,890 2043,814 1894,772 1601,832 1154,816 950,858 869,824 578,879 468,842">480,907 558,902 636,897 714,891 793,886 871,884 949,880 1028,876 1106,874 1184,871 1263,870 1341,868 1419,865 1497,862 1576,861 1654,859 1732,856 1811,856 1889,853 1967,850 2046,850</zone>
+			<zone xml:id="p1z11-0" points="442,1010 1345,947 1554,994 1850,994 1986,947 2130,986 2182,950 2362,992 2504,971 2504,884 2438,916 2357,871 2153,900 1954,866 1813,916 1719,876 1643,913 1313,876 1264,924 1130,882 654,950 445,918">456,978 558,974 661,967 763,963 866,959 969,954 1071,951 1174,948 1277,945 1379,943 1482,939 1585,939 1687,937 1790,936 1893,939 1995,939 2098,939 2201,939 2303,943 2406,947 2509,951</zone>
+			<zone xml:id="p1z12-0" points="447,1081 1007,1033 1183,1070 1271,1026 1585,1065 1860,1020 2402,1039 2485,1020 2488,965 1557,992 1342,947 887,968 769,1012 508,989 447,1028">462,1050 563,1047 664,1043 766,1037 867,1033 969,1029 1070,1025 1172,1021 1273,1020 1375,1017 1476,1016 1577,1014 1679,1014 1780,1014 1882,1011 1983,1011 2085,1014 2186,1012 2288,1014 2389,1014 2491,1014</zone>
+			<zone xml:id="p1z13-0" points="466,1138 1057,1107 1183,1159 1271,1112 1392,1091 1462,1135 1570,1088 1936,1120 2064,1088 2203,1130 2274,1086 2506,1151 2506,1046 2436,1020 2182,1062 1915,1023 1599,1065 1271,1026 1180,1070 1117,1036 610,1091 468,1065">483,1118 584,1115 685,1109 786,1105 888,1099 989,1095 1090,1092 1192,1090 1293,1087 1394,1083 1496,1082 1597,1081 1698,1080 1799,1080 1901,1080 2002,1078 2103,1077 2205,1078 2306,1080 2407,1083 2509,1086</zone>
+			<zone xml:id="p1z14-0" points="458,1217 1007,1217 1117,1175 1434,1214 1533,1164 1633,1209 2033,1167 2096,1214 2192,1167 2475,1224 2475,1133 2164,1133 2062,1086 1805,1133 1651,1091 1496,1143 1400,1099 1196,1149 1002,1104 806,1146 458,1133">471,1190 571,1189 672,1182 772,1178 873,1175 973,1172 1074,1170 1174,1169 1275,1166 1375,1166 1476,1164 1577,1163 1677,1163 1778,1160 1878,1160 1979,1160 2079,1160 2180,1161 2280,1163 2381,1166 2482,1175</zone>
+			<zone xml:id="p1z15-0" points="466,1295 536,1311 586,1290 646,1313 790,1287 884,1306 931,1274 1033,1266 1033,1203 738,1227 615,1193 565,1227 502,1203 466,1214">480,1259 508,1256 536,1258 564,1258 592,1256 620,1256 648,1256 676,1256 704,1255 732,1253 760,1253 788,1253 816,1253 844,1251 872,1250 900,1250 928,1250 956,1250 984,1250 1012,1249 1041,1247</zone>
+			<zone xml:id="p1z16-0" points="1860,1468 1931,1457 1960,1478 2017,1447 2038,1470 2195,1462 2260,1494 2310,1460 2433,1489 2436,1392 2347,1402 2213,1326 2166,1355 1865,1334">1876,1453 1904,1453 1932,1449 1960,1446 1988,1444 2017,1442 2045,1441 2073,1439 2101,1438 2129,1438 2158,1436 2186,1434 2214,1432 2242,1432 2270,1433 2299,1435 2327,1435 2355,1435 2383,1437 2411,1438 2440,1438</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12629!Autograph!01%20E_II_336__fol__267_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12629/Autograph/01 E_II_336__fol__267_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1321,1076 1645,1050 1963,1097 2103,1045 2230,1085 2248,962 1322,1003">1327,1044 1373,1047 1419,1044 1465,1044 1511,1044 1557,1044 1603,1044 1649,1041 1695,1041 1741,1041 1788,1040 1834,1037 1880,1036 1926,1038 1972,1038 2018,1038 2064,1038 2110,1038 2156,1038 2202,1040 2249,1044</zone>
+			<zone xml:id="p2z2-0" points="1473,1156 1518,1131 1568,1158 1749,1124 2139,1131 2140,1066 2119,1060 1969,1100 1822,1070 1614,1097 1476,1067">1480,1130 1513,1122 1546,1119 1579,1118 1612,1118 1645,1115 1678,1115 1711,1115 1744,1115 1777,1115 1811,1113 1844,1113 1877,1115 1910,1113 1943,1112 1976,1111 2009,1110 2042,1110 2075,1108 2108,1108 2142,1112</zone>
+			<zone xml:id="p2z3-0" points="1701,1222 1726,1225 1736,1220 1742,1224 1777,1209 1787,1217 1794,1210 1810,1211 1813,1170 1804,1170 1777,1150 1761,1150 1756,1155 1750,1150 1735,1150 1721,1135 1706,1135">1709,1193 1735,1186 1761,1185 1787,1184 1814,1184</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Dolet mihi vehementer fauces<note xml:id="fn1" type="footnote" n="1">Die Klause <placeName ref="l3114">Ehrenberg</placeName>. - Am 5. September wurde sie von dem <placeName ref="l834">italienischen</placeName> Heer, das unter der Führung <persName ref="p7336">Francesco di Castellaltos</persName> stand, zurückerobert; s. <ref target="file12619">Nr. 2572</ref>,44-46; <ref target="file12621">Nr. 2574</ref>,52-54; <ref target="file12623">Nr. 2576</ref>, 42-44; <ref target="file12624">Nr. 2577</ref>,35f.</note> iterum amissas per negligentiam, ut multis videtur.</s>
-					<s n="3" xml:lang="la">Patet via <placeName ref="l834">Italico</placeName> exercitui ad <placeName ref="l2481">Svevos</placeName>.</s>
+					<s n="3" xml:lang="la">Patet via <lb xml:id="p1z2"/><placeName ref="l834">Italico</placeName> exercitui ad <placeName ref="l2481">Svevos</placeName>.</s>
 					<s n="4" xml:lang="la">Maiori itaque cura debebat locus ille defensus esse.</s>
-					<s n="5" xml:lang="la">Spes data cęsarianis de omnibus locis hactenus amissis, ea videlicet restitutum iri.</s>
+					<s n="5" xml:lang="la">Spes data <lb xml:id="p1z3"/>cęsarianis de omnibus locis hactenus amissis, ea videlicet restitutum iri.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="6" xml:lang="la">Aiunt <persName ref="p18538">cęsaris</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p18538">Karl V.</persName></note> castra relicta ab <persName ref="p3590">Hesso</persName><note xml:id="fn3" type="footnote" n="3">Landgraf <persName ref="p3590">Philipp von Hessen</persName>. - Das <placeName ref="l1202">schmalkaldische</placeName> Lager um <placeName ref="l231">Ingolstadt</placeName> wurde am 4. September aufgehoben; s. <ref target="file12621">Nr. 2574</ref>,37-42; <ref target="file12623">Nr. 2576</ref>,33f; <ref target="file12628">Nr. 2581</ref>, 105-108.</note> et exercitum divisum.</s>
-					<s n="7" xml:lang="la">Unam partem mansuram, alteram ituram obviam <persName ref="p7459">Burensi</persName><note xml:id="fna" type="footnote" n="a"><hi>In der Vorlage</hi> Durensi.</note><note xml:id="fn4" type="footnote" n="4"><persName ref="p7459">Maximilian von Egmont</persName>, Graf von <placeName ref="l2126">Büren</placeName>; vgl. <ref target="file12626">Nr. 2579</ref>,10-12; <ref target="file12632">Nr. 2585</ref>,36- 39; <ref target="file12636">Nr. 2589</ref>,1-7. Er war Anführer des <placeName ref="l20">niederländischen</placeName> Heeres; s. <ref target="file12619">Nr. 2572</ref>, Anm. 43; sowie die in <ref target="file12622">Nr. 2575</ref>, Anm. 5, angeführten Stellen.</note>.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z4"/>Aiunt <persName ref="p18538">cęsaris</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p18538">Karl V.</persName></note> castra relicta ab <persName ref="p3590">Hesso</persName><note xml:id="fn3" type="footnote" n="3">Landgraf <persName ref="p3590">Philipp von Hessen</persName>. - Das <placeName ref="l1202">schmalkaldische</placeName> Lager um <placeName ref="l231">Ingolstadt</placeName> wurde am 4. September aufgehoben; s. <ref target="file12621">Nr. 2574</ref>,37-42; <ref target="file12623">Nr. 2576</ref>,33f; <ref target="file12628">Nr. 2581</ref>, 105-108.</note> et exercitum divisum.</s>
+					<s n="7" xml:lang="la">Unam partem mansuram, alteram ituram <lb xml:id="p1z5"/>obviam <persName ref="p7459">Burensi</persName><note xml:id="fna" type="footnote" n="a"><hi>In der Vorlage</hi> Durensi.</note><note xml:id="fn4" type="footnote" n="4"><persName ref="p7459">Maximilian von Egmont</persName>, Graf von <placeName ref="l2126">Büren</placeName>; vgl. <ref target="file12626">Nr. 2579</ref>,10-12; <ref target="file12632">Nr. 2585</ref>,36- 39; <ref target="file12636">Nr. 2589</ref>,1-7. Er war Anführer des <placeName ref="l20">niederländischen</placeName> Heeres; s. <ref target="file12619">Nr. 2572</ref>, Anm. 43; sowie die in <ref target="file12622">Nr. 2575</ref>, Anm. 5, angeführten Stellen.</note>.</s>
 					<s n="8" xml:lang="la">Nescio, quid hic cogitandum.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="9" xml:lang="la"><placeName ref="l1273">Enshemii</placeName> rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu prohibeatur cęsaris<note xml:id="fn5" type="footnote" n="5">Vgl. <bibl source="b456">NBD</bibl> IX 259, Nr. 79: "In campo havemo non solamente carestia di pane et vino, ma mancamento ben spesso...".</note>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z6"/><placeName ref="l1273">Enshemii</placeName> rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu <lb xml:id="p1z7"/>prohibeatur cęsaris<note xml:id="fn5" type="footnote" n="5">Vgl. <bibl source="b456">NBD</bibl> IX 259, Nr. 79: "In campo havemo non solamente carestia di pane et vino, ma mancamento ben spesso...".</note>.</s>
 					<s n="10" xml:lang="la">Hoc placeret, modo cauti sint nostri.</s>
 					<s n="11" xml:lang="la">Scis enim consilium famis<note xml:id="fn6" type="footnote" n="6">consilium famis; vgl. <bibl source="b681">Wander</bibl> II 913, Nr. 84: "Hunger ist ein schlimmer (harter) Rathgeber".</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="12" xml:lang="la">De <placeName ref="l1123">Mechlinia</placeName><note xml:id="fn7" type="footnote" n="7">Zur Explosion des Sandtores in <placeName ref="l1123">Mechelen</placeName> s. zuletzt <ref target="file12619">Nr. 2572</ref>,9f. - Dass <persName ref="p8418">Mycomus</persName> erst mit vorliegendem Brief auf dieses Ereignis anspielt, ist wohl als Hinweis zu deuten, dass die diesem Geschehnis gewidmete <placeName ref="l28">Basler</placeName> Veröffentlichung (s. dazu s. <ref target="file12598">Nr. 2551</ref>, Anm. 9) zu diesem Zeitpunkt gedruckt wurde.</note> a domino fere perdita audisti.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z8"/>De <placeName ref="l1123">Mechlinia</placeName><note xml:id="fn7" type="footnote" n="7">Zur Explosion des Sandtores in <placeName ref="l1123">Mechelen</placeName> s. zuletzt <ref target="file12619">Nr. 2572</ref>,9f. - Dass <persName ref="p8418">Mycomus</persName> erst mit vorliegendem Brief auf dieses Ereignis anspielt, ist wohl als Hinweis zu deuten, dass die diesem Geschehnis gewidmete <placeName ref="l28">Basler</placeName> Veröffentlichung (s. dazu s. <ref target="file12598">Nr. 2551</ref>, Anm. 9) zu diesem Zeitpunkt gedruckt wurde.</note> a domino fere perdita audisti.</s>
 					<s n="13" xml:lang="la">Narrantur crudeliora ex <placeName ref="l2556">Sicilia</placeName><note xml:id="fn8" type="footnote" n="8">Zum Unwetter in <placeName ref="l2311">Lecce</placeName> (Königreich <placeName ref="l994">Neapel</placeName> und <placeName ref="l2556">Sizilien</placeName>) s. <ref target="file12619">Nr. 2572</ref>, Anm. 11.</note>.</s>
-					<s n="14" xml:lang="la">Arbitror et hęc tibi cognita.</s>
+					<s n="14" xml:lang="la">Arbitror <lb xml:id="p1z9"/>et hęc tibi cognita.</s>
 					<s n="15" xml:lang="la">A <placeName ref="l2449">Bohemis</placeName> fertur captus <persName ref="p18477">Ferdinandus</persName><note xml:id="fn9" type="footnote" n="9">König <persName ref="p18477">Ferdinand I.</persName> - Ein Gerücht, das auf eine Entstellung der in <ref target="file12619">Nr. 2572</ref>,60- 66, überlieferten Nachricht zurückzuführen sein wird.</note>.<pb type="edition" next="456"/></s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="16" xml:lang="la">Quare nos inter hęc ita desidemus?</s>
+					<s n="16" xml:lang="la"><lb xml:id="p1z10"/>Quare nos inter hęc ita desidemus?</s>
 					<s n="17" xml:lang="la">Domine Iesu, adesto ecclesiaę tuę<note xml:id="fn10" type="footnote" n="10">Vgl. <ref target="file12610">Nr. 2563</ref>,50f.</note>!</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="18" xml:lang="la">Intoxicatores fontium mendicos aiunt esse, missos a <persName ref="p19981">papa</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p19981">Paul III.</persName>, im Folgenden als Antichrist bezeichnet.</note>.</s>
+					<s n="18" xml:lang="la"><lb xml:id="p1z11"/>Intoxicatores fontium mendicos aiunt esse, missos a <persName ref="p19981">papa</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p19981">Paul III.</persName>, im Folgenden als Antichrist bezeichnet.</note>.</s>
 					<s n="19" xml:lang="la">De incendiariis novis patet.</s>
-					<s n="20" xml:lang="la">Artes antichristi<note xml:id="fn12" type="footnote" n="12">Das Gerücht wurde seit Ende August in <placeName ref="l822">Deutschland</placeName> verbreitet und gab Anlass zu einer gedruckten "Warnung" des Landgrafen und des Kurfürsten <persName ref="p19065">Johann Friedrich I. von Sachsen</persName>; s. <ref target="file12617">Nr. 2570</ref>, Anm. 2; <ref target="file12623">Nr. 2576</ref>, Anm. 72; <ref target="file12624">Nr. 2577</ref>, Anm. 74.</note>!</s>
-					<s n="21" xml:lang="la">Dominus respiciat nos contemptos propter nomen eius et sua virtute efficiat, ne falsum reddatur, quod tanto tempore veritatem retinuit adagium, quo dicitur: Consilium malum consultori pessimum<note xml:id="fn13" type="footnote" n="13"><bibl source="b56">Adagia</bibl> 1, 2, 14 <hi>(ASD</hi> II/1 226-228, <ref target="file10144">Nr. 114</ref>).</note>.</s>
+					<s n="20" xml:lang="la"><lb xml:id="p1z12"/>Artes antichristi<note xml:id="fn12" type="footnote" n="12">Das Gerücht wurde seit Ende August in <placeName ref="l822">Deutschland</placeName> verbreitet und gab Anlass zu einer gedruckten "Warnung" des Landgrafen und des Kurfürsten <persName ref="p19065">Johann Friedrich I. von Sachsen</persName>; s. <ref target="file12617">Nr. 2570</ref>, Anm. 2; <ref target="file12623">Nr. 2576</ref>, Anm. 72; <ref target="file12624">Nr. 2577</ref>, Anm. 74.</note>!</s>
+					<s n="21" xml:lang="la">Dominus respiciat nos contemptos propter nomen eius et sua virtute <lb xml:id="p1z13"/>efficiat, ne falsum reddatur, quod tanto tempore veritatem retinuit adagium, quo dicitur: Consilium <lb xml:id="p1z14"/>malum consultori pessimum<note xml:id="fn13" type="footnote" n="13"><bibl source="b56">Adagia</bibl> 1, 2, 14 <hi>(ASD</hi> II/1 226-228, <ref target="file10144">Nr. 114</ref>).</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
 					<s n="22" xml:lang="la" ana="farewell">Vale in Christo cum tuis et <persName ref="p8011">Gvalthero</persName>.</s>
-					<s n="23" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 13. septembris anno 1546.</s>
-					<s n="24" xml:lang="la">Tuus <persName ref="p8418">Os. Myconius</persName>.</s>
+					<s n="23" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 13. <lb xml:id="p1z15"/>septembris anno 1546.</s>
+					<s n="24" xml:lang="la"><lb xml:id="p1z16"/>Tuus <persName ref="p8418">Os. Myconius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="25" xml:lang="la">D. <persName ref="p495">Heinricho Bullingero</persName>, doctissimo fratri in domino venerando suo.</s>
+					<s n="25" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Heinricho Bullingero</persName>, doctissimo <lb xml:id="p2z2"/>fratri in domino venerando <lb xml:id="p2z3"/>suo.</s>
 				</p>
 			</div>
 		</body>

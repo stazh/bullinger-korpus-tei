@@ -74,35 +74,43 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!6293!Autograph!00%20000152145_0001.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">6293/Autograph/00 000152145_0001.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="436,390 736,400 976,331 1253,374 1330,308 1442,369 1664,313 2196,410 2407,349 2407,232 2099,247 1885,173 1722,176 1467,267 1264,199 1042,255 808,163 629,237 436,239">450,334 548,342 646,330 744,313 843,310 941,304 1039,301 1137,301 1236,300 1334,300 1432,304 1530,304 1629,305 1727,312 1825,318 1923,322 2022,323 2120,331 2218,334 2316,336 2415,334</zone>
+			<zone xml:id="p1z2-0" points="492,543 662,479 874,489 948,438 1936,456 2117,510 2247,471 2474,497 2474,425 1569,321 1315,377 1149,334 988,387 892,344 764,415 680,387 489,423">504,471 602,465 701,451 799,442 898,436 997,429 1095,426 1194,423 1293,423 1391,425 1490,423 1589,429 1687,432 1786,437 1885,438 1983,441 2082,449 2181,450 2279,452 2378,458 2477,453</zone>
+			<zone xml:id="p1z3-0" points="494,650 767,622 841,571 1044,614 1185,568 1365,601 1615,555 1730,601 2153,571 2367,660 2542,611 2542,522 2499,504 2323,532 1862,461 1582,520 1052,443 958,499 785,479 494,543">509,594 610,592 712,582 814,571 916,562 1018,558 1120,555 1221,551 1323,549 1425,552 1527,549 1629,552 1731,552 1833,555 1934,558 2036,561 2138,567 2240,573 2342,579 2444,587 2546,585</zone>
+			<zone xml:id="p1z4-0" points="502,741 690,713 848,777 1024,711 1450,757 1709,695 2005,769 2435,752 2435,667 2025,594 1926,637 1727,611 1488,662 1039,596 930,670 762,645 502,695">516,725 612,715 708,712 804,707 900,704 996,702 1092,701 1189,695 1285,695 1381,694 1477,692 1573,692 1669,690 1765,692 1862,689 1958,689 2054,690 2150,692 2246,694 2342,698 2439,695</zone>
+			<zone xml:id="p1z5-0" points="489,909 759,851 1065,874 1121,833 1210,881 1480,846 1585,879 1689,825 1956,884 2168,841 2377,871 2448,838 2451,759 2293,790 2086,739 1954,782 1852,741 1753,780 1416,741 1228,808 1044,754 596,792 492,739">504,859 601,851 699,848 796,838 894,835 992,831 1089,825 1187,823 1285,823 1382,820 1480,820 1578,821 1675,820 1773,820 1871,820 1968,820 2066,820 2164,821 2261,823 2359,823 2457,823</zone>
+			<zone xml:id="p1z6-0" points="550,1085 685,1042 1177,1090 1294,1004 1360,1039 1641,996 1702,1037 1862,978 2209,981 2336,1032 2545,1004 2548,887 2400,887 2341,843 2272,887 2079,869 1928,912 1725,846 1516,912 963,861 555,945">567,1021 666,1009 765,997 864,986 964,980 1063,974 1162,970 1261,964 1361,963 1460,960 1559,958 1658,958 1758,952 1857,953 1956,952 2055,949 2155,949 2254,946 2353,949 2452,951 2552,949</zone>
+			<zone xml:id="p1z7-0" points="1702,1159 1946,1121 2048,1169 2262,1141 2356,1195 2446,1187 2451,1047 2321,1052 2247,988 2066,1016 1862,978 1707,1029">1719,1122 1755,1122 1792,1121 1829,1116 1866,1116 1902,1118 1939,1121 1976,1121 2013,1119 2049,1116 2086,1116 2123,1114 2160,1112 2196,1109 2233,1107 2270,1107 2307,1105 2343,1102 2380,1099 2417,1096 2454,1098</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!6293!Autograph!01%20000152145_0002.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">6293/Autograph/01 000152145_0002.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="392,254 484,248 524,270 658,264 720,286 774,284 772,152 746,166 662,150 606,178 536,168 496,204 452,184 392,190">403,226 447,229 492,229 537,229 582,229 626,229 671,229 716,229 761,232 779,229</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Habeo nunc dei gratia, cl[arissime] d. <persName ref="p495">Bullingere</persName>, paulo melius.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Habeo nunc dei gratia, cl[arissime] d. <persName ref="p495">Bullingere</persName>, <lb xml:id="p1z2"/>paulo melius.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la">Mitto ad te <persName ref="p8009">Fabricii</persName> literas.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">Legatus etiam <placeName ref="l98">Curia</placeName> ad me scripsit.</s>
+					<s n="4" xml:lang="la">Legatus etiam <lb xml:id="p1z3"/><placeName ref="l98">Curia</placeName> ad me scripsit.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Novi nihil habere se ait, expectare autem, ut ego aliquid scribam.</s>
+					<s n="5" xml:lang="la">Novi nihil habere se ait, expectare <lb xml:id="p1z4"/>autem, ut ego aliquid scribam.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Quare cupio, d. <persName ref="p495">Bullingere</persName>, si quid habueris in crastinum, ubi vacabit, mihi communices.</s>
+					<s n="6" xml:lang="la">Quare cupio, d. <persName ref="p495">Bullingere</persName>, <lb xml:id="p1z5"/>si quid habueris in crastinum, ubi vacabit, mihi communices.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" ana="farewell">Vale et ignosce semicęco iamque etiam claudo scriptori.</s>
-					<s n="8" xml:lang="la">Tuus <persName ref="p1283">C. Gesnerus</persName>.</s>
+					<s n="7" xml:lang="la" ana="farewell"><lb xml:id="p1z6"/>Vale et ignosce semicęco iamque etiam claudo scriptori.</s>
+					<s n="8" xml:lang="la">Tuu<lb xml:id="p1z7"/>s <persName ref="p1283">C. Gesnerus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Ohne Adresse.]</note>

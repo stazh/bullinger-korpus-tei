@@ -78,11 +78,23 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11312!Autograph!00%20E_II_343__fol__180_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11312/Autograph/00 E_II_343__fol__180_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="586,328 736,345 973,293 1072,338 1229,267 1585,286 1672,249 2467,272 2467,197 2054,138 1646,227 1358,171 1255,227 1081,185 591,235">600,307 693,312 787,302 881,292 975,281 1068,275 1162,269 1256,263 1350,259 1443,256 1537,253 1631,250 1725,244 1818,244 1912,241 2006,239 2100,236 2193,233 2287,227 2381,226 2475,229</zone>
+			<zone xml:id="p1z2-0" points="769,410 898,450 1337,382 1442,422 1674,380 2108,401 2284,356 2453,389 2455,312 2385,338 2275,279 1963,321 1796,260 1632,331 1323,277 1170,363 1008,307 910,366 772,373">785,409 868,405 952,399 1036,393 1120,388 1203,385 1287,383 1371,380 1455,378 1538,375 1622,370 1706,367 1790,367 1873,364 1957,362 2041,359 2125,358 2208,357 2292,354 2376,352 2460,355</zone>
+			<zone xml:id="p1z3-0" points="797,596 1180,518 1531,551 1623,497 2387,497 2413,385 2230,455 1820,378 1210,453 804,429">812,546 892,537 972,529 1052,522 1132,522 1212,516 1292,510 1373,507 1453,504 1533,498 1613,495 1693,493 1773,492 1853,489 1934,486 2014,483 2094,477 2174,477 2254,473 2334,471 2415,474</zone>
+			<zone xml:id="p1z4-0" points="816,685 1205,635 1400,678 1916,605 1993,659 2181,603 2418,643 2422,563 2247,492 2089,490 1867,558 1297,528 1163,584 1104,553 818,603">830,665 909,658 989,650 1069,645 1149,640 1229,635 1309,635 1388,633 1468,624 1548,622 1628,618 1708,612 1788,612 1868,607 1947,603 2027,600 2107,597 2187,595 2267,590 2347,588 2427,588</zone>
+			<zone xml:id="p1z5-0" points="835,790 1135,809 1515,743 1742,793 1949,732 1993,762 2251,718 2312,750 2390,729 2394,643 2139,706 2052,654 1965,711 1672,638 1501,685 1156,666 1036,732 837,734">847,782 924,776 1002,770 1079,764 1157,763 1234,758 1312,753 1389,749 1467,746 1544,743 1622,738 1699,736 1777,731 1854,728 1932,726 2009,724 2087,722 2164,720 2242,716 2319,713 2397,716</zone>
+			<zone xml:id="p1z6-0" points="844,938 1032,896 1196,947 1283,900 1855,943 1993,889 2307,912 2465,877 2469,760 2024,746 1541,844 1294,776 1018,816 924,877 847,849">856,910 936,902 1017,895 1098,889 1179,886 1260,883 1340,877 1421,875 1502,868 1583,865 1664,862 1744,857 1825,856 1906,854 1987,847 2068,844 2148,842 2229,842 2310,841 2391,842 2472,850</zone>
+			<zone xml:id="p1z7-0" points="900,1058 1121,1025 1269,1055 1330,1008 1468,1025 1536,987 1625,1036 1991,971 2425,999 2429,886 2343,882 2087,919 1991,884 1860,938 1292,900 1062,964 983,919 905,936">913,1027 988,1019 1064,1013 1140,1008 1216,1000 1292,997 1368,994 1443,994 1519,986 1595,984 1671,979 1747,977 1823,975 1899,970 1974,969 2050,967 2126,964 2202,964 2278,964 2354,961 2430,967</zone>
+			<zone xml:id="p1z8-0" points="903,1165 961,1194 1072,1149 1278,1170 1585,1123 1731,1189 2099,1097 2439,1095 2441,1029 2232,966 2108,1001 1857,978 1487,1065 1351,1008 1266,1055 1121,1027 910,1062">919,1155 995,1148 1071,1141 1147,1140 1224,1140 1300,1131 1376,1121 1452,1116 1529,1113 1605,1109 1681,1104 1757,1099 1834,1095 1910,1089 1986,1086 2062,1084 2139,1083 2215,1083 2291,1080 2367,1080 2444,1082</zone>
+			<zone xml:id="p1z9-0" points="1742,1325 1785,1358 1836,1334 1864,1348 1928,1306 1956,1332 1996,1323 2035,1341 2115,1287 2181,1297 2186,1250 2120,1262 1982,1238 1953,1257 1911,1248 1867,1280 1836,1248 1754,1231">1758,1322 1783,1319 1808,1317 1833,1316 1858,1314 1883,1310 1908,1303 1933,1300 1958,1298 1984,1296 2009,1295 2034,1291 2059,1288 2084,1287 2109,1285 2134,1283 2159,1283 2185,1283</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11312!Autograph!01%20E_II_343__fol__180_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11312/Autograph/01 E_II_343__fol__180_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1122,1098 1328,1095 1422,1149 1469,1143 1534,1112 1619,1105 1616,983 1536,978 1319,892 1117,934">1131,1074 1156,1072 1182,1071 1208,1071 1234,1070 1260,1068 1286,1069 1312,1071 1338,1071 1364,1072 1390,1073 1416,1075 1442,1077 1468,1079 1494,1080 1520,1080 1546,1081 1572,1083 1598,1086 1624,1089</zone>
+			<zone xml:id="p2z2-0" points="1230,1236 1290,1206 1379,1206 1415,1229 1461,1218 1560,1253 1591,1243 1588,1124 1556,1117 1522,1149 1445,1176 1410,1173 1377,1147 1311,1161 1227,1135">1238,1200 1263,1200 1288,1200 1314,1200 1339,1201 1365,1202 1390,1203 1416,1203 1441,1203 1466,1203 1492,1203 1517,1204 1543,1208 1568,1211 1594,1215</zone>
+			<zone xml:id="p2z3-0" points="1243,1363 1276,1377 1304,1361 1353,1391 1382,1382 1398,1396 1454,1373 1485,1375 1536,1410 1562,1405 1565,1330 1523,1325 1508,1309 1497,1316 1445,1272 1422,1295 1368,1304 1340,1281 1288,1269 1269,1279 1246,1264">1253,1352 1279,1352 1305,1352 1331,1352 1357,1354 1383,1357 1410,1355 1436,1352 1462,1350 1488,1348 1514,1347 1540,1344 1567,1340</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -90,25 +102,25 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la"><persName ref="p8049">Vadiani</persName> epistolam<note xml:id="fn2" type="footnote" n="2">Gemeint ist zweifellos <persName ref="p8049">Vadians</persName> christologische Abhandlung in Briefform vom September 1536 (Teildruck: <bibl source="b8">HBBW VI</bibl>, <ref target="file10936">Nr. 894</ref>), die <persName ref="p495">Bullinger</persName> am 7. Mai übersandt hatte; vgl. oben <ref target="file11310">Nr. 1267</ref>, 3-5.</note> accepi; curabo, ut fide bona restituatur tibi ac ut non sine commodo ecclesię perveniat ad quosdam.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la"><persName ref="p8049">Vadiani</persName> epistolam<note xml:id="fn2" type="footnote" n="2">Gemeint ist zweifellos <persName ref="p8049">Vadians</persName> christologische Abhandlung in Briefform vom September 1536 (Teildruck: <bibl source="b8">HBBW VI</bibl>, <ref target="file10936">Nr. 894</ref>), die <persName ref="p495">Bullinger</persName> am 7. Mai übersandt hatte; vgl. oben <ref target="file11310">Nr. 1267</ref>, 3-5.</note> accepi; curabo, ut fide bona restitua<lb xml:id="p1z2"/>tur tibi ac ut non sine commodo ecclesię perveniat ad <lb xml:id="p1z3"/>quosdam.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la">Commendo tibi hunc <persName ref="p41">Michaelem</persName><note xml:id="fn3" type="footnote" n="3">Zu denken ist an <persName ref="p41">Michael Adam</persName>, der <persName ref="p8049">Vadians</persName> Brief und <persName ref="p495">Bullingers</persName> Begleitschreiben übermittelt hatte (vgl. oben <ref target="file11310">Nr. 1267</ref>, 6-8); es könnte sich aber auch um einen Briefüberbringer handeln, der <persName ref="p495">Bullinger</persName> noch unbekannt war und deshalb einer Empfehlung bedurfte.</note>.</s>
-					<s n="4" xml:lang="la" ana="farewell">Vale in domino Christo.</s>
+					<s n="4" xml:lang="la" ana="farewell">Vale <lb xml:id="p1z4"/>in domino Christo.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Libellum<note xml:id="fn4" type="footnote" n="4">Nämlich die Neubearbeitung von <persName ref="p495">Bullingers</persName> "De origine erroris libri duo" (<bibl source="b286">HBBibl</bibl> I 12); vgl. oben <ref target="file11301">Nr. 1258</ref>, 1-4.</note> tuum nondum legi; dominus novit, quod hactenus nullum tempus ad eam rem fuit commodum, sic negotia, quanquam levia et puerilia, me abripiunt<note xml:id="fn5" type="footnote" n="5">Anspielung auf den Streit um die Universitätsordnung; vgl. unten <ref target="file11313">Nr. 1270</ref>, 13-22.</note>.</s>
+					<s n="5" xml:lang="la">Libellum<note xml:id="fn4" type="footnote" n="4">Nämlich die Neubearbeitung von <persName ref="p495">Bullingers</persName> "De origine erroris libri duo" (<bibl source="b286">HBBibl</bibl> I 12); vgl. oben <ref target="file11301">Nr. 1258</ref>, 1-4.</note> tuum nondum legi; dominus <lb xml:id="p1z5"/>novit, quod hactenus nullum tempus ad eam rem fuit <lb xml:id="p1z6"/>commodum, sic negotia, quanquam levia et puerilia, <lb xml:id="p1z7"/>me abripiunt<note xml:id="fn5" type="footnote" n="5">Anspielung auf den Streit um die Universitätsordnung; vgl. unten <ref target="file11313">Nr. 1270</ref>, 13-22.</note>.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" ana="farewell">Iterum vale et me in domino ama.</s>
+					<s n="6" xml:lang="la" ana="farewell">Iterum vale et me in domino <lb xml:id="p1z8"/>ama.</s>
 					<s n="7" xml:lang="la">Dominus Christus servet nos.</s>
 					<s n="8" xml:lang="la">Amen.</s>
-					<s n="9" xml:lang="la"><persName ref="p1365">Gryneus</persName> tuus.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z9"/><persName ref="p1365">Gryneus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="10" xml:lang="la"><persName ref="p495">Bullingero</persName> suo, colendo fratri.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Bullingero</persName> <lb xml:id="p2z2"/>suo, colendo <lb xml:id="p2z3"/>fratri.</s>
 				</p>
 			</div>
 		</body>

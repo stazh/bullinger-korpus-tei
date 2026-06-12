@@ -78,36 +78,45 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10227!Autograph!00%20E_II_362__fol__28_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10227/Autograph/00 E_II_362__fol__28_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="315,396 1341,374 1791,426 1869,388 2459,391 2459,286 2406,283 2309,312 1449,272 1091,353 983,299 595,337 474,264 315,272">331,381 437,374 544,370 651,372 758,375 865,373 971,372 1078,373 1185,373 1292,374 1399,375 1505,375 1612,373 1719,375 1826,377 1933,375 2039,373 2146,371 2253,370 2360,367 2467,367</zone>
+			<zone xml:id="p1z2-0" points="312,453 708,439 835,485 1371,447 1441,496 1724,463 1843,501 2063,461 2147,506 2478,471 2476,391 310,393">328,432 435,432 543,432 651,431 758,432 866,429 974,432 1081,432 1189,436 1297,440 1405,441 1512,444 1620,450 1728,456 1835,457 1943,456 2051,454 2158,456 2266,456 2374,456 2482,453</zone>
+			<zone xml:id="p1z3-0" points="315,504 576,531 676,496 789,547 1118,509 1778,582 1848,544 2010,587 2239,533 2387,576 2454,547 2454,477 2074,512 1961,463 1562,501 1083,442 824,482 703,439 312,455">331,495 437,495 544,495 650,495 757,498 863,501 970,501 1076,506 1183,504 1289,511 1396,521 1502,531 1609,536 1715,534 1822,534 1928,534 2035,534 2141,534 2248,534 2354,531 2461,528</zone>
+			<zone xml:id="p1z4-0" points="296,590 442,641 493,603 574,633 730,582 781,617 981,590 1067,630 1215,620 1212,541 1158,528 1007,536 937,501 792,547 671,498 453,539 393,496 296,496">310,560 355,563 401,560 446,560 492,560 537,563 583,563 628,563 674,563 719,563 765,563 810,564 856,566 901,566 947,567 992,570 1038,573 1083,576 1129,578 1174,578 1220,578</zone>
+			<zone xml:id="p1z5-0" points="1934,846 2050,865 2120,822 2158,840 2206,843 2230,827 2338,840 2341,762 2298,770 2195,730 2115,776 2080,757 2063,765 1988,719 1937,730">1948,829 1974,827 2000,826 2027,826 2053,825 2080,823 2106,823 2133,823 2159,823 2186,823 2212,823 2239,821 2265,820 2292,820 2318,820 2345,820</zone>
+			<zone xml:id="p1z6-0" points="2023,927 2053,935 2074,916 2090,927 2109,913 2120,924 2131,913 2168,919 2244,892 2311,905 2311,846 2282,846 2252,827 2209,840 2193,830 2179,840 2107,832 2077,857 2023,865">2038,895 2063,892 2088,887 2114,887 2139,889 2165,887 2190,886 2216,888 2241,889 2267,889 2292,889 2318,889</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10227!Autograph!01%20E_II_362__fol__28_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10227/Autograph/01 E_II_362__fol__28_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1492,885 1539,895 1593,883 1611,899 1657,892 1689,909 1724,898 1746,913 1846,894 1847,824 1752,813 1667,869 1570,861 1540,845 1492,855">1497,880 1522,880 1547,880 1572,882 1597,883 1622,883 1647,883 1672,883 1697,882 1722,880 1747,878 1772,877 1797,879 1822,880 1847,880</zone>
+			<zone xml:id="p2z2-0" points="1366,963 1493,979 1628,953 1716,981 1788,951 1971,959 1971,898 1946,892 1867,928 1599,887 1533,914 1473,891 1367,927">1372,954 1402,950 1432,948 1462,950 1492,949 1522,945 1552,947 1582,947 1612,945 1642,945 1672,945 1702,945 1732,945 1762,945 1792,945 1822,945 1852,945 1882,945 1912,947 1942,948 1972,948</zone>
+			<zone xml:id="p2z3-0" points="1340,1037 1390,1045 1432,1023 1598,1056 1695,1035 1833,1047 1870,1035 1872,959 1811,955 1755,984 1677,962 1597,999 1526,972 1341,994">1345,1035 1371,1031 1397,1027 1424,1023 1450,1021 1477,1020 1503,1020 1529,1020 1556,1020 1582,1020 1609,1020 1635,1018 1661,1017 1688,1017 1714,1017 1741,1017 1767,1015 1793,1014 1820,1014 1846,1013 1873,1011</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gracia et pax etc.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gracia et pax etc.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Qui tibi meas reddit literas, civis <placeName ref="l441">Scaphusanus</placeName><note xml:id="fn1" type="footnote" n="1">Wer damit gemeint ist, ließ sich nicht ermitteln.</note> est haud ignobili familia ortus, cui animus est scribe officio fungi.</s>
-					<s n="3" xml:lang="la">Tu itaque, quicquid consilii et auxilii in eum conferes, in me collatum esse putato.</s>
+					<s n="2" xml:lang="la">Qui tibi meas reddit literas, civis <placeName ref="l441">Scaphusanus</placeName><note xml:id="fn1" type="footnote" n="1">Wer damit gemeint ist, ließ sich nicht ermitteln.</note> est haud ignobili familia <lb xml:id="p1z2"/>ortus, cui animus est scribe officio fungi.</s>
+					<s n="3" xml:lang="la">Tu itaque, quicquid consilii et auxilii in eum conferes, <lb xml:id="p1z3"/>in me collatum esse putato.</s>
 					<s n="4" xml:lang="la">Ceterum quae nostra intersunt, imo Christi, ipse cum venero coram<note xml:id="fn2" type="footnote" n="2">Über einen Besuch <persName ref="p2810">Ritters</persName> bei <persName ref="p495">Bullinger</persName> ist nichts bekannt.</note>, intelliges.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Valę.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z4"/>Valę.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la">Ex <placeName ref="l441">Scaphusia</placeName>, 6. martii 1533.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la"><persName ref="p2810">Erasmus Ritter</persName>, ex animo tuus.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z5"/><persName ref="p2810">Erasmus Ritter</persName>, <lb xml:id="p1z6"/>ex animo tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="8" xml:lang="la">Et pietate et eruditione insigni <persName ref="p495">Heinricho Bullingero</persName>, apud <placeName ref="l587">Tigurum</placeName> Christi evangelium adnunctianti, fratri charissimo.</s>
+					<s n="8" xml:lang="la"><pb/><lb xml:id="p2z1"/>Et pietate et eruditione insi<lb xml:id="p2z2"/>gni <persName ref="p495">Heinricho Bullingero</persName>, apud <placeName ref="l587">Tigurum</placeName> <lb xml:id="p2z3"/>Christi evangelium adnunctianti, fratri charissimo.</s>
 				</p>
 			</div>
 		</body>

@@ -81,35 +81,46 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11601!Autograph!00%20E_II_343__fol__228_a_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11601/Autograph/00 E_II_343__fol__228_a_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="537,477 706,462 785,505 863,460 921,492 1275,468 1355,507 1670,485 1711,524 1825,477 2112,542 2268,503 2265,386 1886,449 1603,375 1484,412 1182,362 1105,395 880,373 766,419 576,339 533,367">548,453 634,447 720,450 806,453 893,455 979,456 1065,458 1151,459 1238,463 1324,465 1410,468 1496,469 1583,471 1669,474 1755,477 1841,477 1928,480 2014,483 2100,488 2186,489 2273,489</zone>
+			<zone xml:id="p1z2-0" points="632,570 876,526 1392,572 1487,533 1687,591 2099,559 2214,602 2265,583 2265,509 2076,535 1834,481 1709,522 1661,483 1430,509 1275,468 921,507 630,464">644,528 725,528 806,528 887,525 969,525 1050,525 1131,525 1213,528 1294,528 1375,531 1457,532 1538,534 1619,537 1700,540 1782,540 1863,542 1944,545 2026,548 2107,551 2188,553 2270,557</zone>
+			<zone xml:id="p1z3-0" points="630,615 945,641 1159,608 1266,656 1480,613 1782,673 1985,619 2285,643 2259,580 2030,598 1912,559 1687,591 1523,544 1381,576 1174,531 1109,570 1003,531 923,574 630,567">641,605 723,599 806,599 888,599 971,599 1053,598 1136,596 1218,599 1301,599 1383,601 1466,602 1548,605 1631,605 1713,608 1796,611 1878,613 1961,616 2043,618 2126,621 2208,626 2291,635</zone>
+			<zone xml:id="p1z4-0" points="634,699 1044,669 1303,729 1383,690 1650,742 1763,686 1834,723 1931,688 2022,744 2117,708 2285,729 2283,649 2108,626 1758,669 1474,611 1273,654 1182,615 632,617">644,674 726,671 808,670 891,668 973,668 1055,668 1138,668 1220,671 1302,673 1385,676 1467,678 1549,680 1632,680 1714,683 1796,683 1879,686 1961,687 2043,692 2126,695 2208,701 2291,704</zone>
+			<zone xml:id="p1z5-0" points="639,792 1053,766 1107,807 1385,803 1605,757 1909,816 1998,775 2298,798 2298,729 2019,738 1937,699 1888,740 1750,688 1655,740 1383,688 1262,727 1010,675 636,727">650,760 732,754 815,749 897,745 980,742 1063,742 1145,742 1228,745 1311,745 1393,748 1476,751 1559,752 1641,754 1724,754 1807,757 1889,760 1972,765 2055,766 2137,769 2220,772 2303,778</zone>
+			<zone xml:id="p1z6-0" points="639,850 1161,854 1312,904 1648,839 1933,915 2283,865 2261,809 1998,772 1903,816 1502,764 1387,800 639,792">650,838 731,833 813,832 895,829 977,829 1059,829 1141,826 1223,826 1305,828 1387,830 1469,832 1550,832 1632,832 1714,835 1796,837 1878,844 1960,848 2042,850 2124,853 2206,855 2288,856</zone>
+			<zone xml:id="p1z7-0" points="624,939 673,960 828,964 928,964 969,945 1040,962 1074,945 1074,872 1031,852 854,882 809,863 751,876 690,850 624,848">635,906 661,904 687,903 713,903 739,902 765,901 791,901 817,901 843,901 869,901 895,901 921,901 947,901 973,901 999,900 1025,898 1051,898 1077,898</zone>
+			<zone xml:id="p1z8-0" points="1858,1042 1976,1070 2095,1057 2127,1072 2170,1053 2265,1068 2263,1008 2211,1008 2183,988 2119,997 2052,962 1981,980 1944,947 1855,982">1870,1032 1895,1030 1920,1029 1945,1029 1970,1028 1995,1027 2020,1027 2045,1029 2070,1030 2095,1032 2120,1034 2145,1035 2170,1037 2195,1038 2220,1038 2245,1039 2270,1041</zone>
+			<zone xml:id="p1z9-0" points="1927,1139 1948,1143 1974,1126 2006,1152 2022,1152 2056,1126 2073,1141 2088,1137 2108,1156 2121,1156 2119,1049 2080,1068 2060,1059 2037,1074 1998,1064 1987,1074 1957,1059 1924,1066">1939,1112 1965,1110 1992,1109 2019,1109 2046,1110 2073,1112 2100,1114 2127,1118</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11601!Autograph!01%20E_II_343__fol__228_a_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11601/Autograph/01 E_II_343__fol__228_a_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1024,827 1520,799 1610,839 1734,802 1735,765 1639,767 1590,733 1359,727 1264,762 1027,742">1029,820 1064,811 1099,809 1135,806 1170,805 1205,805 1241,805 1276,803 1311,802 1347,801 1382,799 1417,799 1453,797 1488,796 1523,796 1559,796 1594,796 1629,794 1665,793 1700,793 1736,793</zone>
+			<zone xml:id="p2z2-0" points="1107,893 1124,900 1140,886 1216,878 1266,903 1286,892 1349,899 1373,886 1432,887 1435,836 1403,828 1382,838 1349,825 1312,854 1284,834 1253,843 1215,827 1182,838 1152,825 1111,830">1113,880 1139,879 1166,877 1193,875 1220,873 1247,872 1274,871 1300,871 1327,867 1354,865 1381,865 1408,864 1435,862</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Accepi ab <persName ref="p7409">Adamo</persName><note xml:id="fn1" type="footnote" ana="bio" n="1">Gemeint ist wohl <persName ref="p7409">Adam von Bodenstein</persName>, der Sohn <persName ref="p4349">Karlstadts</persName> (vgl. oben <ref target="file11574">Nr. 1531</ref>, 9f).</note> omnia tua<note xml:id="fn2" type="footnote" n="2">Die Rede ist von den brieflichen Stellungnahmen zu <persName ref="p1365">Grynäus</persName>' "De coena domini [...] dictata" von <persName ref="p1753">Leo Jud</persName> (nicht erhalten) und <persName ref="p495">Bullinger</persName> (oben <ref target="file11593">Nr. 1550</ref>); vgl. unten <ref target="file11604">Nr. 1561</ref>, 17-19, und <ref target="file11614">Nr. 1571</ref>, 1-18.</note> et, dum aliud ago, <persName ref="p8054">Marco</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p8054">Markus Bertschi</persName>.</note> ad legendum dedi.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Accepi ab <persName ref="p7409">Adamo</persName><note xml:id="fn1" type="footnote" ana="bio" n="1">Gemeint ist wohl <persName ref="p7409">Adam von Bodenstein</persName>, der Sohn <persName ref="p4349">Karlstadts</persName> (vgl. oben <ref target="file11574">Nr. 1531</ref>, 9f).</note> omnia tua<note xml:id="fn2" type="footnote" n="2">Die Rede ist von den brieflichen Stellungnahmen zu <persName ref="p1365">Grynäus</persName>' "De coena domini [...] dictata" von <persName ref="p1753">Leo Jud</persName> (nicht erhalten) und <persName ref="p495">Bullinger</persName> (oben <ref target="file11593">Nr. 1550</ref>); vgl. unten <ref target="file11604">Nr. 1561</ref>, 17-19, und <ref target="file11614">Nr. 1571</ref>, 1-18.</note> et, dum aliud ago, <persName ref="p8054">Marco</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p8054">Markus Bertschi</persName>.</note> ad legendum <lb xml:id="p1z2"/>dedi.</s>
 					<s n="3" xml:lang="la">Is eo mane remisit, quo tabellio pararat abitum.</s>
-					<s n="4" xml:lang="la">Equidem ne literam quidem adhuc legi.</s>
-					<s n="5" xml:lang="la">Nihil putavi periculi esse, si tantisper adhuc retinerem, dum legere possem per ocium.</s>
-					<s n="6" xml:lang="la">De reliquis omnibus scripsi ad <persName ref="p8011">Gwalterum</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p8418">Myconius</persName> bezieht sich offenbar auf seinen Brief an <persName ref="p8011">Rudolf Gwalther</persName> vom 13. August; vgl. oben <ref target="file11597">Nr. 1554</ref>, Anm. 7.</note> per eundem <persName ref="p7409">Adamum</persName>.</s>
+					<s n="4" xml:lang="la">Equidem <lb xml:id="p1z3"/>ne literam quidem adhuc legi.</s>
+					<s n="5" xml:lang="la">Nihil putavi periculi esse, si tantisper <lb xml:id="p1z4"/>adhuc retinerem, dum legere possem per ocium.</s>
+					<s n="6" xml:lang="la">De reliquis omnibus scripsi <lb xml:id="p1z5"/>ad <persName ref="p8011">Gwalterum</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p8418">Myconius</persName> bezieht sich offenbar auf seinen Brief an <persName ref="p8011">Rudolf Gwalther</persName> vom 13. August; vgl. oben <ref target="file11597">Nr. 1554</ref>, Anm. 7.</note> per eundem <persName ref="p7409">Adamum</persName>.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la">In templum nunc eundum.</s>
-					<s n="8" xml:lang="la" ana="farewell">Vale in Christo cum tuis et <persName ref="p8171">Theodoro</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8171">Theodor Bibliander</persName>.</note>.</s>
-					<s n="9" xml:lang="la">Raptim, <placeName ref="l28">Basileę</placeName>, 21. augusti anno 41.</s>
+					<s n="8" xml:lang="la" ana="farewell"><lb xml:id="p1z6"/>Vale in Christo cum tuis et <persName ref="p8171">Theodoro</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8171">Theodor Bibliander</persName>.</note>.</s>
+					<s n="9" xml:lang="la">Raptim, <placeName ref="l28">Basileę</placeName>, 21. <lb xml:id="p1z7"/>augusti anno 41.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z8"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z9"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName>, in domino suo.</s>
+					<s n="11" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>in domino suo.</s>
 				</p>
 			</div>
 		</body>

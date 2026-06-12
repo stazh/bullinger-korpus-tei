@@ -79,32 +79,50 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10973!Autograph!00%20E_II_360__S__319_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10973/Autograph/00 E_II_360__S__319_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="479,255 649,198 1102,229 1325,183 1498,255 1575,198 1758,260 1971,198 2543,224 2543,121 2316,106 1966,170 1696,100 1470,157 1230,100 1109,149 780,124 479,172">492,196 594,192 697,188 800,184 903,186 1006,181 1109,181 1212,178 1315,180 1418,180 1521,181 1623,182 1726,187 1829,187 1932,191 2035,192 2138,193 2241,196 2344,193 2447,190 2550,184</zone>
+			<zone xml:id="p1z2-0" points="530,301 2193,317 2260,286 2365,317 2535,283 2517,224 1763,260 1580,198 1506,255 1403,198 1024,265 780,196 623,268 533,255">545,295 644,289 744,286 843,289 943,283 1043,283 1142,281 1242,280 1342,279 1441,278 1541,280 1641,280 1740,280 1840,281 1940,283 2039,283 2139,280 2239,282 2338,278 2438,278 2538,271</zone>
+			<zone xml:id="p1z3-0" points="543,450 782,394 952,443 1120,376 1295,427 1578,381 1907,430 1948,394 2311,407 2352,373 2540,417 2543,283 2368,317 2244,286 2177,342 2008,293 1315,286 546,337">557,402 656,391 756,387 855,383 955,378 1055,375 1154,373 1254,372 1354,369 1453,372 1553,370 1653,369 1752,370 1852,369 1952,372 2051,369 2151,369 2251,369 2350,369 2450,367 2550,366</zone>
+			<zone xml:id="p1z4-0" points="530,540 795,494 1022,530 1259,466 1328,504 1547,468 1598,507 1884,471 1969,510 2108,468 2332,502 2597,466 2597,407 2358,373 1915,445 1614,383 1472,438 1120,402 1055,445 1009,409 811,458 533,453">548,515 650,501 753,490 856,480 959,476 1061,472 1164,468 1267,465 1370,464 1472,462 1575,462 1678,461 1781,462 1883,462 1986,462 2089,462 2192,462 2294,459 2397,462 2500,462 2603,456</zone>
+			<zone xml:id="p1z5-0" points="522,669 610,615 692,643 1107,584 1253,618 1454,566 1531,607 2322,553 2440,589 2569,569 2571,489 2247,463 2067,515 1650,530 1560,481 1220,476 999,535 857,497 525,548">536,614 637,607 739,599 841,589 943,584 1045,578 1147,572 1248,569 1350,566 1452,566 1554,561 1656,559 1758,557 1860,557 1961,556 2063,554 2165,554 2267,551 2369,551 2471,549 2573,545</zone>
+			<zone xml:id="p1z6-0" points="538,770 618,793 700,723 811,746 1055,692 1282,731 1652,672 1758,731 1979,672 2069,703 2520,672 2525,566 2237,636 2121,571 1948,607 1704,566 1524,638 1320,574 1253,618 986,597 811,667 540,656">551,718 649,706 748,699 847,693 946,689 1044,683 1143,677 1242,674 1341,671 1439,669 1538,668 1637,665 1736,664 1834,662 1933,657 2032,656 2131,653 2229,652 2328,650 2427,645 2526,641</zone>
+			<zone xml:id="p1z7-0" points="538,847 1148,782 1503,818 1598,770 1851,762 2103,813 2322,752 2561,754 2563,661 2175,672 2105,718 1838,682 1760,731 1513,741 1189,697 1035,762 937,728 849,770 757,721 538,790">551,823 651,813 752,805 853,799 954,793 1055,786 1155,781 1256,775 1357,769 1458,765 1559,760 1659,757 1760,754 1861,753 1962,752 2063,752 2163,745 2264,744 2365,738 2466,732 2567,727</zone>
+			<zone xml:id="p1z8-0" points="543,932 785,919 849,960 1292,878 1452,921 1498,883 1935,865 2018,914 2121,862 2252,891 2509,852 2512,803 2239,770 1858,824 1755,772 1482,829 1315,795 1210,842 1001,803 546,842">557,930 655,922 753,913 851,907 949,900 1047,894 1145,888 1243,880 1341,876 1439,870 1537,870 1635,861 1733,860 1831,856 1929,853 2027,853 2125,850 2223,846 2321,842 2419,836 2517,829</zone>
+			<zone xml:id="p1z9-0" points="494,1091 860,1019 1066,1042 1130,1001 1243,1045 1313,991 1539,1019 1750,963 1912,1014 2015,960 2499,952 2535,857 2139,860 1956,927 1863,875 1336,891 1107,973 965,929 867,963 800,924 584,942 504,901">510,1040 611,1031 712,1022 814,1016 915,1009 1017,1002 1118,995 1219,987 1321,979 1422,975 1524,971 1625,966 1726,963 1828,957 1929,950 2031,946 2132,942 2233,936 2335,932 2436,927 2538,924</zone>
+			<zone xml:id="p1z10-0" points="517,1212 672,1217 878,1120 965,1168 1143,1158 1241,1104 1500,1112 1601,1071 1784,1104 1971,1063 2085,1104 2324,1042 2435,1096 2579,1042 2584,983 2461,927 2244,978 2020,960 1833,1032 1771,983 1601,986 1421,1053 1305,1017 1073,1068 993,1030 813,1094 728,1104 654,1053 525,1096">533,1151 635,1141 738,1131 841,1121 944,1114 1046,1104 1149,1098 1252,1088 1355,1084 1457,1077 1560,1073 1663,1067 1766,1062 1868,1058 1971,1052 2074,1048 2177,1041 2279,1037 2382,1030 2485,1022 2588,1020</zone>
+			<zone xml:id="p1z11-0" points="538,1300 1156,1212 1253,1259 1346,1205 1580,1251 1838,1168 1910,1220 2074,1156 2386,1194 2533,1150 2535,1058 2424,1099 2265,1048 2085,1120 1951,1068 1753,1120 1567,1099 1434,1161 1253,1102 1150,1153 767,1166 669,1223 546,1197">554,1261 653,1256 752,1246 852,1236 951,1230 1050,1220 1150,1213 1249,1204 1348,1197 1448,1191 1547,1187 1646,1181 1746,1174 1845,1166 1944,1161 2044,1157 2143,1151 2242,1144 2342,1137 2441,1130 2541,1124</zone>
+			<zone xml:id="p1z12-0" points="525,1446 682,1372 893,1346 945,1377 1030,1328 1485,1356 1709,1297 1884,1346 2018,1277 2188,1313 2273,1271 2383,1351 2522,1356 2561,1349 2574,1132 2386,1194 2257,1179 2154,1246 1995,1192 1552,1256 1333,1207 1253,1259 1145,1223 762,1325 708,1277 533,1300">542,1377 643,1370 745,1357 847,1346 948,1337 1050,1328 1152,1320 1253,1314 1355,1307 1457,1300 1559,1294 1660,1291 1762,1286 1864,1279 1965,1275 2067,1270 2169,1267 2270,1260 2372,1251 2474,1244 2576,1234</zone>
+			<zone xml:id="p1z13-0" points="535,1521 566,1531 595,1516 607,1526 679,1490 692,1493 705,1400 687,1400 667,1413 656,1405 623,1418 597,1416 582,1405 551,1408">551,1494 580,1489 610,1485 640,1481 670,1476 700,1470</zone>
+			<zone xml:id="p1z14-0" points="1421,1591 1575,1616 1727,1557 1884,1624 1977,1583 2221,1596 2237,1359 2139,1374 1990,1467 1866,1439 1812,1470 1763,1416 1588,1354 1434,1405">1440,1536 1479,1533 1519,1527 1559,1524 1599,1519 1639,1516 1678,1513 1718,1511 1758,1508 1798,1505 1838,1500 1877,1497 1917,1497 1957,1495 1997,1494 2037,1492 2076,1490 2116,1487 2156,1484 2196,1482 2236,1485</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10973!Autograph!01%20E_II_360__S__320_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10973/Autograph/01 E_II_360__S__320_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="731,1552 826,1528 884,1551 945,1522 1116,1505 1353,1503 1357,1441 1282,1433 1158,1451 1121,1424 924,1464 833,1445 737,1460">737,1535 769,1530 802,1527 834,1525 867,1522 899,1518 932,1514 965,1510 997,1508 1030,1506 1062,1504 1095,1501 1127,1499 1160,1497 1193,1496 1225,1496 1258,1494 1290,1491 1323,1490 1356,1490</zone>
+			<zone xml:id="p2z2-0" points="775,1671 826,1702 966,1626 1360,1621 1351,1542 979,1599 782,1583">782,1642 811,1638 840,1634 869,1630 898,1628 927,1626 956,1624 985,1620 1014,1618 1043,1616 1072,1614 1101,1612 1130,1611 1159,1609 1188,1607 1217,1605 1246,1603 1275,1601 1304,1599 1333,1598 1362,1598</zone>
+			<zone xml:id="p2z3-0" points="757,1778 798,1767 862,1799 1200,1721 1331,1737 1360,1729 1368,1646 1121,1638 1069,1665 941,1673 868,1713 763,1711">764,1756 794,1751 824,1745 854,1742 884,1739 914,1735 944,1729 974,1725 1004,1723 1034,1721 1064,1718 1094,1714 1124,1712 1154,1710 1184,1708 1214,1706 1244,1703 1274,1699 1304,1699 1334,1699 1365,1699</zone>
+			<zone xml:id="p2z4-0" points="759,1893 960,1889 1002,1864 1179,1841 1331,1848 1338,1778 1194,1754 1076,1790 964,1762 844,1812 768,1805">767,1860 795,1855 824,1851 852,1848 881,1846 909,1843 938,1839 966,1836 995,1832 1023,1828 1052,1822 1081,1818 1109,1816 1138,1814 1166,1812 1195,1808 1223,1806 1252,1804 1280,1802 1309,1802 1338,1804</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratiam a domino.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratiam a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Censuram ecclesiasticam a quibusdam agri nostri ministris praeter consilium ac voluntatem nostram in milites tentatam esse recte sentis<note xml:id="fn1" type="footnote" n="1">Die Pfarrer von <placeName ref="l582">Zofingen</placeName>, <placeName ref="l3">Aarburg</placeName> und <placeName ref="l1045">Brittnau</placeName> hatten Reisläufer, die unerlaubterweise nach <placeName ref="l832">Frankreich</placeName> gezogen waren, von den Sakramenten ausgeschlossen. Nachdem die Stadtpfarrer die Verhängung des Banns laut Ratsmanual (entgegen <persName ref="p8412">Meganders</persName> Darstellung) als zulässig erklärt hatten, wies der Rat die Dekane am 23./24. Dezember 1536 an, den Pfarrern eigenmächtiges Vorgehen zu untersagen (s. Bern StA, A II 128, 259. 283. 290f; A III 24, 387f). <persName ref="p495">Bullinger</persName> scheint sich in einem nicht erhaltenen Brief über den Vorfall erkundigt zu haben.</note>.</s>
-					<s n="3" xml:lang="la">Non enim tam iniqui et insipidi sum iudicii, tametsi stupidissimus, quin facile capere queam audacem hanc, praesertim tempore hoc perplexo et periculoso, hac in re prorupcionem non modo domino fructum nullum reportaturam, imo, nisi deus caveat, quod hactenus labore ac studio ingente extructum est, adobruturam.</s>
-					<s n="4" xml:lang="la">Curabimus igitur sedulo, quo quorundam non solum mitigentur, sed ab instituto avocentur animi.</s>
+					<s n="2" xml:lang="la">Censuram ecclesiasticam a quibusdam agri nostri ministris praeter consilium <lb xml:id="p1z2"/>ac voluntatem nostram in milites tentatam esse recte sentis<note xml:id="fn1" type="footnote" n="1">Die Pfarrer von <placeName ref="l582">Zofingen</placeName>, <placeName ref="l3">Aarburg</placeName> und <placeName ref="l1045">Brittnau</placeName> hatten Reisläufer, die unerlaubterweise nach <placeName ref="l832">Frankreich</placeName> gezogen waren, von den Sakramenten ausgeschlossen. Nachdem die Stadtpfarrer die Verhängung des Banns laut Ratsmanual (entgegen <persName ref="p8412">Meganders</persName> Darstellung) als zulässig erklärt hatten, wies der Rat die Dekane am 23./24. Dezember 1536 an, den Pfarrern eigenmächtiges Vorgehen zu untersagen (s. Bern StA, A II 128, 259. 283. 290f; A III 24, 387f). <persName ref="p495">Bullinger</persName> scheint sich in einem nicht erhaltenen Brief über den Vorfall erkundigt zu haben.</note>.</s>
+					<s n="3" xml:lang="la">Non enim tam iniqui et <lb xml:id="p1z3"/>insipidi sum iudicii, tametsi stupidissimus, quin facile capere queam audacem hanc, <lb xml:id="p1z4"/>praesertim tempore hoc perplexo et periculoso, hac in re prorupcionem non modo domino <lb xml:id="p1z5"/>fructum nullum reportaturam, imo, nisi deus caveat, quod hactenus labore ac studio <lb xml:id="p1z6"/>ingente extructum est, adobruturam.</s>
+					<s n="4" xml:lang="la">Curabimus igitur sedulo, quo quorundam <lb xml:id="p1z7"/>non solum mitigentur, sed ab instituto avocentur animi.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Studium dominorum tuorum, quo bellorum temp[ore] domi suos retineant<note xml:id="fn2" type="footnote" n="2">Zu den Maßnahmen <placeName ref="l587">Zürichs</placeName> gegen den Solddienst s. <bibl source="b8">HBBW VI</bibl> <ref target="file10877">[Nr. 838]</ref>, S. 317, Anm. 3.</note>, nemini non perplacet.</s>
-					<s n="6" xml:lang="la">Est certe facinus comendacione amplissima dignum.</s>
-					<s n="7" xml:lang="la">Ne dubites, charissime mi <persName ref="p495">Bullingere</persName>, sub ver nos stupenda et visuros et audituros.</s>
+					<s n="5" xml:lang="la">Studium dominorum tuorum, <lb xml:id="p1z8"/>quo bellorum temp[ore] domi suos retineant<note xml:id="fn2" type="footnote" n="2">Zu den Maßnahmen <placeName ref="l587">Zürichs</placeName> gegen den Solddienst s. <bibl source="b8">HBBW VI</bibl> <ref target="file10877">[Nr. 838]</ref>, S. 317, Anm. 3.</note>, nemini non perplacet.</s>
+					<s n="6" xml:lang="la">Est certe facinus <lb xml:id="p1z9"/>comendacione amplissima dignum.</s>
+					<s n="7" xml:lang="la">Ne dubites, charissime mi <persName ref="p495">Bullingere</persName>, sub ver nos s<lb xml:id="p1z10"/>tupenda et visuros et audituros.</s>
 					<s n="8" xml:lang="la">Faxit deus, quo omnia in suam cedant gloriam!</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Gratissimum quod misisti munus accepi, haud dubie, quod reliquum est in Acta, quoque accepturus<note xml:id="fn3" type="footnote" n="3">Beim Geschenk <persName ref="p495">Bullingers</persName> handelte es sich offenbar um einen Teil von <persName ref="p8127">Pellikans</persName> Kommentar zu den Evangelien und zur Apostelgeschichte (<bibl>BZD</bibl> C 266), dessen Druck erst im März abgeschlossen wurde. Vgl. auch unten <ref target="file10993">Nr. 951</ref>, 2-5 mit Anm. 2.</note>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z11"/>Gratissimum quod misisti munus accepi, haud dubie, quod reliquum est in Acta, <lb xml:id="p1z12"/>quoque accepturus<note xml:id="fn3" type="footnote" n="3">Beim Geschenk <persName ref="p495">Bullingers</persName> handelte es sich offenbar um einen Teil von <persName ref="p8127">Pellikans</persName> Kommentar zu den Evangelien und zur Apostelgeschichte (<bibl>BZD</bibl> C 266), dessen Druck erst im März abgeschlossen wurde. Vgl. auch unten <ref target="file10993">Nr. 951</ref>, 2-5 mit Anm. 2.</note>.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la" ana="farewell">Bene vale.</s>
@@ -113,14 +131,14 @@
 					<s n="11" xml:lang="la"><placeName ref="l41">Bernę</placeName>, 3. ianuarii anno 37.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la">Uxore tua<note xml:id="fn4" type="footnote" ana="bio" n="4"><persName ref="p8051">Anna, geb. Adlischwyler</persName>.</note> et fratribus omnibus salvis.</s>
+					<s n="12" xml:lang="la">Uxore tua<note xml:id="fn4" type="footnote" ana="bio" n="4"><persName ref="p8051">Anna, geb. Adlischwyler</persName>.</note> et fratribus omnibus <lb xml:id="p1z13"/>salvis.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la"><persName ref="p8412">Megand.</persName> tuus ex animo.</s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z14"/><persName ref="p8412">Megand.</persName> tuus ex animo.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="14" xml:lang="la">Domino <persName ref="p495">Heinrico Bullingero</persName>, <placeName ref="l587">Tiguri</placeName> a concionibus sacris, suo colendissimo et charissimo fratri.</s>
+					<s n="14" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinrico Bullingero</persName>, <lb xml:id="p2z2"/><placeName ref="l587">Tiguri</placeName> a concionibus sacris, <lb xml:id="p2z3"/>suo colendissimo <lb xml:id="p2z4"/>et charissimo fratri.</s>
 				</p>
 			</div>
 		</body>

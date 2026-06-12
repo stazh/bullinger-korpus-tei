@@ -92,60 +92,86 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12642!Autograph!00%20E_II_357__fol__200_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12642/Autograph/00 E_II_357__fol__200_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="431,438 1166,360 1276,411 1467,360 1586,392 2008,356 2068,390 2251,365 2254,303 2114,269 1953,319 1806,287 1701,330 1455,303 1340,335 1248,294 936,291 778,353 436,285">447,405 537,391 628,385 718,381 809,376 899,372 990,368 1080,364 1171,359 1261,356 1352,357 1443,356 1533,355 1624,352 1714,352 1805,352 1895,352 1986,349 2076,349 2167,346 2258,349</zone>
+			<zone xml:id="p1z2-0" points="452,505 604,457 943,475 1145,431 1320,468 1960,415 2160,445 2279,420 2281,356 454,425">468,468 558,461 649,454 740,451 830,445 921,441 1012,436 1102,432 1193,429 1284,426 1375,423 1465,421 1556,420 1647,417 1737,417 1828,414 1919,414 2009,411 2100,411 2191,408 2282,411</zone>
+			<zone xml:id="p1z3-0" points="450,558 1166,505 1265,532 1384,491 2274,514 2297,425 1997,464 1797,425 1567,466 1177,438 1118,480 911,459 865,493 606,454 452,505">465,534 556,531 648,528 740,522 832,518 923,512 1015,508 1107,503 1199,497 1290,495 1382,491 1474,489 1566,486 1657,484 1749,483 1841,481 1933,480 2024,480 2116,480 2208,480 2300,483</zone>
+			<zone xml:id="p1z4-0" points="450,638 1088,604 1205,562 1258,604 1421,558 2222,565 2224,505 1994,484 454,558">465,602 553,594 641,591 729,587 817,583 905,577 993,575 1082,570 1170,565 1258,562 1346,559 1434,554 1522,554 1610,549 1699,548 1787,546 1875,543 1963,543 2051,543 2139,540 2228,543</zone>
+			<zone xml:id="p1z5-0" points="457,700 1129,633 2176,620 2176,576 1939,544 461,636">471,674 556,666 642,660 727,655 813,651 899,643 984,637 1070,632 1156,629 1241,623 1327,623 1413,618 1498,615 1584,614 1670,611 1755,611 1841,610 1927,608 2012,608 2098,608 2184,605</zone>
+			<zone xml:id="p1z6-0" points="464,767 1457,686 1533,721 1797,684 2105,709 2279,691 2281,654 2148,615 1687,654 1629,617 466,702">477,737 567,732 658,729 748,723 839,717 929,710 1020,705 1110,699 1201,693 1291,690 1382,686 1473,683 1563,681 1654,680 1744,680 1835,680 1925,677 2016,680 2106,680 2197,677 2288,683</zone>
+			<zone xml:id="p1z7-0" points="470,831 1641,757 2111,796 2217,755 2196,682 473,764">483,805 574,798 666,792 757,786 849,781 940,775 1032,772 1123,766 1215,762 1306,758 1398,755 1489,752 1581,751 1672,749 1764,748 1855,751 1947,751 2038,751 2130,751 2222,742</zone>
+			<zone xml:id="p1z8-0" points="459,907 1735,817 2072,826 2210,884 2212,762 2130,794 1315,767 461,831">471,874 558,871 645,865 732,859 820,854 907,848 994,842 1081,837 1169,833 1256,829 1343,826 1430,823 1518,820 1605,819 1692,817 1779,817 1867,817 1954,817 2041,817 2128,817 2216,820</zone>
+			<zone xml:id="p1z9-0" points="445,975 1531,888 2026,909 2031,838 1547,826 450,911">459,948 537,943 616,938 695,930 774,927 852,920 931,915 1010,910 1089,907 1167,902 1246,897 1325,895 1404,892 1482,887 1561,886 1640,886 1719,886 1797,884 1876,885 1955,884 2034,889</zone>
+			<zone xml:id="p1z10-0" points="461,1072 842,996 1354,1014 1740,955 1905,994 2270,982 2272,911 1955,929 1886,888 1776,932 1359,900 1287,950 952,929 464,975">477,1023 571,1015 666,1008 761,999 855,992 950,986 1045,983 1139,976 1234,970 1329,966 1423,963 1518,960 1613,955 1707,954 1802,951 1897,954 1991,953 2086,957 2181,957 2276,957</zone>
+			<zone xml:id="p1z11-0" points="459,1118 707,1074 1106,1092 1354,1037 1581,1076 1694,1030 2251,1044 2215,985 1932,1001 1836,957 1347,1017 1184,982 936,1035 840,996 461,1074">471,1092 560,1086 649,1077 738,1073 827,1065 917,1059 1006,1053 1095,1047 1184,1041 1273,1038 1363,1032 1452,1032 1541,1029 1630,1026 1719,1026 1809,1023 1898,1029 1987,1026 2076,1029 2165,1032 2255,1029</zone>
+			<zone xml:id="p1z12-0" points="452,1177 1076,1159 1402,1102 1779,1136 1859,1097 1974,1148 2180,1113 2139,1056 1694,1030 1581,1074 1343,1044 1115,1099 454,1115">468,1154 558,1149 648,1143 739,1137 829,1133 920,1128 1010,1122 1101,1116 1191,1110 1282,1105 1372,1102 1463,1098 1553,1095 1644,1092 1734,1092 1825,1095 1915,1095 2006,1095 2096,1101 2187,1107</zone>
+			<zone xml:id="p1z13-0" points="461,1251 1398,1173 1882,1180 1923,1216 2256,1193 2258,1097 2118,1136 1439,1106 1262,1157 464,1173">477,1217 566,1211 655,1208 744,1205 833,1199 923,1193 1012,1190 1101,1184 1190,1181 1279,1175 1369,1169 1458,1166 1547,1163 1636,1160 1725,1160 1815,1160 1904,1163 1993,1166 2082,1166 2171,1169 2261,1169</zone>
+			<zone xml:id="p1z14-0" points="459,1313 1386,1239 1547,1265 1597,1258 1604,1173 464,1244">474,1292 530,1289 587,1282 643,1278 700,1275 756,1271 813,1267 869,1263 926,1257 982,1256 1039,1252 1096,1248 1152,1247 1209,1244 1265,1240 1322,1236 1378,1232 1435,1231 1491,1229 1548,1227 1605,1223</zone>
+			<zone xml:id="p1z15-0" points="466,1384 831,1331 1269,1310 1313,1343 1386,1301 1873,1333 2031,1308 2033,1265 1730,1276 1632,1235 468,1317">480,1354 557,1345 635,1337 713,1335 791,1330 869,1324 947,1321 1024,1317 1102,1312 1180,1306 1258,1304 1336,1303 1414,1300 1492,1300 1569,1298 1647,1297 1725,1297 1803,1295 1881,1294 1959,1294 2037,1292</zone>
+			<zone xml:id="p1z16-0" points="452,1460 1317,1377 2036,1414 2180,1384 2183,1329 1815,1306 1492,1349 1361,1308 1313,1343 1226,1315 454,1388">465,1426 551,1419 637,1410 723,1402 809,1398 895,1393 981,1387 1067,1384 1153,1378 1239,1376 1326,1373 1412,1372 1498,1372 1584,1372 1670,1372 1756,1370 1842,1369 1928,1368 2014,1369 2100,1366 2187,1363</zone>
+			<zone xml:id="p1z17-0" points="452,1508 771,1471 1044,1501 1152,1450 1228,1485 1375,1444 2270,1483 2270,1405 2077,1423 1951,1382 1200,1423 1049,1395 454,1460">465,1500 555,1488 646,1480 736,1474 827,1468 917,1461 1008,1456 1098,1451 1189,1447 1279,1444 1370,1444 1461,1441 1551,1441 1642,1442 1732,1444 1823,1444 1913,1444 2004,1444 2094,1444 2185,1444 2276,1444</zone>
+			<zone xml:id="p1z18-0" points="464,1600 776,1556 1205,1567 1271,1528 1510,1581 1907,1528 2134,1579 2288,1551 2290,1480 1889,1510 1680,1446 1230,1487 1152,1450 1053,1503 464,1519">477,1563 567,1559 658,1553 749,1547 840,1543 931,1536 1022,1533 1112,1527 1203,1525 1294,1522 1385,1522 1476,1521 1567,1521 1658,1521 1748,1521 1839,1524 1930,1527 2021,1524 2112,1527 2203,1530 2294,1536</zone>
+			<zone xml:id="p1z19-0" points="473,1659 624,1685 698,1632 925,1652 1214,1604 1336,1648 1446,1597 1515,1650 1914,1606 2059,1678 2061,1558 1510,1581 1352,1533 1182,1581 897,1556 473,1611">486,1641 565,1635 644,1628 723,1623 802,1618 881,1613 960,1610 1039,1605 1118,1602 1197,1597 1276,1596 1355,1596 1434,1596 1513,1596 1592,1596 1671,1596 1750,1596 1829,1599 1908,1600 1987,1602 2067,1602</zone>
+			<zone xml:id="p1z20-0" points="470,1737 652,1749 755,1707 861,1742 941,1703 1189,1710 1193,1648 1118,1625 991,1662 854,1636 728,1687 475,1664">486,1718 521,1718 557,1714 592,1710 628,1708 663,1706 699,1703 734,1701 770,1699 805,1695 841,1691 876,1691 912,1689 947,1687 983,1684 1018,1682 1054,1680 1089,1677 1125,1676 1160,1675 1196,1673</zone>
+			<zone xml:id="p1z21-0" points="475,1811 599,1792 714,1845 950,1769 1111,1790 1255,1744 1547,1813 1774,1756 1776,1668 1691,1659 1278,1728 1219,1689 861,1742 755,1705 613,1760 480,1737">489,1790 553,1785 617,1781 682,1776 746,1772 811,1767 875,1761 940,1756 1004,1752 1069,1748 1133,1745 1197,1745 1262,1744 1326,1747 1391,1745 1455,1745 1520,1741 1584,1741 1649,1739 1713,1739 1778,1742</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12642!Autograph!01%20E_II_357__fol__200_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12642/Autograph/01 E_II_357__fol__200_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1632,496 1699,492 1710,499 1740,487 1776,509 1813,505 1811,450 1782,445 1774,452 1747,439 1710,448 1676,432 1656,443 1645,437 1630,441">1641,480 1670,476 1699,473 1728,471 1757,475 1786,477 1815,477</zone>
+			<zone xml:id="p2z2-0" points="1712,534 1725,532 1745,556 1760,545 1842,552 1857,540 1875,541 1877,496 1822,510 1804,503 1773,509 1751,499 1732,514 1721,501 1712,501">1722,528 1748,528 1774,528 1801,527 1827,526 1853,524 1880,522</zone>
+			<zone xml:id="p2z3-0" points="1608,626 1657,602 1688,626 1727,609 1915,631 1994,593 2076,615 2076,549 2051,541 1864,569 1827,547 1745,554 1699,538 1648,556 1608,543">1618,594 1643,588 1669,588 1695,588 1720,588 1746,588 1772,588 1797,588 1823,588 1849,588 1874,587 1900,585 1926,585 1951,585 1977,585 2003,586 2028,588 2054,588 2080,588</zone>
+			<zone xml:id="p2z4-0" points="1601,1066 1765,1055 1789,1076 1977,1019 2142,1021 2146,938 2076,924 2003,953 1910,935 1807,959 1732,909 1699,940 1606,960">1612,1023 1638,1021 1665,1018 1692,1015 1718,1013 1745,1012 1772,1008 1798,1006 1825,1006 1852,1005 1879,1003 1905,1003 1932,1002 1959,1001 1985,1000 2012,1000 2039,998 2065,997 2092,997 2119,995 2146,991</zone>
+			<zone xml:id="p2z5-0" points="1681,1253 1705,1257 1727,1244 1795,1253 1829,1229 1844,1238 1879,1216 1910,1226 1919,1105 1870,1099 1846,1114 1796,1116 1754,1088 1736,1101 1692,1096">1695,1197 1722,1195 1750,1192 1777,1189 1805,1186 1833,1185 1860,1185 1888,1183 1916,1179</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Scripsi ad te nudius tertius<note xml:id="fn1" type="footnote" n="1">Nr. 2592 vom 20. September.</note> per postam<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> missis etiam ad <persName ref="p6552">Schoͤnerum</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p6552">Hans Schöner</persName>.</note> literis cum pecunia<note xml:id="fn4" type="footnote" ana="bio" n="4">Ein Sendung von <persName ref="p6552">Schöners</persName> Schwester <persName ref="p6555">Sabina</persName>; s. <ref target="file12639">Nr. 2592</ref>,30-32.</note>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Scripsi ad te nudius tertius<note xml:id="fn1" type="footnote" n="1">Nr. 2592 vom 20. September.</note> per postam<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> missis etiam ad <persName ref="p6552">Schoͤnerum</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p6552">Hans Schöner</persName>.</note> <lb xml:id="p1z2"/>literis cum pecunia<note xml:id="fn4" type="footnote" ana="bio" n="4">Ein Sendung von <persName ref="p6552">Schöners</persName> Schwester <persName ref="p6555">Sabina</persName>; s. <ref target="file12639">Nr. 2592</ref>,30-32.</note>.</s>
 					<s n="2" xml:lang="la">Nihil vero prorsus accessit novi, quod nunc scribam.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="3" xml:lang="de">Der kaiser<note xml:id="fn5" type="footnote" n="5"><persName ref="p18538">Karl V.</persName> - Damals befand sich jedoch der Kaiser bereits in <placeName ref="l337">Neuburg</placeName> ad. Donau (s. <ref target="file12641">Nr. 2594</ref>, Anm. 42), das er schon am 23. September verlassen sollte; s. <ref target="file12643">Nr. 2596</ref>,28-30; <bibl source="b658">Viglius van Zwichem</bibl> 94-96. - Das hier übermittelte, falsche Gerücht findet sich ebenfalls in einem Brief <persName ref="p8105">Heinrich Thomanns</persName> vom 19. September <hi>(EA</hi> IV/Id 737; Zürich StA, A 177, Nr. 34) und ist wohl auf eine Kriegslist des kaiserlichen Lagers zurückzuführen.</note> ligt zuͦ <placeName ref="l231">Ingolstadt</placeName> in der statt.</s>
+					<s n="3" xml:lang="de"><lb xml:id="p1z3"/>Der kaiser<note xml:id="fn5" type="footnote" n="5"><persName ref="p18538">Karl V.</persName> - Damals befand sich jedoch der Kaiser bereits in <placeName ref="l337">Neuburg</placeName> ad. Donau (s. <ref target="file12641">Nr. 2594</ref>, Anm. 42), das er schon am 23. September verlassen sollte; s. <ref target="file12643">Nr. 2596</ref>,28-30; <bibl source="b658">Viglius van Zwichem</bibl> 94-96. - Das hier übermittelte, falsche Gerücht findet sich ebenfalls in einem Brief <persName ref="p8105">Heinrich Thomanns</persName> vom 19. September <hi>(EA</hi> IV/Id 737; Zürich StA, A 177, Nr. 34) und ist wohl auf eine Kriegslist des kaiserlichen Lagers zurückzuführen.</note> ligt zuͦ <placeName ref="l231">Ingolstadt</placeName> in der statt.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="4" xml:lang="de">Die <placeName ref="l834">Italianer</placeName> und <placeName ref="l875">Spanier</placeName> habend seltzam hauß<note xml:id="fn6" type="footnote" n="6">hier: Sitten.</note>.</s>
-					<s n="5" xml:lang="de">Ain <placeName ref="l875">Spanier</placeName><note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> ist ainem <placeName ref="l834">italianischen</placeName> weyb<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note> hold<note xml:id="fn9" type="footnote" ana="lex" n="9">geneigt.</note> worden.</s>
+					<s n="4" xml:lang="de">Die <placeName ref="l834">Italianer</placeName> und <placeName ref="l875">Spanier</placeName> <lb xml:id="p1z4"/>habend seltzam hauß<note xml:id="fn6" type="footnote" n="6">hier: Sitten.</note>.</s>
+					<s n="5" xml:lang="de">Ain <placeName ref="l875">Spanier</placeName><note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> ist ainem <placeName ref="l834">italianischen</placeName> weyb<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note> <lb xml:id="p1z5"/>hold<note xml:id="fn9" type="footnote" ana="lex" n="9">geneigt.</note> worden.</s>
 					<s n="6" xml:lang="de">Hat iren willen<note xml:id="fn10" type="footnote" ana="lex" n="10">Zustimmung.</note> erlangt.</s>
-					<s n="7" xml:lang="de">Darnach in der kirchen hat man sy im zuͦgefuͤrt in ain naͤbencapelle.</s>
-					<s n="8" xml:lang="de">Habend inn seine diener verwaren<note xml:id="fn11" type="footnote" n="11">abschützen; hier: den Zugang zur Kapelle versperren.</note> muͤssen, byß er sinen muͦttwillen ausgestossen<note xml:id="fn12" type="footnote" n="12">muttwillen ausgestossen: seinem sexuellen Drang freien Lauf gelassen; s. <bibl source="b590">SI</bibl> XV 1291.</note> hat, etc.</s>
+					<s n="7" xml:lang="de">Darnach in der kirchen hat <lb xml:id="p1z6"/>man sy im zuͦgefuͤrt in ain naͤbencapelle.</s>
+					<s n="8" xml:lang="de">Habend inn seine diener <lb xml:id="p1z7"/>verwaren<note xml:id="fn11" type="footnote" n="11">abschützen; hier: den Zugang zur Kapelle versperren.</note> muͤssen, byß er sinen muͦttwillen ausgestossen<note xml:id="fn12" type="footnote" n="12">muttwillen ausgestossen: seinem sexuellen Drang freien Lauf gelassen; s. <bibl source="b590">SI</bibl> XV 1291.</note> hat, etc.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="9" xml:lang="de">Die unsern ligend noch zuͦ <placeName ref="l119">Thainowwerd</placeName><note xml:id="fn13" type="footnote" n="13"><placeName ref="l119">Donauwörth</placeName>; vgl. <ref target="file12632">Nr. 2585</ref> und Anm. 36.</note>.</s>
-					<s n="10" xml:lang="de">Nitt waist man, was sy fuͤrnemmen wellend.</s>
+					<s n="9" xml:lang="de"><lb xml:id="p1z8"/>Die unsern ligend noch zuͦ <placeName ref="l119">Thainowwerd</placeName><note xml:id="fn13" type="footnote" n="13"><placeName ref="l119">Donauwörth</placeName>; vgl. <ref target="file12632">Nr. 2585</ref> und Anm. 36.</note>.</s>
+					<s n="10" xml:lang="de">Nitt waist man, was sy <lb xml:id="p1z9"/>fuͤrnemmen wellend.</s>
 					<s n="11" xml:lang="de">Die <placeName ref="l834">Italianer</placeName><note xml:id="fn14" type="footnote" n="14">des kaiserlichen Heeres.</note> sind gantz unwillig.</s>
-					<s n="12" xml:lang="de">Ziechend sich teglich ab, unangesechen<note xml:id="fn15" type="footnote" ana="lex" n="15">obgleich.</note> das sy der kaiser pryß geben hat<note xml:id="fn16" type="footnote" n="16">Zu verstehen ist: <placeName ref="l834">Italiener</placeName> werden fahnenflüchtig, obwohl der Kaiser die Hinrichtung von Deserteuren angeordnet hat; vgl. <ref target="file12649">Nr. 2602</ref>,58-66.</note>.</s>
-					<s n="13" xml:lang="de">So<note xml:id="fn17" type="footnote" ana="lex" n="17">Desgleichen.</note> sind die teutschen knecht ouch ganz unwillig, dann es wirt constanter gesagt, das ain sterbet<note xml:id="fn18" type="footnote" n="18">Seuche (Grippe?). Vgl. <ref target="file12649">Nr. 2602</ref>,67-69; und einen in <placeName ref="l361">Nürnberg</placeName> am 16. September verfasten Bericht: "In des kaisers lager soll es auch sterben" (zitiert in Georg <hi>Voigt,</hi> Die Geschichtschreibung über den Schmalkaldischen Krieg, Leipzig 1874, S. 755).</note> under des kaiser knechten seye und grosser mangel aller ding, ouch an gellt<note xml:id="fn19" type="footnote" n="19">Vgl. dazu <ref target="file12629">Nr. 2582</ref>,7-9.</note>.</s>
-					<s n="14" xml:lang="de">Nitt waiß ich, wie es zuͦgeht.</s>
+					<s n="12" xml:lang="de"><lb xml:id="p1z10"/>Ziechend sich teglich ab, unangesechen<note xml:id="fn15" type="footnote" ana="lex" n="15">obgleich.</note> das sy der kaiser pryß geben hat<note xml:id="fn16" type="footnote" n="16">Zu verstehen ist: <placeName ref="l834">Italiener</placeName> werden fahnenflüchtig, obwohl der Kaiser die Hinrichtung von Deserteuren angeordnet hat; vgl. <ref target="file12649">Nr. 2602</ref>,58-66.</note>.</s>
+					<s n="13" xml:lang="de"><lb xml:id="p1z11"/>So<note xml:id="fn17" type="footnote" ana="lex" n="17">Desgleichen.</note> sind die teutschen knecht ouch ganz unwillig, dann es wirt <lb xml:id="p1z12"/>constanter gesagt, das ain sterbet<note xml:id="fn18" type="footnote" n="18">Seuche (Grippe?). Vgl. <ref target="file12649">Nr. 2602</ref>,67-69; und einen in <placeName ref="l361">Nürnberg</placeName> am 16. September verfasten Bericht: "In des kaisers lager soll es auch sterben" (zitiert in Georg <hi>Voigt,</hi> Die Geschichtschreibung über den Schmalkaldischen Krieg, Leipzig 1874, S. 755).</note> under des kaiser knechten seye <lb xml:id="p1z13"/>und grosser mangel aller ding, ouch an gellt<note xml:id="fn19" type="footnote" n="19">Vgl. dazu <ref target="file12629">Nr. 2582</ref>,7-9.</note>.</s>
+					<s n="14" xml:lang="de">Nitt waiß ich, wie es <lb xml:id="p1z14"/>zuͦgeht.</s>
 					<s n="15" xml:lang="de">Were guͦt, man keme ab<note xml:id="fn20" type="footnote" n="20">keme ab: werde frei von; s. <bibl source="b590">SI</bibl> III 270 s.v. abkommen.</note> der sach.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="16" xml:lang="de">Die <placeName ref="l522">Venediger</placeName> wellen die <placeName ref="l822">Teutschen</placeName> nitt zuͦ finden machen<note xml:id="fn21" type="footnote" n="21">Vgl. <ref target="file12639">Nr. 2592</ref>,12-16.</note>.</s>
+					<s n="16" xml:lang="de"><lb xml:id="p1z15"/>Die <placeName ref="l522">Venediger</placeName> wellen die <placeName ref="l822">Teutschen</placeName> nitt zuͦ finden machen<note xml:id="fn21" type="footnote" n="21">Vgl. <ref target="file12639">Nr. 2592</ref>,12-16.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="17" xml:lang="de">Es soll sich naiswas<note xml:id="fn22" type="footnote" ana="lex" n="22">irgendetwas.</note> newes unwillens zwyschen <placeName ref="l832">Franckrich</placeName> unnd <placeName ref="l830">Engeland</placeName> widerum zuͦtragen haben<note xml:id="fn23" type="footnote" n="23">Entgegen den Bestimmungen des Friedensabkommens von Juni 1546 (s. <ref target="file12517">Nr. 2470</ref>, Anm. 15) hatte <placeName ref="l832">Frankreich</placeName> im August mit dem Bau von Befestigungsanlagen nahe <placeName ref="l2122">Boulogne</placeName> begonnen, was englischen Widerstand hervorrief; s. <bibl source="b513">Potter</bibl> 468.</note>.</s>
+					<s n="17" xml:lang="de"><lb xml:id="p1z16"/>Es soll sich naiswas<note xml:id="fn22" type="footnote" ana="lex" n="22">irgendetwas.</note> newes unwillens zwyschen <placeName ref="l832">Franckrich</placeName> unnd <lb xml:id="p1z17"/><placeName ref="l830">Engeland</placeName> widerum zuͦtragen haben<note xml:id="fn23" type="footnote" n="23">Entgegen den Bestimmungen des Friedensabkommens von Juni 1546 (s. <ref target="file12517">Nr. 2470</ref>, Anm. 15) hatte <placeName ref="l832">Frankreich</placeName> im August mit dem Bau von Befestigungsanlagen nahe <placeName ref="l2122">Boulogne</placeName> begonnen, was englischen Widerstand hervorrief; s. <bibl source="b513">Potter</bibl> 468.</note>.</s>
 					<s n="18" xml:lang="de">Kan nitt aigentlich<note xml:id="fn24" type="footnote" ana="lex" n="24">genau.</note> hoͤren, wie oder was.<pb type="edition" next="490"/></s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="19" xml:lang="la" ana="farewell">Tu bene vale, mi venerande et charissime <persName ref="p495">Bullingere</persName>, et dominum pro me nostraque ecclesia diligenter interpella.</s>
+					<s n="19" xml:lang="la" ana="farewell"><lb xml:id="p1z18"/>Tu bene vale, mi venerande et charissime <persName ref="p495">Bullingere</persName>, et dominum pro me <lb xml:id="p1z19"/>nostraque ecclesia diligenter interpella.</s>
 					<s n="20" xml:lang="de">22. septembris 1546.</s>
 				</p>
 			</div>
@@ -154,13 +180,13 @@
 					<s n="21" xml:lang="la">Tuus <persName ref="p8055">Amb. Bl.</persName></s>
 				</p>
 				<p>
-					<s n="22" xml:lang="la" ana="salute">Salveant fratres et amici.</s>
-					<s n="23" xml:lang="la" ana="salute">Salutant<note xml:id="fna" type="footnote" n="a"><hi>In der Vorlage</hi> salutante.</note> te nostri omnes.</s>
+					<s n="22" xml:lang="la" ana="salute"><lb xml:id="p1z20"/>Salveant fratres et amici.</s>
+					<s n="23" xml:lang="la" ana="salute"><lb xml:id="p1z21"/>Salutant<note xml:id="fna" type="footnote" n="a"><hi>In der Vorlage</hi> salutante.</note> te nostri omnes.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="24" xml:lang="la"><persName ref="p495">Bullingero</persName> suo.</s>
-					<s n="25" xml:lang="la"><placeName ref="l587">Tiguri</placeName><note xml:id="fnb" type="footnote" n="b"><hi>Darunter von <persName ref="p495">Bullingers</persName> Hand:</hi> Remitte has per praesentem tabellionem, <hi>was darauf hinweist, dass <persName ref="p495">Bullinger</persName> vorliegenden Brief einer anderen Person zum Lesen weitergeleitet hat, möglicherweise an <persName ref="p8418">Oswald Myconius</persName>; vgl. nämlich <ref target="file12561">Nr. 2514</ref>, Anm. 1; <ref target="file12649">Nr. 2602</ref>, Anm. b.</hi></note>.</s>
+					<s n="24" xml:lang="la"><pb/><lb xml:id="p2z4"/><persName ref="p495">Bullingero</persName> suo.</s>
+					<s n="25" xml:lang="la"><lb xml:id="p2z5"/><placeName ref="l587">Tiguri</placeName><note xml:id="fnb" type="footnote" n="b"><hi>Darunter von <persName ref="p495">Bullingers</persName> Hand:</hi> Remitte has per praesentem tabellionem, <hi>was darauf hinweist, dass <persName ref="p495">Bullinger</persName> vorliegenden Brief einer anderen Person zum Lesen weitergeleitet hat, möglicherweise an <persName ref="p8418">Oswald Myconius</persName>; vgl. nämlich <ref target="file12561">Nr. 2514</ref>, Anm. 1; <ref target="file12649">Nr. 2602</ref>, Anm. b.</hi></note>.</s>
 				</p>
 			</div>
 		</body>

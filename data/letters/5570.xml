@@ -63,6 +63,11 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5570!Autograph!00%20E_II_441__fol__717_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">5570/Autograph/00 E_II_441__fol__717_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="352,487 899,426 1540,473 1920,438 2043,478 2179,452 2179,384 1685,366 1554,408 1487,370 953,343 466,403 350,356">364,426 455,423 546,423 637,420 728,420 819,418 910,420 1001,421 1092,423 1183,423 1274,426 1365,426 1456,426 1547,429 1638,432 1729,435 1820,438 1911,440 2002,444 2093,446 2185,447</zone>
+			<zone xml:id="p1z2-0" points="391,527 520,569 638,520 771,562 869,515 1079,513 2260,573 2258,489 2137,459 1200,489 925,445 802,489 391,494">405,519 498,519 591,516 684,515 777,513 870,513 963,510 1056,510 1149,513 1242,513 1335,513 1428,516 1521,516 1614,519 1707,519 1800,525 1893,529 1986,532 2079,538 2172,544 2265,561</zone>
+			<zone xml:id="p1z3-0" points="382,650 958,606 1251,655 1319,615 1715,657 2220,641 2218,594 1999,569 1501,557 1433,592 1121,529 603,592 380,550">394,632 485,620 576,611 668,611 759,608 851,605 942,604 1034,602 1125,602 1217,603 1308,607 1399,608 1491,608 1582,610 1674,613 1765,614 1857,620 1948,622 2040,628 2131,634 2223,641</zone>
+			<zone xml:id="p1z4-0" points="384,734 997,694 1307,746 1452,701 2190,727 2190,680 1792,678 1668,631 1424,624 1286,673 1039,613 384,650">397,713 491,707 586,704 681,704 775,701 870,698 965,696 1059,697 1154,698 1249,698 1343,701 1438,698 1533,698 1627,701 1722,702 1817,706 1911,707 2006,710 2101,713 2196,716</zone>
+			<zone xml:id="p1z5-0" points="387,857 499,825 643,857 757,813 1191,841 1284,797 1610,832 1806,790 2255,832 2255,778 1843,722 944,771 610,729 387,776">399,802 492,799 585,796 678,794 771,791 864,790 957,786 1051,783 1144,784 1237,785 1330,785 1423,785 1516,782 1609,782 1703,782 1796,785 1889,792 1982,795 2075,800 2168,806 2262,820</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5570!Autograph!01%20E_II_441__fol__717_v_.tif/full/max/0/default.jpg" n="2">
@@ -74,10 +79,10 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Si venerit ad vos <persName ref="p8061">Ioannes Utenhovius</persName> <placeName ref="l168">Gandavensis</placeName> exul et pauper, quaeso, illi benefaciatis propter charitatem.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Si venerit ad vos <persName ref="p8061">Ioannes Utenhovius</persName> <placeName ref="l168">Gandav<lb xml:id="p1z2"/>ensis</placeName> exul et pauper, quaeso, illi benefaciatis pro<lb xml:id="p1z3"/>pter charitatem.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Nescio plane, an sit <persName ref="p8061">Ioannis Utenhovii</persName> nostri cognatus; videtur vir esse non malus, biduum apud me peregit.</s>
+					<s n="2" xml:lang="la">Nescio plane, an sit <persName ref="p8061">Ioannis <lb xml:id="p1z4"/>Utenhovii</persName> nostri cognatus; videtur vir esse non <lb xml:id="p1z5"/>malus, biduum apud me peregit.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" ana="farewell">Vale iterum.</s>

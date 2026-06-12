@@ -73,20 +73,28 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3922!Autograph!00%20E_II_368__fol__425_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3922/Autograph/00 E_II_368__fol__425_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="673,216 1045,216 1430,284 1802,236 1986,284 2057,248 2363,316 2623,301 2621,216 2368,165 2251,212 1821,153 1500,207 1369,168 1194,190 1062,136 941,180 671,148">688,196 785,199 882,203 979,208 1076,213 1173,217 1270,223 1367,226 1464,226 1561,229 1658,231 1755,232 1852,235 1949,238 2046,241 2143,246 2240,252 2337,256 2434,262 2531,269 2629,274</zone>
+			<zone xml:id="p1z2-0" points="695,318 929,287 1194,345 1442,316 1831,370 1918,338 2193,399 2300,355 2606,394 2604,326 2490,292 2290,321 2035,248 1947,292 1802,236 1692,292 1573,253 1291,277 1123,221 970,270 834,226 693,243">706,286 801,280 896,284 991,290 1087,294 1182,297 1277,301 1372,307 1468,310 1563,316 1658,318 1753,322 1849,323 1944,329 2039,332 2134,336 2230,342 2325,346 2420,352 2515,358 2611,366</zone>
+			<zone xml:id="p1z3-0" points="710,406 1186,430 1371,396 1456,447 1648,396 2161,452 2244,421 2322,479 2441,457 2628,506 2657,377 2193,399 1918,338 1699,379 1614,343 1464,372 1306,316 1223,360 1075,311 970,348 763,304 705,333">721,372 818,369 915,370 1012,372 1109,375 1207,378 1304,384 1401,387 1498,390 1595,393 1693,398 1790,402 1887,405 1984,409 2081,415 2179,419 2276,425 2373,435 2470,441 2567,448 2665,456</zone>
+			<zone xml:id="p1z4-0" points="700,460 1026,457 1089,498 1289,462 1454,511 1729,474 1913,545 2011,518 2088,552 2259,506 2256,418 2101,460 1651,396 1461,447 1310,399 1182,433 698,413">712,441 789,441 867,442 944,445 1022,447 1100,449 1177,453 1255,456 1333,459 1410,462 1488,462 1566,462 1643,465 1721,467 1799,471 1876,471 1954,475 2032,476 2109,479 2187,482 2265,488</zone>
+			<zone xml:id="p1z5-0" points="1736,618 1804,613 1887,647 1977,654 2110,608 2246,630 2244,547 2147,532 2035,569 1977,566 1840,508 1733,535">1749,593 1774,591 1799,590 1824,588 1849,587 1874,587 1899,588 1924,590 1949,590 1974,590 1999,593 2024,596 2049,596 2074,597 2099,598 2124,600 2149,602 2174,602 2199,602 2224,604 2250,602</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3922!Autograph!01%20E_II_368__fol__425_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3922/Autograph/01 E_II_368__fol__425_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="425,607 700,569 1242,566 1284,549 1285,498 1217,508 1090,458 891,529 785,485 605,521 427,485">432,569 474,564 517,563 560,561 603,560 645,560 688,560 731,560 774,558 816,557 859,557 902,556 945,554 987,554 1030,554 1073,554 1116,553 1158,551 1201,551 1244,548 1287,542</zone>
+			<zone xml:id="p2z2-0" points="444,715 888,683 1097,739 1271,683 1273,627 1036,666 841,615 446,633">450,697 491,691 532,688 573,687 615,684 656,682 697,679 738,679 780,679 821,676 862,676 903,676 945,676 986,674 1027,673 1068,672 1110,669 1151,667 1192,667 1233,664 1275,664</zone>
+			<zone xml:id="p2z3-0" points="444,868 532,860 684,800 831,807 832,770 799,759 661,768 592,738 539,759 488,752 448,765">453,801 478,804 503,802 529,800 554,799 580,797 605,795 630,794 656,792 681,792 707,792 732,792 757,791 783,789 808,790 834,792</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Mitto ad te orationem, quam in comitiis imperialibus habuit d. <persName ref="p17841">Carolus Marillac</persName>, archiepiscopus <placeName ref="l546">Viennensis</placeName>, regis legatus pius.</s>
-					<s n="3" xml:lang="la">Ubi pacis conditiones recepero, amplissimo senatui mittam, cui salutaria omnia et felicia precor, d. d. etiam <persName ref="p8111">Martiri</persName> et <persName ref="p8011">Gvalthero</persName>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Mitto ad te orationem, quam in comitiis imperialibus habuit d. <persName ref="p17841">Carolus <lb xml:id="p1z2"/>Marillac</persName>, archiepiscopus <placeName ref="l546">Viennensis</placeName>, regis legatus pius.</s>
+					<s n="3" xml:lang="la">Ubi pacis conditiones <lb xml:id="p1z3"/>recepero, amplissimo senatui mittam, cui salutaria omnia et felicia precor, <lb xml:id="p1z4"/>d. d. etiam <persName ref="p8111">Martiri</persName> et <persName ref="p8011">Gvalthero</persName>.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la" ana="farewell">Bene vale.</s>
@@ -95,10 +103,10 @@
 					<s n="5" xml:lang="la"><placeName ref="l760">Sol[uturi]</placeName> 14. aprilis.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Tuus ex animo.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z5"/>Tuus ex animo.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Domino <persName ref="p495">Henrico Bullingero</persName>, ecclesiae <placeName ref="l587">Tigurine</placeName> pastori vigilantissimo.</s>
+					<s n="7" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Henrico Bullingero</persName>, <lb xml:id="p2z2"/>ecclesiae <placeName ref="l587">Tigurine</placeName> pastori <lb xml:id="p2z3"/>vigilantissimo.</s>
 				</p>
 				<p>
 					<note>[von anderer Hand.]</note>

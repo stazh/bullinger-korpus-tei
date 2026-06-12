@@ -86,53 +86,69 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12679!Autograph!00%20E_II_336__fol__271_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12679/Autograph/00 E_II_336__fol__271_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="314,277 1611,294 1719,258 1984,297 2112,262 2227,302 2286,267 2271,159 2090,235 1972,201 1857,240 1741,186 586,216 314,167">328,259 426,256 524,255 622,256 720,253 818,256 916,256 1014,256 1112,256 1210,259 1308,259 1406,257 1504,259 1602,259 1700,256 1798,259 1896,258 1994,256 2092,254 2190,256 2289,256</zone>
+			<zone xml:id="p1z2-0" points="405,343 1180,326 1403,363 1570,316 1736,368 1977,316 2158,361 2158,262 1982,297 1717,258 1599,294 1057,262 826,297 728,262 405,304">417,325 504,322 591,319 679,319 766,317 853,316 941,316 1028,313 1115,313 1203,313 1290,313 1377,313 1465,313 1552,316 1639,316 1727,313 1814,313 1901,313 1989,313 2076,310 2164,310</zone>
+			<zone xml:id="p1z3-0" points="397,407 571,432 802,385 1091,424 1342,378 2004,410 2067,405 2070,319 1800,358 1572,316 1270,361 1180,326 535,341 397,378">411,397 494,392 577,388 660,385 743,382 826,382 909,379 993,376 1076,376 1159,376 1242,376 1325,376 1408,373 1491,373 1575,376 1658,376 1741,373 1824,373 1907,373 1990,373 2074,370</zone>
+			<zone xml:id="p1z4-0" points="397,481 2300,441 2266,400 1494,414 1342,378 1241,417 797,385 738,427 400,424">411,459 505,456 600,453 695,447 790,444 885,443 979,438 1074,438 1169,438 1264,438 1359,435 1453,435 1548,435 1643,432 1738,433 1833,432 1927,430 2022,429 2117,426 2212,429 2307,429</zone>
+			<zone xml:id="p1z5-0" points="405,527 1229,535 1359,498 1989,535 2168,500 2168,441 2112,437 2026,471 1952,439 1712,476 1631,434 1533,473 1243,444 405,486">417,516 504,513 592,511 680,510 768,507 856,504 943,503 1031,501 1119,501 1207,498 1295,497 1382,497 1470,495 1558,495 1646,494 1734,492 1821,492 1909,489 1997,489 2085,486 2173,486</zone>
+			<zone xml:id="p1z6-0" points="397,608 1020,579 1194,633 1334,567 1427,606 2170,601 2313,574 2315,488 1987,535 1523,498 1359,537 937,510 397,547">411,585 506,583 601,580 697,577 792,576 888,573 983,570 1078,567 1174,564 1269,564 1365,561 1460,558 1555,558 1651,555 1746,555 1842,555 1937,555 2032,556 2128,558 2223,555 2319,561</zone>
+			<zone xml:id="p1z7-0" points="410,652 486,667 554,652 633,677 672,657 773,672 812,647 846,667 871,650 964,662 966,579 863,581 836,606 657,584 620,616 581,591 542,620 410,630">423,647 450,646 477,644 505,644 532,644 559,644 587,643 614,641 641,641 669,641 696,641 723,640 751,638 778,638 805,638 833,638 860,636 887,635 915,635 942,634 970,632</zone>
+			<zone xml:id="p1z8-0" points="419,726 804,746 846,706 1212,687 1884,728 2254,679 2254,623 2134,591 2011,594 1947,645 1518,598 1140,665 1096,628 692,682 422,662">432,713 523,703 614,701 706,698 797,695 888,692 980,689 1071,686 1162,683 1254,680 1345,677 1436,677 1528,674 1619,674 1710,671 1802,671 1893,668 1984,668 2076,668 2167,665 2259,668</zone>
+			<zone xml:id="p1z9-0" points="417,817 513,775 611,814 1263,804 1489,743 1709,785 2283,755 2283,689 2166,682 1896,721 1300,719 1209,684 419,748">432,773 524,768 617,765 710,764 803,759 896,755 989,752 1081,749 1174,746 1267,743 1360,740 1453,740 1546,740 1639,737 1731,737 1824,737 1917,737 2010,734 2103,734 2196,734 2289,734</zone>
+			<zone xml:id="p1z10-0" points="407,858 2109,804 2313,856 2315,748 1707,787 1457,743 1285,795 611,814 547,775 407,807">420,847 519,842 619,832 719,828 819,824 919,821 1019,817 1119,815 1219,812 1319,809 1419,806 1519,803 1619,802 1719,802 1819,801 1919,800 2019,797 2119,797 2219,799 2319,797</zone>
+			<zone xml:id="p1z11-0" points="427,920 925,944 1025,900 1268,949 1322,907 1562,925 1746,876 1807,925 1930,910 2085,1003 2278,998 2281,844 2109,802 1597,856 1378,804 670,890 547,846 429,863">441,919 533,913 625,907 717,904 810,901 902,898 994,895 1086,891 1179,886 1271,883 1363,882 1455,880 1548,877 1640,877 1732,874 1824,874 1917,872 2009,874 2101,874 2193,874 2286,877</zone>
+			<zone xml:id="p1z12-0" points="422,1023 562,1023 682,981 871,1028 1035,986 1037,934 964,917 868,944 782,912 657,942 591,922 505,952 424,920">435,982 465,982 495,982 525,982 556,982 586,982 616,980 647,979 677,979 707,979 738,979 768,979 798,979 828,978 859,976 889,976 919,975 950,973 980,973 1010,974 1041,976</zone>
+			<zone xml:id="p1z13-0" points="1807,1089 1839,1101 1896,1082 1950,1118 2121,1059 2195,1099 2264,1101 2266,1028 2239,1030 2185,974 2114,1025 1989,993 1874,1025 1810,1013">1821,1071 1846,1072 1871,1071 1896,1069 1921,1067 1946,1066 1971,1065 1996,1065 2021,1065 2046,1065 2071,1063 2096,1062 2121,1060 2146,1059 2171,1059 2196,1059 2221,1059 2246,1060 2271,1062</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12679!Autograph!01%20E_II_336__fol__271_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12679/Autograph/01 E_II_336__fol__271_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="873,900 1100,896 1142,871 1217,909 1354,880 1535,900 1536,823 1443,797 1388,818 1263,774 1204,807 875,801">879,874 911,871 944,871 977,871 1010,870 1043,868 1076,868 1109,867 1142,865 1175,865 1208,863 1240,862 1273,862 1306,862 1339,864 1372,865 1405,865 1438,863 1471,862 1504,861 1537,859</zone>
+			<zone xml:id="p2z2-0" points="919,987 994,950 1106,937 1230,936 1294,963 1366,938 1454,966 1481,953 1482,919 1398,886 1051,919 921,901">925,937 952,937 980,937 1008,936 1036,934 1064,934 1092,933 1120,931 1148,929 1176,928 1204,928 1231,928 1259,928 1287,928 1315,928 1343,928 1371,928 1399,928 1427,928 1455,928 1483,928</zone>
+			<zone xml:id="p2z3-0" points="931,1016 966,1011 1004,1027 1056,1016 1102,1037 1221,1003 1225,935 1150,949 1107,938 1065,948 1019,978 933,982">937,1000 963,1000 989,1000 1015,999 1041,997 1067,995 1093,994 1119,994 1145,993 1171,992 1197,987 1224,982</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S. A spe nondum deficio.</s>
-					<s n="2" xml:lang="la">Dominus crudelitati non humanę, non <placeName ref="l2510">Turcicę</placeName>, sed omnino <placeName ref="l875">Hispanicę</placeName> et antichristianę modum sistet, imo graviter puniet!</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S. A spe nondum deficio.</s>
+					<s n="2" xml:lang="la">Dominus crudelitati non humanę, non <placeName ref="l2510">Turcicę</placeName>, sed omnino <placeName ref="l875">Hispanicę</placeName> <lb xml:id="p1z2"/>et antichristianę modum sistet, imo graviter puniet!</s>
 					<s n="3" xml:lang="la">Id quod et orabimus.</s>
-					<s n="4" xml:lang="la">De <persName ref="p2916">Schertlino</persName> non tu scripsisti, sed alii dixerunt.<note xml:id="fn1" type="footnote" n="1"><persName ref="p8418">Myconius</persName> bezieht sich hier auf seine Mitteilung in Nr. 2625,1-3, in der er berichtet hatte, dass <persName ref="p2916">Schertlin</persName> in <placeName ref="l28">Basel</placeName> für einen Verräter gehalten wurde; eine Stelle, über deren Bedeutung <persName ref="p495">Bullinger</persName> sich offensichtlich nicht im Klaren war; s. <ref target="file12672">Nr. 2625</ref>, Anm. 4.</note></s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z3"/>De <persName ref="p2916">Schertlino</persName> non tu scripsisti, sed alii dixerunt.<note xml:id="fn1" type="footnote" n="1"><persName ref="p8418">Myconius</persName> bezieht sich hier auf seine Mitteilung in Nr. 2625,1-3, in der er berichtet hatte, dass <persName ref="p2916">Schertlin</persName> in <placeName ref="l28">Basel</placeName> für einen Verräter gehalten wurde; eine Stelle, über deren Bedeutung <persName ref="p495">Bullinger</persName> sich offensichtlich nicht im Klaren war; s. <ref target="file12672">Nr. 2625</ref>, Anm. 4.</note></s>
 					<s n="5" xml:lang="la">Equidem tua<note xml:id="fn2" type="footnote" n="2"><persName ref="p495">Bullingers</persName> Brief vom 5. Oktober, in dem er ankündigte, dass die Öffentlichkeit bald über einen weiteren Verräter erfahren würde; s. <ref target="file12654">Nr. 2607</ref>,7-9.</note> sane intellexi.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="6" xml:lang="la">Petiit <persName ref="p18538">cęsar</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p18538">Karl V.</persName></note> a <persName ref="p17927">Palatino</persName><note xml:id="fn4" type="footnote" n="4">Kurfürst <persName ref="p17927">Friedrich II.</persName> von der <placeName ref="l2477">Pfalz</placeName>.</note> hybernare in ditione ipsius.<note xml:id="fn5" type="footnote" n="5">Siehe dazu <hi>Hasenciever, Kurpfalz</hi> I 24f. - Zum hier wohl gemeinten Gebiet s. <ref target="file12671">Nr. 2624</ref>, Anm. 17.</note></s>
-					<s n="7" xml:lang="la">Experti dicunt: Ergo in animo est longe diversissimum; sic enim est cęsar, ut, dum hoc dicit, contrarium significet.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z4"/>Petiit <persName ref="p18538">cęsar</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p18538">Karl V.</persName></note> a <persName ref="p17927">Palatino</persName><note xml:id="fn4" type="footnote" n="4">Kurfürst <persName ref="p17927">Friedrich II.</persName> von der <placeName ref="l2477">Pfalz</placeName>.</note> hybernare in ditione ipsius.<note xml:id="fn5" type="footnote" n="5">Siehe dazu <hi>Hasenciever, Kurpfalz</hi> I 24f. - Zum hier wohl gemeinten Gebiet s. <ref target="file12671">Nr. 2624</ref>, Anm. 17.</note></s>
+					<s n="7" xml:lang="la">Experti dicunt: Ergo in animo <lb xml:id="p1z5"/>est longe diversissimum; sic enim est cęsar, ut, dum hoc dicit, contrarium significet.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="8" xml:lang="la">De <persName ref="p8375">Anglo</persName><note xml:id="fn6" type="footnote" n="6">König <persName ref="p8375">Heinrich VIII.</persName> von <placeName ref="l830">England</placeName>.</note> audio nihil esse,<note xml:id="fn7" type="footnote" n="7">Gemeint ist das Gerücht von einer Hilfeleistung <placeName ref="l830">Englands</placeName> an die <placeName ref="l1202">Schmalkaldener</placeName>; vgl. <ref target="file12654">Nr. 2607</ref>, Anm. 37.</note> quod proxime significatum per <persName ref="p8055">Ambrosium</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p8055">Ambrosius Blarer</persName>. - Eine entsprechende Mitteilung Blarers an <persName ref="p8418">Myconius</persName> ist nicht bekannt. Doch hat <persName ref="p8055">Blarer</persName> über die Verhandlungen der <placeName ref="l1202">Schmalkaldener</placeName> mit <placeName ref="l832">Frankreich</placeName> und <placeName ref="l830">England</placeName> z.B. in <ref target="file12665">Nr. 2618</ref>,34-36, an <persName ref="p495">Bullinger</persName> berichtet.</note>; fidem enim servare velle datam cęsari.<pb type="edition" next="157"/></s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z6"/>De <persName ref="p8375">Anglo</persName><note xml:id="fn6" type="footnote" n="6">König <persName ref="p8375">Heinrich VIII.</persName> von <placeName ref="l830">England</placeName>.</note> audio nihil esse,<note xml:id="fn7" type="footnote" n="7">Gemeint ist das Gerücht von einer Hilfeleistung <placeName ref="l830">Englands</placeName> an die <placeName ref="l1202">Schmalkaldener</placeName>; vgl. <ref target="file12654">Nr. 2607</ref>, Anm. 37.</note> quod proxime significatum per <persName ref="p8055">Ambrosium</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p8055">Ambrosius Blarer</persName>. - Eine entsprechende Mitteilung Blarers an <persName ref="p8418">Myconius</persName> ist nicht bekannt. Doch hat <persName ref="p8055">Blarer</persName> über die Verhandlungen der <placeName ref="l1202">Schmalkaldener</placeName> mit <placeName ref="l832">Frankreich</placeName> und <placeName ref="l830">England</placeName> z.B. in <ref target="file12665">Nr. 2618</ref>,34-36, an <persName ref="p495">Bullinger</persName> berichtet.</note>; fidem enim servare <lb xml:id="p1z7"/>velle datam cęsari.<pb type="edition" next="157"/></s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="9" xml:lang="la">Scripsit vir nobilis<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note> ex castris venisse <placeName ref="l875">Hispanos</placeName> ad mulierem gravidam<note xml:id="fn10" type="footnote" n="10">Unbekannt.</note> et iam partui proximam.</s>
-					<s n="10" xml:lang="la">Dumque noluerit obtemperare votis, amputasse illi primo digitos, deinde mammas, et ita eam extinctam.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z8"/>Scripsit vir nobilis<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note> ex castris venisse <placeName ref="l875">Hispanos</placeName> ad mulierem gravidam<note xml:id="fn10" type="footnote" n="10">Unbekannt.</note> et iam <lb xml:id="p1z9"/>partui proximam.</s>
+					<s n="10" xml:lang="la">Dumque noluerit obtemperare votis, amputasse illi primo digitos, <lb xml:id="p1z10"/>deinde mammas, et ita eam extinctam.</s>
 					<s n="11" xml:lang="la">O deus!</s>
 					<s n="12" xml:lang="la">Hęc ideo, quia plura non p[ossum].<note xml:id="fna" type="footnote" n="a"><hi>Textverlust durch Papierausschnitt.</hi></note></s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="13" xml:lang="la" ana="farewell">Vale in domino Iesu.</s>
+					<s n="13" xml:lang="la" ana="farewell"><lb xml:id="p1z11"/>Vale in domino Iesu.</s>
 					<s n="14" xml:lang="la">Orabimus dominum, ut tueatur verbum suum.</s>
-					<s n="15" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 18. octobris anno 1546.</s>
-					<s n="16" xml:lang="la">Tuus <persName ref="p8418">Os. Myconius</persName>.</s>
+					<s n="15" xml:lang="la"><placeName ref="l28">Basileę</placeName>, <lb xml:id="p1z12"/>18. octobris anno 1546.</s>
+					<s n="16" xml:lang="la"><lb xml:id="p1z13"/>Tuus <persName ref="p8418">Os. Myconius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="17" xml:lang="la">D. <persName ref="p495">Heinricho Bullingero</persName>, in domino venerando suo.</s>
+					<s n="17" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>in domino venerando <lb xml:id="p2z3"/>suo.</s>
 				</p>
 			</div>
 		</body>

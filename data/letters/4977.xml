@@ -80,31 +80,43 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4977!Autograph!00%20E_II_368__fol__546_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4977/Autograph/00 E_II_368__fol__546_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="972,223 1218,211 1305,249 1507,197 1690,270 1819,204 1916,230 2167,185 2322,235 2463,202 2444,85 2040,155 1951,101 1394,169 1305,129 1157,176 1040,127 974,162">984,199 1058,211 1132,208 1206,206 1281,204 1355,202 1429,202 1504,199 1578,199 1652,196 1727,196 1801,193 1875,193 1949,190 2024,190 2098,187 2172,186 2247,184 2321,184 2395,178 2470,173</zone>
+			<zone xml:id="p1z2-0" points="641,390 908,345 1028,394 1258,340 1617,387 1749,343 1885,397 2000,338 2099,369 2240,336 2340,383 2524,324 2526,261 2164,310 1747,246 1441,312 1082,246 641,284">653,355 746,349 840,343 934,340 1028,337 1122,336 1216,337 1309,334 1403,334 1497,334 1591,334 1685,331 1779,331 1873,331 1966,328 2060,328 2154,328 2248,326 2342,325 2436,319 2530,319</zone>
+			<zone xml:id="p1z3-0" points="624,484 862,444 970,488 1033,439 1141,479 1465,416 1636,453 1930,453 1988,413 2451,437 2488,432 2491,331 2345,383 2240,336 2167,380 1951,354 1904,397 1484,343 624,394">638,438 730,433 823,430 915,427 1008,423 1101,420 1193,420 1286,417 1379,414 1471,414 1564,414 1657,414 1749,414 1842,411 1935,412 2027,411 2120,408 2213,406 2305,405 2398,405 2491,399</zone>
+			<zone xml:id="p1z4-0" points="634,547 1291,531 1352,566 1465,523 1702,570 1817,514 2507,523 2507,434 2416,423 2286,467 2146,425 1859,493 1622,460 1329,488 1190,446 1129,477 1033,439 960,498 869,448 782,495 636,477">647,522 740,522 833,521 926,520 1020,519 1113,519 1206,516 1299,516 1393,513 1486,513 1579,513 1672,513 1766,510 1859,509 1952,507 2045,504 2139,501 2232,498 2325,496 2418,492 2512,498</zone>
+			<zone xml:id="p1z5-0" points="624,622 725,660 1169,622 1345,685 1467,646 1531,695 1709,610 2110,671 2465,610 2451,549 2240,570 2099,521 1958,573 1840,514 1749,563 1556,540 1481,585 1099,547 923,582 840,535 624,566">638,614 729,617 821,617 912,614 1004,613 1096,614 1187,614 1279,611 1370,613 1462,611 1554,609 1645,608 1737,608 1828,605 1920,605 2012,605 2103,605 2195,605 2286,602 2378,602 2470,602</zone>
+			<zone xml:id="p1z6-0" points="1589,690 1664,681 1732,702 1754,690 1782,709 1810,704 1808,631 1791,634 1772,620 1744,636 1707,613 1669,646 1655,643 1620,667 1587,667">1599,683 1625,683 1652,683 1679,683 1706,684 1733,686 1760,688 1787,690 1814,692</zone>
+			<zone xml:id="p1z7-0" points="624,803 761,817 873,735 1045,714 1190,779 1312,728 1566,730 1730,815 2035,800 2035,697 1958,678 1808,711 965,657 786,695 709,643 624,657">638,728 708,720 778,718 848,716 918,713 988,713 1058,713 1128,713 1198,713 1268,716 1339,716 1409,717 1479,716 1549,716 1619,721 1689,725 1759,724 1829,733 1899,736 1969,737 2040,731</zone>
+			<zone xml:id="p1z8-0" points="1324,1052 1545,1012 2465,1059 2463,979 2127,847 1998,890 1883,866 1671,970 1587,916 1322,930">1336,1023 1392,1016 1449,1012 1506,1009 1562,1005 1619,1002 1676,1000 1732,999 1789,999 1846,1002 1903,1004 1959,1005 2016,1009 2073,1011 2129,1013 2186,1014 2243,1017 2299,1017 2356,1019 2413,1020 2470,1023</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4977!Autograph!01%20E_II_368__fol__546_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">4977/Autograph/01 E_II_368__fol__546_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="182,490 419,515 763,466 924,506 1000,461 1214,461 1214,423 1011,383 758,387 585,441 344,308 186,308">190,477 241,477 292,476 344,474 395,474 446,472 498,471 549,468 600,467 652,465 703,463 754,462 806,460 857,459 908,459 960,458 1011,456 1062,456 1114,456 1165,456 1217,456</zone>
+			<zone xml:id="p2z2-0" points="244,623 479,609 604,671 676,628 878,636 975,573 1160,610 1203,599 1207,514 1036,542 879,479 517,565 248,524">253,587 300,595 348,593 396,593 444,590 491,590 539,590 587,590 635,587 682,586 730,583 778,580 826,577 873,573 921,572 969,570 1017,569 1064,569 1112,564 1160,560 1208,554</zone>
+			<zone xml:id="p2z3-0" points="299,714 564,713 707,771 837,723 1141,816 1201,768 1268,776 1272,621 1189,594 767,680 299,686">307,710 355,710 403,711 452,708 500,707 548,707 597,707 645,707 693,707 742,707 790,703 838,702 887,703 935,701 983,699 1032,696 1080,695 1128,695 1177,690 1225,681 1274,674</zone>
+			<zone xml:id="p2z4-0" points="792,1051 873,1043 980,997 1036,1024 1042,903 979,889 917,896 869,864 802,864">802,981 828,974 855,972 881,972 908,972 934,970 961,969 987,969 1014,965 1041,960</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Domine observande et colendissime.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Domine observande et colendissime.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Credo te accepisse hesternas domini mei <persName ref="p629">Coignetii</persName>.</s>
-					<s n="3" xml:lang="la">Nunc cum equitare cogeretur, iussit, ut has ad te scriberem et orationem a domino meo <persName ref="p8033">Besa</persName> habitam mitterem teque suo nomine salutarem.</s>
-					<s n="4" xml:lang="la" ana="farewell">Vale atque iterum vale meque tui obsequentissimum habe.</s>
+					<s n="2" xml:lang="la">C<lb xml:id="p1z2"/>redo te accepisse hesternas domini mei <persName ref="p629">Coignetii</persName>.</s>
+					<s n="3" xml:lang="la">Nunc cum equitare <lb xml:id="p1z3"/>cogeretur, iussit, ut has ad te scriberem et orationem a domino <lb xml:id="p1z4"/>meo <persName ref="p8033">Besa</persName> habitam mitterem teque suo nomine salutarem.</s>
+					<s n="4" xml:lang="la" ana="farewell">Vale <lb xml:id="p1z5"/>atque iterum vale meque tui obsequentissimum habe.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Apud <placeName ref="l478">Sanctum Germanum</placeName> die 20a 7bris 1561.</s>
-					<s n="6" xml:lang="la">Tui obsequentissimus <persName ref="p448">Ioannes Boutinus</persName>.</s>
+					<s n="5" xml:lang="la">Apud <lb xml:id="p1z6"/><placeName ref="l478">Sanc<lb xml:id="p1z7"/>tum Germanum</placeName> die 20a 7bris 1561.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z8"/>Tui obsequentissimus <persName ref="p448">Ioannes Boutinus</persName>.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">[D]omino <persName ref="p495">Henrico Bullingero</persName>, ecclesie <placeName ref="l587">Tigurinae</placeName> pastori vigilantissimo, [domin]o meo imprimis colendissimo.</s>
-					<s n="8" xml:lang="la"><placeName ref="l587">Tigury</placeName>.</s>
+					<s n="7" xml:lang="la">[<pb/><lb xml:id="p2z1"/>D]omino <persName ref="p495">Henrico Bullingero</persName>, ecclesie <lb xml:id="p2z2"/><placeName ref="l587">Tigurinae</placeName> pastori vigilantissimo, [<lb xml:id="p2z3"/>domin]o meo imprimis colendissimo.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p2z4"/><placeName ref="l587">Tigury</placeName>.</s>
 				</p>
 			</div>
 		</body>

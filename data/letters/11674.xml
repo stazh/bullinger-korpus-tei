@@ -81,58 +81,80 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11674!Autograph!00%20E_II_343__fol__241_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11674/Autograph/00 E_II_343__fol__241_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="311,357 2262,311 2262,238 2180,221 1177,274 311,218">325,322 422,317 519,319 616,319 713,317 810,316 907,318 1004,317 1101,316 1198,316 1295,313 1392,313 1489,312 1586,310 1683,307 1780,307 1877,304 1974,304 2071,304 2168,303 2266,301</zone>
+			<zone xml:id="p1z2-0" points="408,420 1151,379 1498,410 1653,369 2119,396 2275,376 2277,328 1223,318 913,357 840,325 408,364">421,385 513,382 606,380 699,380 792,377 885,376 978,376 1070,373 1163,370 1256,370 1349,369 1442,370 1535,367 1628,367 1720,367 1813,364 1906,364 1999,364 2092,364 2185,367 2278,367</zone>
+			<zone xml:id="p1z3-0" points="410,483 1177,430 1219,471 1597,432 2277,447 2277,401 2003,369 1876,408 1702,374 410,420">424,448 516,443 609,440 702,439 795,434 888,433 981,430 1073,427 1166,427 1259,427 1352,427 1445,425 1538,424 1631,424 1723,424 1816,424 1909,424 2002,424 2095,424 2188,427 2281,424</zone>
+			<zone xml:id="p1z4-0" points="401,541 966,495 2267,510 2226,447 1804,427 401,486">415,516 507,507 600,504 693,499 786,498 879,495 972,492 1064,489 1157,486 1250,488 1343,486 1436,485 1529,483 1622,482 1714,482 1807,481 1900,483 1993,483 2086,483 2179,483 2272,486</zone>
+			<zone xml:id="p1z5-0" points="398,597 1143,578 1187,544 2287,556 2287,510 2114,490 401,541">412,576 506,570 600,563 694,557 788,554 882,549 976,546 1070,543 1164,543 1258,543 1352,540 1446,540 1540,538 1634,537 1728,537 1822,537 1916,537 2010,540 2104,540 2198,543 2293,540</zone>
+			<zone xml:id="p1z6-0" points="393,682 1214,604 1721,604 1850,648 2005,619 2296,672 2299,546 2190,580 1743,544 1677,578 663,566 393,624">406,639 500,631 595,627 689,621 784,614 879,611 973,605 1068,603 1163,600 1257,597 1352,597 1447,597 1541,597 1636,597 1731,597 1825,597 1920,600 2015,600 2109,603 2204,603 2299,600</zone>
+			<zone xml:id="p1z7-0" points="398,733 1464,663 1697,702 1741,697 1743,614 1223,602 398,680">412,704 478,699 545,692 612,690 679,686 745,681 812,677 879,675 946,672 1012,667 1079,666 1146,661 1213,660 1279,660 1346,657 1413,657 1480,654 1546,654 1613,654 1680,652 1747,651</zone>
+			<zone xml:id="p1z8-0" points="393,779 1524,728 2304,748 2343,672 2059,699 1954,655 1896,702 1787,668 1707,704 1656,668 1083,675 971,719 660,689 573,738 393,726">406,761 503,755 600,752 697,748 794,743 891,738 988,734 1085,734 1182,731 1279,728 1376,725 1473,725 1570,722 1667,722 1764,722 1861,719 1958,719 2055,719 2152,719 2249,721 2347,725</zone>
+			<zone xml:id="p1z9-0" points="396,850 2309,794 2309,745 2131,726 398,782">409,827 504,819 599,816 694,809 790,806 885,803 980,797 1075,794 1171,793 1266,791 1361,789 1456,788 1552,785 1647,782 1742,778 1837,776 1933,776 2028,773 2123,773 2218,773 2314,779</zone>
+			<zone xml:id="p1z10-0" points="393,898 1711,867 1714,804 1578,791 396,850">409,881 474,880 539,876 605,875 670,873 736,872 801,869 866,866 932,863 997,860 1063,857 1128,854 1193,851 1259,849 1324,848 1390,848 1455,845 1520,843 1586,842 1651,840 1717,839</zone>
+			<zone xml:id="p1z11-0" points="398,971 2299,905 2299,859 2177,825 2059,869 1716,842 1185,898 1085,859 913,908 825,867 580,915 401,898">412,946 506,940 601,934 695,931 790,928 885,924 979,921 1074,916 1169,914 1263,911 1358,910 1453,907 1547,904 1642,901 1737,899 1831,899 1926,899 2021,897 2115,896 2210,899 2305,896</zone>
+			<zone xml:id="p1z12-0" points="408,1010 2258,966 2241,898 410,964">421,1003 513,997 605,991 697,985 789,982 881,979 973,976 1065,972 1157,969 1249,966 1342,964 1434,963 1526,959 1618,956 1710,955 1802,952 1894,949 1986,949 2078,949 2170,949 2263,946</zone>
+			<zone xml:id="p1z13-0" points="398,1085 1338,1027 2141,1046 2255,1020 2258,966 401,1015">412,1066 504,1061 596,1054 689,1048 781,1042 874,1039 966,1033 1058,1030 1151,1027 1243,1027 1336,1024 1428,1023 1520,1020 1613,1016 1705,1015 1798,1012 1890,1009 1982,1007 2075,1003 2167,1006 2260,1006</zone>
+			<zone xml:id="p1z14-0" points="405,1155 966,1107 1029,1146 1175,1090 1308,1136 1444,1095 1901,1131 2017,1085 2245,1107 2265,1039 1425,1058 1340,1024 408,1083">421,1126 513,1120 606,1115 698,1108 791,1105 883,1099 976,1096 1068,1093 1161,1087 1253,1086 1346,1084 1439,1083 1531,1080 1624,1076 1716,1075 1809,1073 1901,1072 1994,1069 2086,1069 2179,1072 2272,1075</zone>
+			<zone xml:id="p1z15-0" points="410,1187 435,1199 461,1192 517,1206 529,1206 553,1187 607,1192 607,1158 585,1158 556,1136 529,1136 505,1160 410,1160">424,1182 450,1181 477,1179 504,1179 531,1178 558,1177 585,1176 612,1176</zone>
+			<zone xml:id="p1z16-0" points="408,1257 1274,1206 1449,1233 1658,1189 2253,1206 2296,1194 2299,1117 1816,1163 1592,1126 1165,1177 1078,1148 1000,1192 910,1151 767,1194 668,1148 502,1221 408,1197">421,1239 515,1236 609,1232 703,1228 797,1223 891,1216 985,1212 1079,1209 1173,1204 1267,1200 1361,1197 1455,1194 1549,1190 1643,1185 1737,1184 1831,1179 1925,1177 2019,1176 2113,1174 2207,1173 2302,1176</zone>
+			<zone xml:id="p1z17-0" points="422,1313 2321,1240 2289,1192 2061,1180 425,1260">436,1296 530,1290 625,1287 719,1281 814,1274 908,1268 1003,1265 1097,1261 1192,1258 1286,1254 1381,1251 1475,1248 1570,1242 1664,1238 1759,1235 1853,1232 1948,1231 2042,1230 2137,1230 2231,1230 2326,1230</zone>
+			<zone xml:id="p1z18-0" points="422,1384 736,1355 813,1386 920,1345 1090,1379 1231,1321 1425,1381 1556,1311 2194,1335 2199,1240 425,1313">439,1358 527,1352 615,1348 703,1342 791,1336 879,1332 967,1329 1055,1326 1143,1325 1231,1320 1320,1317 1408,1313 1496,1307 1584,1304 1672,1301 1760,1296 1848,1293 1936,1290 2024,1290 2112,1290 2201,1287</zone>
+			<zone xml:id="p1z19-0" points="1901,1495 1942,1512 2034,1495 2085,1517 2136,1483 2158,1503 2216,1517 2219,1442 2192,1435 2165,1447 2151,1432 2126,1444 2073,1403 1961,1447 1903,1432">1914,1490 1939,1486 1965,1483 1991,1482 2017,1480 2043,1478 2069,1478 2095,1478 2121,1478 2147,1477 2173,1475 2199,1474 2225,1472</zone>
+			<zone xml:id="p1z20-0" points="1981,1551 1993,1551 2015,1566 2022,1558 2034,1561 2059,1549 2117,1556 2119,1507 2105,1503 2083,1520 2068,1517 2054,1503 2034,1495 2017,1505 1983,1498">1995,1544 2020,1540 2046,1538 2071,1538 2097,1538 2123,1538</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11674!Autograph!01%20E_II_343__fol__241_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11674/Autograph/01 E_II_343__fol__241_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1012,1441 1310,1425 1347,1446 1385,1423 1532,1435 1533,1368 1491,1358 1401,1388 1306,1369 1219,1405 1159,1369 1103,1394 1013,1393">1017,1426 1042,1426 1068,1424 1094,1422 1120,1421 1146,1420 1172,1420 1197,1419 1223,1417 1249,1419 1275,1419 1301,1418 1327,1417 1353,1417 1378,1417 1404,1417 1430,1417 1456,1417 1482,1417 1508,1418 1534,1420</zone>
+			<zone xml:id="p2z2-0" points="1050,1519 1068,1527 1126,1497 1219,1483 1232,1496 1347,1498 1377,1516 1405,1497 1448,1508 1458,1439 1207,1466 1051,1455">1056,1486 1081,1484 1106,1483 1131,1483 1156,1482 1181,1481 1207,1480 1232,1480 1257,1480 1282,1480 1307,1478 1333,1477 1358,1477 1383,1478 1408,1480 1433,1477 1459,1474</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Dolet mihi, quod <persName ref="p18308">Quirinus</persName><note xml:id="fn1" type="footnote" n="1">Die Rede ist vom Buchhändler <persName ref="p18308">Quirinus von Leiden</persName>.</note> filium suum<note xml:id="fn2" type="footnote" ana="bio" n="2">Von den aus dem Kirchenbuch des Großmünsters (<placeName ref="l587">Zürich</placeName> Stadtarchiv, VIII. C. 1) bekannten sieben Kindern des <persName ref="p18308">Quirinus von Leiden</persName> (vgl. die Exzerpte Erhard Dürstelers, ebd., VIII. D. 5.a, s. v. "Leyden") kommen der am 14. April 1532 getaufte <persName ref="p20820">Konrad</persName> und der am 8. Februar 1534 getaufte <persName ref="p20821">Melchior</persName> in Frage.</note> ita circumducit; videtur indolis<note xml:id="fna" type="footnote" n="a"><hi>Vor</hi> indolis <hi>ein gestrichenes, unlesbares Wort.</hi></note> non malę, si recte institueretur.</s>
-					<s n="3" xml:lang="la">Modo mirabili his diebus ingenium eius<pb type="edition" next="88"/> exploravi; reperi non paulo patre prudentiorem.</s>
-					<s n="4" xml:lang="la">Novit egregie, quę patrem dedecent, et libere corripit; si tamen ita manserit, actum esse de ipso vereor.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Dolet mihi, quod <persName ref="p18308">Quirinus</persName><note xml:id="fn1" type="footnote" n="1">Die Rede ist vom Buchhändler <persName ref="p18308">Quirinus von Leiden</persName>.</note> filium suum<note xml:id="fn2" type="footnote" ana="bio" n="2">Von den aus dem Kirchenbuch des Großmünsters (<placeName ref="l587">Zürich</placeName> Stadtarchiv, VIII. C. 1) bekannten sieben Kindern des <persName ref="p18308">Quirinus von Leiden</persName> (vgl. die Exzerpte Erhard Dürstelers, ebd., VIII. D. 5.a, s. v. "Leyden") kommen der am 14. April 1532 getaufte <persName ref="p20820">Konrad</persName> und der am 8. Februar 1534 getaufte <persName ref="p20821">Melchior</persName> in Frage.</note> ita circumducit; videtur indolis<note xml:id="fna" type="footnote" n="a"><hi>Vor</hi> indolis <hi>ein gestrichenes, unlesbares Wort.</hi></note> non malę, si <lb xml:id="p1z2"/>recte institueretur.</s>
+					<s n="3" xml:lang="la">Modo mirabili his diebus ingenium eius<pb type="edition" next="88"/> exploravi; reperi non <lb xml:id="p1z3"/>paulo patre prudentiorem.</s>
+					<s n="4" xml:lang="la">Novit egregie, quę patrem dedecent, et libere corripit; <lb xml:id="p1z4"/>si tamen ita manserit, actum esse de ipso vereor.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Annon locus est aliquis apud vos, qui queat illi contingere?</s>
-					<s n="6" xml:lang="la">Quę dico, non habent aliam causam, quam ut videas adfectum meum erga puerum istum.</s>
+					<s n="5" xml:lang="la">Annon locus est aliquis apud vos, qui <lb xml:id="p1z5"/>queat illi contingere?</s>
+					<s n="6" xml:lang="la">Quę dico, non habent aliam causam, quam ut videas adfectum meum <lb xml:id="p1z6"/>erga puerum istum.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">In unica coena talis visus est; forsitan alius est, quam adparuerit, id quod tu melius nosse potes.</s>
+					<s n="7" xml:lang="la">In unica coena talis visus est; forsitan alius est, quam adparuerit, id quod <lb xml:id="p1z7"/>tu melius nosse potes.</s>
 					<s n="8" xml:lang="la">Iudicio tuo subiicio, qualisqualis est.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Nova nulla sunt, nisi, quod suspicio est <persName ref="p20225">Gallo</persName><note xml:id="fn3" type="footnote" n="3">König <persName ref="p20225">Franz I.</persName> von <placeName ref="l832">Frankreich</placeName>.</note>, <placeName ref="l522">Venetis</placeName> et <persName ref="p19981">papę</persName><note xml:id="fn4" type="footnote" n="4">Papst <persName ref="p19981">Paul III.</persName></note> convenire cum <persName ref="p18593">Turca</persName><note xml:id="fn5" type="footnote" n="5">Sultan <persName ref="p18593">Suleiman I.</persName> -Ganz ähnlich äußerte sich <persName ref="p8418">Myconius</persName> bereits am Vortag gegenüber <persName ref="p8049">Vadian</persName> (s. <persName ref="p8049">Vadian</persName> BW VI 127). Tatsächlich verhandelte <placeName ref="l832">Frankreich</placeName> erfolgreich mit dem Sultan über gemeinsame militärische Aktionen gegen Habsburg, während <placeName ref="l522">Venedig</placeName>, bestärkt vom Papst, diesem Bündnis fern blieb und seine Neutralität bekräftigte; vgl. Ion <hi>Ursu,</hi> La politique orientale de François I er (1515-1547), Paris 1908, S. 138-140; <bibl source="b152">Cardauns</bibl> 212f. 215f.</note>.</s>
-					<s n="10" xml:lang="la">Quę res quas turbas excitatura foret, quis non videt?</s>
-					<s n="11" xml:lang="la">Illud pro vero narratur: <placeName ref="l832">Gallum</placeName> foedus ictum cum cęsare in decennium renunciasse<note xml:id="fn6" type="footnote" n="6">Entgegen diesem Gerücht war der am 18. Juni 1538 in <placeName ref="l1221">Nizza</placeName> zwischen Kaiser <persName ref="p18538">Karl V.</persName> und König <persName ref="p20225">Franz I.</persName> geschlossene Waffenstillstandsvertrag (vgl. <bibl source="b10">HBBW VIII</bibl> <ref target="file11177">[Nr. 1134]</ref>, S. 144, Anm. 4) formell noch in Geltung, während der König bereits zum Krieg rüstete; vgl. <bibl source="b152">Cardauns</bibl> 214f. 218f.</note>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z8"/>Nova nulla sunt, nisi, quod suspicio est <persName ref="p20225">Gallo</persName><note xml:id="fn3" type="footnote" n="3">König <persName ref="p20225">Franz I.</persName> von <placeName ref="l832">Frankreich</placeName>.</note>, <placeName ref="l522">Venetis</placeName> et <persName ref="p19981">papę</persName><note xml:id="fn4" type="footnote" n="4">Papst <persName ref="p19981">Paul III.</persName></note> convenire cum <persName ref="p18593">Turca</persName><note xml:id="fn5" type="footnote" n="5">Sultan <persName ref="p18593">Suleiman I.</persName> -Ganz ähnlich äußerte sich <persName ref="p8418">Myconius</persName> bereits am Vortag gegenüber <persName ref="p8049">Vadian</persName> (s. <persName ref="p8049">Vadian</persName> BW VI 127). Tatsächlich verhandelte <placeName ref="l832">Frankreich</placeName> erfolgreich mit dem Sultan über gemeinsame militärische Aktionen gegen Habsburg, während <placeName ref="l522">Venedig</placeName>, bestärkt vom Papst, diesem Bündnis fern blieb und seine Neutralität bekräftigte; vgl. Ion <hi>Ursu,</hi> La politique orientale de François I er (1515-1547), Paris 1908, S. 138-140; <bibl source="b152">Cardauns</bibl> 212f. 215f.</note>.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z9"/>Quę res quas turbas excitatura foret, quis non videt?</s>
+					<s n="11" xml:lang="la">Illud pro vero narratur: <lb xml:id="p1z10"/><placeName ref="l832">Gallum</placeName> foedus ictum cum cęsare in decennium renunciasse<note xml:id="fn6" type="footnote" n="6">Entgegen diesem Gerücht war der am 18. Juni 1538 in <placeName ref="l1221">Nizza</placeName> zwischen Kaiser <persName ref="p18538">Karl V.</persName> und König <persName ref="p20225">Franz I.</persName> geschlossene Waffenstillstandsvertrag (vgl. <bibl source="b10">HBBW VIII</bibl> <ref target="file11177">[Nr. 1134]</ref>, S. 144, Anm. 4) formell noch in Geltung, während der König bereits zum Krieg rüstete; vgl. <bibl source="b152">Cardauns</bibl> 214f. 218f.</note>.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la">Venit vir nobilis<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> in civitatem nostram his diebus, qui dixit se captum a <placeName ref="l2510">Turca</placeName> cum Iudęo et camelo traxisse aratrum.</s>
-					<s n="13" xml:lang="la">Pręteriisse legatos <placeName ref="l832">Gallos</placeName>, qui erant profecturi ad <placeName ref="l2510">Turcam</placeName><note xml:id="fn8" type="footnote" n="8">Von welcher der <placeName ref="l832">französischen</placeName> Gesandtschaften nach <placeName ref="l1148">Konstantinopel</placeName> die Rede ist, bleibt offen.</note>, et rogasse ab equis, quisnam et unde esset.</s>
-					<s n="14" xml:lang="la">Respondisse se christianum esse et <placeName ref="l101">Colmariensem</placeName>; solvisse igitur mox illos coronatos, puto, sexaginta ac redemisse.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z11"/>Venit vir nobilis<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> in civitatem nostram his diebus, qui dixit se captum a <placeName ref="l2510">Turca</placeName> cum Iu<lb xml:id="p1z12"/>dęo et camelo traxisse aratrum.</s>
+					<s n="13" xml:lang="la">Pręteriisse legatos <placeName ref="l832">Gallos</placeName>, qui erant profecturi ad <lb xml:id="p1z13"/><placeName ref="l2510">Turcam</placeName><note xml:id="fn8" type="footnote" n="8">Von welcher der <placeName ref="l832">französischen</placeName> Gesandtschaften nach <placeName ref="l1148">Konstantinopel</placeName> die Rede ist, bleibt offen.</note>, et rogasse ab equis, quisnam et unde esset.</s>
+					<s n="14" xml:lang="la">Respondisse se christianum esse et <lb xml:id="p1z14"/><placeName ref="l101">Colmariensem</placeName>; solvisse igitur mox illos coronatos, puto, sexaginta ac rede<lb xml:id="p1z15"/>misse.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la">Rumor est praeterea <placeName ref="l2510">Turcam</placeName> demolitum funditus <placeName ref="l1074">Budam</placeName> et <placeName ref="l1841">Pestam</placeName>, arcem vero in quinquennium cibo et potu communiisse reddidisseque insuperabilem.</s>
+					<s n="15" xml:lang="la"><lb xml:id="p1z16"/>Rumor est praeterea <placeName ref="l2510">Turcam</placeName> demolitum funditus <placeName ref="l1074">Budam</placeName> et <placeName ref="l1841">Pestam</placeName>, arcem vero in quinquennium <lb xml:id="p1z17"/>cibo et potu communiisse reddidisseque insuperabilem.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la">Tantilla nolui te ignorare.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" ana="farewell">Vale in domino cum tuis et fratribus omnibus.</s>
+					<s n="17" xml:lang="la" ana="farewell"><lb xml:id="p1z18"/>Vale in domino cum tuis et fratribus omnibus.</s>
 				</p>
 				<p>
 					<s n="18" xml:lang="la"><placeName ref="l28">Basileę</placeName>, raptim, 15. maii anno 1542.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="19" xml:lang="la"><lb xml:id="p1z19"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z20"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="20" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName>, in domino suo.</s>
+					<s n="20" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>in domino suo.</s>
 				</p>
 			</div>
 		</body>

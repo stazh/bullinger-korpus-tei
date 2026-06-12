@@ -79,39 +79,54 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10624!Autograph!00%20E_II_351__fol__168_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10624/Autograph/00 E_II_351__fol__168_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="253,217 2487,225 2487,172 2226,128 2106,181 1803,133 1651,189 1395,170 1325,114 709,164 659,133 595,183 253,195">268,217 379,213 490,208 601,206 712,208 823,208 934,207 1045,205 1156,206 1267,208 1379,208 1490,208 1601,211 1712,211 1823,211 1934,211 2045,211 2156,211 2267,214 2378,210 2490,205</zone>
+			<zone xml:id="p1z2-0" points="367,292 2481,283 2459,220 367,236">381,265 486,265 591,263 696,262 802,264 907,263 1012,265 1118,265 1223,265 1328,265 1434,267 1539,268 1644,271 1749,272 1855,271 1960,274 2065,274 2171,274 2276,274 2381,274 2487,268</zone>
+			<zone xml:id="p1z3-0" points="395,342 650,322 728,364 967,322 1142,361 1287,322 1523,358 1645,322 1714,367 2034,331 2331,364 2537,356 2537,283 392,281">411,325 517,327 624,325 730,322 837,320 944,319 1050,322 1157,322 1264,322 1370,322 1477,324 1584,322 1690,327 1797,328 1904,328 2010,328 2117,331 2224,331 2330,334 2437,330 2544,328</zone>
+			<zone xml:id="p1z4-0" points="383,406 1264,389 1325,428 1409,386 1687,389 2023,433 2523,389 2481,336 383,350">399,393 505,388 612,387 718,382 825,381 931,381 1038,381 1144,381 1251,381 1357,382 1464,383 1570,381 1677,384 1783,387 1890,387 1996,390 2103,387 2209,387 2316,387 2422,385 2529,384</zone>
+			<zone xml:id="p1z5-0" points="389,475 2484,475 2481,395 2026,433 1956,386 386,408">405,456 509,450 613,447 717,444 821,442 925,441 1029,441 1133,439 1237,441 1341,441 1446,441 1550,441 1654,442 1758,443 1862,450 1966,459 2070,456 2174,453 2278,450 2382,447 2487,444</zone>
+			<zone xml:id="p1z6-0" points="389,545 767,545 825,509 1303,542 1425,503 1567,556 1678,509 1867,550 1942,511 2498,522 2498,472 2267,447 1887,486 1292,447 1075,481 917,439 825,489 767,450 681,486 389,475">405,524 510,520 615,514 720,510 825,507 930,505 1035,504 1140,504 1245,504 1350,503 1455,502 1560,501 1665,501 1770,503 1875,504 1980,507 2085,507 2190,507 2295,507 2400,502 2505,498</zone>
+			<zone xml:id="p1z7-0" points="403,606 878,570 967,603 1112,564 1162,603 1314,564 1392,603 1439,567 1698,606 2498,592 2498,520 2273,511 403,545">417,581 521,578 625,572 730,569 834,566 939,563 1043,563 1147,566 1252,563 1356,563 1461,563 1565,563 1669,564 1774,566 1878,566 1983,567 2087,569 2191,566 2296,566 2400,563 2505,560</zone>
+			<zone xml:id="p1z8-0" points="375,686 517,647 798,684 848,636 1209,659 1342,625 1378,659 1442,625 1481,656 1714,628 1820,678 1934,631 2237,670 2415,634 2554,689 2554,581 2509,570 2443,603 2320,564 2204,603 1451,567 1398,603 1114,567 375,603">390,650 498,641 606,634 715,633 823,629 932,626 1040,626 1149,625 1257,623 1366,623 1474,623 1582,626 1691,629 1799,629 1908,629 2016,629 2125,629 2233,629 2342,626 2450,626 2559,623</zone>
+			<zone xml:id="p1z9-0" points="381,734 703,700 775,747 942,686 1075,731 1187,684 1378,686 1489,736 1717,686 1901,722 2181,692 2256,739 2437,709 2418,634 2237,670 1714,625 1481,656 1425,622 1367,667 1309,622 1214,653 1061,622 381,681">396,715 498,705 600,698 703,694 805,691 908,689 1010,686 1113,685 1215,683 1318,686 1420,686 1522,686 1625,686 1727,689 1830,688 1932,687 2035,687 2137,689 2240,692 2342,689 2445,686</zone>
+			<zone xml:id="p1z10-0" points="381,823 556,831 692,781 861,834 967,792 1420,817 1517,775 1564,820 1673,786 1756,836 1859,792 2195,831 2473,784 2473,686 2270,734 1717,689 1498,734 1206,686 1078,731 939,686 383,736">399,784 503,773 607,766 711,760 815,758 919,754 1023,755 1127,755 1231,754 1335,751 1440,752 1544,751 1648,751 1752,750 1856,748 1960,748 2064,750 2168,751 2272,755 2376,754 2481,751</zone>
+			<zone xml:id="p1z11-0" points="1831,981 1887,986 1920,961 1951,984 2070,989 2112,1009 2154,975 2259,986 2259,886 2195,892 2151,864 2104,870 2062,900 2006,884 1956,914 1923,889 1831,873">1846,960 1872,962 1898,963 1924,963 1951,964 1977,966 2003,964 2029,963 2056,963 2082,963 2108,963 2134,963 2161,963 2187,965 2213,966 2239,966 2266,966</zone>
+			<zone xml:id="p1z12-0" points="1862,1039 1906,1064 1995,1039 2026,1059 2095,1042 2117,1067 2184,1039 2267,1045 2267,1003 2223,981 2156,975 2115,1009 1990,978 1862,981">1876,1038 1902,1038 1929,1036 1955,1033 1982,1032 2009,1032 2035,1032 2062,1031 2088,1030 2115,1029 2142,1029 2168,1027 2195,1026 2221,1026 2248,1026 2275,1026</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10624!Autograph!01%20E_II_351__fol__168_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10624/Autograph/01 E_II_351__fol__168_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1271,616 1600,640 1941,611 2131,646 2130,595 2004,565 1901,594 1810,562 1558,582 1508,550 1348,586 1270,556">1276,609 1318,609 1361,609 1404,609 1447,609 1490,609 1533,609 1576,611 1619,612 1662,612 1705,614 1747,615 1790,615 1833,615 1876,615 1919,616 1962,618 2005,618 2048,618 2091,619 2134,624</zone>
+			<zone xml:id="p2z2-0" points="1270,714 1632,673 1821,712 2125,681 2125,639 1937,610 1780,656 1671,624 1472,650 1270,616">1276,675 1318,672 1361,669 1403,669 1446,669 1489,669 1531,669 1574,669 1616,669 1659,669 1702,670 1744,672 1787,672 1829,672 1872,673 1915,675 1957,675 2000,675 2042,675 2085,675 2128,675</zone>
+			<zone xml:id="p2z3-0" points="1543,778 1688,778 1791,758 1812,734 1892,768 1965,743 2052,765 2062,687 2013,679 1978,704 1914,690 1780,720 1634,673 1542,708">1548,726 1573,726 1599,726 1625,728 1651,729 1676,729 1702,730 1728,732 1754,732 1779,732 1805,732 1831,732 1857,732 1882,732 1908,732 1934,732 1960,732 1985,732 2011,732 2037,732 2063,732</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Gottes gnad erhalte unns.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Gottes gnad erhalte unns.</s>
 					<s n="2" xml:lang="de">Amen.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="de">Min herr, üwer empiettenn<note xml:id="fn1" type="footnote" n="1">Anfrage durch den Boten (<bibl source="b590">SI</bibl> IV 1869).</note> an min lieben hernn burgermaister von <persName ref="p8049">Wadten</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p8049">Joachim Vadian</persName>.</note>, demnach an mich, ob wir ettwas nüws habend, üch by zöger<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> zu schicken, bin ich selpst by minem hernn gsin, in gfragt.</s>
-					<s n="4" xml:lang="de">Hat er, och ich, nicht sonders.</s>
-					<s n="5" xml:lang="de">Wie wol im der pfarrer disser stund, alls ich by im gesin, zuͦ gschriben<pb type="edition" next="224"/> die sag dess zugs halb<note xml:id="fn4" type="footnote" n="4">Briefliche Nachrichten eines Pfarrers an <persName ref="p8049">Vadian</persName>, die Musterungen im <placeName ref="l1434">Etschtal</placeName> (vgl. Anm. 7) belangend, sind aus dieser Zeit nicht erhalten.</note>, welches sich alles lendett<note xml:id="fn5" type="footnote" n="5">sich alles stützt auf (<bibl source="b590">SI</bibl> III 1 308f).</note> und fast<note xml:id="fn6" type="footnote" ana="lex" n="6">völlig.</note> concordiert mitt der zittung, üch zuͦ geschriben der tagen von ime och mir<note xml:id="fn7" type="footnote" n="7">Der Brief vom 30. März enthält die letzte uns bekannte Nachricht <persName ref="p8071">Voglers</persName> darüber (vgl. oben <ref target="file10603">Nr. 567</ref>, 64f). <persName ref="p8049">Vadians</persName> Bericht ist verloren.</note>, by aim burger<note xml:id="fn8" type="footnote" n="8">Der oben <ref target="file10603">Nr. 567</ref>, 65 erwähnte <placeName ref="l473">St. Galler</placeName>.</note> von <placeName ref="l473">Santt Gallen</placeName>, welcher dem potten uff dem weg bekomen etc., allerlay so üch dar inn zuͦgeschriben ist.</s>
-					<s n="6" xml:lang="de">Wellend ir (alls wir wissend) ernstlich handlen mitt maister <persName ref="p1419">Haben</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p1419">Johannes Haab</persName>.</note>.</s>
+					<s n="3" xml:lang="de">Min herr, üwer empiettenn<note xml:id="fn1" type="footnote" n="1">Anfrage durch den Boten (<bibl source="b590">SI</bibl> IV 1869).</note> an min lieben hernn <lb xml:id="p1z2"/>burgermaister von <persName ref="p8049">Wadten</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p8049">Joachim Vadian</persName>.</note>, demnach an mich, ob wir ettwas nüws habend, üch by <lb xml:id="p1z3"/>zöger<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> zu schicken, bin ich selpst by minem hernn gsin, in gfragt.</s>
+					<s n="4" xml:lang="de">Hat er, och ich, nicht <lb xml:id="p1z4"/>sonders.</s>
+					<s n="5" xml:lang="de">Wie wol im der pfarrer disser stund, alls ich by im gesin, zuͦ gschriben<pb type="edition" next="224"/> die <lb xml:id="p1z5"/>sag dess zugs halb<note xml:id="fn4" type="footnote" n="4">Briefliche Nachrichten eines Pfarrers an <persName ref="p8049">Vadian</persName>, die Musterungen im <placeName ref="l1434">Etschtal</placeName> (vgl. Anm. 7) belangend, sind aus dieser Zeit nicht erhalten.</note>, welches sich alles lendett<note xml:id="fn5" type="footnote" n="5">sich alles stützt auf (<bibl source="b590">SI</bibl> III 1 308f).</note> und fast<note xml:id="fn6" type="footnote" ana="lex" n="6">völlig.</note> concordiert mitt der <lb xml:id="p1z6"/>zittung, üch zuͦ geschriben der tagen von ime och mir<note xml:id="fn7" type="footnote" n="7">Der Brief vom 30. März enthält die letzte uns bekannte Nachricht <persName ref="p8071">Voglers</persName> darüber (vgl. oben <ref target="file10603">Nr. 567</ref>, 64f). <persName ref="p8049">Vadians</persName> Bericht ist verloren.</note>, by aim burger<note xml:id="fn8" type="footnote" n="8">Der oben <ref target="file10603">Nr. 567</ref>, 65 erwähnte <placeName ref="l473">St. Galler</placeName>.</note> von <lb xml:id="p1z7"/><placeName ref="l473">Santt Gallen</placeName>, welcher dem potten uff dem weg bekomen etc., allerlay so üch <lb xml:id="p1z8"/>dar inn zuͦgeschriben ist.</s>
+					<s n="6" xml:lang="de">Wellend ir (alls wir wissend) ernstlich handlen mitt <lb xml:id="p1z9"/>maister <persName ref="p1419">Haben</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p1419">Johannes Haab</persName>.</note>.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la">Yl.</s>
 					<s n="8" xml:lang="de" ana="salute">Gruͤssend miner husfrowen<note xml:id="fn10" type="footnote" ana="bio" n="10"><persName ref="p8071">Voglers</persName> Ehefrau <persName ref="p4248">Appolonia, geb. Baumgartner</persName>.</note> und mir üwer hus alles.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de">Actum <placeName ref="l473">S. Gallen</placeName>, uff zinstag, den ersten tag dess monatz juny anno 35. jar.</s>
+					<s n="9" xml:lang="de"><lb xml:id="p1z10"/>Actum <placeName ref="l473">S. Gallen</placeName>, uff zinstag, den ersten tag dess monatz juny anno 35. jar.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="de">U[wer schuldiger, wlilliger] <persName ref="p8071">Hans Vogler</persName> etc.</s>
+					<s n="10" xml:lang="de"><lb xml:id="p1z11"/>U[wer schuldiger, wlilliger] <lb xml:id="p1z12"/><persName ref="p8071">Hans Vogler</persName> etc.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="de">An min sonnders gliepten hernn und fründtt, M. <persName ref="p495">Hainrichen Bulligern</persName>, prediger zuͦ <placeName ref="l587">Zürych</placeName>.</s>
+					<s n="11" xml:lang="de"><pb/><lb xml:id="p2z1"/>An min sonnders gliepten hernn <lb xml:id="p2z2"/>und fründtt, M. <persName ref="p495">Hainrichen Bulligern</persName>, <lb xml:id="p2z3"/>prediger zuͦ <placeName ref="l587">Zürych</placeName>.</s>
 				</p>
 			</div>
 		</body>

@@ -79,46 +79,64 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10657!Autograph!00%20E_II_340__fol__71_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10657/Autograph/00 E_II_340__fol__71_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="354,375 606,340 710,380 1447,343 1835,391 2378,370 2378,263 2062,306 1998,271 1644,279 1601,242 1335,293 958,263 859,295 732,253 354,277">369,337 469,337 570,337 671,339 772,340 873,340 974,340 1074,342 1175,343 1276,341 1377,343 1478,345 1579,346 1680,349 1780,350 1881,351 1982,352 2083,352 2184,352 2285,349 2386,349</zone>
+			<zone xml:id="p1z2-0" points="391,410 702,442 745,404 942,436 1154,402 1327,442 1418,402 2011,450 2391,428 2389,362 2194,394 2022,354 1838,391 1450,346 388,367">402,393 501,393 601,394 701,398 801,399 901,399 1000,396 1100,396 1200,398 1300,399 1400,399 1499,402 1599,404 1699,405 1799,408 1899,408 1998,411 2098,411 2198,411 2298,410 2398,408</zone>
+			<zone xml:id="p1z3-0" points="380,481 2381,492 2378,450 2229,420 378,420">393,453 492,453 592,456 691,456 791,459 891,459 990,462 1090,462 1190,462 1289,462 1389,463 1489,465 1588,465 1688,465 1788,468 1887,468 1987,465 2087,468 2186,468 2286,471 2386,471</zone>
+			<zone xml:id="p1z4-0" points="378,527 689,513 793,559 864,524 939,567 1327,521 1455,559 1545,521 1620,564 1833,524 2516,556 2516,481 2447,452 2370,495 1870,503 378,481">393,513 499,513 605,513 712,516 818,516 924,519 1031,519 1137,519 1243,519 1350,519 1456,521 1562,522 1669,522 1775,522 1881,522 1988,522 2094,525 2200,525 2307,525 2413,525 2520,525</zone>
+			<zone xml:id="p1z5-0" points="372,591 1011,591 1093,633 1298,588 1367,625 1466,591 2413,612 2413,561 2192,532 2043,567 1833,529 1639,567 1553,521 1458,559 1389,524 1051,564 867,527 801,561 609,524 372,548">387,575 488,575 590,577 691,578 793,578 895,581 996,581 1098,581 1199,581 1301,581 1403,581 1504,581 1606,584 1707,584 1809,582 1911,584 2012,584 2114,584 2215,584 2317,584 2419,587</zone>
+			<zone xml:id="p1z6-0" points="378,676 1498,638 1910,689 1976,654 2391,678 2338,609 1974,585 1093,622 378,591">393,644 493,640 593,639 693,638 794,641 894,640 994,640 1094,640 1195,638 1295,641 1395,638 1495,640 1596,641 1696,641 1796,641 1896,644 1997,647 2097,650 2197,650 2297,650 2398,650</zone>
+			<zone xml:id="p1z7-0" points="386,734 1043,705 1200,742 1458,705 2317,739 2341,689 2163,657 2014,689 1976,654 1910,689 1814,649 1615,681 1503,638 383,673">399,704 496,701 593,701 691,704 788,704 886,704 983,704 1080,704 1178,704 1275,704 1373,704 1470,704 1567,704 1665,707 1762,708 1860,708 1957,709 2054,712 2152,712 2249,712 2347,718</zone>
+			<zone xml:id="p1z8-0" points="380,798 676,766 732,806 1617,763 2346,787 2346,747 2197,718 380,739">396,760 493,760 591,763 689,763 787,763 885,763 983,763 1080,762 1178,762 1276,761 1374,760 1472,763 1570,761 1668,763 1765,763 1863,765 1961,766 2059,769 2157,769 2255,772 2353,772</zone>
+			<zone xml:id="p1z9-0" points="386,833 2354,851 2338,785 1774,806 1633,763 1527,801 386,790">399,823 497,821 595,823 693,823 791,823 889,823 987,823 1086,823 1184,826 1282,826 1380,823 1478,823 1576,823 1674,824 1773,826 1871,826 1969,826 2067,829 2165,831 2263,829 2362,826</zone>
+			<zone xml:id="p1z10-0" points="388,904 1724,936 2328,894 2285,835 1210,867 386,833">402,885 498,882 595,882 691,884 788,884 885,885 981,885 1078,885 1175,885 1271,888 1368,888 1465,888 1561,888 1658,888 1755,888 1851,888 1948,890 2045,891 2141,888 2238,891 2335,894</zone>
+			<zone xml:id="p1z11-0" points="2386,934 2413,934 2429,918 2445,928 2453,920 2463,920 2474,931 2511,926 2508,883 2492,886 2484,880 2474,886 2460,872 2439,867 2429,872 2383,875">2398,906 2427,906 2457,908 2487,912 2517,912</zone>
+			<zone xml:id="p1z12-0" points="372,976 1367,974 1367,896 1107,931 976,894 372,902">387,951 436,945 485,945 535,945 584,945 634,947 683,948 732,946 782,945 831,945 881,945 930,948 979,947 1029,946 1078,948 1128,948 1177,950 1226,951 1276,954 1325,954 1375,954</zone>
+			<zone xml:id="p1z13-0" points="372,1027 1162,1011 1229,1061 1381,1005 1506,1056 1567,1016 2391,1048 2391,979 2006,982 1825,931 1633,979 1442,942 1269,982 372,971">387,1014 487,1008 587,1005 688,1005 788,1005 889,1002 989,1004 1089,1005 1190,1005 1290,1005 1391,1008 1491,1010 1591,1011 1692,1014 1792,1017 1893,1019 1993,1023 2093,1020 2194,1021 2294,1020 2395,1020</zone>
+			<zone xml:id="p1z14-0" points="378,1117 598,1093 681,1120 766,1077 843,1117 974,1080 1213,1120 1213,1016 378,1040">393,1076 434,1071 475,1070 516,1070 557,1069 599,1067 640,1067 681,1070 722,1070 763,1070 805,1070 846,1070 887,1070 928,1070 969,1070 1011,1070 1052,1070 1093,1070 1134,1070 1175,1073 1217,1070</zone>
+			<zone xml:id="p1z15-0" points="1665,1381 1750,1354 1897,1383 1995,1354 2067,1394 2181,1381 2181,1290 2096,1325 2027,1287 1928,1311 1886,1285 1857,1303 1806,1279 1772,1298 1734,1274 1665,1282">1679,1351 1704,1351 1730,1351 1755,1351 1781,1351 1806,1351 1832,1351 1857,1351 1883,1351 1908,1351 1934,1351 1959,1351 1985,1351 2010,1352 2036,1354 2061,1354 2087,1354 2112,1352 2138,1352 2163,1353 2189,1351</zone>
+			<zone xml:id="p1z16-0" points="1710,1434 1806,1431 1899,1450 1926,1436 1987,1458 2040,1439 2093,1442 2093,1389 2006,1389 1971,1357 1918,1367 1899,1386 1862,1365 1803,1386 1750,1359 1710,1378">1724,1416 1750,1413 1777,1411 1803,1411 1830,1411 1857,1411 1883,1411 1910,1411 1937,1411 1963,1411 1990,1411 2017,1411 2043,1411 2070,1412 2097,1416</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10657!Autograph!01%20E_II_340__fol__71_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10657/Autograph/01 E_II_340__fol__71_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="955,904 1473,885 1536,923 1685,869 1839,887 1839,845 1739,850 1665,812 1535,861 1436,819 1251,859 1141,860 1040,814 956,831">962,884 1008,879 1054,883 1100,879 1147,877 1193,878 1239,877 1285,877 1332,879 1378,877 1424,877 1470,877 1517,877 1563,877 1609,876 1655,873 1702,872 1748,869 1794,868 1841,867</zone>
+			<zone xml:id="p2z2-0" points="923,964 1829,959 1829,889 1685,868 1531,924 1493,895 1268,918 1187,892 923,930">929,945 974,941 1019,939 1064,939 1109,939 1154,938 1199,937 1244,937 1289,937 1334,938 1380,937 1425,938 1470,939 1515,941 1560,941 1605,942 1650,943 1695,943 1740,943 1785,944 1831,947</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratiam et pacem a deo patre et domino nostro Jesu Christo.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratiam et pacem a deo patre et domino nostro Jesu Christo.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Sepius iam scripsi socero meo<note xml:id="fn1" type="footnote" n="1"><persName ref="p459">Heinrich Brennwald</persName>. - Die Briefe sind nicht erhalten.</note>, charissime frater, sed quia nihil adhuc responsum est mihi, suspicor, ne forte bonus pater adversa valetudine impeditus te hactenus iuxta decretum nostrum<note xml:id="fn2" type="footnote" n="2">Nicht bekannt.</note> non convenerit.</s>
-					<s n="3" xml:lang="la">Quare quicquid per te in causa nostra<note xml:id="fn3" type="footnote" n="3">Die Angelegenheit betraf <persName ref="p4353">Matthias Bodmer</persName> (vgl. unten <ref target="file10658">Nr. 620</ref>, 2-10 und Anm. 1).</note> sive apud consulem<note xml:id="fn4" type="footnote" n="4"><persName ref="p2816">Diethelm Röist</persName> war - wie aus <ref target="file10658">Nr. 620</ref>, 3 hervorgeht - mit der Sache beschäftigt.</note> sive apud alios actum sit, paucissimis significato literis.</s>
+					<s n="2" xml:lang="la">Sepius iam scripsi socero <lb xml:id="p1z2"/>meo<note xml:id="fn1" type="footnote" n="1"><persName ref="p459">Heinrich Brennwald</persName>. - Die Briefe sind nicht erhalten.</note>, charissime frater, sed quia nihil adhuc responsum est mihi, suspicor, ne forte <lb xml:id="p1z3"/>bonus pater adversa valetudine impeditus te hactenus iuxta decretum nostrum<note xml:id="fn2" type="footnote" n="2">Nicht bekannt.</note> non <lb xml:id="p1z4"/>convenerit.</s>
+					<s n="3" xml:lang="la">Quare quicquid per te in causa nostra<note xml:id="fn3" type="footnote" n="3">Die Angelegenheit betraf <persName ref="p4353">Matthias Bodmer</persName> (vgl. unten <ref target="file10658">Nr. 620</ref>, 2-10 und Anm. 1).</note> sive apud consulem<note xml:id="fn4" type="footnote" n="4"><persName ref="p2816">Diethelm Röist</persName> war - wie aus <ref target="file10658">Nr. 620</ref>, 3 hervorgeht - mit der Sache beschäftigt.</note> sive apud <lb xml:id="p1z5"/>alios actum sit, paucissimis significato literis.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">Ceterum ut bellum montanum<note xml:id="fn5" type="footnote" n="5">Die Schlacht am <placeName ref="l1007">Gubel</placeName> vom 23./24. Oktober 1531. Vgl. auch oben <ref target="file10628">Nr. 590</ref>, 14-20 und 591, 6-9.</note> a te conscriptum transmitteres, res grata esset.</s>
-					<s n="5" xml:lang="la">Magno enim illius desiderio teneor; nam hoc perfecto mox et opus nostrum<note xml:id="fn6" type="footnote" n="6">Über die Arbeit an der eidgenössischen Chronik vgl. oben <ref target="file10628">Nr. 590</ref>, Anm. 7.</note> perfectum videres.</s>
+					<s n="4" xml:lang="la">Ceterum ut bellum montanum<note xml:id="fn5" type="footnote" n="5">Die Schlacht am <placeName ref="l1007">Gubel</placeName> vom 23./24. Oktober 1531. Vgl. auch oben <ref target="file10628">Nr. 590</ref>, 14-20 und 591, 6-9.</note> a te con<lb xml:id="p1z6"/>scriptum transmitteres, res grata esset.</s>
+					<s n="5" xml:lang="la">Magno enim illius desiderio teneor; nam <lb xml:id="p1z7"/>hoc perfecto mox et opus nostrum<note xml:id="fn6" type="footnote" n="6">Über die Arbeit an der eidgenössischen Chronik vgl. oben <ref target="file10628">Nr. 590</ref>, Anm. 7.</note> perfectum videres.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Communis est rumor apud nos caesarem<note xml:id="fn7" type="footnote" n="7"><persName ref="p18538">Karl V.</persName></note> hisce diebus et <placeName ref="l862">Elvetios</placeName> et <placeName ref="l587">Tigurinos</placeName> amicissimis literis ad mutuam concordiam civilemque pacem amplectandam adhortasse.</s>
-					<s n="7" xml:lang="la">Si ita res se habet, cura, ut olim huiusmodi literarum copiam habeamus<note xml:id="fn8" type="footnote" n="8">Kaiser <persName ref="p18538">Karl V.</persName> hatte den <placeName ref="l2448">V Orten</placeName> vor dem 26. Juni ein Schreiben zukommen lassen, wie aus deren Tagsatzungsverhandlung hervorgeht (vgl. <bibl source="b197">EA</bibl> IV/1c 518). Auch an <placeName ref="l28">Basel</placeName> erging ein kaiserliches Schreiben (vgl. oben <ref target="file10645">Nr. 607</ref>, 22-24 mit Anm. 9). Für <placeName ref="l587">Zürich</placeName> liegt keines vor.</note>.</s>
+					<s n="6" xml:lang="la">Communis est rumor <lb xml:id="p1z8"/>apud nos caesarem<note xml:id="fn7" type="footnote" n="7"><persName ref="p18538">Karl V.</persName></note> hisce diebus et <placeName ref="l862">Elvetios</placeName> et <placeName ref="l587">Tigurinos</placeName> amicissimis literis ad <lb xml:id="p1z9"/>mutuam concordiam civilemque pacem amplectandam adhortasse.</s>
+					<s n="7" xml:lang="la">Si ita res <lb xml:id="p1z10"/>se habet, cura, ut olim huiusmodi literarum copiam habeamus<note xml:id="fn8" type="footnote" n="8">Kaiser <persName ref="p18538">Karl V.</persName> hatte den <placeName ref="l2448">V Orten</placeName> vor dem 26. Juni ein Schreiben zukommen lassen, wie aus deren Tagsatzungsverhandlung hervorgeht (vgl. <bibl source="b197">EA</bibl> IV/1c 518). Auch an <placeName ref="l28">Basel</placeName> erging ein kaiserliches Schreiben (vgl. oben <ref target="file10645">Nr. 607</ref>, 22-24 mit Anm. 9). Für <placeName ref="l587">Zürich</placeName> liegt keines vor.</note>.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la" ana="farewell">Vale.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Ex <placeName ref="l70">Bubickon</placeName>, 19. iulii anno etc. 1535.</s>
+					<s n="9" xml:lang="la">Ex <lb xml:id="p1z12"/><placeName ref="l70">Bubickon</placeName>, 19. iulii anno etc. 1535.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Si quid erratum vel minus congruum in hisce meis literis inveneris, optime frater, amico signo nota, semotis tamen <persName ref="p18409">Zoilis</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p18409">Zoïlus</persName>, nach dem griechischen Philosophen und Redner <persName ref="p18409">Zoïlos von Amphipolis</persName> (4. Jahrhundert v. Chr.), steht für den kleinlichen Kritiker; vgl. <bibl source="b369">LAW</bibl> 3340 und Adagia, 2, 5, 8 (<bibl source="b370">LB</bibl> II 556f).</note>.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z13"/>Si quid erratum vel minus congruum in hisce meis literis inveneris, optime frater, amico <lb xml:id="p1z14"/>signo nota, semotis tamen <persName ref="p18409">Zoilis</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p18409">Zoïlus</persName>, nach dem griechischen Philosophen und Redner <persName ref="p18409">Zoïlos von Amphipolis</persName> (4. Jahrhundert v. Chr.), steht für den kleinlichen Kritiker; vgl. <bibl source="b369">LAW</bibl> 3340 und Adagia, 2, 5, 8 (<bibl source="b370">LB</bibl> II 556f).</note>.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la"><pb type="edition" next="286"/>Tuus <persName ref="p3067">Io. Stumpfius</persName>, <placeName ref="l1457">Bruxellanus</placeName><note xml:id="fn10" type="footnote" n="10">von <placeName ref="l1457">Bruchsal</placeName>.</note>.</s>
+					<s n="11" xml:lang="la"><pb type="edition" next="286"/><lb xml:id="p1z15"/>Tuus <persName ref="p3067">Io. Stumpfius</persName>, <lb xml:id="p1z16"/><placeName ref="l1457">Bruxellanus</placeName><note xml:id="fn10" type="footnote" n="10">von <placeName ref="l1457">Bruchsal</placeName>.</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="12" xml:lang="la">Domino <persName ref="p495">Heinrico Bullingero</persName>, <placeName ref="l587">Tigurinae</placeName> urbis pastori, fratri suo in domino charissimo.</s>
+					<s n="12" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinrico Bullingero</persName>, <placeName ref="l587">Tigurinae</placeName> <lb xml:id="p2z2"/>urbis pastori, fratri suo in domino charissimo.</s>
 				</p>
 			</div>
 		</body>

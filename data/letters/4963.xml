@@ -81,20 +81,29 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4963!Autograph!00%20E_II_377__fol__2693_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4963/Autograph/00 E_II_377__fol__2693_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="630,209 875,240 1074,204 1148,247 1304,199 1475,255 1638,217 1954,225 2120,281 2222,245 2459,268 2544,258 2541,120 2345,184 1648,128 1191,176 1128,135 842,158 628,120">645,194 740,194 835,194 930,195 1026,197 1121,199 1216,200 1311,200 1407,203 1502,200 1597,203 1692,204 1788,208 1883,211 1978,215 2073,217 2169,220 2264,226 2359,229 2454,232 2550,232</zone>
+			<zone xml:id="p1z2-0" points="645,334 1000,334 1097,288 1345,327 1717,309 1794,360 2220,321 2271,365 2411,332 2454,362 2638,352 2638,255 2378,293 2286,250 2184,293 1225,212 643,247">659,289 758,286 857,289 956,289 1056,289 1155,289 1254,291 1354,294 1453,291 1552,295 1652,298 1751,301 1850,303 1949,309 2049,310 2148,316 2247,317 2347,321 2446,325 2545,325 2645,328</zone>
+			<zone xml:id="p1z3-0" points="638,413 796,383 982,444 1077,390 1204,418 1311,367 1582,406 1651,370 1875,436 1977,393 2148,421 2281,388 2508,439 2689,421 2686,319 2294,372 1441,304 1077,350 788,298 635,350">653,373 755,370 857,370 959,370 1061,367 1163,369 1265,367 1367,367 1469,365 1571,369 1673,372 1775,370 1877,375 1979,380 2081,382 2183,385 2285,389 2387,393 2489,397 2591,401 2693,409</zone>
+			<zone xml:id="p1z4-0" points="638,485 987,464 1092,508 1416,464 1482,500 1549,459 1834,459 2089,526 2337,531 2582,485 2582,424 2416,444 2278,388 2051,434 1635,378 1286,441 1140,393 998,441 791,380 638,413">653,453 749,453 846,456 943,459 1040,459 1137,457 1233,459 1330,459 1427,456 1524,455 1621,453 1717,451 1814,453 1911,456 2008,459 2105,461 2201,467 2298,465 2395,468 2492,471 2589,468</zone>
+			<zone xml:id="p1z5-0" points="640,587 676,571 712,584 822,574 844,587 893,564 906,577 990,577 987,490 941,469 875,482 827,467 760,503 737,487 638,500">653,531 679,531 705,531 731,533 757,534 784,534 810,535 836,537 862,537 889,537 915,537 941,538 967,540 994,537</zone>
+			<zone xml:id="p1z6-0" points="1646,727 2130,686 2304,732 2383,679 2526,689 2526,625 2301,559 2225,605 2146,579 2061,640 1646,607">1660,671 1703,671 1747,674 1790,669 1834,668 1878,668 1921,668 1965,668 2008,666 2052,665 2096,667 2139,668 2183,670 2226,669 2270,670 2314,671 2357,671 2401,669 2444,668 2488,668 2532,671</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4963!Autograph!01%20E_II_377__fol__2693_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">4963/Autograph/01 E_II_377__fol__2693_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="122,350 276,389 680,344 1156,387 1256,372 1259,258 1144,303 1003,255 779,263 656,316 489,280 433,319 122,323">128,388 184,379 241,369 297,367 354,365 411,361 467,358 524,356 580,353 637,352 694,349 750,347 807,346 863,343 920,342 977,342 1033,343 1090,340 1146,341 1203,343 1260,346</zone>
+			<zone xml:id="p2z2-0" points="333,482 552,456 636,518 761,484 942,538 1052,467 1226,452 1215,388 997,422 926,381 885,418 809,372 717,425 547,380 333,385">340,453 384,450 429,453 473,453 518,453 562,453 607,453 651,456 696,456 740,456 785,453 829,453 874,453 918,453 963,453 1007,453 1052,453 1096,450 1141,447 1185,450 1230,450</zone>
+			<zone xml:id="p2z3-0" points="998,795 1066,809 1116,792 1147,807 1209,786 1252,797 1283,782 1327,785 1327,680 1269,691 1221,670 1166,676 1122,646 1098,660 1075,650 1048,666 998,663">1006,764 1031,763 1056,761 1081,761 1106,761 1131,761 1156,761 1181,763 1206,764 1231,764 1256,763 1281,761 1306,760 1331,758</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Quoniam d. <persName ref="p8111">Petrus Martir</persName> ad te scribit, non dubito, quin ex eius literis satis intelligas bonam eius valetudinem, quodque in ea conservanda nihil prętermiserim.</s>
-					<s n="3" xml:lang="la">Certior etiam fies de progressu religionis; posthac pluribus scribam.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Quoniam d. <persName ref="p8111">Petrus Martir</persName> ad te scribit, non dubito, quin ex eius literis <lb xml:id="p1z2"/>satis intelligas bonam eius valetudinem, quodque in ea conservanda nihil <lb xml:id="p1z3"/>prętermiserim.</s>
+					<s n="3" xml:lang="la">Certior etiam fies de progressu religionis; posthac pluribus <lb xml:id="p1z4"/>scribam.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la" ana="salute">Salutabis amicos omnes.</s>
@@ -103,14 +112,14 @@
 					<s n="5" xml:lang="la" ana="farewell">Bene vale.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Apud <placeName ref="l478">Sanctum Germanum</placeName> 14. septembris.</s>
+					<s n="6" xml:lang="la">Apud <placeName ref="l478">Sanctum Germanum</placeName> <lb xml:id="p1z5"/>14. septembris.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z6"/>Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Domino <persName ref="p495">Henrico Bullinghero</persName>, ecclesiae <placeName ref="l587">Tigurinae</placeName> pastori vigilantissimo.</s>
-					<s n="9" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+					<s n="8" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Henrico Bullinghero</persName>, ecclesiae <lb xml:id="p2z2"/><placeName ref="l587">Tigurinae</placeName> pastori vigilantissimo.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p2z3"/><placeName ref="l587">Tiguri</placeName>.</s>
 				</p>
 			</div>
 		</body>

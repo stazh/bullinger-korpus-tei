@@ -74,38 +74,51 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1054!Autograph!00%20E_II_361__fol__348_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">1054/Autograph/00 E_II_361__fol__348_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="185,267 370,244 405,279 467,238 913,282 1215,252 1550,285 1682,249 1767,296 2501,279 2501,153 2465,150 2283,205 1873,144 1600,203 1476,150 1327,191 1256,147 1016,135 795,208 637,147 499,194 185,164">200,235 315,232 430,232 546,232 661,235 776,238 892,241 1007,241 1122,241 1238,244 1353,244 1468,245 1584,250 1699,253 1814,256 1930,259 2045,258 2160,258 2276,255 2391,250 2507,247</zone>
+			<zone xml:id="p1z2-0" points="226,329 1385,314 1849,355 2172,323 2225,358 2574,326 2545,258 1917,299 1729,264 226,261">241,307 358,304 475,304 592,304 709,304 826,304 943,305 1060,307 1177,307 1294,307 1411,310 1528,310 1645,313 1762,316 1879,318 1996,319 2113,319 2230,319 2347,316 2464,313 2582,307</zone>
+			<zone xml:id="p1z3-0" points="226,376 1062,373 1124,411 1291,379 1350,414 1567,376 1720,423 1764,384 2005,417 2580,393 2580,323 2231,358 2175,326 226,329">241,367 358,366 475,364 593,364 710,362 827,364 945,364 1062,367 1179,367 1297,370 1414,371 1531,373 1649,376 1766,376 1883,379 2001,379 2118,382 2235,379 2353,379 2470,379 2588,376</zone>
+			<zone xml:id="p1z4-0" points="223,437 1341,478 1426,446 2562,458 2562,405 2430,384 2008,417 1764,387 1717,420 1567,376 1429,417 1303,382 1101,411 1062,376 631,405 223,373">238,423 354,423 471,423 587,423 704,426 821,429 937,430 1054,432 1170,435 1287,435 1404,438 1520,438 1637,438 1753,438 1870,435 1987,435 2103,435 2220,435 2336,435 2453,434 2570,432</zone>
+			<zone xml:id="p1z5-0" points="220,525 517,490 713,540 839,487 907,537 1065,499 1799,537 1902,496 2322,549 2404,499 2536,508 2501,440 2260,478 1908,434 1356,475 217,434">235,486 350,480 465,480 580,480 696,480 811,480 926,486 1041,489 1157,495 1272,495 1387,495 1502,492 1618,495 1733,496 1848,495 1963,495 2079,498 2194,498 2309,500 2424,498 2540,495</zone>
+			<zone xml:id="p1z6-0" points="205,587 326,605 399,561 434,590 572,552 687,605 922,555 922,502 880,481 728,528 487,490 205,496">223,555 258,549 293,549 328,547 364,546 399,546 434,546 469,546 505,546 540,546 575,546 610,546 646,546 681,546 716,546 751,546 787,543 822,543 857,543 892,544 928,549</zone>
+			<zone xml:id="p1z7-0" points="1324,569 1362,575 1377,561 1400,566 1415,555 1423,564 1459,566 1459,502 1429,502 1418,514 1403,511 1391,519 1324,502">1340,552 1365,552 1390,552 1415,552 1440,551 1465,549</zone>
+			<zone xml:id="p1z8-0" points="220,643 637,681 728,640 954,684 1382,655 1382,566 1321,561 895,558 640,610 220,572">235,629 292,629 350,631 408,632 466,632 524,632 581,632 639,632 697,631 755,629 813,632 870,632 928,632 986,632 1044,632 1102,633 1159,633 1217,632 1275,633 1333,633 1391,632</zone>
+			<zone xml:id="p1z9-0" points="1450,798 1638,792 1746,839 1817,778 1969,842 2125,795 2128,701 2043,681 2002,716 1852,728 1761,675 1705,707 1603,696 1453,734">1465,794 1498,797 1531,797 1564,796 1598,793 1631,789 1664,786 1698,784 1731,782 1764,782 1798,780 1831,779 1864,779 1897,777 1931,778 1964,779 1997,779 2031,779 2064,779 2097,779 2131,779</zone>
+			<zone xml:id="p1z10-0" points="784,801 919,839 989,831 1024,857 1109,851 1162,819 1327,842 1344,839 1341,716 1065,713 998,760 781,731">800,788 827,788 855,788 882,788 910,788 938,788 965,790 993,792 1020,794 1048,796 1076,797 1103,797 1131,796 1158,794 1186,794 1214,795 1241,797 1269,797 1296,797 1324,799 1352,797</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1054!Autograph!01%20E_II_361__fol__348_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">1054/Autograph/01 E_II_361__fol__348_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="565,820 647,807 718,857 768,855 871,792 913,810 956,791 989,808 992,739 937,742 820,707 791,726 685,716 567,742">570,804 596,801 622,799 649,797 675,796 701,796 728,796 754,796 781,796 807,794 833,793 860,792 886,791 912,790 939,790 965,788 992,788</zone>
+			<zone xml:id="p2z2-0" points="628,926 727,907 776,919 849,880 917,905 961,898 978,893 980,837 907,806 841,842 727,858 669,826 655,836 631,824">634,888 660,887 687,886 713,884 740,882 767,884 793,882 820,881 846,879 873,878 900,878 926,878 953,876 980,876</zone>
+			<zone xml:id="p2z3-0" points="659,994 698,998 729,977 756,981 765,972 814,971 815,923 745,918 726,907 701,915 660,912">664,964 689,967 714,967 740,965 765,964 790,964 816,966</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Mitto charitati tuę, mi frater, hoc <persName ref="p20727">Vespasiani</persName> numisma vetustissimum in agro <placeName ref="l285">Lentzburgensi</placeName> nuper repertum, quod a quodam rustico viro parvo emi pretio, ob vetustatem vero gratissimum michi.</s>
-					<s n="2" xml:lang="la">Vetus numisma veteris amicitię argumentum gratanter suscipe, obsecro; nunc hoc tantum, quantus tibi esse possum, mitto.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Mitto charitati tuę, mi frater, hoc <persName ref="p20727">Vespasiani</persName> numisma vetustissimum in agro <placeName ref="l285">Lentzburgensi</placeName> nuper repertum, <lb xml:id="p1z2"/>quod a quodam rustico viro parvo emi pretio, ob vetustatem vero gratissimum michi.</s>
+					<s n="2" xml:lang="la">Vetus numisma <lb xml:id="p1z3"/>veteris amicitię argumentum gratanter suscipe, obsecro; nunc hoc tantum, quantus tibi esse possum, mitto.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Quodsi tale numisma marsupium tuum desiderarit, nichil eque desidero, quam ut hoc uno vetustissimo nummo decoretur; sin minus, remittere potes.</s>
+					<s n="3" xml:lang="la">Quodsi <lb xml:id="p1z4"/>tale numisma marsupium tuum desiderarit, nichil eque desidero, quam ut hoc uno vetustissimo nummo decoretur; <lb xml:id="p1z5"/>sin minus, remittere potes.</s>
 					<s n="4" xml:lang="la" ana="farewell">Vale, męcenas optime.</s>
 					<s n="5" xml:lang="de" ana="salute">Gruͤß mir das müterlin etc.</s>
 					<s n="6" xml:lang="la" ana="farewell">Vale.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Datum <placeName ref="l285">Lentzburgi</placeName> 19. octobris anno 1550.</s>
-					<s n="8" xml:lang="la">Cum uxore mea ad me reditura iam uno saltem verbo responde.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z6"/>Datum <placeName ref="l285">Lentzburgi</placeName> 19. octobris ann<lb xml:id="p1z7"/>o 1550.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z8"/>Cum uxore mea ad me reditura iam uno saltem verbo responde.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Tuus <persName ref="p8440">Gervasius</persName>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z9"/>Tuus <persName ref="p8440">Gervasius</persName>.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="de">Liebe muͦß zancket han.</s>
+					<s n="10" xml:lang="de"><lb xml:id="p1z10"/>Liebe muͦß zancket han.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la"><persName ref="p495">Bullingero</persName> meo charissimo in domino.</s>
+					<s n="11" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Bullingero</persName> meo <lb xml:id="p2z2"/>charissimo in <lb xml:id="p2z3"/>domino.</s>
 				</p>
 			</div>
 		</body>

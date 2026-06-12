@@ -85,11 +85,34 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12305!Autograph!00%20E_I_4__Nr__1_3__v_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12305/Autograph/00 E_I_4__Nr__1_3__v_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="257,279 648,221 831,267 1443,266 1443,220 1096,161 987,206 895,139 520,212 255,178">264,244 323,236 382,236 441,234 500,230 559,224 618,220 677,218 736,217 795,217 855,221 914,222 973,225 1032,229 1091,231 1150,234 1209,235 1268,238 1327,241 1386,244 1446,246</zone>
+			<zone xml:id="p1z2-0" points="314,312 1512,329 1456,281 1222,258 314,251">322,312 381,308 441,306 501,302 560,302 620,296 680,294 739,294 799,292 859,294 919,292 978,292 1038,294 1098,297 1157,298 1217,298 1277,300 1336,305 1396,309 1456,309 1516,320</zone>
+			<zone xml:id="p1z3-0" points="477,370 500,367 506,373 514,370 521,378 529,373 535,378 544,370 566,367 565,335 544,336 535,345 523,335 514,341 502,330 474,327">484,364 512,368 541,368 570,368</zone>
+			<zone xml:id="p1z4-0" points="633,379 931,400 1179,370 1326,430 1371,388 1494,397 1494,351 1303,318 1099,344 1062,317 632,350">642,364 684,366 727,366 770,366 813,365 856,364 898,364 941,366 984,368 1027,366 1070,365 1112,365 1155,366 1198,369 1241,372 1284,374 1326,374 1369,376 1412,379 1455,380 1498,384</zone>
+			<zone xml:id="p1z5-0" points="294,479 760,430 1244,468 1244,409 1098,385 748,376 294,423">302,446 349,446 396,444 443,442 491,439 538,436 585,435 633,434 680,432 727,430 775,430 822,431 869,430 916,432 964,430 1011,433 1058,434 1106,437 1153,439 1200,442 1248,446</zone>
+			<zone xml:id="p1z6-0" points="290,2003 311,2002 320,1993 339,1997 351,1994 363,2003 372,2003 366,1937 353,1934 345,1939 312,1916 299,1930 285,1928">298,1988 335,1988 372,1994</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12305!Autograph!01%20E_I_4__Nr__1_3__r__.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12305/Autograph/01 E_I_4__Nr__1_3__r__.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="164,234 345,208 462,255 807,204 975,246 1444,249 1444,185 1282,145 1158,188 164,173">174,216 237,212 301,212 364,212 428,212 492,212 555,212 619,212 682,212 746,212 810,210 873,212 937,212 1000,214 1064,215 1128,216 1191,216 1255,218 1318,220 1382,223 1446,226</zone>
+			<zone xml:id="p2z2-0" points="171,330 572,288 1540,361 1566,263 169,241">178,296 247,295 317,293 387,290 456,289 526,287 596,286 665,286 735,288 805,288 875,286 944,290 1014,292 1084,292 1153,295 1223,296 1293,300 1362,305 1432,310 1502,312 1572,314</zone>
+			<zone xml:id="p2z3-0" points="628,401 677,391 731,405 764,392 813,418 837,408 867,422 900,412 928,429 964,420 971,293 881,330 813,338 743,309 691,328 631,310">638,384 663,384 689,384 714,384 740,383 765,381 791,378 816,376 842,373 867,372 893,371 918,370 944,370 970,372</zone>
+			<zone xml:id="p2z4-0" points="544,553 872,575 971,528 1146,589 1201,548 1336,572 1334,497 696,507 619,471 542,483">554,540 593,536 632,535 671,532 711,532 750,531 789,532 829,532 868,530 907,530 947,530 986,530 1025,530 1064,532 1104,533 1143,534 1182,536 1222,537 1261,541 1300,542 1340,548</zone>
+			<zone xml:id="p2z5-0" points="574,642 664,610 734,638 961,600 1170,656 1283,652 1322,642 1320,549 1144,589 1034,553 851,581 799,551 753,579 715,553 572,555">582,592 619,592 656,594 693,594 730,596 767,596 804,596 841,596 878,596 915,594 953,595 990,595 1027,596 1064,598 1101,599 1138,603 1175,606 1212,606 1249,608 1286,611 1324,616</zone>
+			<zone xml:id="p2z6-0" points="865,696 905,675 926,692 952,677 1015,685 1029,675 1079,691 1109,680 1142,687 1140,635 1113,642 1086,628 1046,649 996,629 952,645 912,638 896,623 863,629">874,668 901,666 928,664 955,664 982,665 1009,666 1036,667 1063,669 1090,670 1117,670 1144,672</zone>
+			<zone xml:id="p2z7-0" points="474,914 1116,903 1472,942 1470,853 1439,844 1282,886 1065,807 809,884 473,811">484,898 533,901 583,898 632,898 682,897 732,896 781,896 831,897 880,897 930,900 980,900 1029,902 1079,902 1128,905 1178,906 1228,908 1277,912 1327,914 1376,918 1426,920 1476,922</zone>
+			<zone xml:id="p2z8-0" points="488,992 875,970 1447,1013 1446,938 1357,966 936,902 790,898 689,952 633,910 488,954">498,972 545,970 593,968 641,966 688,967 736,970 784,968 831,970 879,970 927,970 975,972 1022,973 1070,974 1118,977 1165,978 1213,978 1261,980 1308,982 1356,982 1404,984 1452,986</zone>
+			<zone xml:id="p2z9-0" points="497,1093 828,1036 1449,1069 1449,1031 1071,989 879,1017 793,976 656,1015 495,992">506,1044 553,1042 600,1040 648,1040 695,1036 743,1036 790,1035 837,1034 885,1036 932,1036 980,1036 1027,1038 1074,1040 1122,1045 1169,1044 1217,1045 1264,1047 1311,1050 1359,1051 1406,1054 1454,1056</zone>
+			<zone xml:id="p2z10-0" points="495,1165 661,1130 957,1165 1144,1140 1221,1186 1278,1161 1278,1097 1210,1106 1067,1053 759,1053 495,1092">504,1142 542,1139 581,1135 620,1132 659,1131 698,1129 736,1131 775,1132 814,1132 853,1133 892,1134 930,1134 969,1135 1008,1136 1047,1138 1086,1138 1124,1138 1163,1138 1202,1141 1241,1142 1280,1144</zone>
+			<zone xml:id="p2z11-0" points="269,1409 474,1367 757,1388 858,1444 1182,1381 1512,1419 1508,1313 1439,1297 1161,1353 900,1299 743,1334 387,1278 267,1301">278,1368 339,1366 401,1364 463,1364 525,1366 587,1368 648,1368 710,1371 772,1373 834,1374 896,1376 957,1377 1019,1379 1081,1380 1143,1380 1205,1380 1266,1382 1328,1384 1390,1384 1452,1384 1514,1382</zone>
+			<zone xml:id="p2z12-0" points="324,1493 820,1479 896,1524 1090,1477 1161,1533 1269,1508 1269,1446 1126,1400 879,1442 645,1381 581,1421 324,1419">334,1476 381,1472 428,1472 475,1472 522,1471 569,1470 616,1469 663,1468 710,1469 757,1468 804,1467 851,1468 898,1468 945,1470 992,1470 1039,1471 1086,1472 1133,1474 1180,1476 1227,1476 1274,1476</zone>
+			<zone xml:id="p2z13-0" points="581,1850 745,1841 774,1859 976,1833 976,1749 964,1745 928,1754 865,1735 834,1761 802,1751 785,1763 581,1749">590,1832 616,1829 642,1827 668,1826 694,1826 720,1827 746,1828 772,1828 798,1828 824,1828 850,1828 876,1828 902,1828 928,1828 954,1828 980,1826</zone>
+			<zone xml:id="p2z14-0" points="678,1906 711,1916 753,1899 793,1901 809,1890 870,1904 870,1840 849,1838 832,1852 788,1850 774,1859 757,1859 741,1843 678,1845">688,1892 714,1890 741,1890 767,1890 794,1890 820,1890 847,1890 874,1892</zone>
+			<zone xml:id="p2z15-0" points="1228,1932 1294,1950 1308,1934 1324,1944 1336,1934 1355,1939 1371,1923 1412,1930 1432,1946 1458,1936 1451,1796 1416,1814 1405,1808 1365,1820 1351,1812 1296,1848 1275,1836 1224,1852">1238,1906 1265,1902 1293,1904 1321,1906 1349,1906 1376,1908 1404,1910 1432,1911 1460,1914</zone>
+			<zone xml:id="p2z16-0" points="1165,1997 1181,1997 1205,1983 1222,1993 1235,1981 1259,1983 1264,1977 1276,1990 1292,1979 1320,1988 1320,1950 1303,1944 1292,1948 1276,1939 1257,1953 1243,1948 1228,1955 1212,1955 1196,1941 1189,1946 1165,1944">1174,1978 1199,1976 1224,1975 1249,1974 1274,1974 1299,1974 1324,1974</zone>
+			<zone xml:id="p2z17-0" points="636,2018 670,2014 691,2000 752,2012 778,1995 804,2011 840,2009 840,1944 825,1937 816,1944 795,1939 778,1950 762,1936 731,1944 689,1932 663,1955 636,1962">646,1980 674,1982 702,1980 730,1980 759,1978 787,1979 815,1980 844,1980</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -98,36 +121,36 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Quaeso amicum, hoc distichon adhuc mihi pares, quam primum vacabit.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Quaeso amicum, hoc distichon <lb xml:id="p1z2"/>adhuc mihi pares, quam primum <lb xml:id="p1z4"/>vacabit.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Rem facies gratissimam.</s>
+					<s n="3" xml:lang="la">Rem facies <lb xml:id="p1z5"/>gratissimam.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la">Valebis.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="de"><pb type="scan" next="v."/>Nitt volgen gott, macht arme lüt, Gotts wort darff unsers hebens<note xml:id="fn3" type="footnote" n="3">darff unsers hebens: bedarf unserer Stütze.</note> nüt.</s>
+					<s n="5" xml:lang="de"><pb type="scan" next="v."/><pb/><lb xml:id="p2z1"/>Nitt volgen gott, macht arme lüt, <lb xml:id="p2z2"/>Gotts wort darff unsers hebens<note xml:id="fn3" type="footnote" n="3">darff unsers hebens: bedarf unserer Stütze.</note> nü<lb xml:id="p2z3"/>t.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de">Oza<note xml:id="fn4" type="footnote" n="4">Ussa.</note> ruͤrt die pundts laden an und fallt.</s>
-					<s n="7" xml:lang="la">2. Sam. 6 [6-8].</s>
-					<s n="8" xml:lang="de">Nadab und Abihu<note xml:id="fn5" type="footnote" n="5">Zwei Söhne Aarons.</note> oppfferend froͤmbd fhür und verbrünnend.</s>
+					<s n="6" xml:lang="de"><lb xml:id="p2z4"/>Oza<note xml:id="fn4" type="footnote" n="4">Ussa.</note> ruͤrt die pundts <lb xml:id="p2z5"/>laden an und fallt.</s>
+					<s n="7" xml:lang="la">2. <lb xml:id="p2z6"/>Sam. 6 [6-8].</s>
+					<s n="8" xml:lang="de"><lb xml:id="p2z7"/>Nadab und Abihu<note xml:id="fn5" type="footnote" n="5">Zwei Söhne Aarons.</note> oppfferen<lb xml:id="p2z8"/>d froͤmbd fhür und <lb xml:id="p2z9"/>verbrünnend.</s>
 					<s n="9" xml:lang="la">Levit. 10 [1-5].</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="de"><persName ref="p8459">Ottho</persName>, <persName ref="p3988">Wolff</persName>, <persName ref="p7194">Zingg</persName><note xml:id="fn6" type="footnote" n="6">Die Wappen und Namen von <persName ref="p8459">Otto Werdmüller</persName> <persName ref="p3988">Johannes Wolf</persName> und <persName ref="p7194">Ulrich Zingg</persName> mit der Jahresangabe 1545 befinden sich auf dem von ihnen dem Großmünsterpfarrhaus gestifteten Glasbild. Darüber steht das hier unten angeführte lateinische Distichon, welches <persName ref="p8011">Gwalther</persName> als Antwort auf <persName ref="p495">Bullingers</persName> Bitte verfasste. -Das Glasbild befindet sich heute im <placeName ref="l862">Schweizerischen</placeName> Landesmuseum <placeName ref="l587">Zürich</placeName> (Sig.: AG 1169); Abbildung in: Jenny <hi>Schneider,</hi> Glasgemälde. Katalog der Sammlung des Schweizerischen Landesmuseums Zürich, Bd. 1, Stäfa (Kt. Zürich)[1971], <ref target="file10268">Nr. 237</ref>.- Ein <persName ref="p6786">Großhans Thomann</persName> zugeschriebener Scheibenriss von 1559 befindet sich in <placeName ref="l336">München</placeName>, Staatliche Graphische Sammlung, Inv.-Nr. 40514; Abbildung in: <bibl source="b711">Zürcher Kunst</bibl> nach der Reformation. Hans Asper und seine Zeit, Zürich 1981, S. 110, Nr. 92. - Die abgebildeten Szenen wie auch das Distichon verstehen sich als Kritik am Messopfer.</note>.</s>
+					<s n="10" xml:lang="de"><lb xml:id="p2z10"/><persName ref="p8459">Ottho</persName>, <persName ref="p3988">Wolff</persName>, <persName ref="p7194">Zingg</persName><note xml:id="fn6" type="footnote" n="6">Die Wappen und Namen von <persName ref="p8459">Otto Werdmüller</persName> <persName ref="p3988">Johannes Wolf</persName> und <persName ref="p7194">Ulrich Zingg</persName> mit der Jahresangabe 1545 befinden sich auf dem von ihnen dem Großmünsterpfarrhaus gestifteten Glasbild. Darüber steht das hier unten angeführte lateinische Distichon, welches <persName ref="p8011">Gwalther</persName> als Antwort auf <persName ref="p495">Bullingers</persName> Bitte verfasste. -Das Glasbild befindet sich heute im <placeName ref="l862">Schweizerischen</placeName> Landesmuseum <placeName ref="l587">Zürich</placeName> (Sig.: AG 1169); Abbildung in: Jenny <hi>Schneider,</hi> Glasgemälde. Katalog der Sammlung des Schweizerischen Landesmuseums Zürich, Bd. 1, Stäfa (Kt. Zürich)[1971], <ref target="file10268">Nr. 237</ref>.- Ein <persName ref="p6786">Großhans Thomann</persName> zugeschriebener Scheibenriss von 1559 befindet sich in <placeName ref="l336">München</placeName>, Staatliche Graphische Sammlung, Inv.-Nr. 40514; Abbildung in: <bibl source="b711">Zürcher Kunst</bibl> nach der Reformation. Hans Asper und seine Zeit, Zürich 1981, S. 110, Nr. 92. - Die abgebildeten Szenen wie auch das Distichon verstehen sich als Kritik am Messopfer.</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Ohne Adresse.]</note>
 				</p>
 				<p>
 					<note type="PS">[Darunter von <persName ref="p8011">Gwalthers</persName> Hand:]</note>
-					<s n="11" xml:lang="la"><pb type="edition" next="566"/>Quid domini iuvat, ah miseri, contemnere verbum?</s>
+					<s n="11" xml:lang="la"><pb type="edition" next="566"/><lb xml:id="p2z11"/>Quid domini iuvat, ah miseri, contemnere verbum?</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la">Viribus a vestris non petit illud opem<note xml:id="fn7" type="footnote" n="7">Das Distichon findet sich auch in <persName ref="p8011">Gwalthers</persName> Gedichtsammlung 1542-1582 (Zürich ZB, Ms D 152, 66v.).</note>.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p2z12"/>Viribus a vestris non petit illud opem<note xml:id="fn7" type="footnote" n="7">Das Distichon findet sich auch in <persName ref="p8011">Gwalthers</persName> Gedichtsammlung 1542-1582 (Zürich ZB, Ms D 152, 66v.).</note>.</s>
 				</p>
 			</div>
 		</body>

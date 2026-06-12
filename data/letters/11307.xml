@@ -81,39 +81,53 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11307!Autograph!00%20E_II_336__fol__207_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11307/Autograph/00 E_II_336__fol__207_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="558,436 1945,491 2634,452 2608,364 2373,398 1976,356 1702,411 1493,377 1193,403 1015,325 558,364">573,417 676,418 779,420 882,423 986,426 1089,429 1192,429 1295,432 1399,434 1502,437 1605,435 1708,438 1812,438 1915,438 2018,439 2121,441 2225,441 2328,442 2431,444 2534,444 2638,447</zone>
+			<zone xml:id="p1z2-0" points="666,511 2601,519 2601,478 2471,465 666,442">680,498 776,495 872,495 969,495 1065,495 1162,495 1258,495 1354,495 1451,498 1547,498 1644,498 1740,500 1836,501 1933,501 2029,501 2126,501 2222,502 2318,504 2415,504 2511,504 2608,501</zone>
+			<zone xml:id="p1z3-0" points="669,594 930,560 1067,617 1185,573 2577,581 2577,511 669,540">683,564 778,561 873,560 968,558 1063,558 1158,558 1253,558 1348,558 1443,558 1538,558 1633,559 1728,561 1823,562 1918,564 2013,564 2108,564 2203,564 2298,564 2393,565 2488,564 2584,564</zone>
+			<zone xml:id="p1z4-0" points="671,661 1369,628 1803,666 2198,635 2247,679 2593,656 2593,578 671,589">686,638 781,634 877,630 972,629 1068,626 1164,626 1259,626 1355,623 1451,622 1546,623 1642,623 1738,623 1833,623 1929,626 2025,626 2120,626 2216,625 2312,628 2407,629 2503,632 2599,629</zone>
+			<zone xml:id="p1z5-0" points="664,733 1281,697 1477,736 1795,690 2523,736 2611,702 2588,640 2528,674 1898,630 1805,666 1547,633 664,661">677,701 773,704 870,701 967,698 1064,698 1161,696 1258,693 1354,692 1451,689 1548,689 1645,689 1742,689 1839,689 1936,689 2032,689 2129,689 2226,692 2323,692 2420,692 2517,695 2614,692</zone>
+			<zone xml:id="p1z6-0" points="671,806 1885,762 1960,798 2580,793 2580,705 2389,741 2311,692 1849,739 1103,713 979,754 855,715 671,757">686,775 781,775 876,773 971,770 1066,767 1161,764 1256,763 1351,758 1446,758 1541,755 1636,755 1731,755 1826,755 1921,755 2016,755 2111,755 2206,756 2301,758 2396,761 2491,764 2587,761</zone>
+			<zone xml:id="p1z7-0" points="677,896 1746,829 1888,865 1996,826 2373,832 2479,870 2606,842 2608,780 2231,806 1472,767 1296,813 679,813">692,847 793,847 894,844 995,838 1096,835 1197,832 1298,829 1399,826 1500,822 1601,821 1702,823 1803,820 1904,820 2005,821 2106,821 2207,823 2308,824 2409,824 2510,828 2611,829</zone>
+			<zone xml:id="p1z8-0" points="669,963 1095,927 1183,961 1428,906 2577,937 2577,863 2376,834 2298,881 2102,834 1888,865 1606,834 1495,881 1129,860 669,906">683,925 778,923 873,920 968,916 1063,913 1158,910 1253,909 1348,907 1443,904 1538,901 1633,898 1728,898 1823,898 1918,895 2013,898 2108,898 2203,898 2298,900 2393,903 2488,907 2584,907</zone>
+			<zone xml:id="p1z9-0" points="671,1030 1265,1002 1345,1051 1410,1005 1498,1041 2159,987 2058,901 1919,953 1472,919 1222,963 1048,927 674,979">686,1002 760,997 834,996 908,996 982,993 1056,993 1130,990 1204,990 1278,990 1352,987 1426,983 1500,981 1574,979 1648,978 1722,978 1796,975 1870,974 1944,972 2018,975 2092,975 2166,975</zone>
+			<zone xml:id="p1z10-0" points="2159,1160 2211,1149 2244,1170 2293,1144 2337,1172 2453,1131 2510,1170 2536,1170 2531,1038 2459,1054 2340,1020 2273,1051 2236,1033 2156,1030">2172,1119 2198,1117 2224,1116 2250,1118 2276,1119 2303,1119 2329,1119 2355,1119 2381,1121 2407,1123 2434,1125 2460,1125 2486,1125 2512,1125 2539,1122</zone>
+			<zone xml:id="p1z11-0" points="2221,1232 2247,1227 2257,1232 2291,1209 2327,1211 2337,1219 2360,1203 2381,1206 2381,1160 2335,1175 2301,1170 2291,1175 2260,1160 2239,1170 2221,1170">2235,1196 2260,1193 2285,1193 2311,1193 2336,1193 2361,1193 2387,1193</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11307!Autograph!01%20E_II_336__fol__207_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11307/Autograph/01 E_II_336__fol__207_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="498,1543 1190,1534 1191,1457 1159,1453 789,1495 500,1459">504,1534 538,1532 572,1529 607,1527 641,1526 676,1526 710,1526 744,1524 779,1524 813,1524 848,1524 882,1523 916,1522 951,1522 985,1520 1020,1521 1054,1520 1088,1520 1123,1520 1157,1520 1192,1520</zone>
+			<zone xml:id="p2z2-0" points="595,1656 848,1618 957,1652 1046,1618 1126,1630 1167,1622 1168,1573 992,1578 930,1548 829,1570 773,1539 636,1580 596,1563">600,1604 628,1602 657,1600 685,1600 714,1598 742,1598 771,1597 799,1595 828,1594 856,1593 885,1593 913,1593 942,1593 970,1594 999,1594 1027,1594 1056,1594 1084,1594 1113,1594 1141,1594 1170,1592</zone>
+			<zone xml:id="p2z3-0" points="677,1689 695,1698 723,1682 784,1701 816,1691 912,1718 1036,1685 1066,1695 1066,1652 986,1631 919,1660 833,1640 783,1657 677,1656">682,1678 707,1676 733,1676 759,1675 784,1673 810,1671 836,1670 862,1670 887,1670 913,1670 939,1671 965,1672 990,1672 1016,1672 1042,1672 1068,1674</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Nunc demum res huc devenit, ut universitas pastoratum ecclesię conetur serio subiicere sibi adnuentibus deputatis<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file11258">Nr. 1215</ref>, Anm. 4.</note> et quibusdam ordinis senatorii, tum cogere d. <persName ref="p1365">Grynęum</persName> et alios quosdam ad gradum lectionibus ipsorum congruentem<note xml:id="fn2" type="footnote" n="2"><persName ref="p8418">Myconius</persName> bezieht sich auf den am 12. April verabschiedeten Entwurf für die neuen Universitätsstatuten (vgl. dazu <bibl source="b634">Thommen</bibl> 23f und 325f, Anm. 1).</note>.</s>
-					<s n="3" xml:lang="la">Hic, qui vester est, etiamnum vires omnes intendit; hac via nanque persuasit sibi fastigium se adsequuturum.</s>
-					<s n="4" xml:lang="la">Scriptum<note xml:id="fn3" type="footnote" n="3">Gemeint ist das in Anm. 2 erwähnte Dekret.</note> obtulerunt nobis intolerabile, quo, si cogere tentabunt, eiicient me praesertim; nam prodere ministerium nolo.</s>
-					<s n="5" xml:lang="la">Providebis igitur de loco, qui eiectum recipiat.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Nunc demum res huc devenit, ut universitas pastoratum ecclesię conetur serio <lb xml:id="p1z2"/>subiicere sibi adnuentibus deputatis<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file11258">Nr. 1215</ref>, Anm. 4.</note> et quibusdam ordinis senatorii, tum <lb xml:id="p1z3"/>cogere d. <persName ref="p1365">Grynęum</persName> et alios quosdam ad gradum lectionibus ipsorum congruentem<note xml:id="fn2" type="footnote" n="2"><persName ref="p8418">Myconius</persName> bezieht sich auf den am 12. April verabschiedeten Entwurf für die neuen Universitätsstatuten (vgl. dazu <bibl source="b634">Thommen</bibl> 23f und 325f, Anm. 1).</note>.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z4"/>Hic, qui vester est, etiamnum vires omnes intendit; hac via nanque persuasit sibi <lb xml:id="p1z5"/>fastigium se adsequuturum.</s>
+					<s n="4" xml:lang="la">Scriptum<note xml:id="fn3" type="footnote" n="3">Gemeint ist das in Anm. 2 erwähnte Dekret.</note> obtulerunt nobis intolerabile, quo, si cogere <lb xml:id="p1z6"/>tentabunt, eiicient me praesertim; nam prodere ministerium nolo.</s>
+					<s n="5" xml:lang="la">Providebis <lb xml:id="p1z7"/>igitur de loco, qui eiectum recipiat.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la"><persName ref="p8171">Theodorus</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p8171">Theodor Bibliander</persName>.</note>, nescio, vivat necne.</s>
-					<s n="7" xml:lang="la"><persName ref="p8011">Rodulpho</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8011">Rudolf Gwalther</persName>.</note> commisi, ut describeret tuo nomine, quę vides<note xml:id="fn6" type="footnote" n="6">Eine Abschrift der oben Anm. 2 erwähnten Statuten findet sich in Zürich StA, E II 337, 305r.-308v.; sie stammt allerdings kaum von <persName ref="p8011">Gwalthers</persName> Hand.</note>; mihi non erat ocium.</s>
+					<s n="7" xml:lang="la"><persName ref="p8011">Rodulpho</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8011">Rudolf Gwalther</persName>.</note> <lb xml:id="p1z8"/>commisi, ut describeret tuo nomine, quę vides<note xml:id="fn6" type="footnote" n="6">Eine Abschrift der oben Anm. 2 erwähnten Statuten findet sich in Zürich StA, E II 337, 305r.-308v.; sie stammt allerdings kaum von <persName ref="p8011">Gwalthers</persName> Hand.</note>; mihi non erat ocium.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" ana="farewell">Vale cum tuis et <persName ref="p8127">Pellicano</persName>.</s>
+					<s n="8" xml:lang="la" ana="farewell">Vale <lb xml:id="p1z9"/>cum tuis et <persName ref="p8127">Pellicano</persName>.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la"><placeName ref="l28">Basileę</placeName>, raptim, 3. maii anno 39.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z10"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z11"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName>, episcopo <placeName ref="l587">Tigurino</placeName>, in domino suo.</s>
+					<s n="11" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>episcopo <placeName ref="l587">Tigurino</placeName>, <lb xml:id="p2z3"/>in domino suo.</s>
 				</p>
 			</div>
 		</body>

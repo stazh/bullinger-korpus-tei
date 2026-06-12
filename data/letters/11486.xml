@@ -79,11 +79,19 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11486!Autograph!00%20E_II_343__fol__184_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11486/Autograph/00 E_II_343__fol__184_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="695,370 875,318 953,355 1028,310 1321,342 1570,310 1669,353 1816,290 2039,364 2182,323 2343,357 2343,262 2221,229 2159,268 1803,271 1390,197 935,206 788,258 695,221">707,301 789,304 871,303 953,300 1035,298 1117,295 1199,295 1281,293 1363,292 1445,292 1527,294 1609,292 1691,295 1773,295 1855,298 1937,302 2019,305 2101,310 2183,310 2265,312 2348,310</zone>
+			<zone xml:id="p1z2-0" points="701,420 1606,398 1680,429 1799,392 1871,433 2358,435 2358,357 2234,366 2187,325 2016,372 1399,320 701,366">713,402 795,399 878,394 960,391 1043,389 1125,384 1208,381 1290,381 1373,381 1455,381 1538,384 1620,382 1703,387 1785,390 1868,393 1950,395 2033,396 2115,399 2198,402 2280,402 2363,402</zone>
+			<zone xml:id="p1z3-0" points="712,554 1204,485 1286,522 1676,498 1788,541 1925,494 2072,543 2213,496 2453,537 2453,444 2345,433 2226,470 1942,416 1777,468 1704,422 1587,452 1301,411 1078,463 855,431 712,461">725,507 811,500 898,492 984,491 1071,483 1157,480 1244,477 1330,474 1417,477 1503,477 1590,477 1677,482 1763,483 1850,483 1936,486 2023,489 2109,490 2196,492 2282,495 2369,495 2456,495</zone>
+			<zone xml:id="p1z4-0" points="708,606 885,641 1189,598 1238,637 1708,582 1983,632 2029,552 1416,546 1327,502 1212,561 1070,515 879,576 708,572">719,605 784,602 850,600 915,596 981,593 1046,587 1112,584 1177,578 1243,577 1308,575 1374,573 1439,573 1505,573 1570,575 1636,578 1701,578 1767,578 1832,582 1898,584 1963,587 2029,587</zone>
+			<zone xml:id="p1z5-0" points="1821,792 1931,829 1983,810 2037,825 2148,784 2182,810 2260,805 2288,797 2291,732 2174,708 2098,743 2070,723 1974,725 1953,701 1868,719 1823,701">1835,763 1860,763 1886,763 1912,764 1937,766 1963,766 1989,766 2014,766 2040,765 2066,764 2091,763 2117,763 2143,761 2168,760 2194,759 2220,758 2245,758 2271,756 2297,752</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11486!Autograph!01%20E_II_343__fol__184_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11486/Autograph/01 E_II_343__fol__184_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="820,741 883,761 929,739 983,766 1006,746 1081,783 1193,790 1260,754 1335,758 1336,685 1089,634 944,651 866,619 822,639">829,734 854,737 879,740 905,738 930,737 956,737 981,736 1006,734 1032,734 1057,734 1083,732 1108,731 1133,731 1159,731 1184,731 1210,731 1235,731 1260,731 1286,732 1311,733 1337,737</zone>
+			<zone xml:id="p2z2-0" points="883,878 934,873 974,890 1032,856 1120,858 1198,831 1296,856 1297,756 1260,754 1193,790 1044,778 983,800 885,765">892,835 917,834 942,832 968,830 993,828 1018,827 1044,826 1069,826 1095,826 1120,826 1145,826 1171,826 1196,826 1221,827 1247,829 1272,828 1298,826</zone>
+			<zone xml:id="p2z3-0" points="891,969 974,978 1017,946 1064,959 1103,942 1182,990 1233,979 1275,996 1316,986 1318,871 1204,829 1120,858 1079,841 978,890 935,873 891,885">901,946 927,940 953,940 979,939 1006,937 1032,937 1058,937 1085,937 1111,937 1137,937 1164,937 1190,937 1216,937 1243,937 1269,937 1295,936 1322,934</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -91,22 +99,22 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Cupit hic iuvenis ecclesiam vestram invisere et cognoscere vos.</s>
-					<s n="3" xml:lang="la">Est doctus literas et pietatem egregie.</s>
-					<s n="4" xml:lang="la">Efficies, ut colloqui vobiscum sępe possit.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z2"/>Est doctus literas et pietatem egregie.</s>
+					<s n="4" xml:lang="la">Efficies, ut colloqui vobiscum sępe <lb xml:id="p1z3"/>possit.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la">Hac ętate haud scio an quenquam eruditione pari viderim.</s>
-					<s n="6" xml:lang="la">Vos oro omnes, ut in domino nos amemus.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z4"/>Vos oro omnes, ut in domino nos amemus.</s>
 					<s n="7" xml:lang="la" ana="farewell">Vale.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><persName ref="p1365">S. Grynęus</persName> tuus.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z5"/><persName ref="p1365">S. Grynęus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="la">Domino <persName ref="p495">H. Bullinger</persName>o suo, amico et fratri colendissimo.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">H. Bullinger</persName>o <lb xml:id="p2z2"/>suo, amico et <lb xml:id="p2z3"/>fratri colendissimo.</s>
 				</p>
 			</div>
 		</body>

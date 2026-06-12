@@ -81,43 +81,59 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10903!Autograph!00%20E_II_336__fol__174_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10903/Autograph/00 E_II_336__fol__174_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="317,359 447,309 679,348 803,296 996,346 1191,296 1472,341 1856,309 1914,343 2402,341 2402,234 2353,216 2033,211 1888,276 1739,278 1498,208 1339,205 1243,260 1006,211 731,263 439,250 317,192">331,328 440,313 549,304 659,301 768,298 878,297 987,298 1096,298 1206,298 1315,301 1425,301 1534,304 1644,304 1753,306 1862,307 1972,307 2081,310 2191,310 2300,313 2410,319</zone>
+			<zone xml:id="p1z2-0" points="478,429 894,372 1206,421 1560,387 1635,434 1999,385 2374,426 2374,348 2311,333 478,328">492,375 586,372 680,371 774,370 869,369 963,372 1057,374 1151,375 1246,375 1340,375 1434,378 1528,378 1623,378 1717,378 1811,378 1905,378 2000,378 2094,378 2188,381 2282,381 2377,381</zone>
+			<zone xml:id="p1z3-0" points="484,481 1620,507 1893,460 2272,507 2332,468 2332,429 2254,413 1617,434 1568,395 1479,434 1388,390 1037,429 624,382 484,432">498,453 590,450 682,447 774,445 866,446 958,445 1050,447 1142,450 1234,450 1326,450 1418,452 1510,453 1602,453 1694,456 1786,456 1878,456 1970,456 2062,456 2154,459 2246,456 2338,456</zone>
+			<zone xml:id="p1z4-0" points="486,556 2319,577 2319,471 2246,515 1963,460 1734,515 486,481">501,536 592,530 683,530 774,530 866,530 957,530 1048,531 1139,532 1231,531 1322,531 1413,533 1504,533 1596,533 1687,531 1778,532 1869,530 1961,532 2052,533 2143,533 2234,536 2326,539</zone>
+			<zone xml:id="p1z5-0" points="494,647 1043,666 1479,614 2226,660 2410,640 2413,564 1001,593 497,554">510,614 605,611 700,614 796,614 891,611 987,611 1082,614 1178,614 1273,614 1369,611 1464,613 1559,611 1655,611 1750,611 1846,611 1941,608 2037,608 2132,608 2228,611 2323,611 2419,611</zone>
+			<zone xml:id="p1z6-0" points="497,710 616,736 832,694 933,733 1102,694 1212,746 1583,684 1672,733 1815,697 1895,733 2041,697 2408,720 2410,640 1609,663 1477,614 1388,660 497,653">510,692 605,689 700,689 795,686 890,683 985,683 1080,683 1176,682 1271,682 1366,682 1461,680 1556,683 1651,683 1746,683 1842,683 1937,683 2032,682 2127,682 2222,683 2317,686 2413,686</zone>
+			<zone xml:id="p1z7-0" points="497,793 905,835 1188,770 1417,814 2135,798 2176,837 2332,796 2332,715 2244,744 2109,702 1700,744 1490,699 1212,746 1108,697 650,757 497,723">510,775 601,775 692,772 784,771 875,771 967,769 1058,768 1149,766 1241,766 1332,766 1424,765 1515,763 1606,763 1698,763 1789,763 1881,765 1972,763 2063,766 2155,766 2246,769 2338,772</zone>
+			<zone xml:id="p1z8-0" points="502,910 606,868 874,866 946,913 1334,855 1422,900 1693,850 1908,905 2038,861 2371,876 2371,790 2215,837 2127,798 2012,832 1854,796 1160,803 1113,840 502,801">516,871 608,865 701,865 794,862 887,860 980,856 1073,856 1166,856 1259,853 1352,853 1445,853 1537,852 1630,850 1723,850 1816,850 1909,852 2002,853 2095,856 2188,856 2281,856 2374,865</zone>
+			<zone xml:id="p1z9-0" points="1414,957 1794,1004 1851,959 1968,1014 2132,1017 2363,959 2363,894 2231,866 2135,905 1986,866 1859,913 1721,876 1643,918 1414,900">1428,936 1475,942 1522,942 1569,942 1616,945 1663,946 1710,947 1758,945 1805,945 1852,945 1899,945 1946,947 1993,948 2040,948 2088,950 2135,951 2182,951 2229,956 2276,954 2323,954 2371,948</zone>
+			<zone xml:id="p1z10-0" points="502,985 634,967 697,1006 793,970 861,1006 1097,957 1386,983 1365,868 1238,918 910,887 775,928 710,900 611,936 504,910">519,954 562,954 606,954 650,954 694,954 738,954 782,954 825,953 869,951 913,951 957,951 1001,950 1045,948 1089,948 1132,948 1176,948 1220,948 1264,948 1308,945 1352,945 1396,945</zone>
+			<zone xml:id="p1z11-0" points="484,1076 1628,1076 1628,1017 1256,1022 1063,962 939,1022 484,991">498,1052 554,1052 611,1052 668,1049 725,1049 782,1049 838,1049 895,1047 952,1047 1009,1049 1066,1048 1122,1048 1179,1047 1236,1049 1293,1049 1350,1049 1406,1052 1463,1049 1520,1049 1577,1051 1634,1049</zone>
+			<zone xml:id="p1z12-0" points="2054,1222 2083,1222 2140,1175 2179,1165 2257,1209 2293,1204 2340,1173 2379,1173 2374,1089 2356,1089 2330,1115 2270,1115 2246,1100 2220,1110 2184,1089 2163,1100 2116,1071 2075,1084 2044,1074">2064,1136 2090,1140 2117,1142 2144,1142 2171,1148 2198,1153 2225,1154 2251,1155 2278,1157 2305,1157 2332,1157 2359,1159 2386,1163</zone>
+			<zone xml:id="p1z13-0" points="2142,1266 2163,1274 2176,1261 2189,1261 2226,1284 2246,1269 2257,1277 2270,1264 2280,1271 2314,1269 2314,1199 2285,1201 2270,1212 2249,1206 2241,1212 2189,1178 2168,1183 2142,1178">2156,1237 2183,1234 2210,1234 2238,1234 2265,1234 2292,1234 2320,1234</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10903!Autograph!01%20E_II_336__fol__174_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10903/Autograph/01 E_II_336__fol__174_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1389,1338 1472,1316 1534,1330 1674,1304 1691,1316 1837,1303 1847,1251 1792,1237 1693,1281 1555,1227 1392,1252">1394,1316 1419,1307 1444,1304 1469,1302 1494,1301 1520,1299 1545,1298 1570,1298 1595,1297 1621,1295 1646,1295 1671,1295 1696,1295 1721,1294 1747,1293 1772,1292 1797,1292 1822,1291 1848,1289</zone>
+			<zone xml:id="p2z2-0" points="1445,1431 1530,1402 1639,1410 1680,1391 1733,1392 1776,1428 1818,1408 1884,1414 1887,1341 1869,1334 1808,1331 1743,1359 1643,1346 1623,1327 1543,1346 1450,1324">1451,1409 1476,1404 1502,1402 1527,1400 1553,1397 1579,1394 1604,1392 1630,1390 1656,1388 1681,1388 1707,1388 1733,1388 1758,1388 1784,1386 1810,1386 1835,1388 1861,1387 1887,1385</zone>
+			<zone xml:id="p2z3-0" points="1508,1498 1542,1510 1572,1507 1591,1492 1673,1496 1718,1482 1754,1494 1760,1409 1706,1422 1659,1396 1574,1456 1511,1446">1513,1486 1540,1483 1567,1481 1594,1479 1621,1477 1649,1475 1676,1474 1703,1472 1730,1470 1758,1468</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Opus est, ut habeam sententiam tuam de confessione <placeName ref="l749">Saxonica</placeName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8418">Myconius</persName> meint offenbar die <placeName ref="l558">Wittenberger</placeName> Konkordie; <persName ref="p495">Bullingers</persName> Stellungnahme vom gleichen Tag (oben <ref target="file10902">Nr. 862</ref>) war ihm zu diesem Zeitpunkt noch nicht bekannt. Als "<placeName ref="l749">sächsisches</placeName> Bekenntnis" wird in der Regel allerdings die Confessio <placeName ref="l18">Augustana</placeName> bezeichnet, deren Anerkennung in <placeName ref="l558">Wittenberg</placeName> ausdrücklich festgeschrieben wurde (s. oben <ref target="file10897">Nr. 857</ref>, 13-15 mit Anm. 9). Auf diese bezieht sich denn auch <persName ref="p495">Bullingers</persName> Antwort (unten <ref target="file10904">Nr. 864</ref>).</note>.</s>
-					<s n="3" xml:lang="la">Quamobrem ne differas, quęso, responsum.</s>
+					<s n="3" xml:lang="la">Quamobrem ne differas, <lb xml:id="p1z2"/>quęso, responsum.</s>
 					<s n="4" xml:lang="la"><persName ref="p8171">Theodorus</persName> scripsit<note xml:id="fn2" type="footnote" n="2">Der undatierte Brief an <persName ref="p8418">Myconius</persName> (Zürich StA, E II 340, 150), in dem <persName ref="p8171">Bibliander</persName> scharfe Kritik an den Konkordienbestrebungen übt, ist auszugsweise zitiert in: <hi>Köhler,</hi> ZL II 467.</note>, et placet supra modum.</s>
-					<s n="5" xml:lang="la">Oportet nos tandem videre picturam Ulenspiegelii, videamus necne<note xml:id="fn3" type="footnote" n="3"><persName ref="p8418">Myconius</persName> greift auf eine Anspielung <persName ref="p8171">Biblianders</persName> zurück, der im genannten Brief davor warnt, die Konkordie wider besseres Wissen zu loben. Im bekannten Volksbuch wird erzählt, wie die Betrachter einer leeren Leinwand behaupteten, ein angeblich von Till Eulenspiegel gemaltes Bild zu erblicken, nachdem dieser erklärt hatte, nur unehelich Geborene konnten es nicht sehen (s. Ein kurtzweilig Lesen von Dil Ulenspiegel. Nach dem Druck von 1515 ... hg. v. Wolfgang Lindow, Stuttgart 1966, S. 77-81).</note>, non quidem propter <persName ref="p1974">Lutherum</persName> aut <placeName ref="l491">Argentinenses</placeName>, sed propter nostros, qui concordiam volunt velis nous<note xml:id="fn4" type="footnote" n="4">auf jeden Fall; vgl. <bibl source="b473">Otto</bibl> 362, Nr. 1852.</note>.</s>
+					<s n="5" xml:lang="la">Oportet nos <lb xml:id="p1z3"/>tandem videre picturam Ulenspiegelii, videamus necne<note xml:id="fn3" type="footnote" n="3"><persName ref="p8418">Myconius</persName> greift auf eine Anspielung <persName ref="p8171">Biblianders</persName> zurück, der im genannten Brief davor warnt, die Konkordie wider besseres Wissen zu loben. Im bekannten Volksbuch wird erzählt, wie die Betrachter einer leeren Leinwand behaupteten, ein angeblich von Till Eulenspiegel gemaltes Bild zu erblicken, nachdem dieser erklärt hatte, nur unehelich Geborene konnten es nicht sehen (s. Ein kurtzweilig Lesen von Dil Ulenspiegel. Nach dem Druck von 1515 ... hg. v. Wolfgang Lindow, Stuttgart 1966, S. 77-81).</note>, non quidem propter <lb xml:id="p1z4"/><persName ref="p1974">Lutherum</persName> aut <placeName ref="l491">Argentinenses</placeName>, sed propter nostros, qui concordiam volunt velis <lb xml:id="p1z5"/>nous<note xml:id="fn4" type="footnote" n="4">auf jeden Fall; vgl. <bibl source="b473">Otto</bibl> 362, Nr. 1852.</note>.</s>
 					<s n="6" xml:lang="la">Dic, quęso, libere.</s>
-					<s n="7" xml:lang="la">Res apud nos iamdum latet apud consulem<note xml:id="fn5" type="footnote" n="5"><persName ref="p8129">Jakob Meyer</persName>.</note> et 13 viros, me et d. <persName ref="p1365">Grynęum</persName>; sed mox prodibit.</s>
-					<s n="8" xml:lang="la">Nos, hoc est d. <persName ref="p1365">Grynęus</persName> et ego, abnuimus subscriptionem<note xml:id="fn6" type="footnote" n="6">Zur Stellungnahme von <persName ref="p8418">Myconius</persName> und <persName ref="p1365">Grynäus</persName> vgl. unten <ref target="file10906">Nr. 866</ref>, 25-29 mit Anm. 14.</note>.</s>
+					<s n="7" xml:lang="la">Res apud nos iamdum latet apud consulem<note xml:id="fn5" type="footnote" n="5"><persName ref="p8129">Jakob Meyer</persName>.</note> et 13 viros, <lb xml:id="p1z6"/>me et d. <persName ref="p1365">Grynęum</persName>; sed mox prodibit.</s>
+					<s n="8" xml:lang="la">Nos, hoc est d. <persName ref="p1365">Grynęus</persName> et ego, <lb xml:id="p1z7"/>abnuimus subscriptionem<note xml:id="fn6" type="footnote" n="6">Zur Stellungnahme von <persName ref="p8418">Myconius</persName> und <persName ref="p1365">Grynäus</persName> vgl. unten <ref target="file10906">Nr. 866</ref>, 25-29 mit Anm. 14.</note>.</s>
 					<s n="9" xml:lang="la">Hoc in cor tibi.</s>
 					<s n="10" xml:lang="la">Quamobrem movimus corda senatorum.</s>
-					<s n="11" xml:lang="la">Quamvis adiecerimus non futuros nos pertinaces, modo veritas maneat.</s>
-					<s n="12" xml:lang="la">Cave igitur, differas mentem tuam.</s>
+					<s n="11" xml:lang="la"><lb xml:id="p1z8"/>Quamvis adiecerimus non futuros nos pertinaces, modo veritas maneat.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z9"/>Cave igitur, differas mentem tuam.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" ana="farewell">Vale.</s>
+					<s n="13" xml:lang="la" ana="farewell"><lb xml:id="p1z10"/>Vale.</s>
 					<s n="14" xml:lang="la">Pluribus non potui.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la">Raptim, 15. iulii anno 36.</s>
+					<s n="15" xml:lang="la"><lb xml:id="p1z11"/>Raptim, 15. iulii anno 36.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la"><persName ref="p8418">Myco.</persName> tuus.</s>
+					<s n="16" xml:lang="la"><lb xml:id="p1z12"/><persName ref="p8418">Myco.</persName> <lb xml:id="p1z13"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="17" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName> suo in domino.</s>
+					<s n="17" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho <lb xml:id="p2z2"/>Bullingero</persName> suo <lb xml:id="p2z3"/>in domino.</s>
 				</p>
 			</div>
 		</body>

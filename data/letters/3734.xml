@@ -73,25 +73,37 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3734!Autograph!00%20E_II_368__fol__445_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3734/Autograph/00 E_II_368__fol__445_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="572,305 982,277 1039,315 1374,250 1587,322 1809,262 2151,267 2226,320 2514,290 2516,202 2391,167 2324,225 2036,175 1719,230 1337,182 1107,190 992,240 780,187 732,222 575,202">585,286 681,277 778,271 875,268 972,267 1068,260 1165,257 1262,256 1359,253 1455,256 1552,256 1649,256 1746,256 1842,256 1939,256 2036,257 2133,259 2229,260 2326,262 2423,262 2520,271</zone>
+			<zone xml:id="p1z2-0" points="607,427 1537,362 1927,415 2061,362 2521,395 2611,382 2614,260 2401,327 2229,322 2181,280 2109,322 2034,275 1574,325 1422,287 1302,327 1162,277 912,355 610,300">621,391 720,383 820,382 920,376 1020,370 1120,367 1220,362 1320,361 1420,360 1520,357 1620,355 1719,355 1819,352 1919,352 2019,352 2119,352 2219,352 2319,352 2419,352 2519,349 2619,349</zone>
+			<zone xml:id="p1z3-0" points="612,530 980,467 1124,512 1779,447 2491,477 2494,387 2326,365 2166,417 2016,380 1614,412 1539,362 1327,422 1117,382 615,445">627,486 720,482 814,476 907,469 1001,465 1094,462 1188,460 1281,459 1375,456 1468,454 1562,451 1655,450 1749,445 1842,445 1936,445 2029,442 2123,443 2216,439 2310,439 2403,436 2497,439</zone>
+			<zone xml:id="p1z4-0" points="620,600 1394,530 2486,540 2526,522 2531,425 2329,467 1717,457 1629,500 1532,462 1279,512 960,472 622,532">636,573 730,564 825,558 920,552 1015,549 1110,542 1204,537 1299,533 1394,529 1489,525 1584,522 1678,519 1773,516 1868,513 1963,510 2058,507 2152,508 2247,507 2342,502 2437,501 2532,501</zone>
+			<zone xml:id="p1z5-0" points="625,675 1114,622 2294,620 2566,585 2569,537 1864,522 1674,565 1394,532 1009,562 860,617 750,570 627,610">642,654 738,642 835,635 931,629 1028,623 1125,617 1221,613 1318,606 1414,606 1511,599 1608,596 1704,592 1801,589 1897,585 1994,582 2091,578 2187,575 2284,574 2380,573 2477,573 2574,576</zone>
+			<zone xml:id="p1z6-0" points="627,732 805,760 882,720 1117,747 1424,700 1522,740 1782,680 2029,717 2499,655 2629,685 2631,620 2466,590 2226,632 2064,597 1814,655 1462,617 1392,657 1152,627 1089,665 630,675">642,725 741,720 841,716 941,710 1041,706 1140,702 1240,699 1340,695 1440,691 1539,685 1639,681 1739,675 1839,671 1938,669 2038,664 2138,660 2238,660 2337,657 2437,652 2537,651 2637,654</zone>
+			<zone xml:id="p1z7-0" points="635,812 1139,782 1222,832 1457,770 1637,812 1749,772 1819,812 2049,750 2579,757 2581,680 2514,650 2396,702 2134,680 1989,722 1659,692 1522,740 1377,705 942,752 882,717 707,765 640,730">648,806 744,800 841,794 938,790 1035,787 1132,782 1229,780 1326,776 1423,770 1520,767 1617,763 1713,762 1810,756 1907,752 2004,746 2101,743 2198,739 2295,735 2392,732 2489,731 2586,731</zone>
+			<zone xml:id="p1z8-0" points="672,925 975,875 1177,907 1517,852 2571,827 2569,755 2374,785 2049,750 1817,815 1752,772 1637,807 1397,777 1219,835 1029,792 675,870">689,896 783,887 877,881 972,872 1066,869 1161,866 1255,862 1349,858 1444,852 1538,851 1633,842 1727,839 1821,836 1916,833 2010,829 2105,823 2199,819 2293,813 2388,812 2482,806 2577,806</zone>
+			<zone xml:id="p1z9-0" points="1577,1249 1699,1267 1827,1229 1859,1257 1994,1269 2046,1237 2089,1259 2206,1227 2311,1237 2316,1159 2151,1132 2079,1079 2041,1109 1942,1099 1699,1167 1582,1154">1591,1224 1627,1222 1663,1221 1699,1220 1736,1218 1772,1216 1808,1211 1845,1209 1881,1208 1917,1206 1954,1209 1990,1205 2026,1202 2062,1199 2099,1197 2135,1197 2171,1193 2208,1189 2244,1188 2280,1189 2317,1191</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3734!Autograph!01%20E_II_368__fol__445_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3734/Autograph/01 E_II_368__fol__445_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="398,822 559,782 714,796 766,766 841,800 1124,790 1168,772 1169,711 1047,735 952,693 399,755">403,794 441,791 479,786 518,779 556,776 594,776 633,776 671,776 709,776 748,776 786,776 824,776 863,776 901,776 939,776 978,776 1016,774 1054,773 1093,773 1131,773 1170,773</zone>
+			<zone xml:id="p2z2-0" points="448,945 542,957 699,924 805,996 857,997 1046,912 1187,934 1187,862 913,875 822,838 576,863 447,841">453,901 489,899 526,898 563,898 600,899 636,901 673,904 710,904 747,904 783,904 820,903 857,901 894,901 930,903 967,903 1004,901 1041,901 1077,901 1114,901 1151,901 1188,901</zone>
+			<zone xml:id="p2z3-0" points="408,1111 441,1108 469,1120 570,1065 672,1046 671,969 639,983 603,960 559,974 508,968 428,998 407,992">412,1042 438,1038 464,1036 490,1036 516,1037 543,1039 569,1039 595,1039 621,1039 647,1040 674,1042</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Litteras ad te mitto scriptas a d. <persName ref="p8183">S. Laurentio [Bochetel]</persName>, qui nunc episcopus est.</s>
-					<s n="3" xml:lang="la">D. conestabilis data fide venit ad regem, et nunc deputati ab utrisque principibus tractant de pace, de qua nihil audeo affirmare multas ob causas.</s>
-					<s n="4" xml:lang="la">Exercitus <persName ref="p18575">Philippi</persName> pedem retulit itinere trium miliarium et, qua die recessit, temporis iniuria duo millia hominum desideravit et mille equos.</s>
-					<s n="5" xml:lang="la">Spero intra triduum me te visurum, et coram pluribus agemus.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Litteras ad te mitto scriptas a d. <persName ref="p8183">S. Laurentio [Bochetel]</persName>, qui nunc <lb xml:id="p1z2"/>episcopus est.</s>
+					<s n="3" xml:lang="la">D. conestabilis data fide venit ad regem, et nunc <lb xml:id="p1z3"/>deputati ab utrisque principibus tractant de pace, de qua <lb xml:id="p1z4"/>nihil audeo affirmare multas ob causas.</s>
+					<s n="4" xml:lang="la">Exercitus <persName ref="p18575">Philippi</persName> pedem re<lb xml:id="p1z5"/>tulit itinere trium miliarium et, qua die recessit, temporis iniuria <lb xml:id="p1z6"/>duo millia hominum desideravit et mille equos.</s>
+					<s n="5" xml:lang="la">Spero intra <lb xml:id="p1z7"/>triduum me te visurum, et coram pluribus agemus.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" ana="farewell">Interim bene vale.</s>
+					<s n="6" xml:lang="la" ana="farewell">Interim bene <lb xml:id="p1z8"/>vale.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" ana="salute">Salutabis amicos omnes.</s>
@@ -100,10 +112,10 @@
 					<s n="8" xml:lang="la"><placeName ref="l21">Badene</placeName> 20. octobris summo mane.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z9"/>Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Doctissimo theologo d. <persName ref="p495">Henrico Bullingero</persName>, amico singulari.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/>Doctissimo theologo d. <lb xml:id="p2z2"/><persName ref="p495">Henrico Bullingero</persName>, amico <lb xml:id="p2z3"/>singulari.</s>
 				</p>
 				<p>
 					<note type="author">[von anderer Hand.]</note>

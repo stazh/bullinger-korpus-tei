@@ -87,11 +87,22 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12833!Autograph!00%20E_II_357__fol__92_b_v_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12833/Autograph/00 E_II_357__fol__92_b_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="272,184 613,146 665,186 751,142 1225,194 1527,157 1315,105 757,86 272,128">283,166 345,157 407,152 470,148 532,144 595,140 657,141 720,140 782,140 845,142 907,143 969,140 1032,142 1094,144 1157,146 1219,146 1282,149 1344,149 1407,144 1469,149 1532,152</zone>
+			<zone xml:id="p1z2-0" points="305,257 1104,203 1924,247 1924,178 1878,174 1508,201 1456,163 943,186 878,151 680,184 592,146 305,184">316,214 396,209 477,209 557,207 638,202 719,202 799,202 880,202 961,202 1041,202 1122,202 1203,202 1283,206 1364,209 1445,214 1525,217 1606,220 1687,220 1767,221 1848,225 1929,220</zone>
+			<zone xml:id="p1z3-0" points="318,318 914,266 1399,276 1631,330 1890,293 1890,240 1433,257 1225,203 318,253">330,286 408,284 486,279 564,273 643,271 721,266 799,265 878,262 956,259 1034,259 1113,259 1191,262 1269,265 1347,270 1426,275 1504,278 1582,280 1661,284 1739,286 1817,286 1896,283</zone>
+			<zone xml:id="p1z4-0" points="305,370 692,385 742,347 901,370 1094,330 1983,381 1983,303 1870,293 1778,333 1506,326 924,266 305,318">316,357 399,349 483,346 566,343 650,341 734,336 817,332 901,328 984,328 1068,325 1152,328 1235,329 1319,333 1402,337 1486,339 1570,342 1653,345 1737,348 1820,353 1904,357 1988,363</zone>
+			<zone xml:id="p1z5-0" points="310,450 1054,391 1361,464 1909,433 1909,366 1849,356 1619,387 1472,345 1326,387 1205,330 502,393 310,368">322,420 401,413 481,408 560,403 640,399 720,396 799,396 879,387 958,389 1038,390 1118,390 1197,390 1277,398 1356,402 1436,403 1516,405 1595,408 1675,408 1754,409 1834,411 1914,414</zone>
+			<zone xml:id="p1z6-0" points="280,529 456,527 512,483 629,475 1136,506 1200,485 1202,418 803,402 577,412 527,454 425,420 282,450">292,486 337,478 383,477 429,473 475,471 520,471 566,469 612,466 658,465 703,463 749,460 795,459 841,459 886,459 932,456 978,456 1024,456 1069,453 1115,456 1161,456 1207,453</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12833!Autograph!01%20E_II_357__fol__92_b_r_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12833/Autograph/01 E_II_357__fol__92_b_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="227,213 400,180 546,224 876,173 1217,216 1307,164 1733,148 1888,193 2025,162 2027,110 1473,79 1053,144 970,110 599,141 548,106 227,164">238,190 327,187 417,181 507,178 597,175 686,172 776,169 866,172 956,169 1045,169 1135,166 1225,164 1315,158 1404,155 1494,152 1584,146 1674,146 1763,146 1853,146 1943,146 2033,143</zone>
+			<zone xml:id="p2z2-0" points="231,269 323,299 523,242 1033,236 1188,276 1502,227 1580,260 1650,216 1994,224 1994,173 1713,157 1540,200 1293,164 1219,213 691,180 543,224 492,189 328,236 233,209">244,253 331,253 419,248 506,244 594,241 682,233 769,232 857,232 945,232 1032,232 1120,232 1208,231 1295,228 1383,225 1471,219 1558,214 1646,211 1734,211 1821,208 1909,208 1997,211</zone>
+			<zone xml:id="p2z3-0" points="256,341 588,352 900,292 1134,330 1253,296 1334,337 1720,278 1991,312 1994,224 1816,256 1670,216 1428,274 1080,274 1033,233 258,299">268,325 354,320 440,315 527,312 613,304 700,298 786,296 873,292 959,293 1046,292 1132,292 1218,290 1305,291 1391,289 1478,288 1564,285 1651,282 1737,278 1824,277 1910,274 1997,277</zone>
+			<zone xml:id="p2z4-0" points="274,402 539,422 918,366 1037,404 1363,368 1536,397 1765,348 1902,382 1904,310 1812,278 1331,337 1253,294 1127,332 900,292 561,359 276,346">289,390 374,387 459,382 544,376 629,371 715,368 800,363 885,363 970,363 1055,360 1141,360 1226,360 1311,357 1396,354 1481,354 1567,351 1652,351 1737,345 1822,342 1908,342</zone>
+			<zone xml:id="p2z5-0" points="258,483 844,436 1055,501 1405,453 1848,512 1852,357 1042,404 806,370 667,422 260,395">271,462 350,456 429,453 508,450 588,445 667,440 746,438 826,432 905,432 984,429 1064,428 1143,432 1222,432 1301,429 1381,429 1460,426 1539,423 1619,421 1698,416 1777,413 1857,414</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
@@ -100,21 +111,21 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de"><pb type="scan" next="92av."/>Disen brieff hab<note xml:id="fn3" type="footnote" n="3">Gemeint ist <persName ref="p8055">Blarers</persName> Brief <ref target="file12827">Nr. 2778</ref> vom 29. Januar 1547.</note> ich euch by minem vetter geschickt.<note xml:id="fn4" type="footnote" n="4"><persName ref="p4082">Konrad Zwick</persName>.</note></s>
-					<s n="2" xml:lang="de">Der hat dero in der bulgen<note xml:id="fn5" type="footnote" n="5">Reisetasche; Ledersack.</note> vergessen; schick ich hiemitt.</s>
+					<s n="1" xml:lang="de"><pb type="scan" next="92av."/><lb xml:id="p1z1"/>Disen brieff hab<note xml:id="fn3" type="footnote" n="3">Gemeint ist <persName ref="p8055">Blarers</persName> Brief <ref target="file12827">Nr. 2778</ref> vom 29. Januar 1547.</note> ich euch by minem vett<lb xml:id="p1z2"/>er geschickt.<note xml:id="fn4" type="footnote" n="4"><persName ref="p4082">Konrad Zwick</persName>.</note></s>
+					<s n="2" xml:lang="de">Der hat dero in der bulgen<note xml:id="fn5" type="footnote" n="5">Reisetasche; Ledersack.</note> vergessen; <lb xml:id="p1z3"/>schick ich hiemitt.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="3" xml:lang="de">Ich soll euch anzoͤgen, das ir ain abschrifft seiner werbung<note xml:id="fn6" type="footnote" n="6">Es handelt sich um das Schreiben des <placeName ref="l257">Konstanzer</placeName> Rats an die vier protestantischen Städte der <placeName ref="l862">Eidgenossenschaft</placeName> vom 1. Februar 1547; s. dazu <ref target="file12816">Nr. 2767</ref>, Anm. 21.</note> by ewerm stattschriber<note xml:id="fn7" type="footnote" n="7"><persName ref="p8339">Hans Escher vom Luchs</persName>.</note> finden werdind.</s>
+					<s n="3" xml:lang="de">Ich soll euch anzoͤgen, das ir <lb xml:id="p1z4"/>ain abschrifft seiner werbung<note xml:id="fn6" type="footnote" n="6">Es handelt sich um das Schreiben des <placeName ref="l257">Konstanzer</placeName> Rats an die vier protestantischen Städte der <placeName ref="l862">Eidgenossenschaft</placeName> vom 1. Februar 1547; s. dazu <ref target="file12816">Nr. 2767</ref>, Anm. 21.</note> by ewerm stattschriber<note xml:id="fn7" type="footnote" n="7"><persName ref="p8339">Hans Escher vom Luchs</persName>.</note> <lb xml:id="p1z5"/>finden werdind.</s>
 					<s n="4" xml:lang="de">Hat<note xml:id="fn8" type="footnote" n="8">Subjekt ist <persName ref="p4082">Zwick</persName>.</note> nitt zyt abzeschriben.</s>
-					<s n="5" xml:lang="de">Muͦß glich widerum hinweg ryten.<note xml:id="fn9" type="footnote" n="9"><persName ref="p4082">Zwick</persName> verließ <placeName ref="l257">Konstanz</placeName> vor Tagesanbruch des 2. Februars in Richtung eines unbekannten Ortes in <placeName ref="l2557">Süddeutschland</placeName>; s. <ref target="file12832">Nr. 2783</ref>,3-8. Er wollte schon am Abend des 3. Februars wieder in <placeName ref="l257">Konstanz</placeName> sein; s. <ref target="file12839">Nr. 2790</ref>,13.</note></s>
+					<s n="5" xml:lang="de">Muͦß <lb xml:id="p1z6"/>glich widerum hinweg ryten.<note xml:id="fn9" type="footnote" n="9"><persName ref="p4082">Zwick</persName> verließ <placeName ref="l257">Konstanz</placeName> vor Tagesanbruch des 2. Februars in Richtung eines unbekannten Ortes in <placeName ref="l2557">Süddeutschland</placeName>; s. <ref target="file12832">Nr. 2783</ref>,3-8. Er wollte schon am Abend des 3. Februars wieder in <placeName ref="l257">Konstanz</placeName> sein; s. <ref target="file12839">Nr. 2790</ref>,13.</note></s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="6" xml:lang="de"><pb type="scan" next="92ar."/>Unser bischoff hatt<note xml:id="fn10" type="footnote" n="10"><persName ref="p7852">Johann von Weeze</persName>.</note> uff hutt sein bottschafft vor rath gehapt, mine herren gewarnet, etc., sich ouch empotten, das er gern gegen<note xml:id="fn11" type="footnote" ana="lex" n="11">gegenüber.</note> <persName ref="p18538">kai[serliche] m[ajesta]t</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p18538">Karl V.</persName></note> unterhandler sein<note xml:id="fnb" type="footnote" n="b"><hi>In der Vorlage</hi> seine.</note> welle; und er maine es alles getrulich und vaͤtterlich, etc.</s>
-					<s n="7" xml:lang="de">Ach ewiger gott, gib hertz und stercke, das wir bestandind!</s>
+					<s n="6" xml:lang="de"><pb type="scan" next="92ar."/><pb/><lb xml:id="p2z1"/>Unser bischoff hatt<note xml:id="fn10" type="footnote" n="10"><persName ref="p7852">Johann von Weeze</persName>.</note> uff hutt sein bottschafft vor rath ge<lb xml:id="p2z2"/>hapt, mine herren gewarnet, etc., sich ouch empotten, das <lb xml:id="p2z3"/>er gern gegen<note xml:id="fn11" type="footnote" ana="lex" n="11">gegenüber.</note> <persName ref="p18538">kai[serliche] m[ajesta]t</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p18538">Karl V.</persName></note> unterhandler sein<note xml:id="fnb" type="footnote" n="b"><hi>In der Vorlage</hi> seine.</note> welle; <lb xml:id="p2z4"/>und er maine es alles getrulich und vaͤtterlich, etc.</s>
+					<s n="7" xml:lang="de"><lb xml:id="p2z5"/>Ach ewiger gott, gib hertz und stercke, das wir bestandind!</s>
 				</p>
 				<p>
 					<note type="signature">[Ohne Unterschrift.]</note>

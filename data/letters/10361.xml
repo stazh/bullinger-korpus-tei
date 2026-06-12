@@ -78,11 +78,29 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10361!Autograph!00%20E_II_355__fol__58_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10361/Autograph/00 E_II_355__fol__58_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="552,599 704,523 827,559 1232,523 2149,574 2478,550 2478,513 2250,469 2059,503 1953,461 1821,501 1705,459 1099,478 974,429 550,434">566,521 661,518 757,518 853,518 949,521 1045,521 1141,524 1237,524 1333,524 1429,527 1525,527 1620,530 1716,532 1812,530 1908,530 2004,533 2100,537 2196,539 2292,539 2388,539 2484,536</zone>
+			<zone xml:id="p1z2-0" points="579,596 1197,589 1617,640 1850,596 2007,650 2078,609 2250,653 2299,616 2508,621 2454,540 2184,542 2145,577 1887,535 1732,569 1634,535 1551,567 579,542">593,587 689,584 785,586 881,587 977,587 1073,587 1169,587 1265,587 1361,590 1457,590 1553,590 1649,593 1745,593 1841,593 1937,596 2033,596 2129,597 2225,602 2321,602 2417,602 2514,605</zone>
+			<zone xml:id="p1z3-0" points="579,667 1220,645 2454,716 2481,628 577,609">593,644 687,644 782,643 877,641 971,639 1066,641 1161,641 1255,643 1350,647 1445,650 1540,656 1634,659 1729,662 1824,667 1918,668 2013,671 2108,671 2202,673 2297,676 2392,682 2487,688</zone>
+			<zone xml:id="p1z4-0" points="567,724 940,748 1055,716 1131,756 1188,714 1602,761 1715,729 1796,770 2481,748 2432,704 2069,677 1826,665 1742,707 1369,650 741,680 567,638">581,700 676,700 771,701 866,703 961,704 1056,708 1151,709 1247,712 1342,712 1437,715 1532,716 1627,721 1722,723 1817,724 1913,727 2008,730 2103,730 2198,730 2293,733 2388,736 2484,742</zone>
+			<zone xml:id="p1z5-0" points="567,805 1835,790 2302,839 2478,805 2478,741 2149,773 1188,712 1126,756 1055,719 930,758 756,709 567,726">581,784 676,781 771,783 866,778 961,775 1056,775 1151,774 1246,775 1341,775 1436,778 1531,781 1626,783 1721,784 1816,787 1911,787 2006,790 2101,790 2196,793 2291,793 2386,795 2481,796</zone>
+			<zone xml:id="p1z6-0" points="567,886 1244,854 1745,910 1821,866 1911,903 1990,866 2282,905 2540,871 2510,795 2304,847 1835,790 1592,829 1396,793 1183,820 1058,775 788,822 564,797">581,846 679,843 777,843 875,841 973,843 1071,843 1169,843 1267,844 1365,848 1463,849 1562,852 1660,855 1758,855 1856,856 1954,858 2052,861 2150,861 2248,861 2346,864 2444,861 2543,864</zone>
+			<zone xml:id="p1z7-0" points="572,937 913,928 999,974 1065,928 1254,928 1315,972 1418,945 1597,982 1671,945 1943,989 2081,950 2213,989 2483,959 2466,869 1592,910 1521,871 1467,898 1242,854 962,898 675,854 572,893">584,918 679,915 774,915 869,915 964,918 1059,918 1154,920 1250,924 1345,927 1440,927 1535,930 1630,933 1725,938 1820,939 1916,939 2011,942 2106,942 2201,945 2296,945 2391,948 2487,951</zone>
+			<zone xml:id="p1z8-0" points="574,1026 753,1006 854,1050 1180,1004 1357,1050 1943,1062 2051,1026 2120,1087 2240,1033 2311,1070 2498,1053 2498,962 1865,996 1669,955 1185,986 780,923 729,957 572,937">587,1002 682,999 778,999 874,999 970,999 1066,1001 1162,1002 1258,1005 1354,1007 1450,1010 1546,1013 1641,1015 1737,1018 1833,1022 1929,1025 2025,1025 2121,1026 2217,1028 2313,1031 2409,1033 2505,1037</zone>
+			<zone xml:id="p1z9-0" points="582,1102 878,1070 1050,1116 1389,1080 1764,1136 1916,1104 2093,1148 2532,1129 2498,1050 2370,1080 2243,1040 2115,1082 2054,1028 1752,1067 1431,1062 1180,1004 834,1050 582,1026">596,1070 693,1070 790,1070 887,1070 984,1070 1081,1070 1178,1073 1275,1074 1372,1077 1469,1081 1566,1082 1663,1085 1760,1088 1857,1091 1954,1094 2051,1099 2148,1100 2245,1103 2342,1103 2439,1107 2537,1112</zone>
+			<zone xml:id="p1z10-0" points="586,1146 876,1188 977,1148 2508,1195 2508,1151 2378,1121 2103,1151 1526,1085 1161,1121 994,1077 793,1114 586,1089">599,1133 694,1130 790,1133 886,1133 982,1133 1077,1136 1173,1139 1269,1142 1365,1142 1460,1146 1556,1149 1652,1154 1748,1157 1843,1160 1939,1163 2035,1166 2131,1169 2226,1172 2322,1175 2418,1177 2514,1183</zone>
+			<zone xml:id="p1z11-0" points="582,1234 2508,1291 2505,1195 2439,1190 2326,1229 2069,1178 1988,1210 1769,1170 1610,1202 1077,1151 901,1188 582,1166">596,1201 691,1204 787,1207 883,1210 979,1213 1075,1216 1171,1219 1267,1219 1363,1222 1459,1225 1555,1225 1650,1228 1746,1230 1842,1231 1938,1234 2034,1240 2130,1243 2226,1247 2322,1254 2418,1257 2514,1261</zone>
+			<zone xml:id="p1z12-0" points="574,1298 783,1332 824,1296 986,1330 1148,1335 1188,1313 1247,1332 1271,1330 1269,1244 1166,1256 1089,1222 1040,1247 967,1234 937,1261 805,1224 680,1247 643,1215 572,1242">587,1276 621,1274 655,1273 690,1273 724,1273 759,1276 793,1278 828,1279 862,1279 897,1282 931,1282 965,1283 1000,1286 1034,1288 1069,1288 1103,1286 1138,1286 1172,1288 1207,1291 1241,1291 1276,1291</zone>
+			<zone xml:id="p1z13-0" points="1205,1502 2164,1563 2157,1386 1813,1416 1624,1377 1367,1455 1202,1433">1219,1491 1266,1488 1313,1491 1361,1492 1408,1494 1456,1495 1503,1497 1551,1498 1598,1501 1646,1503 1693,1505 1740,1508 1788,1510 1835,1513 1883,1517 1930,1520 1978,1520 2025,1523 2073,1526 2120,1529 2168,1532</zone>
+			<zone xml:id="p1z14-0" points="1220,1607 1288,1588 1350,1617 1421,1588 1480,1612 1526,1592 1676,1597 1671,1519 1583,1548 1524,1514 1489,1514 1462,1539 1416,1509 1379,1519 1300,1499 1215,1516">1231,1556 1257,1554 1283,1553 1310,1555 1336,1556 1362,1556 1389,1558 1415,1559 1441,1561 1468,1562 1494,1562 1520,1563 1547,1565 1573,1565 1599,1566 1626,1570 1652,1570 1679,1568</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10361!Autograph!01%20E_II_355__fol__58_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10361/Autograph/01 E_II_355__fol__58_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="990,865 1175,860 1211,886 1573,858 1629,886 1709,862 1836,893 1835,831 1759,811 1410,800 1329,831 990,781">996,856 1038,850 1080,847 1122,847 1164,847 1206,847 1248,847 1290,849 1332,850 1374,850 1416,850 1458,850 1500,851 1542,852 1584,851 1626,853 1668,853 1710,853 1752,853 1794,856 1837,853</zone>
+			<zone xml:id="p2z2-0" points="1003,913 1275,947 1324,922 1430,944 1605,921 1688,954 1772,929 1770,879 1360,889 1276,865 1208,886 1154,860 1002,893">1008,900 1046,903 1084,903 1122,903 1161,903 1199,904 1237,906 1276,906 1314,906 1352,908 1391,909 1429,910 1467,913 1505,915 1544,915 1582,918 1620,918 1659,920 1697,921 1735,921 1774,924</zone>
+			<zone xml:id="p2z3-0" points="1005,989 1228,971 1342,1003 1469,983 1613,1015 1696,988 1787,1015 1785,957 1745,946 1379,961 1308,926 1251,948 1004,933">1011,963 1049,963 1088,963 1127,963 1166,964 1205,966 1244,966 1283,966 1322,969 1361,971 1400,972 1438,974 1477,975 1516,976 1555,978 1594,978 1633,981 1672,981 1711,981 1750,981 1789,981</zone>
+			<zone xml:id="p2z4-0" points="1013,1049 1150,1050 1243,1087 1358,1055 1597,1079 1675,1062 1671,997 1495,1022 1386,981 1339,1014 1115,976 1009,985">1017,1017 1051,1015 1086,1014 1121,1015 1155,1017 1190,1020 1225,1022 1259,1024 1294,1026 1329,1026 1363,1028 1398,1032 1433,1035 1467,1037 1502,1037 1537,1037 1571,1038 1606,1040 1641,1040 1676,1043</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
@@ -91,35 +109,35 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Gnad und frid von gott dem<note xml:id="fna" type="footnote" n="a"><hi>in der Vorlage</hi> den.</note> vatter und dem heren Jesus Cristus.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Gnad und frid von gott dem<note xml:id="fna" type="footnote" n="a"><hi>in der Vorlage</hi> den.</note> vatter und dem heren Jesus Cristus.</s>
 					<s n="2" xml:lang="de">Amen.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="de">Lieber her und vettere<note xml:id="fn3" type="footnote" n="3">Zur Verwandtschaft mit <persName ref="p495">Bullinger</persName> s. Anm. I.</note> ich las eüch, wüsen, das ich frisch und gesünd bin.</s>
-					<s n="4" xml:lang="de">Solichs von eüch zuͦ hören, wer mir ein grose fröwd.</s>
-					<s n="5" xml:lang="de">Lieber vetter, ich las eüch wüssen, das es noch<note xml:id="fnb" type="footnote" n="b"><hi>in der Vorlage</hi> moch.</note> wol by uns statt, doch sorgt man eins kriegs.</s>
+					<s n="3" xml:lang="de"><lb xml:id="p1z2"/>Lieber her und vettere<note xml:id="fn3" type="footnote" n="3">Zur Verwandtschaft mit <persName ref="p495">Bullinger</persName> s. Anm. I.</note> ich las eüch, wüsen, das ich frisch und gesünd bin.</s>
+					<s n="4" xml:lang="de"><lb xml:id="p1z3"/>Solichs von eüch zuͦ hören, wer mir ein grose fröwd.</s>
+					<s n="5" xml:lang="de">Lieber vetter, ich <lb xml:id="p1z4"/>las eüch wüssen, das es noch<note xml:id="fnb" type="footnote" n="b"><hi>in der Vorlage</hi> moch.</note> wol by uns statt, doch sorgt man eins <lb xml:id="p1z5"/>kriegs.</s>
 					<s n="6" xml:lang="de">Got wend es ab nach sinem willen.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="de">Ich will auch nach uf osteren<note xml:id="fn4" type="footnote" n="4">um Ostern. - Ostern fiel im Jahr 1534 auf den 5. April.</note> by eüch sin, latt mich gott gessünd.</s>
-					<s n="8" xml:lang="de">Darümb wil ich eüch nitt vill schriben.</s>
-					<s n="9" xml:lang="de">Ich wil aüch nitt lang zuͦ <placeName ref="l587">Zürich</placeName> sin, dan es werden zwen gessellen<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> mitt mir ziehen.</s>
-					<s n="10" xml:lang="de">Mit denen will ich aüch wider wandlen<note xml:id="fn6" type="footnote" n="6">mich auf Wanderschaft begeben (<bibl source="b260">Grimm</bibl> XIII 1595-1597).</note>, dan es ist nit vür mich, das ich nach zu<note xml:id="fn7" type="footnote" n="7">dann, darnach (<bibl source="b590">SI</bibl> IV 637).</note> <placeName ref="l587">Zürich</placeName> bellib.</s>
+					<s n="7" xml:lang="de">Ich will auch nach uf <lb xml:id="p1z6"/>osteren<note xml:id="fn4" type="footnote" n="4">um Ostern. - Ostern fiel im Jahr 1534 auf den 5. April.</note> by eüch sin, latt mich gott gessünd.</s>
+					<s n="8" xml:lang="de">Darümb wil ich eüch nitt <lb xml:id="p1z7"/>vill schriben.</s>
+					<s n="9" xml:lang="de">Ich wil aüch nitt lang zuͦ <placeName ref="l587">Zürich</placeName> sin, dan es werden <lb xml:id="p1z8"/>zwen gessellen<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> mitt mir ziehen.</s>
+					<s n="10" xml:lang="de">Mit denen will ich aüch wider <lb xml:id="p1z9"/>wandlen<note xml:id="fn6" type="footnote" n="6">mich auf Wanderschaft begeben (<bibl source="b260">Grimm</bibl> XIII 1595-1597).</note>, dan es ist nit vür mich, das ich nach zu<note xml:id="fn7" type="footnote" n="7">dann, darnach (<bibl source="b590">SI</bibl> IV 637).</note> <placeName ref="l587">Zürich</placeName> bellib.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="de">Nitt me uf dis mal, dan gott sy mitt uns allen.</s>
+					<s n="11" xml:lang="de"><lb xml:id="p1z10"/>Nitt me uf dis mal, dan gott sy mitt uns allen.</s>
 					<s n="12" xml:lang="de">Amen.</s>
-					<s n="13" xml:lang="de" ana="salute">Grussen mir eüwer husfrowen<note xml:id="fn8" type="footnote" n="8"><persName ref="p8051">Anna Adlischwyler</persName>.</note> und min vogtt<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note>.</s>
+					<s n="13" xml:lang="de" ana="salute">Grussen mir e<lb xml:id="p1z11"/>üwer husfrowen<note xml:id="fn8" type="footnote" n="8"><persName ref="p8051">Anna Adlischwyler</persName>.</note> und min vogtt<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note>.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="de">Ttatum [!] am sant Matisttag zuͦ nacht im 1534 jar.</s>
+					<s n="14" xml:lang="de">Ttatum [!] am sant Matisttag <lb xml:id="p1z12"/>zuͦ nacht im 1534 jar.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="de">Von mir, <persName ref="p2829">Jörg Stadler</persName>, allzitt eüwer williger diener.</s>
+					<s n="15" xml:lang="de"><lb xml:id="p1z13"/>Von mir, <persName ref="p2829">Jörg Stadler</persName>, allzitt eüwer <lb xml:id="p1z14"/>williger diener.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="16" xml:lang="de">Dem achtbaren und wollgelertten Meister <persName ref="p495">Heinrich Bullinger</persName>, beredicant [!] zuͦ <placeName ref="l587">Zürich</placeName> zuͦ dem<note xml:id="fnc" type="footnote" n="c"><hi>in der Vorlage</hi> den.</note> grosen münster, zuͦ hand.</s>
+					<s n="16" xml:lang="de"><pb/><lb xml:id="p2z1"/>Dem achtbaren und wollgelertten <lb xml:id="p2z2"/>Meister <persName ref="p495">Heinrich Bullinger</persName>, <lb xml:id="p2z3"/>beredicant [!] zuͦ <placeName ref="l587">Zürich</placeName> zuͦ dem<note xml:id="fnc" type="footnote" n="c"><hi>in der Vorlage</hi> den.</note> <lb xml:id="p2z4"/>grosen münster, zuͦ hand.</s>
 				</p>
 			</div>
 		</body>

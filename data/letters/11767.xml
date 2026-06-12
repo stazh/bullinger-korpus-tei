@@ -83,47 +83,69 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11767!Autograph!00%20E_II_343__fol__265_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11767/Autograph/00 E_II_343__fol__265_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="427,398 2329,398 2326,318 2141,368 1935,287 1819,351 1655,360 837,294 690,346 424,280">438,361 532,361 627,364 722,365 817,367 912,369 1006,370 1101,372 1196,373 1291,376 1386,376 1480,379 1575,382 1670,382 1765,382 1860,382 1954,385 2049,385 2144,388 2239,388 2334,391</zone>
+			<zone xml:id="p1z2-0" points="503,436 2340,460 2324,396 503,384">516,420 607,417 699,417 790,420 882,420 973,420 1065,420 1156,423 1248,423 1339,425 1431,426 1522,429 1614,431 1705,432 1797,435 1888,437 1980,438 2071,441 2163,441 2254,444 2346,447</zone>
+			<zone xml:id="p1z3-0" points="519,503 792,477 1005,512 1055,477 1380,517 1449,481 2310,538 2324,455 517,448">531,480 621,474 711,474 801,474 891,474 981,474 1071,477 1161,477 1251,477 1341,480 1431,480 1521,483 1611,486 1701,489 1791,489 1881,492 1971,495 2061,495 2151,499 2241,502 2331,504</zone>
+			<zone xml:id="p1z4-0" points="519,576 941,548 1036,579 1141,541 2307,590 2305,529 2110,505 517,503">531,543 620,537 709,534 798,534 887,531 976,534 1065,534 1154,534 1243,534 1332,537 1422,537 1511,540 1600,543 1689,543 1778,546 1867,548 1956,549 2045,552 2134,557 2223,560 2313,564</zone>
+			<zone xml:id="p1z5-0" points="503,647 1091,598 1288,640 1340,607 2307,628 2307,588 2091,560 503,567">516,606 605,603 695,600 785,600 875,597 965,597 1055,597 1144,597 1234,597 1324,597 1414,597 1504,597 1594,600 1684,600 1773,603 1863,606 1953,609 2043,612 2133,612 2223,615 2313,615</zone>
+			<zone xml:id="p1z6-0" points="503,702 1269,662 1444,700 1620,669 1679,702 2343,697 2343,624 1975,650 1714,607 1548,643 1342,607 1288,640 1150,598 503,647">516,671 607,665 699,662 790,659 882,658 974,659 1065,658 1157,659 1249,659 1340,659 1432,660 1524,662 1615,664 1707,665 1799,668 1890,671 1982,673 2074,676 2165,677 2257,680 2349,683</zone>
+			<zone xml:id="p1z7-0" points="498,761 659,728 790,764 1112,728 1302,766 1416,733 2329,754 2329,695 1952,707 1873,671 498,704">510,725 601,722 692,722 783,722 874,719 966,719 1057,720 1148,722 1239,722 1330,722 1422,722 1513,723 1604,725 1695,726 1786,728 1878,730 1969,731 2060,733 2151,734 2242,736 2334,743</zone>
+			<zone xml:id="p1z8-0" points="510,797 787,825 989,785 1266,828 1501,792 1684,830 1902,799 1956,837 2203,799 2300,835 2314,754 1477,766 1378,733 1302,766 1124,730 507,764">522,785 612,782 702,782 792,779 882,782 972,782 1062,782 1152,785 1242,785 1332,785 1422,785 1512,788 1602,788 1692,791 1782,791 1872,791 1962,794 2052,797 2142,797 2232,797 2322,800</zone>
+			<zone xml:id="p1z9-0" points="503,858 2321,875 2321,830 2231,809 503,794">516,844 606,844 697,841 787,841 878,838 969,838 1059,835 1150,835 1240,838 1331,838 1422,841 1512,842 1603,847 1693,847 1784,850 1875,853 1965,853 2056,856 2146,856 2237,859 2328,859</zone>
+			<zone xml:id="p1z10-0" points="510,930 2345,927 2345,882 2072,861 510,868">522,904 613,904 705,901 796,901 888,901 979,900 1071,898 1162,898 1254,901 1345,901 1437,901 1528,902 1620,904 1711,906 1803,910 1894,912 1986,913 2077,915 2169,918 2260,919 2352,922</zone>
+			<zone xml:id="p1z11-0" points="510,1008 761,965 2326,989 2219,927 510,915">522,973 612,967 702,964 793,961 883,958 974,961 1064,961 1155,961 1245,961 1336,964 1426,964 1516,967 1607,967 1697,968 1788,970 1878,971 1969,973 2059,974 2150,976 2240,980 2331,985</zone>
+			<zone xml:id="p1z12-0" points="498,1067 1055,1022 2321,1053 2321,986 2203,1022 1691,970 1570,1003 576,975 498,1010">510,1030 600,1027 691,1024 782,1021 873,1021 963,1021 1054,1018 1145,1019 1236,1020 1326,1021 1417,1021 1508,1024 1599,1025 1689,1027 1780,1030 1871,1030 1962,1034 2052,1037 2143,1039 2234,1043 2325,1047</zone>
+			<zone xml:id="p1z13-0" points="510,1136 1245,1079 1444,1124 1546,1088 1914,1133 2132,1103 2284,1148 2314,1055 1278,1022 1164,1060 714,1034 507,1067">522,1095 612,1092 702,1086 792,1086 882,1083 972,1083 1062,1080 1152,1080 1242,1077 1332,1080 1422,1080 1512,1080 1602,1080 1692,1083 1782,1083 1872,1086 1962,1089 2052,1092 2142,1096 2232,1102 2322,1104</zone>
+			<zone xml:id="p1z14-0" points="503,1181 522,1183 564,1167 583,1176 614,1160 652,1183 669,1167 681,1167 681,1117 659,1119 628,1098 598,1103 545,1133 503,1136">516,1155 544,1153 572,1152 601,1152 629,1152 657,1153 686,1155</zone>
+			<zone xml:id="p1z15-0" points="503,1238 1328,1202 1548,1240 1603,1205 1698,1247 1745,1214 1933,1254 2027,1214 2310,1238 2310,1152 2184,1186 1959,1124 1546,1181 1420,1133 1243,1167 1114,1129 842,1193 704,1155 503,1181">516,1221 606,1215 696,1209 786,1209 876,1206 966,1203 1056,1200 1146,1200 1236,1200 1326,1200 1416,1200 1506,1200 1596,1200 1686,1203 1776,1206 1866,1209 1956,1209 2046,1212 2136,1216 2226,1222 2316,1227</zone>
+			<zone xml:id="p1z16-0" points="498,1311 1157,1278 1311,1314 1591,1266 1933,1271 2013,1311 2321,1290 2321,1233 2082,1254 2027,1216 1935,1252 1340,1202 1136,1252 498,1226">510,1289 600,1283 691,1280 782,1277 873,1274 964,1271 1055,1268 1146,1267 1237,1265 1328,1265 1419,1265 1509,1265 1600,1265 1691,1265 1782,1265 1873,1268 1964,1269 2055,1272 2146,1276 2237,1282 2328,1292</zone>
+			<zone xml:id="p1z17-0" points="498,1378 761,1392 889,1344 1133,1397 1653,1344 1729,1390 1909,1340 2087,1394 2333,1366 2333,1302 2065,1318 1923,1271 1866,1311 1496,1276 1392,1326 1155,1276 889,1318 498,1304">510,1355 601,1351 692,1346 784,1343 875,1343 966,1343 1058,1340 1149,1340 1240,1340 1332,1340 1423,1340 1514,1340 1606,1339 1697,1337 1788,1337 1880,1339 1971,1340 2062,1343 2154,1343 2245,1346 2337,1346</zone>
+			<zone xml:id="p1z18-0" points="505,1432 721,1446 778,1427 828,1468 903,1473 975,1423 1022,1449 1122,1423 1107,1368 937,1390 842,1352 695,1401 505,1375">519,1427 549,1424 579,1422 610,1420 640,1418 671,1418 701,1417 732,1415 762,1415 793,1413 823,1412 853,1412 884,1412 914,1412 945,1412 975,1412 1006,1412 1036,1412 1067,1414 1097,1417 1128,1421</zone>
+			<zone xml:id="p1z19-0" points="1833,1608 1916,1586 1985,1615 2011,1591 2072,1582 2201,1617 2305,1593 2305,1529 2250,1532 2215,1503 2151,1510 2110,1492 2008,1515 1933,1480 1873,1503 1835,1494">1845,1570 1870,1572 1896,1568 1922,1567 1948,1567 1974,1567 2000,1567 2025,1565 2051,1564 2077,1564 2103,1564 2129,1564 2155,1564 2180,1564 2206,1562 2232,1561 2258,1561 2284,1561 2310,1561</zone>
+			<zone xml:id="p1z20-0" points="2049,1662 2068,1655 2077,1662 2101,1655 2108,1662 2120,1653 2146,1672 2167,1672 2182,1662 2191,1665 2196,1662 2193,1608 2177,1610 2158,1593 2127,1596 2125,1601 2110,1596 2106,1601 2082,1589 2072,1593 2068,1603 2044,1598">2060,1621 2088,1621 2116,1622 2144,1624 2172,1626 2200,1630</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11767!Autograph!01%20E_II_343__fol__265_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11767/Autograph/01 E_II_343__fol__265_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1149,1422 1526,1421 1563,1400 1657,1429 1791,1406 1793,1353 1627,1309 1452,1384 1152,1354">1155,1411 1188,1410 1222,1408 1255,1408 1289,1407 1323,1405 1356,1403 1390,1403 1424,1401 1457,1400 1491,1399 1524,1397 1558,1397 1592,1397 1625,1396 1659,1394 1693,1394 1726,1394 1760,1393 1794,1391</zone>
+			<zone xml:id="p2z2-0" points="1268,1518 1318,1526 1421,1482 1507,1499 1537,1487 1598,1515 1699,1478 1755,1492 1756,1450 1686,1430 1625,1451 1543,1430 1478,1448 1270,1449">1274,1480 1299,1482 1324,1480 1350,1475 1375,1473 1401,1471 1426,1469 1452,1468 1477,1468 1503,1467 1528,1465 1554,1465 1579,1465 1605,1467 1630,1468 1656,1468 1681,1467 1707,1465 1732,1465 1758,1465</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Mitto, quem vides, minoritam <placeName ref="l875">Hispanum</placeName>,<note xml:id="fn1" type="footnote" n="1">Beim Empfohlenen handelte es sich wohl um jenen <persName ref="p20824">Martinus a Villafana</persName> (de Villafana sich am 28. Februar in die <placeName ref="l28">Basler</placeName> Universitätsmatrikel eintragen ließ (s. <placeName ref="l28">Basel</placeName>, Matrikel II 32, Nr. 43). Er suchte allerdings <persName ref="p495">Bullinger</persName> nicht persönlich auf (vgl. unten <ref target="file11792">Nr. 1746</ref>, 16f). Vgl. Carlos Gilly, Spanien und der Basler Buchdruck bis 1600. Ein Querschnitt durch die spanische Geistesgeschichte aus der Sicht einer europäischen Buchdruckerstadt, Basel/Frankfurt a. M. 1985. - Basler Beiträge zur Geschichtswissenschaft 151, S. 276.</note> iuvenem meo quidem videre non indoctum, in literis tamen cupientem amplius promoveri.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Mitto, quem vides, minoritam <placeName ref="l875">Hispanum</placeName>,<note xml:id="fn1" type="footnote" n="1">Beim Empfohlenen handelte es sich wohl um jenen <persName ref="p20824">Martinus a Villafana</persName> (de Villafana sich am 28. Februar in die <placeName ref="l28">Basler</placeName> Universitätsmatrikel eintragen ließ (s. <placeName ref="l28">Basel</placeName>, Matrikel II 32, Nr. 43). Er suchte allerdings <persName ref="p495">Bullinger</persName> nicht persönlich auf (vgl. unten <ref target="file11792">Nr. 1746</ref>, 16f). Vgl. Carlos Gilly, Spanien und der Basler Buchdruck bis 1600. Ein Querschnitt durch die spanische Geistesgeschichte aus der Sicht einer europäischen Buchdruckerstadt, Basel/Frankfurt a. M. 1985. - Basler Beiträge zur Geschichtswissenschaft 151, S. 276.</note> iuvenem meo quidem videre non indoctum, <lb xml:id="p1z2"/>in literis tamen cupientem amplius promoveri.</s>
 					<s n="3" xml:lang="la">Peto, si qua poteris, ipsum adiuves.</s>
-					<s n="4" xml:lang="la">Apud nos pauperum, quos sustinet ecclesia, numerus est certus<note xml:id="fn2" type="footnote" n="2">In der <placeName ref="l28">Basler</placeName> Almosenordnung vom 10. September 1530 (<bibl source="b53">ABaslerRef</bibl> IV 629) ist zwar keine bestimmte Zahl von Almosenempfängern festgelegt, doch waren Fremde davon ausgeschlossen.</note> et hoc tempore completus.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z3"/>Apud nos pauperum, quos sustinet ecclesia, numerus est certus<note xml:id="fn2" type="footnote" n="2">In der <placeName ref="l28">Basler</placeName> Almosenordnung vom 10. September 1530 (<bibl source="b53">ABaslerRef</bibl> IV 629) ist zwar keine bestimmte Zahl von Almosenempfängern festgelegt, doch waren Fremde davon ausgeschlossen.</note> et hoc tempore <lb xml:id="p1z4"/>completus.</s>
 					<s n="5" xml:lang="la">Dedimus itaque viaticum et dimisimus.</s>
-					<s n="6" xml:lang="la">Equidem propter pauperes alienigenas valde divexor: Ex meis iuvare, ut opus habent, non possum; ab his, in quorum potestate omnia sunt, vel difficulter peto vel parum impetro.</s>
-					<s n="7" xml:lang="la">Odium primatum quorundam, qui aliquid possunt, adeo contra <persName ref="p8054">Marcum</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p8054">Markus Bertschi</persName>.</note> et me ingravescit magis magisque, ut nesciam, quid tandem sit futurus.</s>
-					<s n="8" xml:lang="la">Ego me meaque omnia domino committo.</s>
-					<s n="9" xml:lang="la">Oris seu linguę parhisia<note xml:id="fna" type="footnote" n="a">parhisia <hi>am Rande nachgetragen.</hi></note><note xml:id="fn4" type="footnote" n="4">Griech. <foreign xml:lang="el">παρρησία</foreign>, Freimütigkeit, Offenheit.</note> (ne hoc taceam) in causa est illius odii, in qua tamen videmur nobis aequo mitiores.</s>
-					<s n="10" xml:lang="la">Illi autem ita se compararunt, ut mitissima nostra sint eis truculentissima, id quod ex animorum asperitate contra nos sit, non ex<note xml:id="fnb" type="footnote" n="b"><hi>Vor</hi> ex <hi>gestrichenes</hi> n[?].</note> nostro commerito, oportet.</s>
-					<s n="11" xml:lang="la">Hęc est igitur consolatio in hisce nostra, testimonium bonę conscientię.</s>
-					<s n="12" xml:lang="la">Quod reliquum est, dominus curabit pro nobis.</s>
+					<s n="6" xml:lang="la">Equidem propter <lb xml:id="p1z5"/>pauperes alienigenas valde divexor: Ex meis iuvare, ut opus habent, non <lb xml:id="p1z6"/>possum; ab his, in quorum potestate omnia sunt, vel difficulter peto vel parum im<lb xml:id="p1z7"/>petro.</s>
+					<s n="7" xml:lang="la">Odium primatum quorundam, qui aliquid possunt, adeo contra <persName ref="p8054">Marcum</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p8054">Markus Bertschi</persName>.</note> <lb xml:id="p1z8"/>et me ingravescit magis magisque, ut nesciam, quid tandem sit futurus.</s>
+					<s n="8" xml:lang="la">Ego <lb xml:id="p1z9"/>me meaque omnia domino committo.</s>
+					<s n="9" xml:lang="la">Oris seu linguę parhisia<note xml:id="fna" type="footnote" n="a">parhisia <hi>am Rande nachgetragen.</hi></note><note xml:id="fn4" type="footnote" n="4">Griech. <foreign xml:lang="el">παρρησία</foreign>, Freimütigkeit, Offenheit.</note> (ne hoc taceam) in causa est <lb xml:id="p1z10"/>illius odii, in qua tamen videmur nobis aequo mitiores.</s>
+					<s n="10" xml:lang="la">Illi autem ita se com<lb xml:id="p1z11"/>pararunt, ut mitissima nostra sint eis truculentissima, id quod ex animorum <lb xml:id="p1z12"/>asperitate contra nos sit, non ex<note xml:id="fnb" type="footnote" n="b"><hi>Vor</hi> ex <hi>gestrichenes</hi> n[?].</note> nostro commerito, oportet.</s>
+					<s n="11" xml:lang="la">Hęc est igitur consolatio <lb xml:id="p1z13"/>in hisce nostra, testimonium bonę conscientię.</s>
+					<s n="12" xml:lang="la">Quod reliquum est, dominus curabit pro <lb xml:id="p1z14"/>nobis.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la">Mirum vero, quid tabellio<note xml:id="fn5" type="footnote" n="5">Gemeint ist der unbekannte Überbringer des Briefs von <persName ref="p1903">Johannes Lening</persName> (unten <ref target="file11768">Nr. 1723</ref>, Z. 2f und 95-98).</note> velit a principe <persName ref="p3590">Hesso</persName><note xml:id="fn6" type="footnote" n="6">Landgraf <persName ref="p3590">Philipp von Hessen</persName>.</note> missus ad te.</s>
-					<s n="14" xml:lang="la">Transiit hac, et ego casu intellexi habere ipsum literas ad te.</s>
-					<s n="15" xml:lang="la">Arcana nolo; communia, si libebit significare, peto.</s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z15"/>Mirum vero, quid tabellio<note xml:id="fn5" type="footnote" n="5">Gemeint ist der unbekannte Überbringer des Briefs von <persName ref="p1903">Johannes Lening</persName> (unten <ref target="file11768">Nr. 1723</ref>, Z. 2f und 95-98).</note> velit a principe <persName ref="p3590">Hesso</persName><note xml:id="fn6" type="footnote" n="6">Landgraf <persName ref="p3590">Philipp von Hessen</persName>.</note> missus ad te.</s>
+					<s n="14" xml:lang="la">Transiit <lb xml:id="p1z16"/>hac, et ego casu intellexi habere ipsum literas ad te.</s>
+					<s n="15" xml:lang="la">Arcana nolo; communia, si li<lb xml:id="p1z17"/>bebit significare, peto.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" ana="farewell">In domino vale cum tuis.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la"><placeName ref="l28">Basileę</placeName>, raptim, 17. februarii anno 1543.</s>
+					<s n="17" xml:lang="la"><placeName ref="l28">Basileę</placeName>, raptim, 17. f<lb xml:id="p1z18"/>ebruarii anno 1543.</s>
 				</p>
 				<p>
-					<s n="18" xml:lang="la">Tuus <persName ref="p8418">Os. Myconius</persName>.</s>
+					<s n="18" xml:lang="la"><lb xml:id="p1z19"/>Tuus <persName ref="p8418">Os. Myco<lb xml:id="p1z20"/>nius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="19" xml:lang="la">D. <persName ref="p495">Heinricho Bullingero</persName>, in domino suo.</s>
+					<s n="19" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>in domino suo.</s>
 				</p>
 				<p>
 					<s n="20" xml:lang="de"><placeName ref="l587">Z[üri]ch</placeName><note xml:id="fnc" type="footnote" n="c"><hi>Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.</hi></note>.</s>

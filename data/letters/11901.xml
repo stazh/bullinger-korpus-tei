@@ -79,40 +79,55 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11901!Autograph!00%20E_II_362__fol__49_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11901/Autograph/00 E_II_362__fol__49_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="372,431 789,473 884,428 1116,470 2561,492 2595,364 2206,414 1342,389 1292,350 1183,391 881,350 707,386 369,313">388,414 498,414 609,417 720,418 830,423 941,426 1052,429 1162,430 1273,432 1384,435 1495,437 1605,441 1716,441 1827,444 1937,447 2048,447 2159,450 2269,450 2380,450 2491,450 2602,453</zone>
+			<zone xml:id="p1z2-0" points="389,492 900,509 965,548 1334,512 1446,554 1605,523 1672,565 1809,531 1983,587 2206,545 2570,570 2570,492 2477,475 2008,515 1882,464 1479,484 1043,439 786,475 389,433">405,480 513,483 622,486 730,492 839,495 948,495 1056,501 1165,504 1274,505 1382,510 1491,516 1600,519 1708,525 1817,527 1926,531 2034,534 2143,534 2252,537 2360,537 2469,537 2578,537</zone>
+			<zone xml:id="p1z3-0" points="380,562 839,629 884,584 1186,629 1228,590 1552,601 1658,640 2220,610 2394,671 2500,618 2570,646 2567,562 2430,590 2106,548 1980,584 1820,534 1664,573 1583,531 965,548 772,501 610,540 377,495">396,549 505,555 614,561 723,565 832,567 941,570 1050,576 1159,576 1268,582 1377,587 1487,590 1596,593 1705,597 1814,601 1923,602 2032,605 2141,605 2250,608 2359,611 2468,611 2578,614</zone>
+			<zone xml:id="p1z4-0" points="380,657 548,640 713,693 1309,668 1560,710 1767,682 2002,727 2128,688 2575,721 2595,646 1798,638 1736,604 1535,643 1230,587 1172,632 1102,598 671,621 615,579 377,604">396,632 506,635 616,641 726,647 837,650 947,654 1057,656 1168,659 1278,662 1388,665 1499,668 1609,671 1719,674 1829,677 1940,677 2050,680 2160,681 2271,683 2381,683 2491,685 2602,686</zone>
+			<zone xml:id="p1z5-0" points="386,721 545,769 671,730 1851,803 2609,780 2606,707 2463,693 2251,691 2120,741 1767,682 1353,716 1297,677 934,666 791,707 487,649 386,688">402,707 512,708 623,716 734,720 845,728 955,732 1066,736 1177,740 1288,743 1398,747 1509,751 1620,752 1731,757 1841,758 1952,761 2063,761 2174,761 2284,764 2395,761 2506,761 2617,761</zone>
+			<zone xml:id="p1z6-0" points="391,836 489,800 800,850 1029,805 1454,872 2637,870 2634,791 2592,780 2156,817 1868,777 1815,814 1731,766 1661,800 1602,763 389,749">405,779 516,785 628,790 740,794 852,799 964,803 1075,808 1187,812 1299,817 1411,821 1523,826 1634,830 1746,835 1858,836 1970,841 2082,841 2193,841 2305,844 2417,841 2529,843 2641,838</zone>
+			<zone xml:id="p1z7-0" points="391,906 721,884 970,931 1046,886 1124,937 1230,895 1407,954 2539,954 2536,861 2483,853 1837,900 1692,861 1653,892 1566,842 1297,870 1032,805 803,861 652,814 389,836">405,868 511,869 618,873 725,877 832,882 939,886 1046,889 1152,892 1259,898 1366,901 1473,907 1580,910 1687,913 1794,916 1900,920 2007,922 2114,922 2221,922 2328,922 2435,922 2542,922</zone>
+			<zone xml:id="p1z8-0" points="372,993 780,954 1124,1009 1244,976 1709,1032 1762,998 1871,1043 1949,1007 2581,1026 2578,968 2469,945 2290,981 2187,937 2066,981 1736,931 1407,954 1289,909 987,940 716,881 565,928 369,912">388,964 503,953 619,952 735,952 850,955 966,958 1082,963 1198,967 1313,973 1429,978 1545,981 1661,988 1776,993 1892,998 2008,1002 2124,1005 2239,1006 2355,1008 2471,1008 2587,1002</zone>
+			<zone xml:id="p1z9-0" points="386,1065 601,1029 1105,1091 1278,1068 1510,1166 1728,1079 1851,1135 1932,1091 2097,1132 2162,1099 2259,1158 2385,1113 2519,1135 2514,1023 2142,1054 1762,998 1706,1032 909,968 383,984">399,1032 505,1026 611,1028 717,1032 824,1035 930,1038 1036,1044 1143,1049 1249,1047 1355,1054 1462,1058 1568,1062 1674,1066 1780,1071 1887,1074 1993,1079 2099,1083 2206,1087 2312,1091 2418,1092 2525,1092</zone>
+			<zone xml:id="p1z10-0" points="369,1163 618,1188 998,1132 1264,1174 1261,1082 956,1060 830,1088 531,1035 461,1079 366,1074">382,1107 426,1104 470,1101 515,1104 559,1107 604,1107 648,1110 693,1110 737,1113 782,1113 826,1116 870,1119 915,1119 959,1122 1004,1122 1048,1125 1093,1130 1137,1131 1182,1134 1226,1139 1271,1143</zone>
+			<zone xml:id="p1z11-0" points="2041,1446 2134,1457 2167,1434 2195,1454 2259,1457 2312,1423 2433,1426 2433,1373 2321,1393 2290,1370 2259,1381 2223,1362 2175,1362 2145,1387 2108,1370 2041,1384">2056,1420 2081,1420 2107,1418 2133,1417 2158,1417 2184,1417 2210,1417 2235,1417 2261,1417 2287,1415 2312,1414 2338,1416 2364,1416 2389,1414 2415,1414 2441,1414</zone>
+			<zone xml:id="p1z12-0" points="2089,1493 2150,1493 2170,1507 2206,1485 2259,1502 2301,1502 2312,1490 2329,1499 2349,1488 2394,1493 2396,1437 2324,1423 2301,1426 2262,1457 2092,1448">2104,1477 2130,1479 2157,1479 2184,1478 2211,1477 2238,1477 2264,1477 2291,1476 2318,1475 2345,1474 2372,1474 2399,1477</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11901!Autograph!01%20E_II_362__fol__49_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11901/Autograph/01 E_II_362__fol__49_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1247,853 1353,880 1411,836 2081,859 2134,827 2135,779 1933,748 1705,817 1525,814 1248,757">1253,838 1297,834 1341,832 1385,832 1429,833 1474,834 1518,833 1562,835 1606,835 1650,835 1695,835 1739,835 1783,835 1827,835 1871,832 1916,832 1960,829 2004,826 2048,826 2092,823 2137,820</zone>
+			<zone xml:id="p2z2-0" points="1256,924 2158,932 2150,845 2035,891 1706,859 1618,887 1435,860 1352,896 1256,874">1262,916 1306,911 1351,907 1396,904 1441,904 1486,904 1531,904 1576,904 1621,907 1666,904 1711,907 1755,907 1800,907 1845,907 1890,907 1935,907 1980,907 2025,904 2070,904 2115,901 2160,901</zone>
+			<zone xml:id="p2z3-0" points="1254,1037 1337,1030 1414,1005 1461,1026 1511,1027 1510,925 1410,954 1253,923">1259,987 1284,985 1309,984 1335,986 1360,986 1386,984 1411,984 1436,984 1462,986 1487,987 1513,987</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratia et pax etc.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratia et pax etc.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Ut res humane caduce sunt et mortales, factum est, ut praesidium carnale multorum debitum universe carnis solverit<note xml:id="fn1" type="footnote" n="1">Als formelhafte Redewendung seit dem Mittelalter belegt; s. etwa Gesta Innocentii III., <bibl source="b446">MPL</bibl> CCXIV, Sp. XXXIX u.a.</note>, <persName ref="p8401">Contzenus</persName> scilicet<note xml:id="fn2" type="footnote" n="2"><persName ref="p8401">Peter Kunz</persName> war am 11. Februar gestorben; s. oben <ref target="file11887">Nr. 1841</ref>, Anm. 66.</note>.</s>
-					<s n="3" xml:lang="la">Post hac non valde pertimescendi duo superstites Lutherane factionis;<note xml:id="fn3" type="footnote" n="3"><persName ref="p3099">Simon Sulzer</persName> und <persName ref="p8364">Beat Gering</persName>; zu ihrer fragwürdigen Charakterisierung als Lutheraner s. Amy Nelson <hi>Burnett,</hi> The Myth of the Swiss Lutherans: Martin Bucer and the Eucharistic Controversy in Bern, in: <bibl source="b714">Zwa</bibl> 32, 2005, 45-70.</note> nam incertum est, num illis adiiciendus sit tercius, imo nobis non minor spes est de veritatis pio patrono, quare et vestrum erit vestras admovere manus auxiliatrices, ut ecclesia nostra ab isto onere levetur.</s>
-					<s n="4" xml:lang="la">Quod si vero nullus adiungetur, nihilominus maiori et spe et fructu pugnabimus; nam <persName ref="p8401">Contzeni</persName> importunitati concedendum erat plurimum, ne simul totum edificium destrueretur.</s>
+					<s n="2" xml:lang="la">Ut res humane caduce sunt et mortales, factum est, ut praesidium carnale multorum <lb xml:id="p1z2"/>debitum universe carnis solverit<note xml:id="fn1" type="footnote" n="1">Als formelhafte Redewendung seit dem Mittelalter belegt; s. etwa Gesta Innocentii III., <bibl source="b446">MPL</bibl> CCXIV, Sp. XXXIX u.a.</note>, <persName ref="p8401">Contzenus</persName> scilicet<note xml:id="fn2" type="footnote" n="2"><persName ref="p8401">Peter Kunz</persName> war am 11. Februar gestorben; s. oben <ref target="file11887">Nr. 1841</ref>, Anm. 66.</note>.</s>
+					<s n="3" xml:lang="la">Post hac non valde pertimescendi duo superstites <lb xml:id="p1z3"/>Lutherane factionis;<note xml:id="fn3" type="footnote" n="3"><persName ref="p3099">Simon Sulzer</persName> und <persName ref="p8364">Beat Gering</persName>; zu ihrer fragwürdigen Charakterisierung als Lutheraner s. Amy Nelson <hi>Burnett,</hi> The Myth of the Swiss Lutherans: Martin Bucer and the Eucharistic Controversy in Bern, in: <bibl source="b714">Zwa</bibl> 32, 2005, 45-70.</note> nam incertum est, num illis adiiciendus sit tercius, imo nobis non minor spes est <lb xml:id="p1z4"/>de veritatis pio patrono, quare et vestrum erit vestras admovere manus auxiliatrices, ut ecclesia nostra <lb xml:id="p1z5"/>ab isto onere levetur.</s>
+					<s n="4" xml:lang="la">Quod si vero nullus adiungetur, nihilominus maiori et spe et fructu pugnabimus; <lb xml:id="p1z6"/>nam <persName ref="p8401">Contzeni</persName> importunitati concedendum erat plurimum, ne simul totum edificium destrueretur.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Adolescens hic<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note>, qui has meas ad te perfert litteras, a nobis anno elapso est receptus sicque vixit, ut forsitan<note xml:id="fna" type="footnote" n="a"><hi>Am Wortende ein gestrichener Buchstabe.</hi></note> propediem ad munus diaconatus vocabitur.</s>
-					<s n="6" xml:lang="la">Tu moneto, ne aliam quam sinceram et piam doctrinam et claram professionem imitetur, quae<note xml:id="fnb" type="footnote" n="b"><hi>Vor</hi> quae <hi>gestrichenes</hi> quam eam.</note> vulgata hactenus in ecclesiis <placeName ref="l862">Helveticis</placeName>.<pb type="edition" next="108"/></s>
+					<s n="5" xml:lang="la">Adolescens <lb xml:id="p1z7"/>hic<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note>, qui has meas ad te perfert litteras, a nobis anno elapso est receptus sicque vixit, ut forsitan<note xml:id="fna" type="footnote" n="a"><hi>Am Wortende ein gestrichener Buchstabe.</hi></note> <lb xml:id="p1z8"/>propediem ad munus diaconatus vocabitur.</s>
+					<s n="6" xml:lang="la">Tu moneto, ne aliam quam sinceram et piam doctrinam et claram <lb xml:id="p1z9"/>professionem imitetur, quae<note xml:id="fnb" type="footnote" n="b"><hi>Vor</hi> quae <hi>gestrichenes</hi> quam eam.</note> vulgata hactenus in ecclesiis <placeName ref="l862">Helveticis</placeName>.<pb type="edition" next="108"/></s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" ana="salute">Saluta meo nomine fratres omnes.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="de">Datum <placeName ref="l41">Berne</placeName>, 23. februarii 1544.</s>
+					<s n="8" xml:lang="de"><lb xml:id="p1z10"/>Datum <placeName ref="l41">Berne</placeName>, 23. februarii 1544.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la"><persName ref="p2810">Erasmus Ritter</persName> ex animo tuus.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z11"/><persName ref="p2810">Erasmus Ritter</persName> <lb xml:id="p1z12"/>ex animo tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="10" xml:lang="la">Et pio et docto viro domino <persName ref="p495">Henrichio Bullingero</persName><note xml:id="fnc" type="footnote" n="c"><hi>Vor</hi> <persName ref="p495">Bullingero</persName> <hi>gestrichenes</hi> Bl.</note>, ecclesie <placeName ref="l587">Tigurine</placeName> antistiti, fratri charissimo.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/>Et pio et docto viro domino <persName ref="p495">Henrichio <lb xml:id="p2z2"/>Bullingero</persName><note xml:id="fnc" type="footnote" n="c"><hi>Vor</hi> <persName ref="p495">Bullingero</persName> <hi>gestrichenes</hi> Bl.</note>, ecclesie <placeName ref="l587">Tigurine</placeName> antistiti, <lb xml:id="p2z3"/>fratri charissimo.</s>
 				</p>
 			</div>
 		</body>

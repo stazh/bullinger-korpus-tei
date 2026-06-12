@@ -83,16 +83,24 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!224!Autograph!00%20E_II_357__S__809_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">224/Autograph/00 E_II_357__S__809_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="841,359 909,367 982,344 1013,344 1037,362 1076,352 1076,260 1006,250 964,276 933,274 912,284 880,260 841,258">856,310 881,310 906,310 931,308 956,307 982,307 1007,308 1032,310 1057,307 1083,304</zone>
+			<zone xml:id="p1z2-0" points="461,646 641,638 703,584 784,633 961,578 1232,604 1477,557 1701,604 2021,557 2074,594 2352,570 2550,612 2535,500 1878,456 1818,492 1665,453 1469,513 1295,482 1190,526 719,521 464,576">477,614 581,602 685,588 789,580 893,570 997,564 1101,557 1206,556 1310,551 1414,549 1518,549 1622,549 1726,551 1830,551 1935,551 2039,544 2143,546 2247,540 2351,543 2455,538 2560,540</zone>
+			<zone xml:id="p1z3-0" points="487,696 1177,636 1352,667 1438,625 1550,662 2467,628 2420,578 1949,555 1725,602 972,584 490,651">501,674 599,662 698,655 796,648 895,640 994,635 1092,629 1191,626 1289,621 1388,620 1487,620 1585,620 1684,621 1782,621 1881,618 1980,617 2078,613 2177,614 2275,611 2374,611 2473,605</zone>
+			<zone xml:id="p1z4-0" points="492,795 646,732 826,766 990,709 1399,758 1521,703 1717,735 1779,693 2147,735 2438,696 2441,646 2102,630 1928,675 1461,630 1396,680 1159,641 1024,683 495,693">510,745 606,733 703,725 800,721 897,715 994,708 1090,705 1187,701 1284,701 1381,698 1478,697 1574,695 1671,695 1768,695 1865,692 1962,694 2058,692 2155,692 2252,692 2349,689 2446,689</zone>
+			<zone xml:id="p1z5-0" points="495,823 813,805 1024,847 1245,782 1487,813 1573,779 2071,821 2256,776 2368,805 2485,779 2488,742 2316,703 2232,745 1951,750 1784,693 1693,740 1399,758 993,709 894,766 495,795">510,811 608,808 707,801 806,795 905,786 1004,778 1103,778 1202,776 1301,776 1400,775 1499,775 1597,775 1696,775 1795,775 1894,776 1993,775 2092,775 2191,774 2290,772 2389,769 2488,766</zone>
+			<zone xml:id="p1z6-0" points="472,938 1206,860 1308,912 1401,870 1631,901 1748,862 1980,904 2131,867 2230,904 2488,891 2527,883 2529,776 2131,836 2006,797 1855,841 1196,805 472,852">486,895 588,887 690,881 793,874 895,867 997,857 1100,856 1202,853 1304,853 1407,853 1509,853 1611,854 1714,856 1816,859 1918,859 2021,859 2123,859 2225,859 2328,858 2430,856 2533,853</zone>
+			<zone xml:id="p1z7-0" points="487,1008 1076,948 1373,982 1451,943 1532,982 1626,940 1751,982 2042,948 2188,990 2493,948 2493,888 2402,873 2209,909 2133,870 1873,909 1771,870 1618,909 1412,873 1297,912 1141,865 487,951">501,972 606,964 711,957 816,950 921,942 1027,939 1132,936 1237,931 1342,933 1447,933 1553,933 1658,933 1763,933 1868,936 1973,936 2079,938 2184,939 2289,939 2394,936 2500,936</zone>
+			<zone xml:id="p1z8-0" points="511,1097 784,1037 888,1068 1378,1016 1771,1102 1928,1071 2376,1102 2376,961 2225,993 1946,948 1891,993 1790,959 1727,998 1409,953 1177,995 813,961 714,1021 633,974 511,1011">525,1050 617,1044 710,1038 803,1031 896,1024 989,1020 1082,1017 1175,1014 1268,1011 1361,1011 1454,1013 1546,1014 1639,1014 1732,1017 1825,1018 1918,1020 2011,1023 2104,1026 2197,1029 2290,1032 2383,1035</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Accepi etiam postremum epistolium, ubi sero domum redii incertus, an nuncius adhuc hic hereat; experiar tam mox.</s>
-					<s n="3" xml:lang="la">Tu ora pro nobis et ignosce, quod parcius scribo; nec enim possum plura, ut moriar etiam.</s>
-					<s n="4" xml:lang="la">Quę de consule nostro <persName ref="p7495">Gaisbergo</persName> scripsi, quod hinc fugerit, sic nunc re diligentius comperta emendo, ut scias ipsum facta sibi potestate demigrasse, quod langueat nec ad ullum usum utilis sit; sic enim nunc affirmant nonnulli.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la"><lb xml:id="p1z2"/>Accepi etiam postremum epistolium, ubi sero domum redii incertus, <lb xml:id="p1z3"/>an nuncius adhuc hic hereat; experiar tam mox.</s>
+					<s n="3" xml:lang="la">Tu ora pro <lb xml:id="p1z4"/>nobis et ignosce, quod parcius scribo; nec enim possum plura, ut <lb xml:id="p1z5"/>moriar etiam.</s>
+					<s n="4" xml:lang="la">Quę de consule nostro <persName ref="p7495">Gaisbergo</persName> scripsi, quod hinc <lb xml:id="p1z6"/>fugerit, sic nunc re diligentius comperta emendo, ut scias ipsum <lb xml:id="p1z7"/>facta sibi potestate demigrasse, quod langueat nec ad ullum <lb xml:id="p1z8"/>usum utilis sit; sic enim nunc affirmant nonnulli.</s>
 				</p>
 				<p>
 					<note type="date">[Ohne Datum, Unterschrift und Adresse]</note>

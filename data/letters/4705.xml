@@ -81,35 +81,47 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4705!Autograph!00%20E_II_357__fol__571_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4705/Autograph/00 E_II_357__fol__571_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="253,332 2426,332 2426,231 2294,272 2003,220 1926,269 1324,234 1223,280 626,217 429,286 253,256">268,319 376,316 484,316 592,313 701,310 809,310 917,307 1025,307 1134,304 1242,304 1350,301 1458,301 1567,301 1675,301 1783,303 1891,304 2000,304 2108,304 2216,308 2324,313 2433,322</zone>
+			<zone xml:id="p1z2-0" points="305,418 522,379 1025,401 1085,363 1588,407 2382,393 2382,327 2182,352 1929,313 305,343">319,394 422,382 525,376 629,373 732,370 836,367 939,366 1043,361 1146,362 1250,361 1353,361 1456,361 1560,364 1663,364 1767,364 1870,367 1974,370 2077,370 2181,373 2284,373 2388,376</zone>
+			<zone xml:id="p1z3-0" points="313,467 1140,426 2434,473 2434,390 2357,418 2308,382 2113,412 1415,368 1261,401 1088,365 1022,401 497,379 313,420">328,444 433,437 539,433 645,429 750,425 856,423 962,420 1067,420 1173,420 1279,423 1385,423 1490,423 1596,423 1702,426 1807,426 1913,429 2019,432 2124,435 2230,436 2336,438 2442,444</zone>
+			<zone xml:id="p1z4-0" points="319,544 824,492 876,528 945,495 1426,533 1750,495 2388,536 2470,522 2470,464 750,429 316,467">331,513 438,505 545,498 652,491 759,489 867,486 974,486 1081,486 1188,486 1295,486 1403,489 1510,488 1617,489 1724,489 1831,491 1939,492 2046,495 2153,498 2260,502 2367,507 2475,510</zone>
+			<zone xml:id="p1z5-0" points="310,624 563,563 962,593 1055,555 1327,596 1484,555 1893,558 2000,602 2357,577 2514,624 2514,541 2256,550 2184,511 879,530 811,495 723,539 637,497 310,550">325,576 434,569 544,561 654,557 764,555 874,552 984,550 1093,549 1203,549 1313,549 1423,549 1533,549 1643,549 1753,552 1862,553 1972,558 2082,562 2192,566 2302,570 2412,575 2522,582</zone>
+			<zone xml:id="p1z6-0" points="310,662 832,621 1349,659 1536,618 2456,659 2456,585 2154,613 1599,552 1341,593 582,571 310,624">325,644 431,634 538,627 645,624 752,621 859,618 966,615 1073,615 1180,615 1287,613 1394,612 1500,612 1607,615 1714,618 1821,619 1928,621 2035,627 2142,631 2249,635 2356,639 2463,644</zone>
+			<zone xml:id="p1z7-0" points="310,742 887,690 1269,720 1327,684 2429,739 2404,646 2256,684 1536,618 1352,659 310,659">325,716 430,707 536,702 641,695 747,692 852,690 958,686 1063,683 1169,683 1274,683 1380,681 1486,680 1591,683 1697,683 1802,686 1908,686 2013,691 2119,695 2224,701 2330,706 2436,713</zone>
+			<zone xml:id="p1z8-0" points="313,811 569,827 852,758 1110,811 1349,758 1434,794 1503,756 1602,805 1701,761 1885,761 2022,816 2138,772 2399,789 2399,720 1833,690 1695,734 775,698 313,736">328,800 431,783 535,775 639,765 743,761 847,758 951,755 1055,752 1159,755 1263,752 1367,752 1470,752 1574,749 1678,751 1782,752 1886,755 1990,758 2094,764 2198,768 2302,773 2406,782</zone>
+			<zone xml:id="p1z9-0" points="1583,909 1684,898 1780,929 1942,876 2039,915 2127,898 2231,945 2269,931 2267,852 2209,838 2121,865 2047,813 1948,802 1808,830 1703,797 1580,813">1597,889 1630,882 1664,880 1698,879 1732,877 1766,877 1800,875 1834,874 1868,874 1902,874 1936,874 1969,874 2003,874 2037,879 2071,883 2105,888 2139,892 2173,892 2207,894 2241,896 2275,901</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4705!Autograph!01%20E_II_357__fol__571_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">4705/Autograph/01 E_II_357__fol__571_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="857,1096 1030,1060 1374,1053 1490,1094 1573,1066 1575,1015 1383,987 1175,1019 859,992">862,1074 897,1064 933,1060 969,1056 1004,1053 1040,1051 1076,1048 1111,1046 1147,1045 1183,1045 1219,1045 1254,1043 1290,1042 1326,1043 1361,1045 1397,1045 1433,1045 1468,1045 1504,1045 1540,1046 1576,1048</zone>
+			<zone xml:id="p2z2-0" points="872,1168 973,1140 1108,1155 1136,1131 1480,1142 1510,1134 1512,1085 1459,1097 1297,1065 1257,1091 1028,1073 874,1094">877,1146 908,1140 940,1136 972,1132 1004,1129 1036,1127 1067,1125 1099,1125 1131,1124 1163,1121 1195,1119 1226,1119 1258,1119 1290,1119 1322,1119 1354,1119 1385,1119 1417,1119 1449,1117 1481,1116 1513,1116</zone>
+			<zone xml:id="p2z3-0" points="869,1229 1074,1234 1224,1199 1518,1237 1520,1181 1446,1151 1343,1160 1289,1138 1201,1168 871,1174">874,1215 906,1214 938,1209 971,1207 1003,1205 1036,1203 1068,1203 1100,1200 1133,1197 1165,1197 1198,1195 1230,1193 1262,1191 1295,1191 1327,1191 1360,1191 1392,1191 1424,1193 1457,1192 1489,1190 1522,1188</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Accepi heri cum <persName ref="p458">Brentii</persName> libello literas <persName ref="p1568">Hoseri</persName> nostri <placeName ref="l18">Augustani</placeName> per <persName>Leonardum Schnider</persName>, nunc iam <placeName ref="l18">Augustanum</placeName>, qui, ni fallor, <placeName ref="l587">Tigurum</placeName> quoque profectus est.</s>
-					<s n="3" xml:lang="la">Ego vero cum post ipsius digressum fasciculum explicarem, epistolam hanc tibi inscriptam repperi, iratus mihi, quod non ante tabellarii discessum omnia resignassem.</s>
-					<s n="4" xml:lang="la">Verum, quod factum est, infectum esse nequit,<note xml:id="fn1" type="footnote" n="1"><bibl source="b56">Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II-3 290-292, Nr. 1272).</note> quamquam bene est, quod <placeName ref="l587">Tigurinos</placeName> adhuc, qui nuptias hic nudius tertius sua praesentia ornaverunt, abiturientes nunc invenio, per quos literas istas reddi tibi curavi.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Accepi heri cum <persName ref="p458">Brentii</persName> libello literas <persName ref="p1568">Hoseri</persName> nostri <placeName ref="l18">Augustani</placeName> per <persName>Leonardum Schnider</persName>, <lb xml:id="p1z2"/>nunc iam <placeName ref="l18">Augustanum</placeName>, qui, ni fallor, <placeName ref="l587">Tigurum</placeName> quoque profectus est.</s>
+					<s n="3" xml:lang="la">Ego vero cum post <lb xml:id="p1z3"/>ipsius digressum fasciculum explicarem, epistolam hanc tibi inscriptam repperi, iratus mihi, <lb xml:id="p1z4"/>quod non ante tabellarii discessum omnia resignassem.</s>
+					<s n="4" xml:lang="la">Verum, quod factum est, infectum esse nequit,<note xml:id="fn1" type="footnote" n="1"><bibl source="b56">Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II-3 290-292, Nr. 1272).</note> <lb xml:id="p1z5"/>quamquam bene est, quod <placeName ref="l587">Tigurinos</placeName> adhuc, qui nuptias hic nudius tertius sua praesentia ornave<lb xml:id="p1z6"/>runt, abiturientes nunc invenio, per quos literas istas reddi tibi curavi.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Misissem una <persName ref="p458">Brentii</persName> libellum, ni scriberet <persName ref="p1568">Hoserus</persName> a d. <persName ref="p8486">Engelberto</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p8486">Eppelmann/Milander</persName>.</note> missum ad te exemplum.</s>
+					<s n="5" xml:lang="la">Misissem una <lb xml:id="p1z7"/><persName ref="p458">Brentii</persName> libellum, ni scriberet <persName ref="p1568">Hoserus</persName> a d. <persName ref="p8486">Engelberto</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p8486">Eppelmann/Milander</persName>.</note> missum ad te exemplum.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" ana="farewell">Bene vale, mi colendissime et optime in domino frater.</s>
+					<s n="6" xml:lang="la" ana="farewell"><lb xml:id="p1z8"/>Bene vale, mi colendissime et optime in domino frater.</s>
 					<s n="7" xml:lang="la">Commenda nos domino diligenter.</s>
 					<s n="8" xml:lang="la">12. martii.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">T[uus] <persName ref="p8055">Ambr[osius] Bl[aurerus]</persName>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z9"/>T[uus] <persName ref="p8055">Ambr[osius] Bl[aurerus]</persName>.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Clarissimo d. <persName ref="p495">Heinricho Bullingero</persName>, colendo suo longeque charissimo fratri.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/>Clarissimo d. <persName ref="p495">Heinricho <lb xml:id="p2z2"/>Bullingero</persName>, colendo suo <lb xml:id="p2z3"/>longeque charissimo fratri.</s>
 					<s n="11" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
 				</p>
 			</div>

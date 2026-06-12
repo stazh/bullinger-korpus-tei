@@ -78,23 +78,33 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5451!Autograph!00%20E_II_361__fol__260_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">5451/Autograph/00 E_II_361__fol__260_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="473,186 784,142 1157,211 1414,150 1482,188 2087,190 2085,118 1772,126 1694,88 1297,122 1107,68 742,66 682,120 471,74">485,142 565,136 645,140 725,140 805,140 885,140 965,143 1046,145 1126,146 1206,145 1286,148 1366,151 1446,154 1526,157 1607,157 1687,160 1767,165 1847,169 1927,172 2007,175 2088,175</zone>
+			<zone xml:id="p1z2-0" points="497,277 644,227 924,293 1414,267 1510,315 1754,279 2089,309 2083,198 1881,237 1710,186 1578,233 1500,186 1442,233 1307,166 1143,215 1039,166 493,174">506,214 585,219 664,223 744,227 823,229 903,232 982,235 1061,239 1141,245 1220,250 1300,253 1379,256 1458,262 1538,265 1617,271 1697,273 1776,278 1855,281 1935,285 2014,293 2094,294</zone>
+			<zone xml:id="p1z3-0" points="489,363 563,317 728,371 856,327 996,365 1269,341 1600,413 1672,375 2065,395 2077,345 1903,297 1339,327 638,233 485,273">497,300 576,299 655,306 735,310 814,312 894,318 973,323 1052,325 1132,331 1211,333 1291,338 1370,342 1449,349 1529,354 1608,360 1688,362 1767,366 1846,370 1926,372 2005,375 2085,378</zone>
+			<zone xml:id="p1z4-0" points="487,431 686,413 784,467 982,411 1221,473 1337,427 1684,453 1811,509 1883,467 2067,483 2063,431 1983,411 1365,401 1275,347 485,383">497,402 575,401 654,404 732,406 811,408 890,408 968,411 1047,415 1126,417 1204,422 1283,425 1362,429 1440,434 1519,437 1598,442 1676,446 1755,449 1834,455 1912,460 1991,462 2070,464</zone>
+			<zone xml:id="p1z5-0" points="503,517 682,511 744,559 850,517 994,577 1053,527 1173,561 1379,513 1452,563 1570,537 1736,579 1792,539 2079,565 2077,477 1979,517 1897,469 1815,511 1670,453 1462,485 1343,427 1231,483 1137,443 1005,485 501,437">515,497 593,496 672,499 750,500 829,503 907,503 986,505 1064,507 1143,509 1221,511 1300,511 1378,513 1457,518 1535,520 1614,523 1692,529 1771,533 1849,539 1928,541 2006,549 2085,560</zone>
+			<zone xml:id="p1z6-0" points="491,666 788,591 994,642 1209,612 1359,664 1456,626 1640,674 1744,628 1983,652 2011,557 1608,602 1333,535 1191,587 1053,527 992,577 878,527 712,567 487,513">500,592 575,587 651,587 727,589 803,592 879,596 954,598 1030,601 1106,601 1182,604 1258,607 1333,607 1409,610 1485,613 1561,613 1637,614 1712,616 1788,618 1864,619 1940,619 2016,619</zone>
+			<zone xml:id="p1z7-0" points="499,720 760,680 1315,744 1389,702 1572,738 1658,702 1931,762 2051,736 2049,658 1181,674 924,606 850,648 497,666">509,682 586,678 663,677 740,679 818,682 895,684 972,686 1050,688 1127,691 1204,693 1282,692 1359,694 1436,697 1513,700 1591,701 1668,703 1745,705 1823,706 1900,709 1977,711 2055,711</zone>
+			<zone xml:id="p1z8-0" points="505,814 914,768 1704,842 1857,822 1855,718 1325,752 746,694 503,732">515,762 582,762 649,762 716,765 784,762 851,765 918,768 986,771 1053,771 1120,776 1188,777 1255,780 1322,783 1389,783 1457,783 1524,786 1591,789 1659,789 1726,789 1793,791 1861,789</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5451!Autograph!01%20E_II_361__fol__260_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">5451/Autograph/01 E_II_361__fol__260_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="388,319 647,347 776,293 940,319 1063,276 1218,303 1227,172 1052,217 841,207 770,248 393,238">394,304 435,301 476,300 518,297 559,295 601,295 642,292 683,292 725,289 766,286 808,284 849,279 890,275 932,272 973,270 1015,266 1056,261 1097,258 1139,256 1180,254 1222,254</zone>
+			<zone xml:id="p2z2-0" points="1092,435 1136,459 1157,450 1178,465 1199,464 1206,296 1189,299 1177,290 1169,294 1149,286 1120,299 1098,295">1102,346 1128,343 1154,343 1180,342 1207,340</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Simulac hasce obsignaram, venit ad me doctor <persName ref="p8099">Thomas Schopffius</persName> physicus significans, quod <placeName ref="l496">Stuggardię</placeName> salutarit doctorem <persName ref="p4183">Iacobum Andreę Schmidlin</persName> amice cum illo conferens.</s>
-					<s n="2" xml:lang="la">At is magis <persName ref="p458">Brencissat</persName> quam unquam sua pertinaciter defendens etc.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Simulac hasce obsignaram, venit ad me doctor <lb xml:id="p1z2"/><persName ref="p8099">Thomas Schopffius</persName> physicus significans, quod <placeName ref="l496">Stu<lb xml:id="p1z3"/>ggardię</placeName> salutarit doctorem <persName ref="p4183">Iacobum Andreę Schmidlin</persName> <lb xml:id="p1z4"/>amice cum illo conferens.</s>
+					<s n="2" xml:lang="la">At is magis <persName ref="p458">Brencis<lb xml:id="p1z5"/>sat</persName> quam unquam sua pertinaciter defendens etc.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Isto autumno visitabit ecclesiam cum quibusdam legatis nobilibus; qui omnes ritus pios subvertent etc.</s>
-					<s n="4" xml:lang="la" ana="salute">Salutat te <persName ref="p8099">Schopffius</persName>.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z6"/>Isto autumno visitabit ecclesiam cum quibusdam <lb xml:id="p1z7"/>legatis nobilibus; qui omnes ritus pios <lb xml:id="p1z8"/>subvertent etc.</s>
+					<s n="4" xml:lang="la" ana="salute">Salutat te <persName ref="p8099">Schopffius</persName><pb/><lb xml:id="p2z2"/>.</s>
 				</p>
 				<p>
 					<note>[Unterschrift, Datum und Adresse fehlen.]</note>

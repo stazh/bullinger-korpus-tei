@@ -84,11 +84,22 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12892!Autograph!00%20E_II_357__fol__588_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12892/Autograph/00 E_II_357__fol__588_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="355,344 2194,254 2196,177 1669,241 1300,204 915,261 743,229 624,289 360,229">367,334 458,325 550,321 641,315 733,309 825,301 916,295 1008,290 1100,287 1191,280 1283,278 1375,273 1466,269 1558,266 1650,264 1741,261 1833,255 1925,248 2016,245 2108,242 2200,236</zone>
+			<zone xml:id="p1z2-0" points="387,406 1387,339 1596,371 1765,323 2029,344 2148,284 1440,280 954,330 915,298 562,369 390,348">400,400 487,391 575,383 662,374 750,366 838,359 925,353 1013,349 1100,346 1188,342 1276,340 1363,337 1451,333 1538,328 1626,324 1714,319 1801,316 1889,313 1976,307 2064,302 2152,305</zone>
+			<zone xml:id="p1z3-0" points="378,481 2173,374 2153,298 2043,344 1765,323 1536,378 1426,342 1268,385 1142,353 663,420 383,408">394,463 483,453 572,447 661,439 751,433 840,424 929,418 1018,412 1108,409 1197,406 1286,403 1375,403 1465,397 1554,394 1643,391 1732,385 1822,379 1911,373 2000,370 2089,367 2179,361</zone>
+			<zone xml:id="p1z4-0" points="397,557 1059,481 2114,468 2155,458 2160,376 1653,438 1181,408 1006,461 401,472">412,520 499,517 587,509 674,503 762,497 850,491 937,485 1025,479 1112,473 1200,470 1288,466 1375,462 1463,460 1550,459 1638,456 1726,453 1813,448 1901,445 1988,439 2076,433 2164,430</zone>
+			<zone xml:id="p1z5-0" points="392,605 1456,527 1745,557 2123,516 2166,465 1213,481 1077,525 1022,488 394,552">406,592 494,583 582,575 671,569 759,562 847,556 936,549 1024,543 1112,540 1201,534 1289,531 1377,526 1466,525 1554,523 1642,520 1731,517 1819,514 1907,508 1996,505 2084,499 2173,499</zone>
+			<zone xml:id="p1z6-0" points="410,672 871,621 972,649 1022,614 1201,637 1337,594 2155,601 2157,536 2015,509 1678,562 1476,527 1426,571 413,605">424,651 511,642 598,639 685,633 772,627 859,621 946,615 1033,610 1120,605 1207,602 1294,598 1381,593 1468,592 1555,589 1642,586 1729,583 1816,580 1903,576 1990,574 2077,568 2164,562</zone>
+			<zone xml:id="p1z7-0" points="413,754 938,685 1087,718 1426,663 2125,660 2127,596 2049,582 417,669">427,717 512,711 597,709 682,700 768,694 853,687 938,683 1023,677 1109,671 1194,669 1279,666 1364,660 1450,658 1535,655 1620,655 1705,651 1791,648 1876,647 1961,644 2046,639 2132,639</zone>
+			<zone xml:id="p1z8-0" points="417,795 848,800 915,759 1048,789 1440,729 1706,786 2027,711 2011,649 1928,690 1529,663 1371,715 1087,718 938,685 420,752">430,789 510,783 590,781 670,772 750,767 830,761 910,753 991,751 1071,745 1151,740 1231,735 1311,735 1391,730 1471,729 1552,726 1632,726 1712,723 1792,726 1872,717 1952,711 2033,705</zone>
+			<zone xml:id="p1z9-0" points="1726,832 1761,834 1811,855 1875,855 1875,738 1848,736 1836,747 1827,740 1802,761 1777,752 1754,766 1726,770">1740,819 1768,817 1796,816 1824,816 1852,818 1880,819</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12892!Autograph!01%20E_II_357__fol__588_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12892/Autograph/01 E_II_357__fol__588_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="170,1041 274,1022 322,1047 359,1026 454,1038 543,1019 585,1044 674,1012 721,1036 721,970 523,962 416,992 362,970 315,986 254,962 170,965">175,1015 202,1015 229,1013 257,1011 284,1011 312,1011 339,1011 366,1011 394,1011 421,1011 449,1011 476,1011 503,1011 531,1011 558,1011 586,1011 613,1010 640,1009 668,1009 695,1009 723,1011</zone>
+			<zone xml:id="p2z2-0" points="186,1090 241,1106 318,1083 376,1097 534,1078 640,1107 713,1090 713,1055 687,1064 612,1034 550,1061 403,1022 323,1047 265,1027 186,1044">191,1081 217,1077 243,1077 269,1077 295,1077 322,1077 348,1077 374,1076 400,1075 426,1075 453,1074 479,1073 505,1073 531,1073 557,1073 584,1073 610,1073 636,1074 662,1075 688,1077 715,1077</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
@@ -96,19 +107,19 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Furgeliepter herr und bruͦder, ich hab euch uff gestert geschriben.<note xml:id="fn2" type="footnote" n="2">Mit <ref target="file12890">Nr. 2841</ref> vom 11. März.</note></s>
-					<s n="2" xml:lang="de">Diß allain von meines <persName ref="p4082">vetters</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p4082">Konrad Zwick</persName>.</note> wegen: Der ist doch gar betrupt usß ursachen, wie ir auss sinem schriben<note xml:id="fn4" type="footnote" n="4">Gemeint ist <persName ref="p4082">Zwicks</persName> Brief mit zwei Anhängen an <persName ref="p1419">Johannes Haab</persName> vom 11. März (Zürich StA, A 205.2, Nr. 10 mit 10 a und lob).</note> vernemmen.</s>
-					<s n="3" xml:lang="de">Bitt euch um gottes willen, darob und daran<note xml:id="fn5" type="footnote" n="5">darob und daran: darauf bedacht; s. <bibl source="b590">SI</bibl> VII 1041.</note> ze sein, damitt gwarsamlicher<note xml:id="fn6" type="footnote" n="6">umsichtiger. -Die <placeName ref="l257">Konstanzer</placeName> waren unzufrieden, dass die Zürcher auf der Tagsatzung zu <placeName ref="l21">Baden</placeName> vom 28. Februar bei ihrem Versuch, die <placeName ref="l862">Eidgenossen</placeName> zu einer Hilfe für <placeName ref="l257">Konstanz</placeName> zu verpflichten, sich darauf beschränkten, nur eine Belagerung oder einen Angriff der Stadt von eidgenössischem Gebiet aus (also nicht auch von deutscher Seite aus) nicht zuzulassen.</note> gehandelt und der guͦt fromm mann nitt unlustig<note xml:id="fn7" type="footnote" n="7">unlustig werde: verzagt (angesichts eines ungenügenden Einsatzes der Zürcher für <placeName ref="l257">Konstanz</placeName>). - Im Entwurf Nr. 10b seines oben in Anm. 4 erwähnten Briefs schlug <persName ref="p4082">Zwick</persName> den Zürchern vor, einen von den vier protestantischen Städte unterschriebenen Brief zu bewirken, in dem <placeName ref="l257">Konstanz</placeName> finanzielle Hilfe angeboten würde, damit die Stadt Truppen annehmen könne.</note> und allso alle sach verderbt werde.</s>
-					<s n="4" xml:lang="de">Ir köndt bessers nitt thain<note xml:id="fn8" type="footnote" ana="lex" n="8">tun.</note>, dann<note xml:id="fn9" type="footnote" ana="lex" n="9">denn.</note> vyl an der sach gelegen.</s>
-					<s n="5" xml:lang="de">Thaind meinem hertzlichen vertrauwen<note xml:id="fn10" type="footnote" ana="lex" n="10">Erwartung.</note> nach.</s>
-					<s n="6" xml:lang="de">Datum 12. martii.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Furgeliepter herr und bruͦder, ich hab euch uff gestert geschriben.<note xml:id="fn2" type="footnote" n="2">Mit <ref target="file12890">Nr. 2841</ref> vom 11. März.</note></s>
+					<s n="2" xml:lang="de"><lb xml:id="p1z2"/>Diß allain von meines <persName ref="p4082">vetters</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p4082">Konrad Zwick</persName>.</note> wegen: Der ist doch gar <lb xml:id="p1z3"/>betrupt usß ursachen, wie ir auss sinem schriben<note xml:id="fn4" type="footnote" n="4">Gemeint ist <persName ref="p4082">Zwicks</persName> Brief mit zwei Anhängen an <persName ref="p1419">Johannes Haab</persName> vom 11. März (Zürich StA, A 205.2, Nr. 10 mit 10 a und lob).</note> vernemmen.</s>
+					<s n="3" xml:lang="de"><lb xml:id="p1z4"/>Bitt euch um gottes willen, darob und daran<note xml:id="fn5" type="footnote" n="5">darob und daran: darauf bedacht; s. <bibl source="b590">SI</bibl> VII 1041.</note> ze sein, damitt <lb xml:id="p1z5"/>gwarsamlicher<note xml:id="fn6" type="footnote" n="6">umsichtiger. -Die <placeName ref="l257">Konstanzer</placeName> waren unzufrieden, dass die Zürcher auf der Tagsatzung zu <placeName ref="l21">Baden</placeName> vom 28. Februar bei ihrem Versuch, die <placeName ref="l862">Eidgenossen</placeName> zu einer Hilfe für <placeName ref="l257">Konstanz</placeName> zu verpflichten, sich darauf beschränkten, nur eine Belagerung oder einen Angriff der Stadt von eidgenössischem Gebiet aus (also nicht auch von deutscher Seite aus) nicht zuzulassen.</note> gehandelt und der guͦt fromm mann nitt <lb xml:id="p1z6"/>unlustig<note xml:id="fn7" type="footnote" n="7">unlustig werde: verzagt (angesichts eines ungenügenden Einsatzes der Zürcher für <placeName ref="l257">Konstanz</placeName>). - Im Entwurf Nr. 10b seines oben in Anm. 4 erwähnten Briefs schlug <persName ref="p4082">Zwick</persName> den Zürchern vor, einen von den vier protestantischen Städte unterschriebenen Brief zu bewirken, in dem <placeName ref="l257">Konstanz</placeName> finanzielle Hilfe angeboten würde, damit die Stadt Truppen annehmen könne.</note> und allso alle sach verderbt werde.</s>
+					<s n="4" xml:lang="de">Ir köndt <lb xml:id="p1z7"/>bessers nitt thain<note xml:id="fn8" type="footnote" ana="lex" n="8">tun.</note>, dann<note xml:id="fn9" type="footnote" ana="lex" n="9">denn.</note> vyl an der sach gelegen.</s>
+					<s n="5" xml:lang="de">Thaind <lb xml:id="p1z8"/>meinem hertzlichen vertrauwen<note xml:id="fn10" type="footnote" ana="lex" n="10">Erwartung.</note> nach.</s>
+					<s n="6" xml:lang="de">Datum 12. marti<lb xml:id="p1z9"/>i.</s>
 				</p>
 				<p>
 					<note type="signature">[Ohne Unterschrift.]</note>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite]</note>
-					<s n="7" xml:lang="de">An maister <persName ref="p495">Hainrich Bullinger.</persName></s>
+					<s n="7" xml:lang="de"><pb/><lb xml:id="p2z1"/>An maister <persName ref="p495">Hainrich <lb xml:id="p2z2"/>Bullinger.</persName></s>
 					<s n="8" xml:lang="de">Zuͤrich.</s>
 				</p>
 			</div>

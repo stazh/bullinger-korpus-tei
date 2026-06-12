@@ -80,37 +80,47 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5506!Autograph!00%20E_II_357__fol__523_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">5506/Autograph/00 E_II_357__fol__523_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="258,323 2377,354 2377,255 2134,294 2046,258 1992,303 1868,260 1616,283 1415,246 974,272 874,215 665,283 402,241 258,272">274,322 379,319 484,316 590,313 695,310 800,307 906,307 1011,307 1116,307 1222,309 1327,312 1432,310 1538,317 1643,318 1748,319 1854,320 1959,326 2064,325 2170,328 2275,328 2381,328</zone>
+			<zone xml:id="p1z2-0" points="238,416 430,444 546,396 657,433 727,388 781,424 838,382 1259,413 1429,382 1647,430 1715,391 2456,430 2456,334 2272,376 611,320 238,374">253,396 363,393 473,387 584,386 694,385 805,381 915,380 1026,379 1136,379 1247,382 1357,382 1467,385 1578,385 1688,385 1799,387 1909,390 2020,393 2130,396 2241,402 2351,405 2462,411</zone>
+			<zone xml:id="p1z3-0" points="207,521 1138,456 1559,509 1692,467 1953,481 2072,535 2230,484 2468,538 2465,447 2326,424 1913,444 1789,399 1627,436 1429,385 1259,430 996,393 342,456 204,422">223,480 335,473 447,465 560,462 672,459 785,454 897,453 1009,453 1122,450 1234,453 1347,453 1459,455 1571,456 1684,461 1796,462 1909,466 2021,471 2133,476 2246,481 2358,491 2471,495</zone>
+			<zone xml:id="p1z4-0" points="209,586 1030,541 1109,572 1248,535 2485,594 2485,529 2326,535 2239,484 2043,529 1905,473 1503,515 1044,461 821,518 569,473 209,535">226,567 339,558 452,549 565,544 678,540 791,537 904,534 1018,531 1131,531 1244,531 1357,531 1470,533 1583,534 1696,537 1810,540 1923,543 2036,547 2149,552 2262,559 2375,564 2489,576</zone>
+			<zone xml:id="p1z5-0" points="212,693 328,642 1075,608 1172,645 1265,603 1446,648 2083,625 2309,665 2309,594 2083,555 1862,586 1729,546 1401,580 1356,546 1305,580 1064,541 990,580 416,558 212,597">229,647 333,637 437,629 542,620 646,618 750,614 855,610 959,606 1063,602 1168,602 1272,602 1376,605 1481,606 1585,610 1689,611 1794,615 1898,617 2002,623 2107,624 2211,631 2316,638</zone>
+			<zone xml:id="p1z6-0" points="320,736 1149,685 1404,727 1808,693 2425,736 2425,693 2176,637 2117,682 1856,625 1540,662 1390,608 1223,659 730,634 320,679">334,713 438,707 543,698 648,695 753,689 858,686 963,683 1068,680 1173,680 1278,683 1383,681 1487,682 1592,686 1697,689 1802,691 1907,695 2012,699 2117,704 2222,711 2327,718 2432,728</zone>
+			<zone xml:id="p1z7-0" points="224,815 541,781 657,812 832,761 1053,790 1109,756 1310,815 1390,770 1723,809 1828,770 2060,821 2128,795 2224,849 2377,824 2377,747 2289,724 1981,756 1825,702 1404,727 1149,685 945,730 849,688 498,753 224,705">238,793 345,785 452,779 559,772 667,768 774,764 881,760 989,756 1096,755 1203,755 1311,752 1418,756 1525,758 1632,761 1740,764 1847,770 1954,773 2062,780 2169,787 2276,795 2384,799</zone>
+			<zone xml:id="p1z8-0" points="226,920 574,852 640,889 1163,835 1551,889 1749,846 2173,866 2250,903 2250,846 1941,784 1658,812 702,775 611,818 419,787 226,835">241,883 341,873 442,862 543,854 644,844 744,838 845,834 946,832 1047,829 1147,829 1248,829 1349,829 1450,835 1550,838 1651,838 1752,838 1853,841 1953,848 2054,854 2155,864 2256,871</zone>
+			<zone xml:id="p1z9-0" points="1452,1078 1554,1030 1653,1087 1859,1081 1922,1061 1922,988 1879,988 1856,965 1825,982 1800,962 1726,962 1690,940 1610,985 1565,965 1449,959">1465,1026 1490,1024 1516,1023 1542,1023 1567,1022 1593,1020 1619,1019 1645,1017 1670,1015 1696,1014 1722,1014 1747,1015 1773,1017 1799,1021 1825,1026 1850,1024 1876,1024 1902,1025 1928,1029</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5506!Autograph!01%20E_II_357__fol__523_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">5506/Autograph/01 E_II_357__fol__523_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1479,985 1556,999 1717,958 1771,977 1921,969 2034,922 2092,924 2093,884 2031,868 1779,891 1487,874">1486,958 1513,949 1558,946 1602,940 1647,934 1692,931 1737,928 1781,925 1826,919 1871,919 1916,916 1961,913 2005,913 2050,913 2095,910</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Remitto, quę nuper mittebas.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Non potui citius aut tutius; ago gratias maximas nihil praeterea addens; ita me insolens iste morbus, qui passim nunc pervagatur semel fregit, ut tantum non stupidum, imo vero prorsus stipitem fecerit; adeo non sum praesenti animi.</s>
-					<s n="4" xml:lang="la">Ora pro nobis.</s>
+					<s n="3" xml:lang="la">Non potui citius aut tutius; ago gratias maximas <lb xml:id="p1z2"/>nihil praeterea addens; ita me insolens iste morbus, qui passim nunc pervagatur semel <lb xml:id="p1z3"/>fregit, ut tantum non stupidum, imo vero prorsus stipitem fecerit; adeo non sum praesenti animi.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z4"/>Ora pro nobis.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Christus te tuamque domum incolumem servet; mea tota languet mirabili hoc malo, quod absque magnis doloribus etiam magni roboris corpora incredibiliter enervat, quamquam nondum pro meritis nos tractat optimus et benignus pater, cui sit gloria in secula.</s>
+					<s n="5" xml:lang="la">Christus te tuamque domum incolumem servet; mea tota languet mirabili hoc malo, <lb xml:id="p1z5"/>quod absque magnis doloribus etiam magni roboris corpora incredibiliter enervat, quamquam <lb xml:id="p1z6"/>nondum pro meritis nos tractat optimus et benignus pater, cui sit gloria in secula.</s>
 					<s n="6" xml:lang="la">Amen.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Hunc precemur, ut Christi ecclesias in <placeName ref="l832">Gallia</placeName> ex omnibus istis gravissimis malis emersisse propediem magna spiritus nostri gratulatione videamus.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z7"/>Hunc precemur, ut Christi ecclesias in <placeName ref="l832">Gallia</placeName> ex omnibus istis gravissimis malis emersisse <lb xml:id="p1z8"/>propediem magna spiritus nostri gratulatione videamus.</s>
 					<s n="8" xml:lang="de">12. novembris 1562.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">T[uus] <persName ref="p8055">Am[brosius] Bl[aurerus]</persName>.</s>
+					<s n="9" xml:lang="la">T[uus] <lb xml:id="p1z9"/><persName ref="p8055">Am[brosius] Bl[aurerus]</persName>.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la"><persName ref="p495">Bullingero</persName> suo.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Bullingero</persName> suo.</s>
 				</p>
 			</div>
 		</body>

@@ -85,58 +85,73 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12504!Autograph!00%20E_II_366__fol__205_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12504/Autograph/00 E_II_366__fol__205_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="452,333 698,301 909,342 1269,269 1845,333 2074,287 2137,330 2253,293 2358,324 2418,284 2766,350 2766,237 2610,258 2508,182 2372,232 2198,197 1998,237 1552,154 1431,235 1248,200 1043,246 837,194 721,237 527,185 452,211">468,304 583,294 698,290 813,285 928,278 1043,274 1158,268 1273,266 1388,265 1503,265 1618,265 1733,262 1848,266 1963,268 2078,274 2193,277 2308,280 2423,284 2538,289 2653,290 2769,292</zone>
+			<zone xml:id="p1z2-0" points="466,443 710,463 901,400 1185,423 1318,374 1828,426 1981,394 2106,432 2143,397 2725,423 2725,362 2647,339 2442,368 2256,293 2135,324 2082,287 1932,350 1118,284 886,359 756,327 666,374 466,353">483,405 595,398 708,394 820,390 933,385 1045,379 1158,376 1270,373 1383,370 1495,370 1608,373 1720,374 1833,379 1945,380 2058,382 2170,387 2283,390 2395,393 2508,396 2620,400 2733,393</zone>
+			<zone xml:id="p1z3-0" points="461,536 550,562 678,510 814,553 1422,478 1642,484 1732,536 1961,484 2456,501 2569,550 2696,504 2699,440 2245,397 1842,429 1758,385 1492,449 1318,374 996,449 463,472">477,516 588,508 699,501 811,495 922,489 1034,483 1145,477 1257,474 1368,471 1480,469 1591,468 1702,468 1814,468 1925,473 2037,477 2148,479 2260,480 2371,485 2483,483 2594,483 2706,483</zone>
+			<zone xml:id="p1z4-0" points="458,631 1011,582 1066,617 1353,582 1503,617 1642,576 1697,608 2187,576 2355,626 2410,585 2772,591 2772,518 2699,489 2560,556 2485,521 2404,556 2250,547 2149,484 1746,536 1521,481 1228,492 458,576">474,614 589,604 704,597 819,591 934,582 1049,577 1164,573 1279,570 1394,570 1509,567 1624,564 1739,564 1854,567 1969,567 2084,570 2199,573 2314,575 2429,578 2544,581 2659,581 2775,578</zone>
+			<zone xml:id="p1z5-0" points="461,744 765,695 1022,724 1072,684 1158,718 1269,672 1677,701 1865,663 2375,715 2502,675 2751,750 2751,652 2589,655 2413,588 2297,646 1859,605 1628,643 1535,602 1240,646 930,600 759,666 707,628 461,669">477,704 591,698 705,692 819,686 933,680 1047,677 1161,673 1276,668 1390,667 1504,662 1618,662 1732,662 1846,662 1960,665 2075,665 2189,668 2303,671 2417,672 2531,677 2645,680 2760,683</zone>
+			<zone xml:id="p1z6-0" points="463,828 721,794 944,828 1060,776 1347,831 1547,770 1712,843 1773,811 1856,846 1938,785 2082,837 2340,802 2479,840 2578,791 2792,831 2792,747 2682,712 2323,733 2253,681 2091,669 1712,739 1306,747 1103,686 463,747">480,805 595,797 711,790 827,784 943,778 1059,775 1174,772 1290,766 1406,767 1522,766 1638,766 1753,769 1869,772 1985,775 2101,776 2217,780 2332,782 2448,787 2564,790 2680,796 2796,805</zone>
+			<zone xml:id="p1z7-0" points="469,956 796,892 964,959 1095,907 1185,941 1431,883 1576,933 1848,878 2024,938 2247,886 2523,944 2740,901 2740,828 2607,802 2491,843 2340,799 1709,849 1535,779 1434,851 1031,791 469,886">486,904 604,903 723,893 842,886 961,883 1080,877 1199,874 1318,871 1437,871 1556,868 1674,868 1793,871 1912,872 2031,874 2150,880 2269,886 2388,886 2507,891 2626,892 2745,898</zone>
+			<zone xml:id="p1z8-0" points="472,1063 649,1014 741,1060 1303,982 1761,1043 1854,1002 2140,1025 2297,985 2471,1057 2688,1051 2688,950 2612,918 2331,956 2247,886 2100,947 1909,904 1799,959 1494,944 1390,895 1248,947 1086,907 964,962 872,921 808,959 600,921 472,991">489,1014 599,1004 709,1000 819,993 930,988 1040,984 1150,978 1260,978 1371,974 1481,975 1591,977 1701,977 1812,981 1922,979 2032,984 2142,984 2253,984 2363,987 2473,987 2583,987 2694,987</zone>
+			<zone xml:id="p1z9-0" points="481,1167 820,1106 1080,1158 1202,1098 1477,1086 1773,1130 1964,1106 2033,1150 2279,1103 2520,1164 2702,1115 2702,1075 2595,1051 2366,1077 2103,1005 1665,1048 1497,991 1193,999 1098,1063 982,1008 741,1063 565,1022 481,1054">498,1116 608,1110 719,1108 829,1101 940,1100 1050,1098 1161,1091 1271,1086 1382,1086 1492,1086 1603,1086 1714,1086 1824,1087 1935,1086 2045,1089 2156,1094 2266,1096 2377,1101 2487,1104 2598,1107 2709,1104</zone>
+			<zone xml:id="p1z10-0" points="472,1269 576,1298 669,1231 1170,1208 1315,1254 1442,1196 1538,1231 1790,1193 2007,1266 2207,1225 2372,1274 2462,1228 2676,1295 2676,1190 2581,1147 2123,1173 1964,1106 1677,1098 1199,1176 909,1130 472,1170">489,1226 598,1222 708,1214 817,1208 927,1208 1037,1204 1146,1200 1256,1196 1366,1194 1475,1193 1585,1193 1695,1193 1804,1193 1914,1196 2024,1199 2133,1199 2243,1202 2353,1209 2462,1214 2572,1220 2682,1214</zone>
+			<zone xml:id="p1z11-0" points="501,1373 1121,1326 1306,1390 1416,1347 1521,1410 1836,1338 1940,1393 2053,1373 2053,1263 1984,1248 1660,1300 1019,1208 501,1295">516,1337 593,1334 670,1331 747,1329 825,1328 902,1328 979,1325 1057,1325 1134,1326 1211,1328 1289,1329 1366,1331 1443,1328 1520,1328 1598,1331 1675,1327 1752,1325 1830,1324 1907,1322 1984,1318 2062,1319</zone>
+			<zone xml:id="p1z12-0" points="1497,1512 1538,1526 1593,1492 1645,1529 1694,1512 1784,1552 1912,1521 1955,1486 2080,1526 2085,1376 1891,1379 1793,1442 1657,1382 1500,1405">1513,1489 1541,1489 1570,1490 1599,1492 1628,1492 1657,1492 1685,1492 1714,1492 1743,1490 1772,1486 1801,1486 1829,1486 1858,1486 1887,1485 1916,1483 1945,1483 1973,1482 2002,1480 2031,1478 2060,1476 2089,1474</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12504!Autograph!01%20E_II_366__fol__205_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12504/Autograph/01 E_II_366__fol__205_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="851,867 877,884 1029,849 1111,887 1187,865 1191,773 1088,754 941,828 853,815">856,865 881,865 907,863 933,862 958,862 984,861 1010,859 1035,861 1061,861 1087,856 1112,853 1138,853 1164,853 1190,853</zone>
+			<zone xml:id="p2z2-0" points="1223,894 1355,858 1489,913 1601,872 1689,923 1764,913 1873,876 1874,780 1517,820 1436,765 1358,788 1224,749">1229,856 1261,855 1293,853 1326,853 1358,853 1390,853 1423,850 1455,850 1487,851 1520,853 1552,851 1584,850 1617,850 1649,850 1681,852 1714,854 1746,856 1778,854 1811,851 1843,850 1876,850</zone>
+			<zone xml:id="p2z3-0" points="1330,1224 1376,1231 1395,1214 1434,1232 1459,1219 1498,1230 1550,1204 1587,1214 1583,1080 1530,1096 1462,1068 1396,1115 1327,1112">1333,1163 1358,1161 1383,1160 1409,1160 1434,1162 1460,1167 1485,1168 1510,1166 1536,1166 1561,1166 1587,1166</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S. in domino.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S. in domino.</s>
 					<s n="2" xml:lang="la">En tandem catalogum librorum, quem toties a me petiisti<note xml:id="fn1" type="footnote" n="1">Siehe dazu <bibl source="b19">HBBW XVI</bibl> 205,1-3; 264,3f.</note>.</s>
-					<s n="3" xml:lang="la">In causa fuit, quod tam tarde miserim, nescio quid, partim dolores oculorum, partim negotia.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z2"/>In causa fuit, quod tam tarde miserim, nescio quid, partim dolores oculorum, <lb xml:id="p1z3"/>partim negotia.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="4" xml:lang="la">Mitto praeterea aromaticas species, sed dubius fui, an contritas vel integras volueris.</s>
-					<s n="5" xml:lang="la">Integras autem mitto, ne putes me hac in re tibi noluisse inservire.</s>
+					<s n="4" xml:lang="la">Mitto praeterea aromaticas species, sed dubius fui, an <lb xml:id="p1z4"/>contritas vel integras volueris.</s>
+					<s n="5" xml:lang="la">Integras autem mitto, ne putes me hac <lb xml:id="p1z5"/>in re tibi noluisse inservire.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="6" xml:lang="la">Novi nihil habeo omnino.</s>
-					<s n="7" xml:lang="la">Adeo omnia alto silentio aguntur apud principes et episcopos<note xml:id="fn2" type="footnote" n="2">Beim Reichstag zu <placeName ref="l410">Regensburg</placeName>.</note>.</s>
+					<s n="7" xml:lang="la">Adeo omnia <lb xml:id="p1z6"/>alto silentio aguntur apud principes et episcopos<note xml:id="fn2" type="footnote" n="2">Beim Reichstag zu <placeName ref="l410">Regensburg</placeName>.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="8" xml:lang="la"><persName ref="p8418">Myconius</persName> me rogavit, ut, si in tabellionem aliquem incidissem, illi<note xml:id="fna" type="footnote" n="a"><hi>Vor</hi> illi <hi>versehentlich wiederholtes</hi> ut.</note> narrarem.</s>
-					<s n="9" xml:lang="la">Admonui eum, qui dixit ipse velle scribere<note xml:id="fn3" type="footnote" n="3">Brief <ref target="file12499">Nr. 2452</ref> vom 2. Juni 1546.</note> et multa habere, quę digna sunt, ut bonis viris communicentur.</s>
+					<s n="8" xml:lang="la"><persName ref="p8418">Myconius</persName> me rogavit, ut, si <lb xml:id="p1z7"/>in tabellionem aliquem incidissem, illi<note xml:id="fna" type="footnote" n="a"><hi>Vor</hi> illi <hi>versehentlich wiederholtes</hi> ut.</note> narrarem.</s>
+					<s n="9" xml:lang="la">Admonui eum, qui dixit i<lb xml:id="p1z8"/>pse velle scribere<note xml:id="fn3" type="footnote" n="3">Brief <ref target="file12499">Nr. 2452</ref> vom 2. Juni 1546.</note> et multa habere, quę digna sunt, ut bonis viris communicentur.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="10" xml:lang="de">Unser burgerschafft haben Conversionem Pauli<note xml:id="fn4" type="footnote" n="4">Das erst einige Jahre später gedruckte Werk von <persName ref="p8184">Valentin <hi>Boltz</hi></persName>, Tragicocomoedia Sant Pauls bekerung. Gespilt von einer Burgerschafft der wytberuempten frystatt <placeName ref="l28">Basel</placeName> im jor M.D.XLVI [...], <placeName ref="l28">Basel</placeName>, <persName ref="p21153">Jakob Kundig</persName>, 1551 und 1552 <bibl source="https://gateway-bayern.de/VD16+B+6527">(VD16 B6527</bibl>; ZV2243); s. <ref target="file12506">Nr. 2459</ref>,74-80.</note> gespilt mit grossem possen<note xml:id="fn5" type="footnote" n="5">mit grossem possen: mit prunkvollem Spektakel; s. <bibl source="b229">Fischer</bibl> I 1313; <bibl source="b590">SI</bibl> IV 1733. - Zu dieser Aufführung s. auch <persName ref="p1278">Gast</persName>, <hi>Tagebuch</hi> 270f; <persName ref="p2614">Felix Platter</persName>, Tagebuch (Lebensbeschreibung) 1536-1567, hg. v. Valentin Lötscher, Basel/Stuttgart 1976, S. 82f.</note>.</s>
+					<s n="10" xml:lang="de"><lb xml:id="p1z9"/>Unser burgerschafft haben Conversionem Pauli<note xml:id="fn4" type="footnote" n="4">Das erst einige Jahre später gedruckte Werk von <persName ref="p8184">Valentin <hi>Boltz</hi></persName>, Tragicocomoedia Sant Pauls bekerung. Gespilt von einer Burgerschafft der wytberuempten frystatt <placeName ref="l28">Basel</placeName> im jor M.D.XLVI [...], <placeName ref="l28">Basel</placeName>, <persName ref="p21153">Jakob Kundig</persName>, 1551 und 1552 <bibl source="https://gateway-bayern.de/VD16+B+6527">(VD16 B6527</bibl>; ZV2243); s. <ref target="file12506">Nr. 2459</ref>,74-80.</note> gespilt mit grossem <lb xml:id="p1z10"/>possen<note xml:id="fn5" type="footnote" n="5">mit grossem possen: mit prunkvollem Spektakel; s. <bibl source="b229">Fischer</bibl> I 1313; <bibl source="b590">SI</bibl> IV 1733. - Zu dieser Aufführung s. auch <persName ref="p1278">Gast</persName>, <hi>Tagebuch</hi> 270f; <persName ref="p2614">Felix Platter</persName>, Tagebuch (Lebensbeschreibung) 1536-1567, hg. v. Valentin Lötscher, Basel/Stuttgart 1976, S. 82f.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="11" xml:lang="la" ana="farewell">Vale in domino.</s>
-					<s n="12" xml:lang="la" ana="salute">Salutabis mihi d. <persName ref="p8171">Theodorum</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p8171">Theodor Bibliander</persName>.</note> et <persName ref="p8011">Gvaltherum</persName> cum <persName ref="p8051">uxore</persName> tua<note xml:id="fn7" type="footnote" ana="bio" n="7"><persName ref="p8051">Anna Bullinger, geb. Adlischwyler</persName>.</note>.</s>
+					<s n="12" xml:lang="la" ana="salute">Salutabis mihi d. <persName ref="p8171">Theodorum</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p8171">Theodor Bibliander</persName>.</note> et <persName ref="p8011">Gvaltherum</persName> <lb xml:id="p1z11"/>cum <persName ref="p8051">uxore</persName> tua<note xml:id="fn7" type="footnote" ana="bio" n="7"><persName ref="p8051">Anna Bullinger, geb. Adlischwyler</persName>.</note>.</s>
 					<s n="13" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 7. iunii 1546.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la">Tuus <persName ref="p1278">Gastius</persName>.</s>
+					<s n="14" xml:lang="la"><lb xml:id="p1z12"/>Tuus <persName ref="p1278">Gastius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="15" xml:lang="la">D. <persName ref="p495">Bullingero</persName> suo.</s>
-					<s n="16" xml:lang="de"><placeName ref="l587">Zurich</placeName>.</s>
+					<s n="15" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <lb xml:id="p2z2"/><persName ref="p495">Bullingero</persName> suo.</s>
+					<s n="16" xml:lang="de"><lb xml:id="p2z3"/><placeName ref="l587">Zurich</placeName>.</s>
 				</p>
 			</div>
 		</body>

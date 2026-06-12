@@ -82,22 +82,31 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11207!Autograph!00%20E_II_336__fol__196_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11207/Autograph/00 E_II_336__fol__196_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="220,311 1221,349 1399,315 1598,353 1911,324 2002,360 2000,220 1499,291 1301,238 1043,240 950,282 828,211 542,249 366,195 220,215">232,298 320,292 409,292 498,295 587,295 675,295 764,301 853,301 942,304 1030,307 1119,307 1208,309 1297,310 1385,310 1474,310 1563,313 1652,313 1740,316 1829,319 1918,319 2007,319</zone>
+			<zone xml:id="p1z2-0" points="297,389 1459,373 1532,413 1652,375 1696,415 1825,380 2011,415 2011,360 1911,322 1217,349 297,309">310,360 395,360 480,363 565,360 651,360 736,363 821,363 907,363 992,363 1077,363 1163,363 1248,366 1333,363 1418,363 1504,366 1589,366 1674,369 1760,369 1845,372 1930,375 2016,378</zone>
+			<zone xml:id="p1z3-0" points="304,448 975,431 1243,475 1392,431 1785,431 1967,477 1967,415 1649,375 1523,408 1479,373 1312,404 648,371 595,408 382,380 304,411">316,435 398,429 481,426 564,423 647,422 729,420 812,420 895,420 978,420 1060,420 1143,420 1226,420 1309,421 1391,423 1474,423 1557,423 1640,425 1722,426 1805,429 1888,429 1971,432</zone>
+			<zone xml:id="p1z4-0" points="306,517 753,493 924,535 1061,486 1257,533 1361,491 1543,539 1605,495 1787,491 2005,551 2005,455 1789,433 1703,471 1399,431 1263,468 628,424 306,451">319,501 403,498 488,492 572,489 657,489 741,486 826,483 910,484 995,483 1079,483 1164,483 1249,483 1333,486 1418,486 1502,486 1587,487 1671,489 1756,489 1840,492 1925,492 2010,489</zone>
+			<zone xml:id="p1z5-0" points="311,599 697,564 748,608 864,568 950,604 1072,559 1445,619 1703,566 1840,619 1843,517 1649,539 1305,491 1252,533 1059,486 921,535 750,497 677,542 582,502 313,522">322,575 398,572 474,568 550,563 626,561 703,559 779,560 855,557 931,554 1007,554 1084,554 1160,554 1236,554 1312,551 1388,551 1465,551 1541,552 1617,554 1693,556 1769,557 1846,554</zone>
+			<zone xml:id="p1z6-0" points="1610,819 1654,810 1727,828 1772,815 1851,848 1891,835 1947,841 1945,697 1856,722 1836,715 1818,733 1780,724 1749,744 1716,733 1674,746 1623,719 1607,726">1622,787 1647,792 1672,796 1698,796 1723,796 1749,796 1774,796 1800,796 1825,798 1851,799 1876,799 1902,799 1927,799 1953,799</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11207!Autograph!01%20E_II_336__fol__196_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11207/Autograph/01 E_II_336__fol__196_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="390,567 938,549 1023,595 1072,558 1317,537 862,471 636,511 546,476 390,500">397,546 443,546 489,549 535,543 581,543 627,540 673,540 720,537 766,537 812,538 858,539 904,537 950,537 996,538 1043,539 1089,538 1135,540 1181,540 1227,542 1273,543 1320,546</zone>
+			<zone xml:id="p2z2-0" points="509,636 597,656 717,610 767,649 1000,646 1097,611 1309,632 1309,581 1268,574 1021,594 822,561 724,589 631,561 509,584">516,606 555,609 595,607 635,606 675,606 714,606 754,606 794,606 834,606 873,606 913,606 953,606 993,608 1032,607 1072,606 1112,606 1152,606 1191,606 1231,609 1271,606 1311,606</zone>
+			<zone xml:id="p2z3-0" points="549,690 609,699 679,676 723,700 870,711 922,677 1012,709 1126,707 1126,653 1052,627 1000,651 967,627 707,649 660,620 606,661 549,649">555,675 583,670 612,670 641,672 669,672 698,671 727,669 755,669 784,669 813,669 842,669 870,670 899,672 928,672 956,672 985,672 1014,671 1042,669 1071,669 1100,670 1129,672</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Hactenus missavit hic<note xml:id="fn1" type="footnote" ana="bio" n="1">Wahrscheinlich handelt es sich um <persName ref="p5939">Jörg Negelin</persName> von <placeName ref="l305">Maienfeld</placeName> (<placeName ref="l648">Kt. Graubünden</placeName>), um dessen Freilassung <placeName ref="l28">Basel</placeName> - auf Bitte der <placeName ref="l893">Drei Bünde</placeName> - das vorderösterreichische Regiment in <placeName ref="l1273">Ensisheim</placeName> am 17. August ersuchte (s. Basel StA, Missiven B 2, 183r.-v.). <persName ref="p5939">Negelin</persName> studierte 1509 in <placeName ref="l284">Leipzig</placeName>; anschließend ist er 1513-1516 als Kurat in <placeName ref="l1675">Grüsch</placeName> bzw. 1516 in <placeName ref="l1676">Küblis</placeName> nachweisbar (beide Kt. <placeName ref="l648">Graubünden</placeName>). 1518 war er Kaplan in <placeName ref="l1677">Berschis</placeName> bei <placeName ref="l1245">Flums</placeName> (<placeName ref="l762">Kt. St. Gallen</placeName>), 1520-1523 in <placeName ref="l1245">Flums</placeName> (s. Oskar <hi>Vasella,</hi> Untersuchungen über die Bildungsverhältnisse im Bistum Chur mit besonderer Berücksichtigung des Klerus. Vom Ausgang des 13. Jahrhunderts bis um 1530, Habil. Freiburg, in: 62. Jahresbericht der HistorischAntiquarischen Gesellschaft von Graubünden, Jahrgang 1932, Chur 1933, S. 160, <ref target="file10428">Nr. 393</ref>). Über seinen Aufenthalt in <placeName ref="l850">Vorderösterreich</placeName> ist sonst nichts bekannt.</note> et interim evangelium praedicavit, quamobrem captivus ductus ab <placeName ref="l1273">Ensheimensibus</placeName> aliquamdiu detentus est non sine timore grandis periculi.</s>
-					<s n="3" xml:lang="la">Tandem liberatus coactus est abiurare Lutheranismum.</s>
-					<s n="4" xml:lang="la">Tu igitur consolare et admone, ut perseveret in domino constanter et esse et permanere.</s>
-					<s n="5" xml:lang="la">Et si qua ratione alia poteris commodare, fac, ut soles.<pb type="edition" next="204"/></s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Hactenus missavit hic<note xml:id="fn1" type="footnote" ana="bio" n="1">Wahrscheinlich handelt es sich um <persName ref="p5939">Jörg Negelin</persName> von <placeName ref="l305">Maienfeld</placeName> (<placeName ref="l648">Kt. Graubünden</placeName>), um dessen Freilassung <placeName ref="l28">Basel</placeName> - auf Bitte der <placeName ref="l893">Drei Bünde</placeName> - das vorderösterreichische Regiment in <placeName ref="l1273">Ensisheim</placeName> am 17. August ersuchte (s. Basel StA, Missiven B 2, 183r.-v.). <persName ref="p5939">Negelin</persName> studierte 1509 in <placeName ref="l284">Leipzig</placeName>; anschließend ist er 1513-1516 als Kurat in <placeName ref="l1675">Grüsch</placeName> bzw. 1516 in <placeName ref="l1676">Küblis</placeName> nachweisbar (beide Kt. <placeName ref="l648">Graubünden</placeName>). 1518 war er Kaplan in <placeName ref="l1677">Berschis</placeName> bei <placeName ref="l1245">Flums</placeName> (<placeName ref="l762">Kt. St. Gallen</placeName>), 1520-1523 in <placeName ref="l1245">Flums</placeName> (s. Oskar <hi>Vasella,</hi> Untersuchungen über die Bildungsverhältnisse im Bistum Chur mit besonderer Berücksichtigung des Klerus. Vom Ausgang des 13. Jahrhunderts bis um 1530, Habil. Freiburg, in: 62. Jahresbericht der HistorischAntiquarischen Gesellschaft von Graubünden, Jahrgang 1932, Chur 1933, S. 160, <ref target="file10428">Nr. 393</ref>). Über seinen Aufenthalt in <placeName ref="l850">Vorderösterreich</placeName> ist sonst nichts bekannt.</note> et interim evangelium praedicavit, quamobrem captivus ductus <lb xml:id="p1z2"/>ab <placeName ref="l1273">Ensheimensibus</placeName> aliquamdiu detentus est non sine timore grandis periculi.</s>
+					<s n="3" xml:lang="la">Tandem liberatu<lb xml:id="p1z3"/>s coactus est abiurare Lutheranismum.</s>
+					<s n="4" xml:lang="la">Tu igitur consolare et admone, ut persevere<lb xml:id="p1z4"/>t in domino constanter et esse et permanere.</s>
+					<s n="5" xml:lang="la">Et si qua ratione alia poteris commodare, fac, ut <lb xml:id="p1z5"/>soles.<pb type="edition" next="204"/></s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la" ana="farewell">Vale cum tuis et me redamato.</s>
@@ -106,11 +115,11 @@
 					<s n="7" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 30. augusti anno 38.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Tuus <persName ref="p8418">Myconius</persName>.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z6"/>Tuus <persName ref="p8418">Myconius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName> doctissimo, <placeName ref="l803">Tigurinorum</placeName> antistiti primario, domino in Christo venerando suo.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName> doctissimo, <lb xml:id="p2z2"/><placeName ref="l803">Tigurinorum</placeName> antistiti primario, domino <lb xml:id="p2z3"/>in Christo venerando suo.</s>
 				</p>
 			</div>
 		</body>

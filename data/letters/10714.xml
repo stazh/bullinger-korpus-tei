@@ -80,35 +80,54 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10714!Autograph!00%20E_II_343__fol__84_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10714/Autograph/00 E_II_343__fol__84_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="333,284 568,232 1041,261 1193,224 1279,267 1469,218 1684,255 1853,204 2608,201 2588,120 2209,172 2094,120 1695,161 1414,118 1343,181 1179,192 1044,149 849,189 677,155 577,198 336,152">349,241 462,229 575,226 689,224 802,221 915,221 1029,218 1142,218 1255,218 1369,218 1482,215 1595,212 1709,207 1822,205 1935,201 2049,194 2162,194 2275,191 2389,188 2502,185 2616,188</zone>
+			<zone xml:id="p1z2-0" points="339,333 961,281 1139,327 1443,281 1833,313 2060,252 2220,290 2608,247 2608,207 2510,189 1770,215 1710,250 565,238 339,278">355,301 468,295 581,290 694,289 807,284 920,283 1033,282 1146,280 1259,278 1372,277 1485,274 1598,271 1711,268 1824,261 1937,256 2050,253 2163,247 2276,244 2389,241 2502,237 2616,232</zone>
+			<zone xml:id="p1z3-0" points="339,396 585,356 757,393 798,361 2456,333 2582,313 2585,247 339,339">355,370 466,362 578,358 690,352 801,349 913,346 1025,346 1136,343 1248,343 1360,338 1472,334 1583,331 1695,328 1807,325 1918,319 2030,313 2142,310 2253,306 2365,301 2477,295 2589,286</zone>
+			<zone xml:id="p1z4-0" points="344,456 2163,407 2215,367 2484,390 2556,304 2037,318 1902,364 347,390">361,430 471,423 581,418 691,414 801,413 911,409 1021,409 1131,406 1241,403 1351,400 1461,395 1571,391 1681,388 1791,386 1901,382 2011,379 2121,373 2231,368 2341,361 2451,355 2562,343</zone>
+			<zone xml:id="p1z5-0" points="347,531 694,482 809,525 978,479 1257,508 1374,468 1624,499 1833,450 1977,482 2545,442 2547,376 2229,367 1862,425 350,456">367,492 476,489 585,486 694,483 804,480 913,477 1022,472 1132,468 1241,465 1350,462 1460,457 1569,456 1678,449 1787,448 1897,442 2006,440 2115,435 2225,430 2334,424 2443,418 2553,406</zone>
+			<zone xml:id="p1z6-0" points="356,588 548,551 1262,574 1773,516 1982,548 2588,485 2568,396 2499,456 2338,427 2240,468 1368,470 1145,516 978,479 815,525 686,485 359,539">373,558 484,552 595,549 706,549 818,545 929,541 1040,536 1151,535 1263,531 1374,526 1485,522 1596,516 1708,513 1819,508 1930,504 2041,501 2153,495 2264,492 2375,486 2486,478 2598,468</zone>
+			<zone xml:id="p1z7-0" points="359,631 1127,608 1236,640 1302,602 1351,631 1500,585 1584,614 2157,559 2263,602 2415,559 2550,582 2656,568 2659,459 2410,525 2281,493 2106,536 1773,516 961,582 591,551 359,588">373,621 487,615 602,612 717,611 831,606 946,604 1061,600 1175,595 1290,588 1405,582 1520,579 1634,573 1749,570 1864,564 1978,561 2093,557 2208,553 2322,551 2437,543 2552,536 2667,531</zone>
+			<zone xml:id="p1z8-0" points="370,723 2619,625 2622,562 2513,551 2220,600 2097,562 1893,617 1833,577 1351,631 1302,602 1231,640 1010,608 892,648 376,634">388,689 500,681 612,677 724,676 836,672 948,666 1060,666 1172,660 1284,657 1396,654 1508,651 1620,646 1732,642 1844,637 1956,630 2068,627 2180,621 2292,613 2404,609 2516,604 2628,597</zone>
+			<zone xml:id="p1z9-0" points="367,783 2596,668 2596,625 2415,611 2186,660 1518,657 1414,694 1208,660 1024,709 895,677 370,723">385,758 495,752 606,748 717,740 828,736 939,731 1049,724 1160,719 1271,718 1382,714 1493,709 1603,705 1714,701 1825,696 1936,692 2047,686 2157,680 2268,673 2379,669 2490,663 2601,654</zone>
+			<zone xml:id="p1z10-0" points="382,832 932,832 1285,780 1581,809 1736,769 1799,800 1888,757 2094,783 2335,734 2424,763 2593,740 2596,697 2094,720 2048,683 1578,746 1546,714 1242,757 1010,726 382,786">397,815 507,808 617,803 727,799 837,792 947,788 1057,780 1167,779 1277,776 1387,773 1497,769 1607,764 1717,761 1827,756 1937,751 2047,743 2157,740 2267,732 2377,728 2487,720 2598,713</zone>
+			<zone xml:id="p1z11-0" points="379,901 548,878 637,915 849,852 1414,875 1632,826 1790,866 1893,818 2020,841 2160,803 2605,835 2608,746 2539,720 2086,786 1033,789 950,829 625,809 382,858">394,884 504,875 615,868 726,857 837,854 948,848 1058,844 1169,839 1280,838 1391,833 1502,829 1612,825 1723,823 1834,816 1945,812 2056,806 2166,802 2277,795 2388,791 2499,785 2610,782</zone>
+			<zone xml:id="p1z12-0" points="379,990 1535,898 1913,964 2040,875 2427,884 2456,829 2220,806 1859,861 1271,843 1199,878 772,863 637,915 382,901">394,952 497,943 601,939 704,932 808,925 911,918 1015,913 1118,907 1222,900 1325,897 1429,891 1532,889 1636,890 1739,885 1843,881 1946,880 2050,873 2153,866 2257,861 2360,854 2464,848</zone>
+			<zone xml:id="p1z13-0" points="1635,1064 1670,1076 1716,1044 1799,1070 1859,1036 1928,1047 1997,1018 2080,1033 2097,1056 2152,1041 2157,929 2123,932 2091,904 1968,924 1911,964 1870,935 1641,990">1651,1039 1676,1033 1701,1033 1727,1033 1752,1033 1778,1033 1803,1033 1828,1031 1854,1030 1879,1030 1905,1028 1930,1025 1955,1023 1981,1021 2006,1018 2032,1015 2057,1015 2082,1013 2108,1010 2133,1004 2159,997</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10714!Autograph!01%20E_II_343__fol__84_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10714/Autograph/01 E_II_343__fol__84_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="845,1324 986,1292 1102,1315 1240,1298 1315,1332 1439,1314 1428,1235 1291,1273 1179,1271 1084,1220 971,1252 845,1224">850,1292 879,1292 909,1289 938,1289 968,1288 997,1286 1027,1286 1056,1287 1086,1289 1115,1289 1145,1289 1175,1289 1204,1289 1234,1289 1263,1289 1293,1289 1322,1289 1352,1289 1381,1289 1411,1289 1441,1289</zone>
+			<zone xml:id="p2z2-0" points="848,1418 916,1385 1008,1412 1215,1363 1258,1386 1379,1376 1448,1409 1448,1316 1360,1343 1262,1309 1073,1346 979,1312 848,1345">853,1369 882,1365 912,1363 942,1363 972,1363 1002,1363 1032,1361 1061,1361 1091,1363 1121,1363 1151,1363 1181,1363 1211,1363 1241,1362 1270,1360 1300,1360 1330,1361 1360,1363 1390,1363 1420,1364 1450,1366</zone>
+			<zone xml:id="p2z3-0" points="863,1461 933,1448 1036,1479 1108,1449 1180,1480 1302,1442 1357,1471 1444,1471 1445,1412 1382,1420 1308,1381 1274,1404 1170,1386 864,1416">868,1450 898,1444 928,1440 959,1438 989,1436 1020,1435 1050,1435 1081,1435 1111,1435 1142,1435 1172,1435 1203,1433 1233,1432 1264,1432 1294,1432 1325,1433 1355,1435 1386,1439 1416,1439 1447,1435</zone>
+			<zone xml:id="p2z4-0" points="847,1542 959,1519 1030,1540 1108,1516 1199,1540 1257,1507 1372,1539 1427,1528 1429,1480 1368,1487 1259,1445 1180,1480 1114,1459 1021,1487 943,1469 849,1489">853,1521 881,1517 910,1515 939,1515 968,1513 997,1511 1025,1509 1054,1508 1083,1506 1112,1504 1141,1504 1169,1503 1198,1501 1227,1501 1256,1501 1285,1501 1313,1501 1342,1501 1371,1501 1400,1500 1429,1498</zone>
+			<zone xml:id="p2z5-0" points="856,1626 1046,1633 1225,1590 1462,1580 1463,1546 1393,1530 1173,1541 1112,1517 1059,1548 912,1547 859,1524">862,1584 892,1583 922,1581 952,1581 982,1580 1012,1578 1042,1576 1073,1574 1103,1572 1133,1572 1163,1572 1193,1572 1223,1570 1253,1569 1284,1569 1314,1569 1344,1568 1374,1566 1404,1566 1434,1568 1465,1572</zone>
+			<zone xml:id="p2z6-0" points="1021,1966 1086,1943 1112,1954 1188,1940 1213,1959 1276,1948 1343,1989 1344,1854 1301,1875 1209,1875 1170,1898 1077,1874 1022,1880">1026,1933 1052,1932 1079,1927 1105,1927 1132,1927 1158,1927 1185,1927 1212,1927 1238,1927 1265,1927 1291,1927 1318,1927 1345,1927</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Misi a nundinis nostris Martinianis per <persName ref="p8012">praefectum</persName> <placeName ref="l285">Lenczburgensem</placeName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8012">Sulpitius Haller</persName>.</note> literas<note xml:id="fn2" type="footnote" n="2">Oben <ref target="file10713">Nr. 675</ref>.</note> et duos coronatos<note xml:id="fn3" type="footnote" n="3">Kronen, vgl. <bibl source="b5">HBBW III</bibl> <ref target="file10280">[Nr. 249]</ref>, S. 164, Anm. 7.</note> iis inclusos, quę si receperis, intellexisti nimirum, quid factum velim cum adnotationibus per <placeName ref="l252">Clotenum</placeName> <persName ref="p5446">ecclesiasten</persName> scriptis<note xml:id="fn4" type="footnote" n="4"><persName ref="p495">Bullinger</persName> hatte <persName ref="p1391">Haller</persName> u. a. eine Teilnachschrift von <persName ref="p8171">Theodor Biblianders</persName> Genesisvorlesung von der Hand des 1534 verstorbenen Leutpriesters von <placeName ref="l252">Kloten</placeName> (<placeName ref="l803">Kt. Zürich</placeName>), <persName ref="p5446">Ulrich Kern</persName> (s. Pfarrerbuch 381), zum Kauf angeboten.</note>.</s>
-					<s n="3" xml:lang="la">Interim tamen, dum meam prae oculis pono valetudinem, video, etsi <persName ref="p8171">Theodorus</persName> excudi permittat, me interim aut illis egre cariturum aut diem hunc non victurum, qua prodeant in lucem.</s>
-					<s n="4" xml:lang="la">Cum igitur noster hic nuncius<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> <placeName ref="l473">S. Gallum</placeName> petierit, iussi, ut per urbem vestram transiret redeundo, quo Genesim imprimis aut alia, quae potest, secum adferat.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Misi a nundinis nostris Martinianis per <persName ref="p8012">praefectum</persName> <placeName ref="l285">Lenczburgensem</placeName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8012">Sulpitius Haller</persName>.</note> literas<note xml:id="fn2" type="footnote" n="2">Oben <ref target="file10713">Nr. 675</ref>.</note> et duos coronatos<note xml:id="fn3" type="footnote" n="3">Kronen, vgl. <bibl source="b5">HBBW III</bibl> <ref target="file10280">[Nr. 249]</ref>, S. 164, Anm. 7.</note> iis inclusos, <lb xml:id="p1z2"/>quę si receperis, intellexisti nimirum, quid factum velim cum adnotationibus per <placeName ref="l252">Clotenum</placeName> <persName ref="p5446">ecclesiasten</persName> scriptis<note xml:id="fn4" type="footnote" n="4"><persName ref="p495">Bullinger</persName> hatte <persName ref="p1391">Haller</persName> u. a. eine Teilnachschrift von <persName ref="p8171">Theodor Biblianders</persName> Genesisvorlesung von der Hand des 1534 verstorbenen Leutpriesters von <placeName ref="l252">Kloten</placeName> (<placeName ref="l803">Kt. Zürich</placeName>), <persName ref="p5446">Ulrich Kern</persName> (s. Pfarrerbuch 381), zum Kauf angeboten.</note>.</s>
+					<s n="3" xml:lang="la">Interim <lb xml:id="p1z3"/>tamen, dum meam prae oculis pono valetudinem, video, etsi <persName ref="p8171">Theodorus</persName> excudi permittat, me interim aut illis <lb xml:id="p1z4"/>egre cariturum aut diem hunc non victurum, qua prodeant in lucem.</s>
+					<s n="4" xml:lang="la">Cum igitur noster hic nuncius<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> <placeName ref="l473">S. Gallum</placeName> <lb xml:id="p1z5"/>petierit, iussi, ut per urbem vestram transiret redeundo, quo Genesim imprimis aut alia, quae potest, secum <lb xml:id="p1z6"/>adferat.</s>
 					<s n="5" xml:lang="la">Ubi vero <placeName ref="l285">Lenczburgum</placeName> miseris praefecto, accipiet illic nuncius, quantum ferre poterit.</s>
-					<s n="6" xml:lang="la">Coronatum proximo nuncio mittam.</s>
-					<s n="7" xml:lang="la">Quod si vidua<note xml:id="fn6" type="footnote" n="6">Siehe oben <ref target="file10713">Nr. 675</ref>, Anm. 4.</note> omnino eguerit, tantillum temporis vel tu accomodabis vel <persName ref="p8012">praefecto</persName> <placeName ref="l285">Lenczburgensi</placeName> dum scripseris, accipies.</s>
+					<s n="6" xml:lang="la">Coronatum proximo <lb xml:id="p1z7"/>nuncio mittam.</s>
+					<s n="7" xml:lang="la">Quod si vidua<note xml:id="fn6" type="footnote" n="6">Siehe oben <ref target="file10713">Nr. 675</ref>, Anm. 4.</note> omnino eguerit, tantillum temporis vel tu accomodabis vel <persName ref="p8012">praefecto</persName> <placeName ref="l285">Lenczburgensi</placeName> <lb xml:id="p1z8"/>dum scripseris, accipies.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la" ana="farewell">Interim vale.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Ah, mi frater, struma perpetuus mortis monitor fuit <persName ref="p5497">Francisco</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p5497">Franz Kolb</persName> war am 10. November 1535 gestorben, s. oben <ref target="file10713">Nr. 675</ref>, 26f; zu seinem Leiden vgl. oben <ref target="file10618">Nr. 580</ref>, 7.</note>, ut ipse sepe in ore habebat.</s>
-					<s n="10" xml:lang="la">Quid aliud monet herniosa illa struma mea (onus importabile, quod me non permittit quadruvium quantumvis domui meę vicinum petere,<pb type="edition" next="424"/> nisi interquiescam), quam ut in dies mortem mediter?</s>
+					<s n="9" xml:lang="la">Ah, mi frater, struma perpetuus mortis monitor fuit <persName ref="p5497">Francisco</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p5497">Franz Kolb</persName> war am 10. November 1535 gestorben, s. oben <ref target="file10713">Nr. 675</ref>, 26f; zu seinem Leiden vgl. oben <ref target="file10618">Nr. 580</ref>, 7.</note>, <lb xml:id="p1z9"/>ut ipse sepe in ore habebat.</s>
+					<s n="10" xml:lang="la">Quid aliud monet herniosa illa struma mea (onus importabile, quod me <lb xml:id="p1z10"/>non permittit quadruvium quantumvis domui meę vicinum petere,<pb type="edition" next="424"/> nisi interquiescam), quam ut in dies mortem me<lb xml:id="p1z11"/>diter?</s>
 					<s n="11" xml:lang="la">Interim tamen, dum vixero et vires dominus suppeditarit, officio fideliter incumbam.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" ana="farewell">Vale, charissime <persName ref="p495">Heinrice</persName>.</s>
+					<s n="12" xml:lang="la" ana="farewell">Vale, charissime <lb xml:id="p1z12"/><persName ref="p495">Heinrice</persName>.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la">Si quid amplius in Paulo tuo excusum<note xml:id="fn8" type="footnote" n="8"><persName ref="p1391">Haller</persName> hatte schon mehrfach der Hoffnung auf baldige Fortsetzung von <persName ref="p495">Bullingers</persName> Kommentarwerk zu den Paulusbriefen Ausdruck gegeben, vgl. zuletzt oben <ref target="file10697">Nr. 659</ref>, 19f.</note>, mittat typographus.</s>
@@ -117,12 +136,12 @@
 					<s n="14" xml:lang="la">13. novembris anno 35.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la">Tuus <persName ref="p1391">B. H.</persName></s>
+					<s n="15" xml:lang="la"><lb xml:id="p1z13"/>Tuus <persName ref="p1391">B. H.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="16" xml:lang="de">An den frummen, wolgelerten Meister <persName ref="p495">Heinrich Bullinger</persName>, predicanten ze <placeName ref="l587">Zürich</placeName>, sinem insunders geliepten herren und bruͦder.</s>
-					<s n="17" xml:lang="de">Gen <placeName ref="l587">Zürich</placeName>.</s>
+					<s n="16" xml:lang="de"><pb/><lb xml:id="p2z1"/>An den frummen, wolgel<lb xml:id="p2z2"/>erten Meister <persName ref="p495">Heinrich <lb xml:id="p2z3"/>Bullinger</persName>, predicanten ze <lb xml:id="p2z4"/><placeName ref="l587">Zürich</placeName>, sinem insunders ge<lb xml:id="p2z5"/>liepten herren und bruͦder.</s>
+					<s n="17" xml:lang="de"><lb xml:id="p2z6"/>Gen <placeName ref="l587">Zürich</placeName>.</s>
 				</p>
 			</div>
 		</body>

@@ -79,45 +79,58 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12195!Autograph!00%20E_II_366__fol__232_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12195/Autograph/00 E_II_366__fol__232_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="449,307 928,282 1016,315 1103,263 1465,260 1580,318 1785,279 2023,309 2206,252 2551,274 2551,227 2436,189 1642,230 1404,175 1163,235 1065,200 810,244 528,162 452,197">465,298 569,289 674,283 779,276 883,271 988,268 1093,265 1197,263 1302,259 1407,259 1512,257 1616,259 1721,258 1826,256 1930,256 2035,256 2140,254 2244,256 2349,255 2454,253 2559,256</zone>
+			<zone xml:id="p1z2-0" points="457,460 564,419 714,446 1194,397 1371,435 1716,378 1875,422 2045,397 2212,463 2352,408 2445,452 2571,413 2573,309 2289,296 2190,328 1941,285 1692,345 1270,290 1194,345 1122,307 720,359 460,337">471,420 576,407 681,402 787,399 892,392 998,388 1103,384 1209,380 1314,373 1420,375 1525,372 1630,372 1736,372 1841,372 1947,375 2052,378 2158,381 2263,381 2369,385 2474,387 2580,390</zone>
+			<zone xml:id="p1z3-0" points="457,591 739,589 892,534 1043,575 1180,517 1226,556 1330,526 1588,575 1881,520 2091,586 2245,550 2436,575 2540,564 2543,457 2445,498 2294,435 1840,487 1681,433 1582,479 1407,427 1267,474 739,433 531,506 460,482">471,551 580,539 689,532 799,527 908,521 1018,517 1127,512 1236,510 1346,507 1455,509 1565,507 1674,508 1784,510 1893,512 2002,513 2112,514 2221,518 2331,519 2440,522 2550,522</zone>
+			<zone xml:id="p1z4-0" points="452,712 821,690 942,736 1046,657 1363,684 1456,630 1689,673 1883,624 2154,690 2300,638 2423,682 2625,665 2628,575 2456,542 1916,591 1738,534 1541,580 1328,523 1150,594 1021,558 452,619">468,677 576,670 684,662 792,653 900,650 1008,643 1116,638 1224,630 1332,629 1440,626 1549,623 1657,622 1765,620 1873,623 1981,623 2089,626 2197,629 2305,629 2413,635 2521,634 2630,635</zone>
+			<zone xml:id="p1z5-0" points="463,838 966,797 1180,827 1257,772 1582,756 1760,764 1809,813 1911,747 2056,838 2179,827 2313,747 2480,816 2598,761 2601,668 2228,706 1856,668 1768,709 1426,665 1336,717 1215,668 939,734 827,695 621,764 465,742">477,808 583,799 689,792 796,785 902,781 1008,773 1115,764 1221,760 1327,757 1434,752 1540,750 1646,746 1753,745 1859,746 1965,745 2072,745 2178,745 2284,748 2391,746 2497,748 2604,748</zone>
+			<zone xml:id="p1z6-0" points="460,928 660,975 712,933 849,964 1040,901 1503,933 1593,876 1749,876 2280,947 2431,879 2609,923 2655,901 2658,772 2133,851 1788,794 1648,843 1500,769 1355,849 1251,816 1106,854 958,799 460,838">474,918 583,916 692,906 802,897 911,892 1021,887 1130,882 1240,876 1349,876 1459,874 1568,874 1677,874 1787,871 1896,871 2006,871 2115,874 2225,876 2334,878 2444,879 2553,884 2663,871</zone>
+			<zone xml:id="p1z7-0" points="526,1081 1434,1007 1935,1059 2072,1005 2133,1027 2160,975 1697,895 1174,923 1013,972 955,925 528,969">542,1058 623,1052 704,1043 785,1038 867,1035 948,1025 1029,1021 1111,1014 1192,1010 1273,1008 1355,1003 1436,999 1517,999 1598,996 1680,993 1761,990 1842,990 1924,990 2005,990 2086,990 2168,993</zone>
+			<zone xml:id="p1z8-0" points="1470,1100 1492,1109 1503,1103 1533,1122 1588,1095 1618,1103 1651,1095 1675,1117 1695,1120 1697,1032 1675,1027 1662,1035 1632,1024 1577,1062 1514,1059 1470,1073">1485,1094 1511,1094 1538,1093 1565,1091 1592,1091 1619,1090 1646,1089 1673,1088 1700,1088</zone>
+			<zone xml:id="p1z9-0" points="1500,1281 1552,1265 1678,1314 1818,1257 1982,1284 1987,1185 1949,1191 1897,1152 1864,1161 1826,1142 1757,1172 1705,1150 1508,1191">1519,1264 1545,1264 1571,1264 1597,1264 1624,1264 1650,1263 1676,1261 1702,1259 1729,1257 1755,1254 1781,1251 1808,1249 1834,1246 1860,1243 1886,1241 1913,1239 1939,1238 1965,1236 1992,1234</zone>
+			<zone xml:id="p1z10-0" points="1402,1317 1424,1314 1432,1328 1492,1336 1511,1111 1497,1109 1476,1125 1462,1120 1432,1139 1415,1139">1416,1294 1445,1292 1474,1289 1503,1287</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12195!Autograph!01%20E_II_366__fol__232_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12195/Autograph/01 E_II_366__fol__232_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1491,1109 1592,1090 1649,1113 1738,1093 1815,1108 1899,1076 1963,1090 2025,1061 2047,1071 2048,998 1991,986 1909,993 1836,1038 1758,1041 1674,1000 1493,1005">1497,1065 1524,1067 1552,1065 1579,1065 1607,1065 1635,1065 1662,1064 1690,1062 1717,1062 1745,1062 1773,1062 1800,1062 1828,1062 1855,1062 1883,1062 1911,1062 1938,1060 1966,1059 1993,1057 2021,1055 2049,1053</zone>
+			<zone xml:id="p2z2-0" points="1536,1213 1628,1228 1687,1202 1778,1189 1878,1203 1929,1176 1994,1175 1994,1149 1966,1142 1704,1151 1539,1107">1542,1181 1567,1178 1592,1175 1617,1175 1642,1175 1668,1173 1693,1173 1718,1174 1743,1174 1769,1172 1794,1172 1819,1172 1844,1170 1869,1169 1895,1169 1920,1168 1945,1166 1970,1166 1996,1166</zone>
+			<zone xml:id="p2z3-0" points="1586,1329 1755,1306 1895,1337 1946,1318 2074,1321 2079,1213 2004,1206 1949,1236 1768,1233 1732,1251 1591,1237">1593,1288 1618,1286 1644,1284 1669,1283 1695,1283 1720,1283 1746,1281 1772,1280 1797,1278 1823,1277 1848,1277 1874,1276 1899,1274 1925,1274 1951,1273 1976,1270 2002,1268 2027,1268 2053,1265 2079,1262</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Literas missas d. <persName ref="p8073">Gilberto</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8073">Gilbert Cousin</persName>.</note> per <persName ref="p4575">fratrem</persName><note xml:id="fn2" type="footnote" ana="bio" n="2">Ein Bruder von <persName ref="p8073">Gilbert Cousin</persName>, vielleicht <persName ref="p4575">Antoine</persName>; s. oben <ref target="file12186">Nr. 2139</ref>, Anm. 18.</note>, qui ad nos veniet futura hebdomada,<note xml:id="fn3" type="footnote" n="3">Diesen Besuch hatte <persName ref="p1278">Gast</persName> schon oben <ref target="file12186">Nr. 2139</ref>, 22f angekündigt.</note> transmittam et miror, cur nihil illi rescripseris,<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file12186">Nr. 2139</ref>, 23f.</note> quum avide tuas expectet literas.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Literas missas d. <persName ref="p8073">Gilberto</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8073">Gilbert Cousin</persName>.</note> per <persName ref="p4575">fratrem</persName><note xml:id="fn2" type="footnote" ana="bio" n="2">Ein Bruder von <persName ref="p8073">Gilbert Cousin</persName>, vielleicht <persName ref="p4575">Antoine</persName>; s. oben <ref target="file12186">Nr. 2139</ref>, Anm. 18.</note>, qui ad nos veniet <lb xml:id="p1z2"/>futura hebdomada,<note xml:id="fn3" type="footnote" n="3">Diesen Besuch hatte <persName ref="p1278">Gast</persName> schon oben <ref target="file12186">Nr. 2139</ref>, 22f angekündigt.</note> transmittam et miror, cur nihil illi rescripseris,<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file12186">Nr. 2139</ref>, 23f.</note> <lb xml:id="p1z3"/>quum avide tuas expectet literas.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la"><persName ref="p8312">Cochlaei</persName> en librum<note xml:id="fn5" type="footnote" n="5"><hi><persName ref="p8312">Cochläus</persName>,</hi> In primum <persName ref="p8417">Musculi</persName> Anticochlaeum replica brevis; s. oben <ref target="file12125">Nr. 2078</ref>, Anm. 4. <persName ref="p1278">Gast</persName> hatte <persName ref="p495">Bullinger</persName> angeboten, das Buch auf der <placeName ref="l157">Frankfurter</placeName> Frühjahrsmesse zu kaufen; s. oben <ref target="file12137">Nr. 2090</ref>, 13f. Später meinte <persName ref="p1278">Gast</persName>, dass <persName ref="p495">Bullinger</persName> das Buch, besonders den darin enthaltenen, gegen diesen gerichteten Epilog, vielleicht bereits habe, anderenfalls hätte er ihn geschickt; s. oben <ref target="file12186">Nr. 2139</ref>, 35-37.</note>.</s>
-					<s n="4" xml:lang="la">An dignus sit responsione, tu videris.</s>
-					<s n="5" xml:lang="la">Arrogans homo veritati se nunquam subiiciet, ut ex illius scriptis apparet.</s>
+					<s n="4" xml:lang="la">An dignus <lb xml:id="p1z4"/>sit responsione, tu videris.</s>
+					<s n="5" xml:lang="la">Arrogans homo veritati se nunquam subiiciet, <lb xml:id="p1z5"/>ut ex illius scriptis apparet.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la"><persName ref="p467">Buceranis</persName> Apologia vestra in <persName ref="p1974">Lutherum</persName> maxime displicet<note xml:id="fn6" type="footnote" n="6">Das "Warhaffte Bekanntnuß" der <placeName ref="l587">Zürcher</placeName> bzw. dessen lateinische Fassung, die "Orthodoxa <placeName ref="l587">Tigurinae</placeName> ecclesiae confessio"; s. oben Nr. 2061, Anm. 9. - Zur Unzufriedenheit <persName ref="p467">Bucers</persName> selbst s. <bibl>MBW-Reg</bibl> IV, Nr. 3854; <bibl source="b51">Blarer BW</bibl> II 358.</note>.</s>
+					<s n="6" xml:lang="la"><persName ref="p467">Buceranis</persName> Apologia vestra in <persName ref="p1974">Lutherum</persName> <lb xml:id="p1z6"/>maxime displicet<note xml:id="fn6" type="footnote" n="6">Das "Warhaffte Bekanntnuß" der <placeName ref="l587">Zürcher</placeName> bzw. dessen lateinische Fassung, die "Orthodoxa <placeName ref="l587">Tigurinae</placeName> ecclesiae confessio"; s. oben Nr. 2061, Anm. 9. - Zur Unzufriedenheit <persName ref="p467">Bucers</persName> selbst s. <bibl>MBW-Reg</bibl> IV, Nr. 3854; <bibl source="b51">Blarer BW</bibl> II 358.</note>.</s>
 					<s n="7" xml:lang="la" ana="farewell">Vale cum omnibus tuis.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 27. aprilis 1545.</s>
+					<s n="8" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 27. aprilis <lb xml:id="p1z7"/>1545.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" ana="salute">Salutem precor d. <persName ref="p8171">Theodoro</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p8171">Theodor Bibliander</persName>.</note>, optimo viro.</s>
+					<s n="9" xml:lang="la" ana="salute">Salutem precor d. <persName ref="p8171">Theodoro</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p8171">Theodor Bibliander</persName>.</note>, optimo viro<lb xml:id="p1z8"/>.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la">Tuus <persName ref="p1278">Gastius</persName>.</s>
 				</p>
 				<p>
 					<note>[Nachschrift auf der Rückseite neben der Adresse:]</note>
-					<s n="11" xml:lang="la">Vas cum literis et libris<note xml:id="fn8" type="footnote" n="8">Die Sendung enthielt wohl Bücher und Briefe von der <placeName ref="l157">Frankfurter</placeName> Frühjahrsmesse, darunter vielleicht den Katalog gedruckter Neuerscheinungen, den <persName ref="p1278">Gast</persName> am 22. April angekündigt hatte (oben <ref target="file12190">Nr. 2143</ref>, 121), und das oben Z. 4 genannte Buch von <persName ref="p8312">Cochläus</persName>.</note> statim recipietis.</s>
+					<s n="11" xml:lang="la">Vas <lb xml:id="p1z9"/>cum literis et libris<note xml:id="fn8" type="footnote" n="8">Die Sendung enthielt wohl Bücher und Briefe von der <placeName ref="l157">Frankfurter</placeName> Frühjahrsmesse, darunter vielleicht den Katalog gedruckter Neuerscheinungen, den <persName ref="p1278">Gast</persName> am 22. April angekündigt hatte (oben <ref target="file12190">Nr. 2143</ref>, 121), und das oben Z. 4 genannte Buch von <persName ref="p8312">Cochläus</persName>.</note> statim re<lb xml:id="p1z10"/>cipietis.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="12" xml:lang="la">D. <persName ref="p495">Heinricho Bullingero</persName><note xml:id="fna" type="footnote" n="a"><hi>In der Vorlage</hi> <persName ref="p495">Bullingo</persName>.</note>, pręceptori suo semper colendo.</s>
+					<s n="12" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Heinricho <lb xml:id="p2z2"/>Bullingero</persName><note xml:id="fna" type="footnote" n="a"><hi>In der Vorlage</hi> <persName ref="p495">Bullingo</persName>.</note>, pręceptori <lb xml:id="p2z3"/>suo semper colendo.</s>
 					<s n="13" xml:lang="de"><placeName ref="l587">Zurich</placeName>.</s>
 				</p>
 			</div>

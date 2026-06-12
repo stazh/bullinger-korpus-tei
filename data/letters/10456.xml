@@ -78,37 +78,54 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10456!Autograph!00%20E_II_360__S__275_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10456/Autograph/00 E_II_360__S__275_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="441,424 949,389 1073,435 1346,405 1590,449 2233,378 2348,449 2640,427 2640,246 2537,323 2309,342 2178,279 1852,320 1639,276 1423,345 1116,345 939,290 813,345 607,317 441,356">456,385 565,379 674,379 784,379 893,379 1003,379 1112,381 1221,380 1331,382 1440,382 1550,383 1659,382 1768,382 1878,379 1987,379 2097,376 2206,375 2315,372 2425,370 2534,367 2644,358</zone>
+			<zone xml:id="p1z2-0" points="432,539 2307,473 2550,528 2550,430 2331,454 2140,402 1759,460 1168,421 1037,471 796,421 673,460 432,424">447,498 552,491 657,492 763,492 868,491 973,492 1079,492 1184,491 1289,492 1395,489 1500,488 1605,486 1711,483 1816,480 1921,477 2027,476 2132,474 2237,474 2343,474 2448,477 2554,477</zone>
+			<zone xml:id="p1z3-0" points="435,638 722,607 873,643 960,605 1059,648 1308,588 1393,640 1606,605 1740,643 1967,566 2586,635 2588,509 2487,536 2323,473 1954,542 1519,495 1365,555 1182,520 438,564">450,599 557,593 664,593 771,593 879,592 986,593 1093,590 1201,587 1308,585 1415,583 1523,579 1630,576 1737,573 1844,570 1952,567 2059,567 2166,565 2274,567 2381,567 2488,570 2596,567</zone>
+			<zone xml:id="p1z4-0" points="441,717 837,695 919,728 1037,690 1188,758 1313,698 1398,728 1508,684 2104,703 2337,643 2452,676 2471,610 2000,580 1825,588 1746,640 1439,616 1393,654 1319,599 1048,654 725,607 441,635">456,695 557,689 658,689 759,688 860,689 961,689 1062,689 1163,687 1264,683 1365,680 1466,677 1567,674 1668,671 1769,665 1870,661 1971,654 2072,650 2173,649 2274,646 2375,644 2477,638</zone>
+			<zone xml:id="p1z5-0" points="438,810 1051,783 1352,829 1494,788 1587,829 1653,769 1768,799 1997,744 2465,769 2468,670 2416,662 2107,706 1800,673 1707,714 1666,679 1543,731 1311,698 1207,752 854,698 441,714">456,784 556,779 657,778 758,776 859,776 960,776 1061,776 1162,774 1263,773 1364,766 1465,766 1565,761 1666,755 1767,751 1868,745 1969,738 2070,734 2171,731 2272,727 2373,723 2474,719</zone>
+			<zone xml:id="p1z6-0" points="438,914 939,928 1554,862 1773,897 1910,840 2115,876 2523,829 2495,758 2293,796 2011,750 1740,802 1653,769 1587,829 1521,788 1406,840 1234,796 1130,837 1029,804 441,829">453,886 556,877 660,876 764,874 868,871 972,869 1076,868 1180,868 1284,865 1388,861 1492,856 1595,850 1699,846 1803,839 1907,832 2011,828 2115,824 2219,820 2323,817 2427,815 2531,817</zone>
+			<zone xml:id="p1z7-0" points="397,1012 2575,936 2553,848 2159,892 1910,843 1614,917 1554,876 1305,895 1204,947 867,911 542,960 402,911">414,981 522,978 630,978 738,976 846,973 955,971 1063,969 1171,964 1279,958 1387,955 1496,950 1604,943 1712,938 1820,934 1928,930 2037,922 2145,919 2253,917 2361,916 2469,913 2578,916</zone>
+			<zone xml:id="p1z8-0" points="427,1103 714,1059 897,1103 980,1056 1335,1092 1417,1048 1601,1097 2110,1018 2381,1051 2564,1007 2567,952 2298,933 2167,974 2085,939 1532,1001 1275,960 1196,1004 974,974 884,1018 430,1021">444,1068 550,1060 656,1058 762,1054 869,1053 975,1044 1081,1044 1187,1041 1294,1035 1400,1029 1506,1025 1612,1020 1719,1014 1825,1010 1931,1006 2037,1002 2144,998 2250,993 2356,990 2462,990 2569,993</zone>
+			<zone xml:id="p1z9-0" points="432,1171 695,1220 807,1166 1021,1218 1166,1168 1311,1209 1590,1160 1751,1196 2134,1108 2222,1155 2586,1130 2588,1037 1918,1029 1491,1116 1289,1078 952,1116 848,1075 432,1116">447,1167 554,1164 661,1161 768,1161 876,1161 983,1158 1090,1157 1198,1152 1305,1149 1412,1146 1520,1137 1627,1134 1734,1129 1841,1121 1949,1115 2056,1113 2163,1107 2271,1102 2378,1096 2485,1095 2593,1095</zone>
+			<zone xml:id="p1z10-0" points="424,1308 662,1267 925,1341 977,1292 1409,1322 1705,1250 1880,1322 1883,1166 1822,1157 1406,1212 624,1196 427,1245">438,1277 510,1270 583,1265 655,1261 728,1259 800,1256 873,1256 945,1253 1018,1251 1090,1250 1163,1250 1236,1250 1308,1250 1381,1245 1453,1244 1526,1241 1598,1240 1671,1238 1743,1235 1816,1234 1889,1229</zone>
+			<zone xml:id="p1z11-0" points="1513,1943 1661,2017 1803,1959 1844,1976 1973,1956 2055,2014 2142,1989 2145,1896 1989,1850 1945,1883 1836,1877 1792,1907 1688,1902 1625,1863 1568,1893 1513,1874">1528,1952 1559,1952 1590,1951 1621,1949 1652,1949 1683,1949 1714,1948 1746,1946 1777,1946 1808,1945 1839,1943 1870,1943 1901,1943 1932,1943 1964,1943 1995,1943 2026,1942 2057,1940 2088,1938 2119,1937 2151,1937</zone>
+			<zone xml:id="p1z12-0" points="1508,2241 1612,2266 1754,2181 1855,2192 1951,2142 2162,2132 2282,2167 2293,2052 2121,2028 1852,2069 1784,2041 1754,2060 1688,2017 1527,2039">1528,2187 1563,2191 1601,2185 1640,2180 1678,2176 1716,2171 1755,2166 1793,2161 1831,2156 1870,2152 1908,2149 1946,2144 1985,2140 2023,2137 2061,2134 2100,2130 2138,2126 2176,2124 2215,2121 2253,2119 2292,2122</zone>
+			<zone xml:id="p1z13-0" points="1434,2288 1447,2288 1450,2296 1472,2279 1483,2288 1499,2282 1527,2301 1541,2301 1562,2285 1582,2288 1584,2208 1565,2205 1543,2186 1530,2192 1478,2134 1458,2142 1439,2137">1450,2271 1477,2269 1504,2268 1532,2266 1559,2265 1587,2265</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10456!Autograph!01%20E_II_360__S__276_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10456/Autograph/01 E_II_360__S__276_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="336,1079 494,1098 938,1046 1095,1085 1163,1047 1310,1049 1311,982 1096,966 1024,1010 959,982 824,1007 442,910 337,954">343,1032 391,1038 440,1041 488,1041 537,1040 585,1038 634,1040 682,1039 731,1038 779,1040 828,1041 876,1038 925,1038 973,1038 1022,1035 1070,1035 1119,1034 1167,1032 1216,1032 1264,1032 1313,1032</zone>
+			<zone xml:id="p2z2-0" points="388,1152 859,1140 1089,1171 1188,1138 1304,1172 1284,1079 790,1120 611,1074 390,1109">396,1134 441,1133 487,1134 532,1132 578,1131 623,1131 669,1131 714,1131 760,1131 805,1131 851,1131 897,1128 942,1131 988,1131 1033,1128 1079,1128 1124,1128 1170,1125 1215,1125 1261,1125 1307,1125</zone>
+			<zone xml:id="p2z3-0" points="392,1231 581,1271 714,1222 1055,1304 1138,1239 1182,1242 1185,1145 1090,1171 807,1152 669,1187 393,1152">399,1220 438,1223 477,1223 517,1220 556,1217 596,1215 635,1214 674,1214 714,1214 753,1214 793,1214 832,1214 871,1214 911,1212 950,1211 990,1211 1029,1210 1068,1208 1108,1208 1147,1208 1187,1205</zone>
+			<zone xml:id="p2z4-0" points="397,1335 501,1358 572,1352 613,1327 660,1355 736,1357 765,1382 828,1355 830,1257 801,1247 663,1274 635,1257 552,1270 470,1240 399,1238">405,1313 430,1319 455,1317 480,1316 505,1316 530,1316 555,1316 580,1315 605,1313 631,1311 656,1310 681,1312 706,1313 731,1313 756,1312 781,1310 806,1309 832,1307</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Gnad und frid von got durch unsren heren Jesum.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Gnad und frid von got durch unsren heren Jesum.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de">Wolgelerter, ersamer, wiser, guinstiger, lieber her, nachdem ir mier neher mals<note xml:id="fn1" type="footnote" ana="lex" n="1">kürzlich (<bibl source="b590">SI</bibl> IV 636).</note> geschriben<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> von wegen meister <persName ref="p6985">Ruͦdolfs Webers</persName>, hab ich mich so fil bearbeit<note xml:id="fn3" type="footnote" n="3">mich so viel beschäftigt, angestrengt, mir Mühe gegeben (<bibl source="b590">SI</bibl> I 426f).</note> und nachfrag gehept, das mich dunckt, er werd gunst hie<note xml:id="fn4" type="footnote" n="4">hier in <placeName ref="l41">Bern</placeName> (<bibl source="b590">SI</bibl> II 857).</note> haben, wiewol ich in noch nüt versechnen<note xml:id="fn5" type="footnote" n="5">ein Amt, eine Arbeit anbieten (<bibl source="b590">SI</bibl> VII 570).</note> kan.</s>
-					<s n="3" xml:lang="de">So es im aber gelegen, sust har<note xml:id="fn6" type="footnote" ana="lex" n="6">hierher (<bibl source="b590">SI</bibl> II 1559f).</note> ze komen, wet<note xml:id="fn7" type="footnote" ana="lex" n="7">wollte.</note> ich so ernstlich in siner sach handlen, das erkundigen wurd, waran<note xml:id="fn8" type="footnote" ana="lex" n="8">woran (<bibl source="b260">Grimm</bibl> XIII 1983).</note> er wer, im och mins teils von üwer und sinen wegen beholfen sin<note xml:id="fn9" type="footnote" n="9">behilflich sein (vgl. <bibl source="b590">SI</bibl> II 1194f).</note><pb type="edition" next="271"/> mins vermügens.</s>
-					<s n="4" xml:lang="de">Das hab ich üch guͦter meinung uff üwer nechst schriben zuͦ entlicher<note xml:id="fn10" type="footnote" n="10">endgültiger, bestimmter (<bibl source="b590">SI</bibl> I 317f).</note> antwurt wellen schriben.</s>
+					<s n="2" xml:lang="de">Wolgelerter, ersamer, wiser, <lb xml:id="p1z2"/>guinstiger, lieber her, nachdem ir mier neher mals<note xml:id="fn1" type="footnote" ana="lex" n="1">kürzlich (<bibl source="b590">SI</bibl> IV 636).</note> geschriben<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> von wegen <lb xml:id="p1z3"/>meister <persName ref="p6985">Ruͦdolfs Webers</persName>, hab ich mich so fil bearbeit<note xml:id="fn3" type="footnote" n="3">mich so viel beschäftigt, angestrengt, mir Mühe gegeben (<bibl source="b590">SI</bibl> I 426f).</note> und nachfrag gehept, <lb xml:id="p1z4"/>das mich dunckt, er werd gunst hie<note xml:id="fn4" type="footnote" n="4">hier in <placeName ref="l41">Bern</placeName> (<bibl source="b590">SI</bibl> II 857).</note> haben, wiewol ich in noch nüt <lb xml:id="p1z5"/>versechnen<note xml:id="fn5" type="footnote" n="5">ein Amt, eine Arbeit anbieten (<bibl source="b590">SI</bibl> VII 570).</note> kan.</s>
+					<s n="3" xml:lang="de">So es im aber gelegen, sust har<note xml:id="fn6" type="footnote" ana="lex" n="6">hierher (<bibl source="b590">SI</bibl> II 1559f).</note> ze komen, wet<note xml:id="fn7" type="footnote" ana="lex" n="7">wollte.</note> ich so <lb xml:id="p1z6"/>ernstlich in siner sach handlen, das erkundigen wurd, waran<note xml:id="fn8" type="footnote" ana="lex" n="8">woran (<bibl source="b260">Grimm</bibl> XIII 1983).</note> er wer, <lb xml:id="p1z7"/>im och mins teils von üwer und sinen wegen beholfen sin<note xml:id="fn9" type="footnote" n="9">behilflich sein (vgl. <bibl source="b590">SI</bibl> II 1194f).</note><pb type="edition" next="271"/> mins vermügens.</s>
+					<s n="4" xml:lang="de"><lb xml:id="p1z8"/>Das hab ich üch guͦter meinung uff üwer nechst schriben zuͦ entlicher<note xml:id="fn10" type="footnote" n="10">endgültiger, bestimmter (<bibl source="b590">SI</bibl> I 317f).</note> antwurt <lb xml:id="p1z9"/>wellen schriben.</s>
 					<s n="5" xml:lang="de">Ich schrib im och gliche meinung<note xml:id="fn11" type="footnote" n="11">Ein Brief <persName ref="p2278">von Wattenwyls</persName> an <persName ref="p6985">Weber</persName> ist nicht erhalten.</note>.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de">Hiemit sig der frid gotz mit uns allen.</s>
+					<s n="6" xml:lang="de">Hiemit sig der frid <lb xml:id="p1z10"/>gotz mit uns allen.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="de">Zuͦ <placeName ref="l41">Bern</placeName> uff 28. tag julii 1534.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="de">Uwer guͦtwilliger <persName ref="p2278">H. Jacob von Watenwil</persName>.</s>
+					<s n="8" xml:lang="de"><lb xml:id="p1z11"/>Uwer guͦtwilliger <persName ref="p2278">H. <lb xml:id="p1z12"/>Jacob von Watenwil</persName><lb xml:id="p1z13"/>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="de">Dem wolgelerten, ersamen und wisen Meister <persName ref="p495">Heinrich Bollinger</persName>, minem guinstigen, lieben hern.</s>
+					<s n="9" xml:lang="de"><pb/><lb xml:id="p2z1"/>Dem wolgelerten, ersamen <lb xml:id="p2z2"/>und wisen Meister <persName ref="p495">Heinrich <lb xml:id="p2z3"/>Bollinger</persName>, minem guinstigen, <lb xml:id="p2z4"/>lieben hern.</s>
 				</p>
 			</div>
 		</body>

@@ -83,6 +83,18 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5120!Autograph!00%20E_II_359__fol__3061_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">5120/Autograph/00 E_II_359__fol__3061_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="620,131 919,95 1104,128 1192,60 1278,60 1340,110 1714,115 1770,151 2048,156 2098,118 2297,198 2568,151 2565,95 2440,131 2314,75 2126,70 2051,5 2011,40 1885,0 1584,40 1503,3 1323,38 1255,0 1044,35 901,3 617,58">635,104 731,98 828,95 925,92 1022,94 1119,93 1216,95 1313,98 1410,101 1507,104 1604,109 1700,113 1797,119 1894,122 1991,129 2088,135 2185,142 2282,148 2379,152 2476,149 2573,140</zone>
+			<zone xml:id="p1z2-0" points="617,176 1534,168 2583,269 2578,153 2538,148 2500,188 2297,198 1714,115 1599,148 1343,110 1280,60 1064,133 1007,95 615,123">629,161 732,155 835,155 938,155 1041,155 1144,158 1247,158 1350,161 1453,164 1556,168 1660,172 1763,179 1866,189 1969,196 2072,203 2175,213 2278,220 2381,227 2484,242 2588,250</zone>
+			<zone xml:id="p1z3-0" points="612,241 914,261 1072,218 1192,269 1413,238 1594,289 1754,248 2538,329 2535,281 2460,254 2262,261 2206,216 2061,254 1875,191 1503,163 1017,198 728,158 612,198">626,223 721,217 817,216 913,214 1009,216 1104,217 1200,220 1296,223 1392,229 1487,232 1583,236 1679,243 1775,248 1870,255 1966,262 2062,272 2158,281 2253,290 2349,297 2445,305 2541,310</zone>
+			<zone xml:id="p1z4-0" points="612,329 813,284 1072,326 1531,301 1724,354 1918,329 2028,376 2113,349 2415,399 2613,394 2610,326 2091,276 1925,306 1775,248 1574,286 1413,238 1192,269 1069,216 914,261 607,243">623,283 722,280 822,281 922,283 1022,286 1121,286 1221,289 1321,291 1421,295 1520,301 1620,307 1720,312 1820,321 1919,325 2019,337 2119,343 2219,353 2318,362 2418,369 2518,376 2618,384</zone>
+			<zone xml:id="p1z5-0" points="597,374 976,392 1089,351 1190,392 1782,384 2048,442 2369,424 2555,464 2550,382 2477,371 2038,379 1923,331 1875,366 1458,299 595,316">611,351 708,348 805,348 903,348 1000,351 1097,351 1195,354 1292,358 1389,361 1487,365 1584,368 1681,375 1779,378 1876,385 1973,391 2071,398 2168,407 2265,417 2363,423 2460,430 2558,441</zone>
+			<zone xml:id="p1z6-0" points="615,432 778,464 873,419 1079,464 1232,424 1426,462 1611,432 1817,487 2307,484 2465,535 2558,477 2367,424 2053,442 1544,371 612,376">629,420 725,414 822,414 919,414 1016,414 1112,417 1209,420 1306,420 1403,424 1499,427 1596,432 1693,435 1790,441 1886,447 1983,454 2080,463 2177,469 2273,476 2370,483 2467,495 2564,501</zone>
+			<zone xml:id="p1z7-0" points="615,507 1117,484 1202,527 1378,489 1471,555 1524,510 1631,557 1795,515 2583,587 2580,532 2420,535 2302,482 2154,510 2036,464 1908,497 1760,447 964,457 868,419 783,462 612,452">626,480 724,479 822,477 920,479 1018,480 1116,480 1214,483 1312,487 1410,491 1508,495 1607,501 1705,504 1803,509 1901,515 1999,520 2097,527 2195,533 2293,543 2391,551 2489,562 2588,575</zone>
+			<zone xml:id="p1z8-0" points="620,557 1017,590 1230,555 1293,600 1350,565 1810,577 2480,658 2553,648 2550,565 2369,592 2131,532 1920,567 1795,512 1642,552 1355,497 1207,532 1019,487 617,502">635,542 731,539 827,539 923,540 1019,544 1115,547 1211,551 1308,554 1404,561 1500,566 1596,569 1692,574 1788,577 1884,584 1981,587 2077,597 2173,602 2269,610 2365,616 2461,625 2558,638</zone>
+			<zone xml:id="p1z9-0" points="615,645 798,607 1180,663 1288,625 1418,675 1702,645 1797,678 1830,645 2513,733 2628,718 2623,612 2482,660 1689,572 1290,600 610,552">626,608 726,606 826,608 927,610 1027,614 1127,614 1228,618 1328,623 1428,626 1529,633 1629,636 1729,640 1830,644 1930,650 2030,657 2131,664 2231,671 2331,678 2432,687 2532,696 2633,706</zone>
+			<zone xml:id="p1z10-0" points="615,685 1205,733 1456,698 1539,743 1626,698 1782,705 1913,758 2317,743 2435,798 2500,763 2563,808 2620,786 2618,718 2482,735 2256,675 2156,710 1885,650 1426,673 1283,625 1175,660 801,607 612,648">626,671 726,672 826,674 926,677 1026,679 1126,682 1226,683 1326,688 1426,691 1526,697 1626,697 1726,702 1826,706 1926,709 2026,716 2126,723 2226,729 2326,739 2426,749 2526,757 2627,769</zone>
+			<zone xml:id="p1z11-0" points="615,783 843,743 1210,793 1391,753 1448,788 1795,776 1862,818 1943,778 2108,828 2558,831 2525,781 2176,735 1913,758 1782,705 1631,695 1561,740 1458,698 1375,733 612,688">626,742 722,739 819,742 916,742 1013,744 1109,745 1206,748 1303,748 1400,752 1496,755 1593,760 1690,763 1787,769 1883,775 1980,781 2077,785 2174,792 2270,798 2367,805 2464,814 2561,817</zone>
+			<zone xml:id="p1z12-0" points="617,851 851,826 956,881 1328,818 1654,873 2149,848 2357,916 2432,871 2553,891 2550,823 2098,826 1945,781 1862,816 1652,763 1207,791 843,743 615,783">632,808 728,805 824,808 920,811 1017,811 1113,811 1209,811 1306,814 1402,817 1498,820 1595,822 1691,826 1787,828 1883,835 1980,838 2076,842 2172,848 2269,854 2365,860 2461,864 2558,867</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5120!Autograph!01%20E_II_359__fol__3061_v_.tif/full/max/0/default.jpg" n="2">
@@ -94,14 +106,14 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Accedit unum, in quo mature tuum consilium habere cupio; utar autem illo bona fide, ut tibi metuere non debeas, etsi libere dederis.</s>
-					<s n="2" xml:lang="la">Sunt in hac dissipatione scholae <placeName ref="l280">Lausannensis</placeName> aliqui, qui cupiunt <persName ref="p4521">Castalionem</persName> illuc introduci.</s>
-					<s n="3" xml:lang="la">Ego vero cum de illo nihil sciam, hoc tamen scio eum apud <placeName ref="l167">Genevenses</placeName> in summo esse odio.</s>
-					<s n="4" xml:lang="la">Cum ergo ministri fere omnes cum <placeName ref="l167">Genevatibus</placeName> faciant, non habebit pacem inter illos, et ut sunt angusti pectoris, nolent una cum ipso servire ecclesiae.</s>
-					<s n="5" xml:lang="la">Itaque premor hinc quidem metu horum malorum, illinc vero necessitate scholae retinendę.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Accedit unum, in quo mature tuum consilium habere cupio; <lb xml:id="p1z2"/>utar autem illo bona fide, ut tibi metuere non debeas, etsi libere <lb xml:id="p1z3"/>dederis.</s>
+					<s n="2" xml:lang="la">Sunt in hac dissipatione scholae <placeName ref="l280">Lausannensis</placeName> aliqui, qui <lb xml:id="p1z4"/>cupiunt <persName ref="p4521">Castalionem</persName> illuc introduci.</s>
+					<s n="3" xml:lang="la">Ego vero cum de illo <lb xml:id="p1z5"/>nihil sciam, hoc tamen scio eum apud <placeName ref="l167">Genevenses</placeName> in summo esse odio.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z6"/>Cum ergo ministri fere omnes cum <placeName ref="l167">Genevatibus</placeName> faciant, non habebit pacem <lb xml:id="p1z7"/>inter illos, et ut sunt angusti pectoris, nolent una cum ipso <lb xml:id="p1z8"/>servire ecclesiae.</s>
+					<s n="5" xml:lang="la">Itaque premor hinc quidem metu horum malorum, <lb xml:id="p1z9"/>illinc vero necessitate scholae retinendę.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Vellem quidem <placeName ref="l822">Germanos</placeName> illic constitui professores, et haberemus nos quoque, quos illic constitueremus; sed nec nostris, qui sunt illic, cum <placeName ref="l832">Gallis</placeName> convenire potest, et necessitas functionis illius, cui praeficiendus nunc est aliquis...</s>
+					<s n="6" xml:lang="la">Vellem quidem <placeName ref="l822">Germanos</placeName> <lb xml:id="p1z10"/>illic constitui professores, et haberemus nos quoque, quos illic constitueremus; <lb xml:id="p1z11"/>sed nec nostris, qui sunt illic, cum <placeName ref="l832">Gallis</placeName> convenire potest, et <lb xml:id="p1z12"/>necessitas functionis illius, cui praeficiendus nunc est aliquis...</s>
 				</p>
 				<p>
 					<note>[Anf., Schluss etc. fehlen; Zettel von einem Brief (d. untere Teil) abgeschnitten].</note>

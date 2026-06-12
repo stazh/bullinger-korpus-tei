@@ -83,42 +83,59 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11443!Autograph!00%20E_II_343__fol__167_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11443/Autograph/00 E_II_343__fol__167_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="454,474 530,440 598,491 1282,454 2247,498 2418,481 2418,393 2179,430 1917,376 1742,427 1453,376 1343,430 1233,366 1053,425 808,354 684,379 452,327">468,444 565,438 663,441 760,441 858,442 956,444 1053,447 1151,447 1249,450 1346,452 1444,452 1542,453 1639,453 1737,453 1835,453 1932,453 2030,456 2128,456 2225,456 2323,456 2421,453</zone>
+			<zone xml:id="p1z2-0" points="569,547 2447,540 2430,471 569,488">582,513 675,510 768,510 862,512 955,513 1049,513 1142,513 1236,513 1329,513 1423,513 1516,516 1609,516 1703,516 1796,516 1890,516 1983,516 2077,516 2170,516 2264,519 2357,519 2451,516</zone>
+			<zone xml:id="p1z3-0" points="574,618 808,586 967,620 1578,594 1673,647 1785,596 2445,628 2423,535 2359,574 2264,532 1932,523 1832,564 1382,528 1189,564 1092,525 1004,562 574,557">588,585 681,582 774,582 867,582 960,582 1053,581 1146,582 1240,582 1333,582 1426,582 1519,582 1612,585 1705,585 1798,585 1892,588 1985,588 2078,589 2171,591 2264,594 2357,594 2451,591</zone>
+			<zone xml:id="p1z4-0" points="574,674 2455,679 2455,611 2357,645 1822,598 1776,633 1221,594 574,630">588,656 681,656 775,653 868,652 962,650 1056,650 1149,650 1243,650 1336,650 1430,650 1524,653 1617,653 1711,653 1804,656 1898,656 1992,659 2085,660 2179,662 2272,665 2366,667 2460,671</zone>
+			<zone xml:id="p1z5-0" points="574,777 757,730 860,779 1243,728 2445,765 2445,713 2391,696 2127,713 1800,662 1661,706 1426,706 1312,659 1045,703 574,677">588,731 681,731 774,728 867,727 960,724 1053,722 1146,722 1240,722 1333,722 1426,722 1519,724 1612,725 1705,728 1798,728 1892,728 1985,731 2078,734 2171,735 2264,737 2357,737 2451,734</zone>
+			<zone xml:id="p1z6-0" points="576,860 960,804 1045,843 1153,804 1321,838 1605,806 2047,860 2421,816 2399,757 1847,777 1700,733 1451,774 1023,735 879,779 777,740 576,782">591,812 682,806 774,803 866,800 958,799 1050,795 1141,794 1233,794 1325,794 1417,794 1509,797 1600,797 1692,800 1784,800 1876,803 1968,805 2059,806 2151,809 2243,809 2335,812 2427,812</zone>
+			<zone xml:id="p1z7-0" points="569,916 1116,882 1353,921 1536,879 1920,935 2460,909 2460,852 2342,828 2052,862 1785,811 1573,848 1155,808 1070,855 569,843">582,886 676,883 770,880 864,879 958,877 1053,874 1147,874 1241,874 1335,874 1429,874 1524,874 1618,874 1712,877 1806,881 1900,883 1995,883 2089,886 2183,886 2277,886 2371,889 2466,886</zone>
+			<zone xml:id="p1z8-0" points="562,982 1307,992 1500,953 2210,977 2298,1023 2352,977 2460,987 2460,906 2330,945 2154,904 2069,943 1983,906 1444,928 1392,892 1273,928 562,928">576,967 670,964 765,961 859,958 954,957 1048,955 1143,952 1237,950 1332,949 1426,949 1521,949 1615,952 1710,952 1804,955 1899,958 1993,960 2088,961 2182,967 2277,967 2371,970 2466,973</zone>
+			<zone xml:id="p1z9-0" points="572,1070 1280,1080 1712,1036 2008,1087 2135,1050 2228,1106 2450,1060 2423,987 2320,1021 2206,982 1842,1014 1573,967 572,1014">585,1045 678,1042 772,1041 865,1039 959,1039 1053,1038 1146,1036 1240,1036 1333,1035 1427,1033 1521,1033 1614,1033 1708,1033 1801,1036 1895,1034 1989,1039 2082,1042 2176,1045 2269,1047 2363,1052 2457,1059</zone>
+			<zone xml:id="p1z10-0" points="562,1168 1768,1116 1959,1158 2152,1128 2306,1197 2396,1146 2489,1170 2460,1067 2230,1109 1773,1045 1588,1094 1461,1053 1224,1097 1150,1053 945,1092 562,1077">576,1131 672,1125 768,1122 864,1119 960,1117 1056,1116 1152,1116 1248,1113 1344,1113 1440,1113 1536,1113 1632,1113 1728,1113 1824,1113 1920,1119 2016,1119 2112,1125 2208,1128 2304,1133 2400,1136 2496,1140</zone>
+			<zone xml:id="p1z11-0" points="557,1233 1106,1255 1417,1204 1754,1265 2008,1246 2010,1150 1798,1131 1563,1136 1497,1177 874,1133 689,1187 559,1168">570,1209 642,1209 714,1206 786,1206 859,1203 931,1203 1003,1202 1075,1203 1148,1202 1220,1200 1292,1200 1364,1200 1437,1197 1509,1195 1581,1194 1653,1194 1726,1194 1798,1194 1870,1194 1942,1194 2015,1194</zone>
+			<zone xml:id="p1z12-0" points="2025,1439 2079,1441 2166,1483 2206,1466 2284,1466 2333,1441 2389,1473 2416,1468 2416,1400 2301,1397 2257,1368 2235,1380 2152,1348 2103,1373 2042,1343 2022,1348">2039,1424 2064,1424 2089,1424 2115,1422 2140,1422 2166,1424 2191,1425 2217,1427 2242,1427 2268,1427 2293,1429 2319,1430 2344,1430 2370,1431 2395,1433 2421,1436</zone>
+			<zone xml:id="p1z13-0" points="2135,1563 2154,1566 2169,1549 2218,1558 2242,1544 2252,1553 2276,1546 2308,1573 2340,1566 2340,1490 2306,1480 2240,1483 2208,1466 2191,1480 2135,1473">2149,1525 2176,1525 2204,1525 2232,1525 2259,1526 2287,1528 2315,1528 2343,1525</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11443!Autograph!01%20E_II_343__fol__167_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11443/Autograph/01 E_II_343__fol__167_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="645,1521 1235,1521 1235,1461 1200,1449 1032,1457 982,1485 934,1460 645,1457">650,1503 679,1505 708,1505 738,1503 767,1505 796,1505 826,1503 855,1505 884,1506 914,1506 943,1506 972,1507 1002,1509 1031,1507 1060,1507 1090,1509 1119,1509 1148,1509 1178,1507 1207,1506 1237,1506</zone>
+			<zone xml:id="p2z2-0" points="692,1607 744,1610 776,1633 831,1601 927,1597 952,1614 1007,1594 1141,1625 1141,1557 983,1547 915,1569 882,1545 782,1557 737,1524 691,1521">697,1586 723,1582 749,1581 775,1582 801,1582 827,1580 854,1582 880,1583 906,1581 932,1581 958,1583 984,1583 1011,1583 1037,1583 1063,1583 1089,1583 1115,1582 1142,1580</zone>
+			<zone xml:id="p2z3-0" points="681,1702 896,1669 933,1702 998,1671 1160,1689 1196,1681 1197,1644 1111,1620 1014,1647 962,1613 840,1643 795,1618 682,1639">686,1676 711,1673 737,1671 762,1669 788,1668 814,1667 839,1667 865,1665 891,1664 916,1664 942,1664 968,1664 993,1664 1019,1664 1045,1662 1070,1661 1096,1661 1122,1661 1147,1661 1173,1664 1199,1667</zone>
+			<zone xml:id="p2z4-0" points="741,1777 933,1747 1084,1760 1100,1753 1102,1714 1032,1718 989,1701 942,1716 914,1708 883,1728 863,1710 825,1718 800,1699 744,1718">748,1753 773,1748 798,1744 824,1742 849,1741 874,1739 900,1739 925,1739 950,1737 976,1736 1001,1734 1026,1733 1052,1733 1077,1734 1103,1736</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Quę d. <persName ref="p1365">Grynęus</persName> scribit ex mandato<note xml:id="fn1" type="footnote" ana="bio" n="1"><placeName ref="l491">Straßburg</placeName> hatte <placeName ref="l28">Basel</placeName> am 26. Mai mitgeteilt, Langraf <persName ref="p3590">Philipp von Hessen</persName> wünsche die Entsendung von <persName ref="p8049">Vadian</persName>, <persName ref="p164">Amerbach</persName>, <persName ref="p1365">Grynäus</persName> und eventuell weiteren <placeName ref="l862">eidgenössischen</placeName> Gelehrten nach <placeName ref="l1779">Darmstadt</placeName> zur Vorbereitung auf das geplante Religionsgespräch (s. <bibl source="b62">ADRG</bibl> I/2 825- 827; <bibl source="b480">PC</bibl> III 59; eine Abschrift der <placeName ref="l491">Straßburger</placeName> Missive in Zürich StA, E I 1. 3a). Die Delegierten sollten sich auf den 3. oder 4. Juni in <placeName ref="l491">Straßburg</placeName> einfinden. <persName ref="p1365">Grynäus</persName> war offenbar (vom <placeName ref="l28">Basler</placeName> Rat?) beauftragt worden, die <placeName ref="l587">Zürcher</placeName> Theologen zur Teilnahme zu bewegen; sein Brief, der ohne Erfolg blieb, ist verloren. Vgl. auch das Schreiben <placeName ref="l28">Basels</placeName> an <placeName ref="l587">Zürich</placeName>, <placeName ref="l41">Bern</placeName>, <placeName ref="l441">Schaffhausen</placeName> und <placeName ref="l473">St. Gallen</placeName> vom 28. Mai (<bibl source="b62">ADRG</bibl> I/2 837).</note>, per dominum communemque causam oro, ut vos moveant.</s>
-					<s n="3" xml:lang="la">Mihi videtur rem cessuram in magnum evangelii et patrię nostrę commodum.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Quę d. <persName ref="p1365">Grynęus</persName> scribit ex mandato<note xml:id="fn1" type="footnote" ana="bio" n="1"><placeName ref="l491">Straßburg</placeName> hatte <placeName ref="l28">Basel</placeName> am 26. Mai mitgeteilt, Langraf <persName ref="p3590">Philipp von Hessen</persName> wünsche die Entsendung von <persName ref="p8049">Vadian</persName>, <persName ref="p164">Amerbach</persName>, <persName ref="p1365">Grynäus</persName> und eventuell weiteren <placeName ref="l862">eidgenössischen</placeName> Gelehrten nach <placeName ref="l1779">Darmstadt</placeName> zur Vorbereitung auf das geplante Religionsgespräch (s. <bibl source="b62">ADRG</bibl> I/2 825- 827; <bibl source="b480">PC</bibl> III 59; eine Abschrift der <placeName ref="l491">Straßburger</placeName> Missive in Zürich StA, E I 1. 3a). Die Delegierten sollten sich auf den 3. oder 4. Juni in <placeName ref="l491">Straßburg</placeName> einfinden. <persName ref="p1365">Grynäus</persName> war offenbar (vom <placeName ref="l28">Basler</placeName> Rat?) beauftragt worden, die <placeName ref="l587">Zürcher</placeName> Theologen zur Teilnahme zu bewegen; sein Brief, der ohne Erfolg blieb, ist verloren. Vgl. auch das Schreiben <placeName ref="l28">Basels</placeName> an <placeName ref="l587">Zürich</placeName>, <placeName ref="l41">Bern</placeName>, <placeName ref="l441">Schaffhausen</placeName> und <placeName ref="l473">St. Gallen</placeName> vom 28. Mai (<bibl source="b62">ADRG</bibl> I/2 837).</note>, per dominum communemque causam <lb xml:id="p1z2"/>oro, ut vos moveant.</s>
+					<s n="3" xml:lang="la">Mihi videtur rem cessuram in magnum evangelii <lb xml:id="p1z3"/>et patrię nostrę commodum.</s>
 					<s n="4" xml:lang="la">Non ignoro, quam odio habeatis conventus<note xml:id="fn2" type="footnote" n="2">Vgl. z. B. <bibl source="b9">HBBW VII</bibl> 99, 12-28; VIII 59f, 30-32; IX 60f, 14-17. 31-34.</note>.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Verum quis non cedat necessitati?</s>
-					<s n="6" xml:lang="la">Imo et utilitati, quę procul dubio ex praesentia nominis <placeName ref="l862">Helvetici</placeName> erit indicibilis.</s>
-					<s n="7" xml:lang="la">Et quantum erit in posterum, vos vel spectatores fuisse non solum negocii, sed etiam fratrum?</s>
-					<s n="8" xml:lang="la">Absentiam vestram non bene interpretaturi essent principes, civitates, docti.</s>
-					<s n="9" xml:lang="la">Adversaria vero pars ex eadem revera intumescet.</s>
-					<s n="10" xml:lang="la">Facite, per Christum oro, ne frustra vocemini, postquam consilium hoc non est <placeName ref="l491">Argentinensium</placeName> solum, sed et electoris<note xml:id="fn3" type="footnote" n="3">Kurfürst <persName ref="p19065">Johann Friedrich von Sachsen</persName>.</note> et <persName ref="p3590">Hessi</persName><note xml:id="fn4" type="footnote" n="4">Landgraf <persName ref="p3590">Philipp von Hessen</persName>.</note>.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z4"/>Verum quis non cedat necessitati?</s>
+					<s n="6" xml:lang="la">Imo et utilitati, quę procul <lb xml:id="p1z5"/>dubio ex praesentia nominis <placeName ref="l862">Helvetici</placeName> erit indicibilis.</s>
+					<s n="7" xml:lang="la">Et quantum erit in <lb xml:id="p1z6"/>posterum, vos vel spectatores fuisse non solum negocii, sed etiam fratrum?</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z7"/>Absentiam vestram non bene interpretaturi essent principes, civitates, docti.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z8"/>Adversaria vero pars ex eadem revera intumescet.</s>
+					<s n="10" xml:lang="la">Facite, per Christum <lb xml:id="p1z9"/>oro, ne frustra vocemini, postquam consilium hoc non est <placeName ref="l491">Argentinensium</placeName> solum, <lb xml:id="p1z10"/>sed et electoris<note xml:id="fn3" type="footnote" n="3">Kurfürst <persName ref="p19065">Johann Friedrich von Sachsen</persName>.</note> et <persName ref="p3590">Hessi</persName><note xml:id="fn4" type="footnote" n="4">Landgraf <persName ref="p3590">Philipp von Hessen</persName>.</note>.</s>
 					<s n="11" xml:lang="la">Dominus in consiliis sit vestris.</s>
 					<s n="12" xml:lang="la">Amen.</s>
-					<s n="13" xml:lang="la" ana="farewell">Valete in Christo.</s>
+					<s n="13" xml:lang="la" ana="farewell">Vale<lb xml:id="p1z11"/>te in Christo.</s>
 				</p>
 				<p>
 					<s n="14" xml:lang="la"><placeName ref="l28">Basileę</placeName>, raptim, 28. maii anno 1540.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> vester.</s>
+					<s n="15" xml:lang="la"><lb xml:id="p1z12"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z13"/>vester.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="16" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName> cęterisque fratribus, ministris Christi, suis in domino.</s>
+					<s n="16" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho <lb xml:id="p2z2"/>Bullingero</persName> cęterisque <lb xml:id="p2z3"/>fratribus, ministris Christi, <lb xml:id="p2z4"/>suis in domino.</s>
 					<s n="17" xml:lang="de"><placeName ref="l587">Z[ür]ich</placeName><note xml:id="fna" type="footnote" n="a"><hi>Teilweise auf das nicht mehr vorhandene Verschlußband geschrieben.</hi></note>.</s>
 				</p>
 			</div>
