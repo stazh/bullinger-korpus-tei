@@ -297,7 +297,8 @@
 <!-- marks the beginning of a topographic line (in HTR-letters) -->
 <!ELEMENT lb EMPTY>
 <!ATTLIST lb
-        xml:id CDATA #IMPLIED>
+        xml:id CDATA #IMPLIED
+        type CDATA #IMPLIED>
 <!-- PAGE-BREAKS (BEGINNINGS, 13354x) [https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html] -->
 <!-- marks the beginning of a new page in a paginated document -->
 <!ELEMENT pb (#PCDATA)>
