@@ -96,24 +96,43 @@ declare function gen:generate-localities-statistics($target as xs:string) {
     let $placeMap :=
         let $allRefs :=
             for $letter in $letters
-            let $id := $letter/tei:TEI/@xml:id/string()
 
             (: Collect places from <correspAction> only (to match case "place" in index.xql) :)
             let $correspRefs := distinct-values(
                 $letter/tei:TEI/tei:teiHeader//tei:correspDesc//tei:correspAction/tei:placeName/@ref/string()
             )
 
+            (: Collect places of dispatch from <correspAction type="sent">. :)
+            let $correspSentRefs := distinct-values(
+                $letter/tei:TEI/tei:teiHeader//tei:correspDesc//tei:correspAction[@type = 'sent']/tei:placeName/@ref/string()
+            )
+
+            (: Collect places of receipt from <correspAction type="received">. :)
+            let $correspReceivedRefs := distinct-values(
+                $letter/tei:TEI/tei:teiHeader//tei:correspDesc//tei:correspAction[@type = 'received']/tei:placeName/@ref/string()
+            )
+
             (: Collect places from whole document (to match case "mentioned-places" in index.xql) :)
-            let $mentionRefs := distinct-values(
+            let $correspAndMentionsRefs := distinct-values(
                 $letter/tei:TEI//tei:placeName/@ref/string()
+            )
+
+            (: Collect places mentioned outside correspondence actions. :)
+            let $mentionsRefs := distinct-values(
+                $letter/tei:TEI//tei:placeName[
+                    not(ancestor::tei:correspAction)
+                ]/@ref/string()
             )
             
             return
-                for $ref in distinct-values(($correspRefs, $mentionRefs))
+                for $ref in distinct-values(($correspRefs, $correspSentRefs, $correspReceivedRefs, $correspAndMentionsRefs, $mentionsRefs))
                 return map {
                     "place": $ref,
                     "corresp": if ($ref = $correspRefs) then 1 else 0,
-                    "mention": if ($ref = $mentionRefs) then 1 else 0
+                    "correspSent": if ($ref = $correspSentRefs) then 1 else 0,
+                    "correspReceived": if ($ref = $correspReceivedRefs) then 1 else 0,
+                    "correspAndMentions": if ($ref = $correspAndMentionsRefs) then 1 else 0,
+                    "mentions": if ($ref = $mentionsRefs) then 1 else 0
                 }
 
         return
@@ -125,11 +144,20 @@ declare function gen:generate-localities-statistics($target as xs:string) {
                     let $existing :=
                         if (map:contains($acc, $placeID))
                         then map:get($acc, $placeID)
-                        else map { "corresp": 0, "mentions": 0 }
+                        else map {
+                            "corresp": 0,
+                            "correspSent": 0,
+                            "correspReceived": 0,
+                            "correspAndMentions": 0,
+                            "mentions": 0
+                        }
 
                     let $updated := map {
                         "corresp": $existing?corresp + $entry?corresp,
-                        "mentions": $existing?mentions + $entry?mention
+                        "correspSent": $existing?correspSent + $entry?correspSent,
+                        "correspReceived": $existing?correspReceived + $entry?correspReceived,
+                        "correspAndMentions": $existing?correspAndMentions + $entry?correspAndMentions,
+                        "mentions": $existing?mentions + $entry?mentions
                     }
 
                     return map:put($acc, $placeID, $updated)
@@ -143,6 +171,9 @@ declare function gen:generate-localities-statistics($target as xs:string) {
         return
             <item xml:id="{$placeID}">
                 <measure type="corresp">{$entry?corresp}</measure>
+                <measure type="correspSent">{$entry?correspSent}</measure>
+                <measure type="correspReceived">{$entry?correspReceived}</measure>
+                <measure type="correspAndMentions">{$entry?correspAndMentions}</measure>
                 <measure type="mentions">{$entry?mentions}</measure>
             </item>
 
