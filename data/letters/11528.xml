@@ -81,47 +81,62 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11528!Autograph!00%20E_II_343__fol__225_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11528/Autograph/00 E_II_343__fol__225_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="452,275 2078,229 2047,158 1938,180 1810,130 1671,170 1401,142 1284,192 934,160 776,219 454,186">463,265 548,257 633,248 718,242 803,238 889,235 974,230 1059,227 1144,227 1229,227 1315,224 1400,225 1485,225 1570,224 1655,224 1741,222 1826,221 1911,220 1996,218 2082,212</zone>
+			<zone xml:id="p1z2-0" points="565,328 2011,296 2088,288 2090,231 1367,263 1294,231 1187,267 978,231 565,284">576,307 651,304 727,301 803,297 879,295 955,289 1031,288 1107,286 1183,283 1259,280 1335,280 1410,280 1486,280 1562,280 1638,280 1714,277 1790,277 1866,277 1942,277 2018,276 2094,274</zone>
+			<zone xml:id="p1z3-0" points="571,393 1223,350 1347,383 1430,344 2098,362 2098,304 1964,284 571,336">582,367 658,365 734,360 810,358 886,355 962,350 1038,346 1114,343 1190,343 1266,340 1342,340 1418,340 1494,340 1570,340 1646,340 1722,340 1798,339 1874,337 1950,337 2026,335 2103,337</zone>
+			<zone xml:id="p1z4-0" points="577,439 2116,407 2116,364 2017,354 1446,344 1345,383 579,397">588,427 664,421 741,417 817,415 894,413 971,409 1047,406 1124,403 1201,402 1277,400 1354,397 1431,397 1507,397 1584,397 1661,398 1737,397 1814,397 1891,397 1967,397 2044,396 2121,394</zone>
+			<zone xml:id="p1z5-0" points="581,526 873,474 1276,504 1377,462 2096,466 2078,403 583,439">594,483 669,481 744,478 819,474 895,469 970,469 1045,466 1121,463 1196,463 1271,460 1347,457 1422,457 1497,457 1572,454 1648,454 1723,454 1798,454 1874,454 1949,454 2024,454 2100,454</zone>
+			<zone xml:id="p1z6-0" points="589,577 747,553 842,591 936,535 1474,516 2025,535 2124,516 2126,474 1381,462 1286,502 1061,472 591,520">600,549 676,544 753,539 829,537 906,532 982,528 1059,525 1135,522 1212,519 1288,516 1365,516 1441,513 1518,513 1594,513 1671,510 1747,510 1824,510 1900,510 1977,510 2053,509 2130,507</zone>
+			<zone xml:id="p1z7-0" points="583,618 662,646 2112,577 2104,514 585,579">594,615 670,610 746,605 822,600 898,597 974,594 1050,590 1126,588 1202,583 1278,582 1354,579 1430,576 1506,576 1582,576 1658,573 1734,571 1810,570 1886,570 1962,568 2038,568 2115,570</zone>
+			<zone xml:id="p1z8-0" points="591,691 2100,662 2102,579 593,628">603,681 678,674 753,669 828,666 903,662 978,660 1053,657 1128,654 1203,654 1278,651 1353,648 1428,648 1503,646 1578,644 1653,642 1728,640 1803,639 1878,639 1953,639 2028,638 2103,636</zone>
+			<zone xml:id="p1z9-0" points="597,759 2116,717 2142,656 599,697">609,743 685,739 762,734 839,728 916,725 993,722 1069,717 1146,715 1223,710 1300,708 1377,705 1453,702 1530,701 1607,699 1684,697 1761,696 1837,699 1914,696 1991,696 2068,696 2145,699</zone>
+			<zone xml:id="p1z10-0" points="595,818 1663,770 1859,808 1997,761 2061,804 2128,776 2130,725 1424,707 1278,755 1241,725 792,780 597,759">606,806 682,800 758,796 835,791 911,788 987,785 1064,782 1140,779 1216,776 1293,773 1369,770 1445,767 1522,763 1598,761 1674,761 1751,760 1827,761 1903,761 1980,761 2056,761 2133,761</zone>
+			<zone xml:id="p1z11-0" points="583,903 840,901 1049,857 1177,889 1405,855 1405,812 1292,782 1120,824 976,790 915,830 587,820">597,872 637,875 678,873 718,872 759,871 800,868 840,865 881,862 922,860 962,857 1003,857 1044,852 1084,851 1125,851 1166,849 1206,847 1247,845 1288,845 1328,844 1369,842 1410,842</zone>
+			<zone xml:id="p1z12-0" points="1758,984 1901,996 1944,966 2021,1012 2110,1000 2118,867 2074,877 2043,850 1999,853 1952,830 1867,826 1802,853 1766,838">1771,953 1797,951 1824,946 1851,941 1877,939 1904,937 1931,935 1957,935 1984,935 2011,933 2037,932 2064,932 2091,932 2118,932</zone>
+			<zone xml:id="p1z13-0" points="1825,1049 1859,1041 1881,1049 1897,1041 1901,1047 1936,1051 1958,1067 1972,1055 1984,1055 1989,968 1968,976 1942,966 1901,996 1893,988 1875,998 1865,986 1829,986">1837,1021 1862,1018 1887,1016 1913,1014 1938,1012 1963,1013 1989,1015</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11528!Autograph!01%20E_II_343__fol__225_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11528/Autograph/01 E_II_343__fol__225_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="933,749 1602,734 1593,653 934,675">938,737 971,734 1004,730 1037,728 1071,728 1104,728 1137,726 1171,725 1204,725 1237,725 1271,725 1304,725 1337,725 1370,725 1404,725 1437,725 1470,725 1504,725 1537,725 1570,725 1604,723</zone>
+			<zone xml:id="p2z2-0" points="1015,864 1063,879 1108,865 1129,880 1164,881 1205,857 1274,860 1276,791 1259,792 1207,754 1156,785 1124,774 1017,778">1021,806 1046,808 1072,808 1098,806 1123,806 1149,806 1175,804 1200,803 1226,803 1252,803 1278,803</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Accipe, quę nudiustertius ad nos missa sunt de comitiis,<note xml:id="fn1" type="footnote" n="1">Laut einer Bemerkung von <persName ref="p1365">Grynäus</persName> (s. oben <ref target="file11527">Nr. 1484</ref>, 26-28) handelte es sich um einen Bericht <persName ref="p467">Bucers</persName> aus <placeName ref="l410">Regensburg</placeName>. Ein Auszug aus einem Brief <persName ref="p467">Bucers</persName> vom 15. März findet sich in Zürich StA, E II 350, 453f. 459f (von unbekannter Hand, von <persName ref="p8418">Myconius</persName> an <persName ref="p495">Bullinger</persName> adressiert; der gleiche Auszug als Teil einer von <persName ref="p8418">Myconius</persName> eigenhändig geschriebenen Zusammenstellung von Nachrichten aus <placeName ref="l410">Regensburg</placeName> auch in Zürich ZB, Ms F 80, 119r.-120r.). Darin eingefaltet war auch der Brief <persName ref="p315">Bedrots</persName> an <persName ref="p1365">Grynäus</persName> vom 21. März mit Nachrichten aus einem Schreiben <persName ref="p540">Calvins</persName> vom 11. März (Zürich StA, E II 350, 425f, von einer zweiten unbekannten Hand; Teildruck [nach dieser Vorlage] in Corr. des réformateurs VII 48-51, <ref target="file10997">Nr. 955</ref>, sowie [nach der erwähnten Nachrichtensammlung von <persName ref="p8418">Myconius</persName>] in <bibl>CO</bibl> XI 171-173, <ref target="file10319">Nr. 288</ref>).</note> et divina.</s>
-					<s n="3" xml:lang="la">Equidem spero dominum conservaturum verbum suum; at de reformatione nihil fiet.<pb type="edition" next="119"/></s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Accipe, quę nudiustertius ad nos missa sunt de comitiis,<note xml:id="fn1" type="footnote" n="1">Laut einer Bemerkung von <persName ref="p1365">Grynäus</persName> (s. oben <ref target="file11527">Nr. 1484</ref>, 26-28) handelte es sich um einen Bericht <persName ref="p467">Bucers</persName> aus <placeName ref="l410">Regensburg</placeName>. Ein Auszug aus einem Brief <persName ref="p467">Bucers</persName> vom 15. März findet sich in Zürich StA, E II 350, 453f. 459f (von unbekannter Hand, von <persName ref="p8418">Myconius</persName> an <persName ref="p495">Bullinger</persName> adressiert; der gleiche Auszug als Teil einer von <persName ref="p8418">Myconius</persName> eigenhändig geschriebenen Zusammenstellung von Nachrichten aus <placeName ref="l410">Regensburg</placeName> auch in Zürich ZB, Ms F 80, 119r.-120r.). Darin eingefaltet war auch der Brief <persName ref="p315">Bedrots</persName> an <persName ref="p1365">Grynäus</persName> vom 21. März mit Nachrichten aus einem Schreiben <persName ref="p540">Calvins</persName> vom 11. März (Zürich StA, E II 350, 425f, von einer zweiten unbekannten Hand; Teildruck [nach dieser Vorlage] in Corr. des réformateurs VII 48-51, <ref target="file10997">Nr. 955</ref>, sowie [nach der erwähnten Nachrichtensammlung von <persName ref="p8418">Myconius</persName>] in <bibl>CO</bibl> XI 171-173, <ref target="file10319">Nr. 288</ref>).</note> et di<lb xml:id="p1z2"/>vina.</s>
+					<s n="3" xml:lang="la">Equidem spero dominum conservaturum verbum suum; at de reformation<lb xml:id="p1z3"/>e nihil fiet.<pb type="edition" next="119"/></s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la">Dolet illud supra modum, quod religio ubique deficit.</s>
-					<s n="5" xml:lang="la">Novi quid fiat apud nos: In peius labimur in dies magis ac magis.</s>
-					<s n="6" xml:lang="la">Aegre ferunt boni viri, quod duobus istis<note xml:id="fn2" type="footnote" n="2">Gemeint sind wohl <persName ref="p8383">Christian Wirth</persName> und <persName ref="p6755">Konrad Suter</persName>; vgl. oben <ref target="file11518">Nr. 1475</ref>, 7-15 mit Anm. 5.</note> tam anxie favetis, cum hic agant pessime.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z4"/>Novi quid fiat apud nos: In peius labimur in dies magis ac magis.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z5"/>Aegre ferunt boni viri, quod duobus istis<note xml:id="fn2" type="footnote" n="2">Gemeint sind wohl <persName ref="p8383">Christian Wirth</persName> und <persName ref="p6755">Konrad Suter</persName>; vgl. oben <ref target="file11518">Nr. 1475</ref>, 7-15 mit Anm. 5.</note> tam anxie favetis, cum <lb xml:id="p1z6"/>hic agant pessime.</s>
 					<s n="7" xml:lang="la">Sed vos videbitis.</s>
-					<s n="8" xml:lang="la"><persName ref="p2811">Christophorus</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p2811">Christoph Rotacher</persName>.</note> tantum non pararat abitum ex verbis <persName ref="p8171">Theodori</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p8171">Theodor Bibliander</persName>. - <persName ref="p2811">Rotacher</persName> fühlte sich ungerecht behandelt (vgl. oben <ref target="file11518">Nr. 1475</ref>, 9-12), entsprechende Äußerungen <persName ref="p8171">Biblianders</persName> sind jedoch nicht überliefert.</note>, sed falsus est; nescio, quid causę sit.</s>
-					<s n="9" xml:lang="la">Nos fecimus hodie iterum baccalaureos<note xml:id="fn5" type="footnote" n="5"><persName ref="p5887">Johann Heinrich Munzinger</persName>, <persName ref="p6420">Wiprecht Schießer (Sagittarius)</persName> und <persName ref="p4473">Philipp Bächi</persName>; s. <placeName ref="l28">Basel</placeName>, Matrikel II 4, Nr. 15; 10, Nr. 27; 17, Nr. 20 (als Datum ist in der Matrikel der 1. April genannt).</note>.</s>
+					<s n="8" xml:lang="la"><persName ref="p2811">Christophorus</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p2811">Christoph Rotacher</persName>.</note> tantum non pararat <lb xml:id="p1z7"/>abitum ex verbis <persName ref="p8171">Theodori</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p8171">Theodor Bibliander</persName>. - <persName ref="p2811">Rotacher</persName> fühlte sich ungerecht behandelt (vgl. oben <ref target="file11518">Nr. 1475</ref>, 9-12), entsprechende Äußerungen <persName ref="p8171">Biblianders</persName> sind jedoch nicht überliefert.</note>, sed falsus est; nescio, quid causę sit.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z8"/>Nos fecimus hodie iterum baccalaureos<note xml:id="fn5" type="footnote" n="5"><persName ref="p5887">Johann Heinrich Munzinger</persName>, <persName ref="p6420">Wiprecht Schießer (Sagittarius)</persName> und <persName ref="p4473">Philipp Bächi</persName>; s. <placeName ref="l28">Basel</placeName>, Matrikel II 4, Nr. 15; 10, Nr. 27; 17, Nr. 20 (als Datum ist in der Matrikel der 1. April genannt).</note>.</s>
 					<s n="10" xml:lang="la">Gaudebis nobiscum.</s>
-					<s n="11" xml:lang="la">Vix vivo prę miseria, quam quotidie graviorem intueor.</s>
+					<s n="11" xml:lang="la">Vix <lb xml:id="p1z9"/>vivo prę miseria, quam quotidie graviorem intueor.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la">Insanimus.</s>
-					<s n="13" xml:lang="la">Nil aliud possum.</s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z10"/>Nil aliud possum.</s>
 				</p>
 				<p>
 					<s n="14" xml:lang="la" ana="farewell">Vale cum tuis omnibus, <persName ref="p8171">Theodoro</persName>, <persName ref="p8127">Pellicano</persName>, reliquis.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la"><placeName ref="l28">Basileę</placeName>, ultima martii anno 41.</s>
+					<s n="15" xml:lang="la"><lb xml:id="p1z11"/><placeName ref="l28">Basileę</placeName>, ultima martii anno 41.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="16" xml:lang="la"><lb xml:id="p1z12"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z13"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="17" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName> suo.</s>
+					<s n="17" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName> <lb xml:id="p2z2"/>suo.</s>
 				</p>
 			</div>
 		</body>

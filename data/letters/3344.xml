@@ -83,31 +83,40 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3344!Autograph!00%20E_II_368__fol__56_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3344/Autograph/00 E_II_368__fol__56_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="1239,599 1369,620 1451,556 1662,533 1718,579 1811,531 1968,577 2093,536 2184,574 2322,518 2558,549 2860,502 2956,565 3062,540 3064,438 3021,424 2527,481 2170,429 1930,459 1786,413 1621,484 1244,409">1253,555 1343,550 1434,544 1525,538 1616,529 1706,525 1797,523 1888,520 1979,514 2069,514 2160,511 2251,507 2342,507 2432,504 2523,507 2614,504 2705,504 2795,504 2886,498 2977,498 3068,504</zone>
+			<zone xml:id="p1z2-0" points="1369,683 1569,688 1696,620 2032,649 2297,604 2413,663 2486,629 2620,658 2731,599 3094,624 3096,531 2958,565 2599,515 2186,574 1850,533 1721,581 1673,536 1491,604 1373,592">1384,644 1469,636 1555,631 1641,622 1727,614 1813,610 1899,608 1984,605 2070,599 2156,599 2242,596 2328,596 2414,591 2500,587 2585,593 2671,595 2757,593 2843,591 2929,593 3015,593 3101,596</zone>
+			<zone xml:id="p1z3-0" points="1362,767 1621,788 2136,692 2536,742 2694,697 3128,722 3130,656 2670,629 2424,667 2281,604 1830,679 1743,622 1453,708 1364,681">1375,737 1462,730 1550,724 1638,720 1726,714 1814,707 1902,700 1990,695 2078,692 2166,689 2254,684 2341,686 2429,686 2517,685 2605,683 2693,683 2781,683 2869,683 2957,686 3045,686 3133,689</zone>
+			<zone xml:id="p1z4-0" points="1371,867 2195,785 2261,838 2354,813 2395,849 2583,779 2663,838 2794,788 2985,849 3024,831 3028,713 2692,699 2506,745 2397,697 1768,788 1373,785">1384,841 1466,832 1548,824 1631,820 1713,812 1796,805 1878,799 1960,793 2043,787 2125,783 2208,782 2290,778 2372,776 2455,773 2537,773 2620,771 2702,770 2784,770 2867,771 2949,773 3032,770</zone>
+			<zone xml:id="p1z5-0" points="1360,985 1691,953 1850,990 2218,908 2615,1006 2887,928 2892,817 2772,790 2676,835 2472,804 2295,844 1961,799 1362,897">1375,937 1451,931 1527,925 1603,919 1679,912 1755,907 1831,900 1907,894 1983,889 2059,884 2135,882 2211,880 2287,879 2363,878 2439,878 2515,874 2591,868 2667,868 2743,865 2819,865 2895,871</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3344!Autograph!01%20E_II_368__fol__56_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3344/Autograph/01 E_II_368__fol__56_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1077,975 1226,984 1280,1020 1359,970 1439,999 1861,995 1920,978 1919,894 1738,917 1662,889 1533,928 1271,879 1076,899">1084,961 1128,964 1172,964 1216,964 1260,961 1304,964 1348,964 1393,964 1437,964 1481,964 1525,964 1569,964 1613,969 1658,968 1702,969 1746,970 1790,968 1834,967 1878,967 1923,964</zone>
+			<zone xml:id="p2z2-0" points="1095,1094 1189,1089 1258,1147 1410,1075 1550,1077 1807,1148 1925,1087 2063,1104 2063,1020 1955,1048 1754,1005 1341,1025 1094,986">1102,1072 1150,1069 1198,1066 1246,1065 1294,1063 1343,1063 1391,1063 1439,1063 1487,1063 1535,1063 1584,1065 1632,1066 1680,1069 1728,1069 1776,1072 1825,1072 1873,1072 1921,1072 1969,1073 2017,1075 2066,1072</zone>
+			<zone xml:id="p2z3-0" points="1078,1247 1381,1199 1783,1251 1871,1213 2019,1222 2018,1136 1952,1116 1821,1151 1707,1111 1516,1137 1405,1106 1259,1147 1077,1115">1084,1179 1130,1179 1177,1179 1224,1176 1271,1177 1318,1178 1365,1176 1411,1176 1458,1177 1505,1179 1552,1179 1599,1179 1646,1179 1693,1179 1739,1179 1786,1179 1833,1181 1880,1182 1927,1182 1974,1185 2021,1191</zone>
+			<zone xml:id="p2z4-0" points="1089,1322 1206,1335 1292,1312 1381,1310 1457,1326 1458,1233 1413,1223 1330,1236 1186,1221 1090,1264">1096,1311 1122,1310 1148,1308 1174,1306 1200,1305 1226,1305 1252,1305 1278,1305 1304,1305 1330,1305 1356,1305 1382,1305 1408,1305 1434,1305 1460,1305</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Humaniter scribit <persName>Philippus</persName>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Humaniter scribit <persName>Philippus</persName>.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Utinam libere et explicate.</s>
+					<s n="2" xml:lang="la">Utinam libere et <lb xml:id="p1z2"/>explicate.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Sed magis dolendum est hostiliter inter nos agi.</s>
+					<s n="3" xml:lang="la">Sed magis dolendum est hostiliter inter <lb xml:id="p1z3"/>nos agi.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">Bene est quod dominus me contra minas et terrores obduravit.</s>
-					<s n="5" xml:lang="la">In <persName ref="p8033">Beza</persName> quoque non minus animi et constantię fore certo persuasus sum.</s>
+					<s n="4" xml:lang="la">Bene est quod dominus me contra minas <lb xml:id="p1z4"/>et terrores obduravit.</s>
+					<s n="5" xml:lang="la">In <persName ref="p8033">Beza</persName> quoque non minus <lb xml:id="p1z5"/>animi et constantię fore certo persuasus sum.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Clarissimo viro d. <persName ref="p495">Henricho Bullingero</persName>, ecclesiae <placeName ref="l587">Tigurinae</placeName> pastori fratri et symmystae observando.</s>
+					<s n="6" xml:lang="la"><pb/><lb xml:id="p2z1"/>Clarissimo viro d. <persName ref="p495">Henricho <lb xml:id="p2z2"/>Bullingero</persName>, ecclesiae <placeName ref="l587">Tigurinae</placeName> <lb xml:id="p2z3"/>pastori fratri et symmystae <lb xml:id="p2z4"/>observando.</s>
 				</p>
 			</div>
 		</body>

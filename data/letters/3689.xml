@@ -74,6 +74,17 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3689!Autograph!00%20E_II_376__fol__54_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3689/Autograph/00 E_II_376__fol__54_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="335,304 2040,394 2020,280 1909,324 1692,269 1624,311 1506,256 1344,276 1178,206 812,260 683,197 615,230 328,169">346,289 430,289 515,291 600,295 685,298 770,301 855,304 939,307 1024,310 1109,313 1194,319 1279,321 1364,327 1449,332 1533,338 1618,341 1703,347 1788,353 1873,361 1958,364 2043,370</zone>
+			<zone xml:id="p1z2-0" points="385,420 1000,403 1241,464 1329,427 1420,475 1814,449 2141,497 2108,394 1617,368 1541,403 1401,337 1156,357 1053,322 805,368 381,304">394,379 481,385 569,388 656,391 744,391 831,394 919,397 1006,400 1094,405 1181,408 1269,414 1356,419 1444,422 1531,428 1619,434 1706,443 1794,446 1881,455 1969,463 2056,466 2144,474</zone>
+			<zone xml:id="p1z3-0" points="387,486 915,512 1020,563 1138,517 1250,591 1611,545 1865,639 1957,580 2125,624 2117,479 1836,534 1512,457 383,422">397,474 483,480 569,483 656,491 742,495 829,500 915,503 1002,506 1088,511 1175,517 1261,523 1347,528 1434,531 1520,537 1607,543 1693,549 1780,555 1866,560 1953,566 2039,574 2126,588</zone>
+			<zone xml:id="p1z4-0" points="390,626 797,600 1245,670 1385,639 1491,703 1729,665 1882,714 2020,683 2014,580 1801,643 1712,602 1628,639 1552,589 812,547 584,484 385,545">397,570 478,572 559,578 641,586 722,592 804,600 885,606 966,609 1048,614 1129,619 1211,625 1292,630 1373,635 1455,641 1536,646 1618,654 1699,660 1780,666 1862,671 1943,677 2025,681</zone>
+			<zone xml:id="p1z5-0" points="385,689 541,679 672,744 812,700 1453,727 1834,790 2022,781 2020,720 1895,746 1388,637 1195,676 1108,637 1035,681 952,639 615,659 381,608">394,666 475,666 557,674 638,679 720,685 801,690 883,693 964,696 1046,700 1127,704 1209,711 1291,716 1372,721 1454,727 1535,734 1617,741 1698,747 1780,755 1861,760 1943,766 2025,773</zone>
+			<zone xml:id="p1z6-0" points="374,790 961,797 1204,858 1283,823 1508,886 1569,849 1878,902 2114,882 2110,810 1821,814 1764,775 1653,808 1501,753 1337,786 1250,731 911,742 810,703 613,749 370,733">385,764 471,764 558,770 645,775 732,778 818,784 905,790 992,793 1079,798 1165,805 1252,810 1339,816 1426,825 1512,830 1599,837 1686,845 1773,851 1859,859 1946,863 2033,868 2120,878</zone>
+			<zone xml:id="p1z7-0" points="361,871 606,932 1108,906 1289,974 1648,937 2003,1013 2040,1000 2033,886 1823,924 1158,832 989,865 911,816 672,845 431,788 357,823">370,863 453,863 537,866 620,871 704,876 788,879 871,885 955,887 1039,893 1122,901 1206,907 1290,913 1373,918 1457,924 1541,929 1624,935 1708,940 1792,945 1875,953 1959,965 2043,976</zone>
+			<zone xml:id="p1z8-0" points="385,1013 543,972 685,1031 1149,998 1523,1033 1622,1090 2088,1083 2084,1016 1959,989 1790,1016 1613,954 1127,970 930,919 731,954 668,913 379,908">394,973 478,964 563,969 648,972 733,973 818,977 903,982 987,986 1072,991 1157,994 1242,1000 1327,1005 1412,1011 1497,1018 1581,1025 1666,1032 1751,1043 1836,1052 1921,1058 2006,1066 2091,1066</zone>
+			<zone xml:id="p1z9-0" points="366,1053 663,1101 838,1079 1101,1147 1250,1088 1828,1162 1895,1156 1889,1075 1576,1092 1442,1029 1167,1007 685,1031 571,972 361,1002">376,1045 452,1047 528,1049 604,1054 680,1057 756,1061 832,1066 909,1071 985,1074 1061,1076 1137,1081 1213,1086 1289,1090 1365,1093 1442,1101 1518,1106 1594,1112 1670,1117 1746,1120 1822,1128 1899,1138</zone>
+			<zone xml:id="p1z10-0" points="374,1138 573,1186 799,1160 889,1224 1259,1178 1812,1224 1865,1208 1863,1162 1294,1143 1243,1108 1099,1149 900,1094 808,1127 733,1079 372,1097">385,1129 459,1131 533,1136 607,1144 682,1149 756,1154 830,1159 904,1162 979,1169 1053,1170 1127,1173 1201,1174 1276,1179 1350,1182 1424,1185 1498,1188 1573,1190 1647,1197 1721,1197 1795,1198 1870,1203</zone>
+			<zone xml:id="p1z11-0" points="383,1269 622,1230 1125,1309 1202,1276 1315,1324 1469,1289 1650,1324 1727,1307 1723,1232 1587,1259 1149,1178 784,1219 374,1147">391,1224 458,1221 525,1224 592,1228 659,1233 726,1237 793,1245 860,1251 927,1254 994,1260 1061,1266 1128,1270 1195,1275 1262,1279 1329,1284 1396,1287 1463,1287 1530,1290 1597,1293 1664,1294 1732,1299</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3689!Autograph!01%20E_II_376__fol__54_v_.tif/full/max/0/default.jpg" n="2">
@@ -85,16 +96,16 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Cum vesperi domum redirem, ex adverso in legatum incidi, qui literas in manibus gestabat, quae ei ex <placeName ref="l832">Gallia</placeName> modo erant redditae, in quibus perscriptum erat magnam esse adhuc spem pacis.</s>
-					<s n="2" xml:lang="la">Qui vero de pace agunt, convenerunt non in <placeName ref="l2165">Arras</placeName>, ut co(n?) stitutum erat, sed in civitate nomine <placeName>Insula</placeName>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Cum vesperi domum redirem, ex adverso in legatum incidi, <lb xml:id="p1z2"/>qui literas in manibus gestabat, quae ei ex <placeName ref="l832">Gallia</placeName> modo <lb xml:id="p1z3"/>erant redditae, in quibus perscriptum erat magnam esse <lb xml:id="p1z4"/>adhuc spem pacis.</s>
+					<s n="2" xml:lang="la">Qui vero de pace agunt, convenerunt <lb xml:id="p1z5"/>non in <placeName ref="l2165">Arras</placeName>, ut co(n?) stitutum erat, sed in civitate <lb xml:id="p1z6"/>nomine <placeName>Insula</placeName>.</s>
 					<s n="3" xml:lang="la">Literae perscriptae 14. die huius mensis.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">Rex vero <persName>Gallus</persName>, quin interim per proditionem accepisset <placeName>Sant Omer</placeName>, parum, imo minimum abfuit.</s>
-					<s n="5" xml:lang="la">Nullae sunt inducię; exercitus uterque in conspectu mutuo se velitationibus exercet etc.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z7"/>Rex vero <persName>Gallus</persName>, quin interim per proditionem accepisset <lb xml:id="p1z8"/><placeName>Sant Omer</placeName>, parum, imo minimum abfuit.</s>
+					<s n="5" xml:lang="la">Nullae sunt <lb xml:id="p1z9"/>inducię; exercitus uterque in conspectu mutuo se <lb xml:id="p1z10"/>velitationibus exercet etc.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Agri quoque vicini populationibus et incursionibus passim vastantur.</s>
+					<s n="6" xml:lang="la">Agri quoque vicini <lb xml:id="p1z11"/>populationibus et incursionibus passim vastantur.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse etc. fehlt.]</note>

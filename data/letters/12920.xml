@@ -85,29 +85,41 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12920!Autograph!00%20E_II_343__fol__351_a_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12920/Autograph/00 E_II_343__fol__351_a_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="467,289 719,252 886,310 1019,279 1176,326 1258,276 1465,310 1688,273 2173,340 2407,303 2502,356 2598,329 2593,236 2526,220 2465,268 2134,188 1937,228 1558,188 1513,226 1345,172 1197,194 1083,138 985,165 926,122 695,167 462,122">480,238 586,235 692,237 798,238 904,241 1010,244 1116,248 1222,253 1328,253 1434,254 1541,256 1647,262 1753,265 1859,268 1965,271 2071,276 2177,283 2283,289 2389,296 2495,301 2602,310</zone>
+			<zone xml:id="p1z2-0" points="499,379 831,414 1024,364 1128,411 1637,366 1736,419 1789,377 2147,385 2492,478 2571,470 2569,372 1996,292 1882,332 1805,289 1693,342 1598,273 1534,313 1258,279 1176,326 1099,287 857,318 496,263">513,352 616,349 719,352 822,355 925,356 1028,358 1131,358 1234,361 1337,361 1440,361 1543,364 1646,364 1749,366 1852,370 1955,374 2058,378 2161,381 2264,388 2367,392 2470,401 2573,411</zone>
+			<zone xml:id="p1z3-0" points="496,464 873,504 950,470 1048,517 1298,467 1372,512 1568,483 1690,525 1823,523 1903,472 2051,510 2224,480 2532,563 2590,541 2590,478 2173,406 2096,454 1956,395 1736,419 1635,366 1391,441 1186,379 839,422 494,385">510,462 614,462 718,462 822,462 927,462 1031,462 1135,462 1240,465 1344,465 1448,465 1553,467 1657,466 1761,468 1865,471 1970,474 2074,474 2178,480 2283,483 2387,491 2491,496 2596,507</zone>
+			<zone xml:id="p1z4-0" points="480,573 565,608 759,563 990,610 1184,571 1725,613 2014,586 2134,634 2240,597 2489,674 2611,650 2609,565 2388,523 2195,560 2012,494 1767,547 1579,491 1295,528 1237,480 1123,541 825,475 748,515 624,472 478,491">495,558 606,561 718,561 829,561 941,561 1052,561 1164,561 1275,561 1387,561 1498,564 1610,564 1721,567 1833,573 1944,576 2056,582 2167,586 2279,591 2390,598 2502,604 2614,617</zone>
+			<zone xml:id="p1z5-0" points="472,706 711,674 772,717 1016,693 1194,743 1436,671 1579,740 1924,666 2022,711 2205,679 2280,727 2521,669 2338,608 2150,650 2086,605 1805,586 1399,637 1242,584 1109,642 767,563 703,605 470,592">486,668 588,665 690,665 792,665 894,665 996,664 1098,662 1200,662 1302,662 1404,659 1507,660 1609,662 1711,662 1813,664 1915,665 2017,669 2119,674 2221,679 2323,683 2425,690 2528,698</zone>
+			<zone xml:id="p1z6-0" points="478,855 565,799 679,825 884,775 1024,786 1093,839 1250,780 1367,807 1550,762 2049,836 2226,796 2534,825 2534,730 2447,717 2059,738 2001,701 1903,743 1706,695 1582,738 1470,674 1194,743 902,687 748,746 687,703 478,714">492,773 594,773 696,773 799,770 901,773 1004,767 1106,768 1208,767 1311,764 1413,764 1516,764 1618,761 1720,763 1823,764 1925,761 2028,765 2130,767 2232,770 2335,776 2437,779 2540,782</zone>
+			<zone xml:id="p1z7-0" points="478,918 552,897 663,953 809,886 987,924 1266,892 1406,963 1669,937 1669,823 1396,796 993,839 876,772 690,828 568,799 478,852">492,886 551,886 610,883 669,883 729,881 788,881 847,887 906,882 966,880 1025,883 1084,885 1143,886 1203,886 1262,884 1321,883 1380,882 1440,878 1499,877 1558,876 1617,874 1677,877</zone>
+			<zone xml:id="p1z8-0" points="1799,1046 1940,1072 2014,1035 2099,1030 2280,1059 2274,847 2078,820 1889,886 1839,924 1797,924">1814,985 1840,983 1866,982 1892,982 1918,982 1944,982 1970,983 1996,985 2022,985 2048,985 2074,985 2100,986 2126,988 2152,988 2178,988 2204,990 2230,992 2256,994 2283,997</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12920!Autograph!01%20E_II_343__fol__351_a_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12920/Autograph/01 E_II_343__fol__351_a_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="463,1106 603,1087 675,1134 753,1089 855,1114 898,1089 981,1121 1158,1095 1158,1052 964,982 669,1028 630,1006 463,1026">468,1072 502,1078 537,1082 571,1082 606,1082 641,1083 675,1084 710,1084 744,1084 779,1084 814,1084 848,1084 883,1086 917,1088 952,1084 987,1082 1021,1082 1056,1081 1090,1079 1125,1075 1160,1070</zone>
+			<zone xml:id="p2z2-0" points="453,1211 610,1201 723,1227 862,1192 946,1214 1045,1183 1118,1210 1192,1192 1192,1144 1120,1129 1047,1161 898,1089 768,1164 605,1160 536,1105 453,1125">458,1176 494,1174 531,1177 568,1177 605,1174 642,1176 678,1178 715,1179 752,1180 789,1182 826,1179 862,1178 899,1177 936,1178 973,1178 1010,1180 1046,1180 1083,1182 1120,1182 1157,1182 1194,1182</zone>
+			<zone xml:id="p2z3-0" points="374,1319 406,1325 422,1313 434,1325 458,1314 482,1320 493,1311 521,1323 535,1316 539,1223 522,1217 488,1228 452,1202 433,1207 420,1196 379,1198">380,1294 406,1294 432,1293 459,1291 485,1290 511,1290 538,1288</zone>
+			<zone xml:id="p2z4-0" points="697,1377 768,1362 807,1384 940,1301 1081,1325 1125,1305 1274,1319 1272,1264 1198,1279 1041,1246 967,1205 862,1192 692,1237">698,1286 726,1284 755,1284 784,1287 813,1288 842,1290 871,1292 900,1292 929,1293 958,1294 987,1294 1015,1294 1044,1295 1073,1296 1102,1297 1131,1299 1160,1302 1189,1305 1218,1306 1247,1307 1276,1306</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Wie ich disen brieff bschlossen, würdt ich bericht gloubwürdig, wie in disen tagen 7000 <placeName ref="l834">Taliener</placeName> gen <placeName ref="l306">Meyland</placeName> komen söllendt, den negsten durch <placeName ref="l522">Venediger</placeName> land uff <placeName ref="l1107">Triendt</placeName> zu ziehen, und würdt dapy ouch anzeigt, die <placeName ref="l522">Venediger</placeName> werdent ynen den paas<note xml:id="fn5" type="footnote" n="5">Durchgang; s. <bibl source="b590">SI</bibl> IV 1655.</note> abschlahn.</s>
-					<s n="2" xml:lang="de">Würdt diser tagen noch eigentlicher von <placeName ref="l306">Meyland</placeName> durch specht<note xml:id="fn6" type="footnote" n="6">Kundschafter; s. <bibl source="b590">SI</bibl> X 45.</note> und kaupflüdt komen, wil ich üch eigentlich berichten.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Wie ich disen brieff bschlossen, würdt ich bericht gloubwürdig, wie in disen <lb xml:id="p1z2"/>tagen 7000 <placeName ref="l834">Taliener</placeName> gen <placeName ref="l306">Meyland</placeName> komen söllendt, den negsten durch <lb xml:id="p1z3"/><placeName ref="l522">Venediger</placeName> land uff <placeName ref="l1107">Triendt</placeName> zu ziehen, und würdt dapy ouch <lb xml:id="p1z4"/>anzeigt, die <placeName ref="l522">Venediger</placeName> werdent ynen den paas<note xml:id="fn5" type="footnote" n="5">Durchgang; s. <bibl source="b590">SI</bibl> IV 1655.</note> abschlahn.</s>
+					<s n="2" xml:lang="de"><lb xml:id="p1z5"/>Würdt diser tagen noch eigentlicher von <placeName ref="l306">Meyland</placeName> durch <lb xml:id="p1z6"/>specht<note xml:id="fn6" type="footnote" n="6">Kundschafter; s. <bibl source="b590">SI</bibl> X 45.</note> und kaupflüdt komen, wil ich üch eigentlich <lb xml:id="p1z7"/>berichten.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" ana="farewell">Vale per d[ominum], etc.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la"><persName ref="p396">Blas.</persName> tuus.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z8"/><persName ref="p396">Blas.</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="5" xml:lang="de">Herrn meister <persName ref="p495">H. Bullinger</persName> zu eignerer handt.</s>
+					<s n="5" xml:lang="de"><pb/><lb xml:id="p2z1"/>Herrn meister <persName ref="p495">H. Bullinger</persName> <lb xml:id="p2z2"/>zu eignerer handt.</s>
 				</p>
 			</div>
 		</body>

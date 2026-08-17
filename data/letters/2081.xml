@@ -100,25 +100,35 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2081!Autograph!00%20TAI_5_71.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">2081/Autograph/00 TAI_5_71.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="132,783 145,783 152,790 187,777 193,787 216,790 248,580 216,574 184,596 161,596">161,734 197,729 233,723</zone>
+			<zone xml:id="p1z2-0" points="464,116 577,168 625,132 1190,168 1190,13 1154,0 606,0 506,42 464,23">481,89 516,94 552,95 588,96 624,97 660,95 696,95 731,97 767,97 803,95 839,95 875,95 911,95 947,94 982,92 1018,92 1054,92 1090,92 1126,91 1162,87 1198,80</zone>
+			<zone xml:id="p1z3-0" points="351,613 645,535 890,590 1535,513 1654,551 2144,519 2853,577 2853,474 2534,419 1802,445 1586,397 1460,464 1322,432 1235,471 941,390 832,458 719,451 516,364 351,422">368,541 492,538 617,528 742,528 866,528 991,523 1116,520 1240,518 1365,513 1490,513 1615,510 1739,508 1864,510 1989,513 2113,516 2238,520 2363,522 2487,528 2612,534 2737,540 2862,543</zone>
+			<zone xml:id="p1z4-0" points="364,696 819,632 1589,661 1676,613 1763,648 2231,629 2357,677 2456,638 2515,674 2801,632 2917,667 2917,571 2656,583 2408,532 2299,567 2199,525 1786,567 1406,529 890,590 638,538 364,616">382,645 509,639 636,639 763,628 891,628 1018,624 1145,621 1272,618 1400,615 1527,613 1654,611 1781,612 1909,614 2036,615 2163,615 2290,618 2418,618 2545,624 2672,628 2799,630 2927,633</zone>
+			<zone xml:id="p1z5-0" points="393,748 770,777 1222,735 1302,774 1535,738 1934,758 2025,709 2398,770 2447,738 2985,758 2985,693 2905,667 2334,677 1921,616 1738,658 1673,609 1589,661 1286,638 1138,674 1006,632 812,680 484,654 393,700">412,743 540,737 669,735 798,731 927,725 1056,723 1185,720 1314,714 1443,711 1572,708 1701,709 1829,711 1958,709 2087,711 2216,714 2345,714 2474,717 2603,723 2732,733 2861,737 2990,746</zone>
+			<zone xml:id="p1z6-0" points="397,896 455,867 551,899 700,832 993,883 1077,835 1460,822 1544,854 1696,825 1828,877 1928,819 2057,874 2134,825 2353,864 2540,822 2734,870 2772,861 2776,774 2047,725 1934,758 1535,738 1396,780 1193,738 1077,774 400,754">415,851 533,836 651,830 769,830 888,827 1006,824 1124,821 1243,821 1361,818 1479,815 1598,813 1716,812 1834,809 1952,809 2071,812 2189,815 2307,815 2426,815 2544,814 2662,813 2781,815</zone>
+			<zone xml:id="p1z7-0" points="400,948 938,932 1009,980 1293,922 1657,925 1718,961 1892,919 2318,964 2382,925 2666,925 2737,967 2969,941 2969,880 2656,883 2540,825 2350,867 2124,835 2060,874 1950,816 1867,877 1696,832 1389,825 1328,870 1128,832 1054,883 700,832 551,899 400,896">418,935 546,929 674,924 802,922 930,917 1058,917 1186,917 1314,911 1442,909 1570,907 1698,905 1826,903 1954,902 2082,902 2210,908 2338,911 2466,917 2594,923 2722,927 2850,932 2978,929</zone>
+			<zone xml:id="p1z8-0" points="380,1051 522,1041 706,1099 822,1032 1148,1035 1225,1080 1622,1015 1873,1099 2015,999 2553,1032 2605,1080 2756,1044 2756,967 2666,938 2476,967 1899,916 1515,970 1377,922 1003,983 648,945 554,990 380,938">397,1042 515,1033 633,1027 751,1024 870,1019 988,1015 1106,1012 1225,1010 1343,1006 1461,1006 1580,1006 1698,1004 1816,1006 1934,1000 2053,1000 2171,1002 2289,1003 2408,1009 2526,1011 2644,1017 2763,1027</zone>
+			<zone xml:id="p1z9-0" points="358,1199 793,1206 877,1164 1109,1222 1328,1190 1570,1238 1667,1190 1783,1225 1928,1144 2086,1190 2266,1190 2328,1141 2382,1183 2727,1161 2727,1044 2605,1083 2553,1032 2444,1057 2340,1015 2134,1015 1947,1077 1828,1019 1705,1064 1593,1015 1512,1067 1306,1041 1235,1077 941,1025 709,1103 358,1038">376,1150 494,1132 612,1129 730,1123 848,1120 966,1117 1084,1117 1202,1117 1320,1118 1438,1120 1556,1119 1674,1114 1792,1111 1910,1104 2028,1099 2146,1099 2264,1102 2382,1105 2500,1108 2618,1113 2736,1126</zone>
+			<zone xml:id="p1z10-0" points="1560,1451 1976,1367 2057,1418 2395,1370 2640,1422 2740,1402 2740,1338 2234,1235 2147,1277 1799,1212 1554,1267">1574,1359 1632,1362 1691,1361 1750,1359 1808,1356 1867,1355 1926,1353 1984,1353 2043,1353 2102,1355 2161,1356 2219,1359 2278,1359 2337,1362 2395,1363 2454,1365 2513,1370 2571,1374 2630,1380 2689,1383 2748,1394</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Brevi, ut spero, pleniores a me recipies literas.</s>
-					<s n="3" xml:lang="la">Fidum tamen hominem nactus, per quem tibi librum <persName ref="p6589">Serveti</persName> mitterem, occasioni deesse nolui.</s>
-					<s n="4" xml:lang="la">Si quid mihi relaxationis concessum fuerit, brevi libello quale monstrum fuerit ostendam, ne improbi (quod fieri <placeName ref="l28">Basileae</placeName> audio) maledicere pergant: ne etiam obmurmurent imperiti.</s>
-					<s n="5" xml:lang="la" ana="farewell">Vale, optime vir, et ex animo mihi observande frater, cum familia tua et collegis.</s>
-					<s n="6" xml:lang="la">Dominus vos tueatur et regat semper.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la"><lb xml:id="p1z3"/>Brevi, ut spero, pleniores a me recipies literas.</s>
+					<s n="3" xml:lang="la">Fidum tamen <lb xml:id="p1z4"/>hominem nactus, per quem tibi librum <persName ref="p6589">Serveti</persName> mitterem, occasioni deesse no<lb xml:id="p1z5"/>lui.</s>
+					<s n="4" xml:lang="la">Si quid mihi relaxationis concessum fuerit, brevi libello quale <lb xml:id="p1z6"/>monstrum fuerit ostendam, ne improbi (quod fieri <placeName ref="l28">Basileae</placeName> audio) <lb xml:id="p1z7"/>maledicere pergant: ne etiam obmurmurent imperiti.</s>
+					<s n="5" xml:lang="la" ana="farewell">Vale, optime <lb xml:id="p1z8"/>vir, et ex animo mihi observande frater, cum familia tua et collegis.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z9"/>Dominus vos tueatur et regat semper.</s>
 					<s n="7" xml:lang="la"><placeName ref="l167">Genevae</placeName> 22. novembris 1553.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la"><persName ref="p540">Ioannes Calvinus</persName> tuus.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Ornatissimo viro d. <persName ref="p495">Henrico Bullingero</persName></s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z10"/>Ornatissimo viro d. <persName ref="p495">Henrico Bullingero</persName></s>
 				</p>
 			</div>
 		</body>

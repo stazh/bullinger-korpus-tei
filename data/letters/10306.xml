@@ -80,11 +80,32 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10306!Autograph!00%20E_II_343__fol__20_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10306/Autograph/00 E_II_343__fol__20_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="209,188 942,150 1036,188 1268,150 1351,191 1462,153 2533,182 2533,85 2080,127 1886,65 1610,124 1336,79 1265,121 1174,88 977,112 909,71 644,129 486,68 209,97">226,164 341,155 457,155 573,152 688,150 804,149 920,149 1035,151 1151,152 1267,153 1383,152 1498,149 1614,149 1730,149 1845,148 1961,149 2077,149 2192,149 2308,149 2424,146 2540,146</zone>
+			<zone xml:id="p1z2-0" points="206,241 1874,230 1983,197 2386,227 2469,221 2472,165 206,191">223,217 335,214 448,210 561,209 674,209 786,206 899,206 1012,207 1125,209 1237,207 1350,206 1463,203 1576,203 1688,200 1801,200 1914,200 2027,200 2139,200 2252,197 2365,194 2478,191</zone>
+			<zone xml:id="p1z3-0" points="221,288 2431,250 2413,203 221,238">238,265 348,262 458,262 568,259 678,258 788,259 898,259 1008,256 1118,258 1228,259 1338,256 1448,253 1558,252 1668,253 1778,252 1888,250 1998,244 2108,244 2218,241 2328,241 2439,235</zone>
+			<zone xml:id="p1z4-0" points="218,333 2554,303 2554,227 2316,271 1560,288 1389,250 1336,291 424,294 371,262 218,297">235,319 351,316 467,314 583,313 700,313 816,313 932,313 1049,313 1165,312 1281,312 1398,313 1514,310 1630,307 1746,307 1863,303 1979,301 2095,298 2212,294 2328,292 2444,285 2561,286</zone>
+			<zone xml:id="p1z5-0" points="221,412 318,380 415,412 789,374 2431,371 2483,359 2486,288 1813,338 221,347">238,373 350,372 463,370 575,367 688,367 801,367 913,366 1026,364 1138,364 1251,363 1364,364 1476,361 1589,361 1701,357 1814,358 1927,355 2039,352 2152,349 2264,346 2377,340 2490,334</zone>
+			<zone xml:id="p1z6-0" points="212,456 2528,406 2513,333 2116,383 324,380 215,415">229,435 344,429 459,426 574,423 690,421 805,421 920,418 1035,418 1151,418 1266,418 1381,415 1496,415 1612,412 1727,409 1842,409 1957,406 2073,401 2188,397 2303,394 2418,388 2534,382</zone>
+			<zone xml:id="p1z7-0" points="200,506 530,483 621,518 680,480 792,518 1083,477 1174,512 2501,444 2501,403 2269,403 200,465">217,489 331,486 446,483 560,480 675,474 789,475 904,474 1018,472 1133,471 1247,471 1362,471 1477,468 1591,466 1706,465 1820,460 1935,456 2049,451 2164,449 2278,444 2393,440 2508,435</zone>
+			<zone xml:id="p1z8-0" points="206,559 2504,527 2504,447 2469,444 2310,480 209,509">223,543 337,540 451,537 566,534 680,534 795,532 909,531 1023,529 1138,527 1252,528 1367,524 1481,522 1595,522 1710,519 1824,516 1939,512 2053,508 2167,504 2282,501 2396,495 2511,495</zone>
+			<zone xml:id="p1z9-0" points="209,633 483,588 980,624 1027,591 1351,621 1530,583 2325,583 2472,574 2475,506 209,559">226,597 338,593 450,589 563,588 675,585 788,582 900,582 1013,582 1125,582 1238,579 1350,579 1462,579 1575,576 1687,575 1800,567 1912,566 2025,561 2137,558 2250,552 2362,548 2475,543</zone>
+			<zone xml:id="p1z10-0" points="212,680 438,644 2139,650 2236,606 2498,612 2501,547 1907,603 1374,615 1318,580 1256,615 1136,586 212,627">229,647 342,639 456,638 570,636 684,635 798,638 911,635 1025,635 1139,635 1253,633 1367,633 1480,630 1594,628 1708,627 1822,624 1936,620 2049,615 2163,609 2277,606 2391,597 2505,591</zone>
+			<zone xml:id="p1z11-0" points="209,718 2507,686 2507,612 2239,606 1948,653 438,644 209,683">226,704 340,695 454,692 569,689 683,689 798,690 912,689 1026,687 1141,686 1255,686 1370,683 1484,683 1598,681 1713,680 1827,674 1942,673 2056,669 2170,664 2285,659 2399,653 2514,650</zone>
+			<zone xml:id="p1z12-0" points="215,765 1942,762 2463,724 2466,662 215,721">232,755 343,750 455,746 567,741 678,740 790,739 902,740 1013,737 1125,737 1237,734 1349,734 1460,732 1572,731 1684,728 1795,725 1907,720 2019,719 2130,714 2242,710 2354,702 2466,695</zone>
+			<zone xml:id="p1z13-0" points="209,839 1868,777 2004,815 2098,777 2531,786 2533,712 209,768">226,818 341,806 457,802 573,797 688,795 804,794 920,794 1035,791 1151,791 1267,789 1383,788 1498,785 1614,782 1730,782 1845,778 1961,776 2077,771 2192,766 2308,759 2424,757 2540,755</zone>
+			<zone xml:id="p1z14-0" points="206,883 1015,853 1053,886 1127,850 1312,880 1507,844 1701,877 2516,827 2516,765 2354,762 2269,806 1866,777 1754,812 650,800 453,836 418,803 206,839">223,865 338,861 453,857 568,852 683,850 798,847 913,847 1028,847 1143,845 1258,844 1373,843 1488,839 1603,839 1718,833 1833,833 1948,833 2063,830 2178,827 2293,824 2408,820 2523,812</zone>
+			<zone xml:id="p1z15-0" points="212,945 730,947 836,903 1404,942 1977,889 2130,921 2469,897 2492,839 1701,874 1486,844 1192,886 1136,850 1074,883 680,853 212,903">229,925 342,919 456,915 569,910 683,907 796,904 910,902 1023,901 1137,903 1250,904 1364,901 1477,900 1591,895 1704,892 1818,889 1931,888 2045,886 2158,881 2272,880 2385,876 2499,871</zone>
+			<zone xml:id="p1z16-0" points="200,1009 974,953 1195,962 1242,1003 1704,953 2080,1003 2283,939 2566,968 2566,883 200,945">217,982 334,973 452,968 569,961 687,958 805,956 922,955 1040,954 1158,955 1275,955 1393,955 1511,955 1628,952 1746,947 1864,946 1981,943 2099,942 2217,940 2334,937 2452,934 2570,925</zone>
+			<zone xml:id="p1z17-0" points="203,1065 400,1080 703,1024 783,1071 1021,1068 1109,1021 1318,1083 1880,1039 1880,977 1792,956 1086,992 974,953 597,1003 444,971 206,1012">223,1036 306,1037 389,1033 472,1029 555,1023 639,1021 722,1018 805,1015 888,1015 971,1012 1055,1013 1138,1015 1221,1012 1304,1012 1387,1012 1471,1011 1554,1009 1637,1008 1720,1003 1803,1003 1887,1003</zone>
+			<zone xml:id="p1z18-0" points="1612,1254 1680,1224 1810,1248 1848,1230 1886,1254 2019,1230 2080,1248 2142,1218 2145,1139 2066,1127 1995,1165 1939,1148 1886,1174 1830,1142 1674,1162 1615,1145">1630,1218 1657,1215 1684,1215 1711,1215 1739,1215 1766,1214 1793,1212 1821,1214 1848,1214 1875,1212 1903,1210 1930,1209 1957,1211 1985,1211 2012,1209 2039,1209 2067,1209 2094,1209 2121,1207 2149,1203</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10306!Autograph!01%20E_II_343__fol__20_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10306/Autograph/01 E_II_343__fol__20_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="664,1199 728,1165 842,1153 877,1179 1087,1155 1185,1191 1255,1163 1255,1102 1138,1124 1001,1092 940,1113 801,1107 664,1076">669,1158 698,1152 727,1149 757,1149 786,1149 816,1149 845,1149 874,1149 904,1149 933,1147 963,1146 992,1146 1021,1148 1051,1149 1080,1149 1110,1149 1139,1150 1168,1152 1198,1152 1227,1153 1257,1155</zone>
+			<zone xml:id="p2z2-0" points="678,1215 771,1256 901,1218 949,1237 983,1217 1012,1233 1078,1210 1124,1228 1183,1215 1184,1160 1090,1184 1010,1158 944,1162 841,1203 801,1181 679,1185">683,1209 708,1209 733,1209 758,1211 783,1212 808,1212 833,1211 858,1209 883,1208 908,1206 934,1206 959,1206 984,1206 1009,1206 1034,1206 1059,1206 1084,1206 1109,1206 1134,1206 1159,1208 1185,1209</zone>
+			<zone xml:id="p2z3-0" points="822,1314 852,1306 875,1315 918,1296 1076,1316 1076,1223 1040,1226 985,1253 952,1236 822,1252">827,1278 852,1275 877,1272 902,1272 927,1272 952,1272 977,1272 1002,1272 1027,1273 1052,1275 1078,1278</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img3-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10306!Autograph!02%20E_II_343__fol__20_a_r_.tif/full/max/0/default.jpg" n="3">
@@ -111,39 +132,39 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratiam et vitę innocentiam a domino.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratiam et vitę innocentiam a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Quod <persName ref="p1040">Udalricus Eckstein</persName> ad vos redit, charissime Heinrice, non sua culpa fit, sed <persName ref="p6569">Sebastiano</persName><note xml:id="fn1" type="footnote" ana="bio" n="1"><persName ref="p6569">Hans Sebastian (Bastian)</persName> war seit 1532 Pfarrer in <placeName ref="l1068">Murten</placeName> (<placeName ref="l2786">Kt. Freiburg</placeName>). Im Jahre 1536 wechselte er nach <placeName ref="l1471">Münsingen</placeName> (<placeName ref="l2826">Kt. Bern</placeName>). Über seine Studien und sein Leben ist sonst nichts Näheres bekannt. - Lit.: Lohner 118. 508.</note> valetudinario aliquot nunc mensibus et certe tam pecuniis quam viribus exhausto cum fratres, quos vocant capitulares, qui diaconum habent, gratis succurrere velint et <persName ref="p8412">Megander</persName> a <placeName ref="l1068">Moretano</placeName> senatu impetraverit, non amplius ullius eget opera in verbi ministerio.</s>
-					<s n="3" xml:lang="la">Praeterea ratio victus <persName ref="p6569">Sebastiano</persName> non est tanta, ut vel <persName ref="p1040">Udalricum</persName> vel alium quemcunque sufferre posset.</s>
-					<s n="4" xml:lang="la">Quare vobis eum alioqui commendatum rursum commendamus, ne apud vos illi unquam obfuturum sit, quod a nobis hoc tempore amandatur.</s>
+					<s n="2" xml:lang="la">Quod <persName ref="p1040">Udalricus Eckstein</persName> ad vos redit, charissime Heinrice, non sua culpa fit, <lb xml:id="p1z2"/>sed <persName ref="p6569">Sebastiano</persName><note xml:id="fn1" type="footnote" ana="bio" n="1"><persName ref="p6569">Hans Sebastian (Bastian)</persName> war seit 1532 Pfarrer in <placeName ref="l1068">Murten</placeName> (<placeName ref="l2786">Kt. Freiburg</placeName>). Im Jahre 1536 wechselte er nach <placeName ref="l1471">Münsingen</placeName> (<placeName ref="l2826">Kt. Bern</placeName>). Über seine Studien und sein Leben ist sonst nichts Näheres bekannt. - Lit.: Lohner 118. 508.</note> valetudinario aliquot nunc mensibus et certe tam pecuniis quam viribus exhausto cum fratres, quos <lb xml:id="p1z3"/>vocant capitulares, qui diaconum habent, gratis succurrere velint et <persName ref="p8412">Megander</persName> a <placeName ref="l1068">Moretano</placeName> senatu impetraverit, <lb xml:id="p1z4"/>non amplius ullius eget opera in verbi ministerio.</s>
+					<s n="3" xml:lang="la">Praeterea ratio victus <persName ref="p6569">Sebastiano</persName> non est tanta, ut vel <persName ref="p1040">Udalricum</persName> vel alium quemcunque <lb xml:id="p1z5"/>sufferre posset.</s>
+					<s n="4" xml:lang="la">Quare vobis eum alioqui commendatum rursum commendamus, ne apud vos illi unquam obfuturum sit, quod <lb xml:id="p1z6"/>a nobis hoc tempore amandatur.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la">Cęterum expectans expecto ad literas meas postremas<note xml:id="fn2" type="footnote" n="2">Siehe oben <ref target="file10297">Nr. 266</ref>, S. 191-196.</note> responsionem.</s>
-					<s n="6" xml:lang="la">Nihil enim iucundius mihi unquam hac vita contingere potest, quam dum literis et libris te praesentem conspicio.</s>
-					<s n="7" xml:lang="la">Quam vellem mihi communicares, quae in aliquot Pauli epistolas congessisti, orationis Paulinę scilicet dispositionem<note xml:id="fn3" type="footnote" n="3">Zur rhetorischen Auslegung der paulinischen Briefe vgl. <bibl source="b282">Hausammann</bibl> 145-182; s. noch oben S. 194, Anm. 47.</note>!</s>
+					<s n="6" xml:lang="la">Nihil enim iucundius mihi <lb xml:id="p1z7"/>unquam hac vita contingere potest, quam dum literis et libris te praesentem conspicio.</s>
+					<s n="7" xml:lang="la">Quam vellem mihi communicares, quae in aliquot Pauli <lb xml:id="p1z8"/>epistolas congessisti, orationis Paulinę scilicet dispositionem<note xml:id="fn3" type="footnote" n="3">Zur rhetorischen Auslegung der paulinischen Briefe vgl. <bibl source="b282">Hausammann</bibl> 145-182; s. noch oben S. 194, Anm. 47.</note>!</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Libellum tuum de ratione studii<note xml:id="fn4" type="footnote" n="4">Siehe <bibl source="b1">HBBW I</bibl> <ref target="file10054">[Nr. 28]</ref> 177, Anm. 3. II 94, Anm. 2.</note> transcribit nunc nominis tui et reipublicae christianę studiosissimus <persName ref="p761">Cristannus Danmatter</persName>, parochus in <placeName ref="l170">Gerzensee</placeName><note xml:id="fn5" type="footnote" n="5"><placeName ref="l170">Gerzensee</placeName> (<placeName ref="l2826">Kt. Bern</placeName>).</note>, qui vir sane et pius et doctus non alium in te habet animum quam et ego.</s>
+					<s n="8" xml:lang="la">Libellum tuum de ratione studii<note xml:id="fn4" type="footnote" n="4">Siehe <bibl source="b1">HBBW I</bibl> <ref target="file10054">[Nr. 28]</ref> 177, Anm. 3. II 94, Anm. 2.</note> transcribit nunc nominis tui et reipublicae christianę <lb xml:id="p1z9"/>studiosissimus <persName ref="p761">Cristannus Danmatter</persName>, parochus in <placeName ref="l170">Gerzensee</placeName><note xml:id="fn5" type="footnote" n="5"><placeName ref="l170">Gerzensee</placeName> (<placeName ref="l2826">Kt. Bern</placeName>).</note>, qui vir sane et pius et doctus non alium in te habet animum <lb xml:id="p1z10"/>quam et ego.</s>
 					<s n="9" xml:lang="la">Urgeo sępe hominem, ut ad te scribat, sed prae verecundia non audet.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Hoc age, ut nunquam me vacuum sinas et literis et libris tuis.</s>
+					<s n="10" xml:lang="la">Hoc age, ut nunquam me vacuum sinas <lb xml:id="p1z11"/>et literis et libris tuis.</s>
 					<s n="11" xml:lang="la">Sentio certe profectum, dum iam senesco, quem tibi totum debeo<note xml:id="fn6" type="footnote" n="6">Zur literarischen Unterstützung <persName ref="p1391">Hallers</persName> durch <persName ref="p495">Bullinger</persName> s. <hi>Kirchhofer,</hi> <persName ref="p1391">Haller</persName> 205-210. 217; vgl. oben S. 182, 1-5 u. a.</note>.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la">Petiere urbem vestram quidam ex sagittariis<note xml:id="fn7" type="footnote" n="7">Die Schützen kamen zum Gesellenschießen, das zwischen dem 18. und 21. Oktober 1533 in <placeName ref="l587">Zürich</placeName> stattfand, s. Kessler, Sabbata 407, 10-21.</note> me nesciente.</s>
+					<s n="12" xml:lang="la">Petiere urbem vestram quidam ex sagittariis<note xml:id="fn7" type="footnote" n="7">Die Schützen kamen zum Gesellenschießen, das zwischen dem 18. und 21. Oktober 1533 in <placeName ref="l587">Zürich</placeName> stattfand, s. Kessler, Sabbata 407, 10-21.</note> <lb xml:id="p1z12"/>me nesciente.</s>
 					<s n="13" xml:lang="la">Sunt nimirum inter eos, qui non recusabunt aliquid ad me deferre.</s>
-					<s n="14" xml:lang="la">Veniet item ad nundinas Martinianas <pb type="edition" next="210"/><persName ref="p19066">Burckart</persName>, <foreign xml:lang="de">der tuͤchlitrager<note xml:id="fn8" type="footnote" ana="lex" n="8">Tuchhändler (<bibl source="b590">SI</bibl> XII 341f. XIV 591f).</note>,</foreign> quem et ego tibi indico.</s>
+					<s n="14" xml:lang="la">Veniet item ad nundinas Martinianas <pb type="edition" next="210"/><lb xml:id="p1z13"/><persName ref="p19066">Burckart</persName>, <foreign xml:lang="de">der tuͤchlitrager<note xml:id="fn8" type="footnote" ana="lex" n="8">Tuchhändler (<bibl source="b590">SI</bibl> XII 341f. XIV 591f).</note>,</foreign> quem et ego tibi indico.</s>
 					<s n="15" xml:lang="la">Apud hunc enim remittam libellum<note xml:id="fn9" type="footnote" n="9">Die «Studiorum ratio», s. oben Z. 14.</note>.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="de">Cęterum, so ist der brieff<note xml:id="fn10" type="footnote" n="10">Nämlich des <placeName ref="l587">Zürcher</placeName> Rates an <placeName ref="l41">Bern</placeName>, 8. September 1533, s. oben <ref target="file10289">[Nr. 258]</ref> S. 182, Anm. 14.</note> von der straff dess eebruchs gschriben nitt von fier, sunder von dryen tagen allein<note xml:id="fn11" type="footnote" n="11">Zum Sachverhalts. oben <ref target="file10289">[Nr. 258]</ref> S. 182, 12-15.</note>.</s>
-					<s n="17" xml:lang="de">Ich han kein zwifel, wenn er gschriben wäri, wie mir anzeiget heist<note xml:id="fn12" type="footnote" n="12"><persName ref="p495">Bullingers</persName> Brief ist nicht erhalten.</note>, es hette kein not gehept.</s>
-					<s n="18" xml:lang="de">Das schrib ich von unsert wägen, dann unglyche diser zweyen stetten<note xml:id="fn13" type="footnote" n="13"><placeName ref="l41">Bern</placeName> und <placeName ref="l587">Zürich</placeName>.</note> thuͦt unß wee.</s>
+					<s n="16" xml:lang="de">Cęterum, so ist der brieff<note xml:id="fn10" type="footnote" n="10">Nämlich des <placeName ref="l587">Zürcher</placeName> Rates an <placeName ref="l41">Bern</placeName>, 8. September 1533, s. oben <ref target="file10289">[Nr. 258]</ref> S. 182, Anm. 14.</note> von der straff <lb xml:id="p1z14"/>dess eebruchs gschriben nitt von fier, sunder von dryen tagen allein<note xml:id="fn11" type="footnote" n="11">Zum Sachverhalts. oben <ref target="file10289">[Nr. 258]</ref> S. 182, 12-15.</note>.</s>
+					<s n="17" xml:lang="de">Ich han kein zwifel, wenn er gschriben <lb xml:id="p1z15"/>wäri, wie mir anzeiget heist<note xml:id="fn12" type="footnote" n="12"><persName ref="p495">Bullingers</persName> Brief ist nicht erhalten.</note>, es hette kein not gehept.</s>
+					<s n="18" xml:lang="de">Das schrib ich von unsert wägen, dann unglyche <lb xml:id="p1z16"/>diser zweyen stetten<note xml:id="fn13" type="footnote" n="13"><placeName ref="l41">Bern</placeName> und <placeName ref="l587">Zürich</placeName>.</note> thuͦt unß wee.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" ana="farewell">Vale, mi <persName ref="p495">Heinrice</persName>, ea valetudine et mentis et corporis, quam quottidie tibi a patre per Christum precor.</s>
+					<s n="19" xml:lang="la" ana="farewell">Vale, mi <persName ref="p495">Heinrice</persName>, ea valetudine et mentis et corporis, quam quottidie tibi a patre per Christu<lb xml:id="p1z17"/>m precor.</s>
 				</p>
 				<p>
 					<s n="20" xml:lang="la" ana="salute">Salutabis <persName ref="p8127">Pellicanum</persName>, <persName ref="p1753">Leonem</persName><note xml:id="fn14" type="footnote" n="14"><persName ref="p1753">Leo Jud</persName>.</note> et symmistas omnes.</s>
@@ -152,11 +173,11 @@
 					<s n="21" xml:lang="la"><placeName ref="l41">Bernę</placeName>, 18. octobris anno 33.</s>
 				</p>
 				<p>
-					<s n="22" xml:lang="la">Tuus ut suus <persName ref="p1391">B. H.</persName></s>
+					<s n="22" xml:lang="la"><lb xml:id="p1z18"/>Tuus ut suus <persName ref="p1391">B. H.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="23" xml:lang="la"><persName ref="p495">Heinrico Bullingero</persName>, <placeName ref="l587">Tigurinorum</placeName> ecclesiastę, fratri suo charissimo.</s>
+					<s n="23" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Heinrico Bullingero</persName>, <placeName ref="l587">Tigurinorum</placeName> <lb xml:id="p2z2"/>ecclesiastę, fratri <lb xml:id="p2z3"/>suo charissimo.</s>
 				</p>
 			</div>
 		</body>

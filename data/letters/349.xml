@@ -77,41 +77,59 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!349!Autograph!00%20E_II_336__fol__312_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">349/Autograph/00 E_II_336__fol__312_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="212,334 2240,293 2210,250 1957,217 1267,220 979,271 212,212">226,310 327,304 428,301 529,298 630,298 731,298 832,295 933,297 1034,295 1135,295 1237,294 1338,292 1439,289 1540,290 1641,289 1742,289 1843,289 1944,289 2045,286 2146,286 2248,283</zone>
+			<zone xml:id="p1z2-0" points="326,400 675,410 759,357 928,397 1115,346 2296,369 2299,281 2051,321 804,301 713,336 599,301 326,336">340,367 443,364 546,361 649,358 752,354 855,352 958,349 1061,346 1164,346 1267,343 1371,343 1474,343 1577,343 1680,340 1783,340 1886,340 1989,340 2092,340 2195,338 2299,334</zone>
+			<zone xml:id="p1z3-0" points="334,468 665,420 754,463 1143,405 1229,440 1393,400 2276,402 2276,362 2205,344 2096,377 1934,339 1892,372 1014,354 941,389 761,354 708,400 678,367 336,405">349,435 445,430 542,426 638,420 735,415 832,412 928,407 1025,403 1121,400 1218,400 1315,397 1411,397 1508,394 1604,394 1701,391 1798,391 1894,394 1991,394 2087,394 2184,394 2281,391</zone>
+			<zone xml:id="p1z4-0" points="339,526 1077,463 1452,493 1593,448 2149,480 2289,448 2291,402 1123,405 341,468">352,492 449,489 546,483 643,477 740,474 838,470 935,465 1032,460 1129,456 1226,453 1324,450 1421,447 1518,447 1615,447 1712,447 1810,447 1907,447 2004,447 2101,447 2198,445 2296,444</zone>
+			<zone xml:id="p1z5-0" points="346,592 809,534 1052,569 1302,513 1409,549 1489,511 1623,544 1730,506 1879,536 2283,501 2283,450 1861,483 1459,450 1075,460 956,503 465,488 349,531">364,552 460,546 556,542 652,536 749,532 845,529 941,525 1038,522 1134,515 1230,513 1327,510 1423,507 1519,504 1615,504 1712,501 1808,501 1904,500 2001,496 2097,497 2193,495 2290,495</zone>
+			<zone xml:id="p1z6-0" points="346,652 460,612 2261,554 2263,513 2152,498 2079,536 1489,511 1406,549 1034,521 966,564 814,534 349,594">364,621 459,611 554,606 649,597 744,594 839,588 934,582 1029,579 1124,577 1219,571 1315,571 1410,567 1505,564 1600,561 1695,560 1790,558 1885,557 1980,555 2075,552 2170,549 2266,546</zone>
+			<zone xml:id="p1z7-0" points="346,698 1019,650 1095,683 1487,668 1889,612 2066,642 2256,612 2289,569 880,594 349,650">361,680 457,674 554,667 650,660 747,655 844,650 940,646 1037,642 1133,639 1230,635 1327,632 1423,625 1520,622 1616,618 1713,615 1810,614 1906,611 2003,607 2099,606 2196,603 2293,597</zone>
+			<zone xml:id="p1z8-0" points="351,781 870,716 948,749 1097,706 1598,723 1795,675 2266,665 1892,609 1489,668 880,655 766,698 685,663 357,700">367,743 462,733 557,726 652,722 747,716 842,710 937,707 1032,704 1127,701 1222,696 1318,695 1413,689 1508,686 1603,680 1698,673 1793,670 1888,667 1983,663 2078,660 2173,656 2269,653</zone>
+			<zone xml:id="p1z9-0" points="349,827 584,786 832,832 1249,759 1393,786 1970,728 2124,779 2286,769 2291,698 1922,668 1800,711 1257,698 1158,738 1105,703 349,781">364,800 460,794 557,785 653,781 750,778 847,771 943,768 1040,764 1136,761 1233,754 1330,751 1426,744 1523,740 1619,734 1716,731 1813,728 1909,725 2006,720 2102,719 2199,716 2296,719</zone>
+			<zone xml:id="p1z10-0" points="354,888 526,865 614,903 741,855 840,883 931,840 1001,872 1436,824 1517,855 1568,817 1702,850 1965,797 2084,824 2197,797 2203,733 357,822">367,869 463,863 560,856 657,850 754,843 850,840 947,836 1044,830 1141,827 1238,823 1334,816 1431,813 1528,809 1625,806 1722,800 1818,796 1915,791 2012,788 2109,785 2206,788</zone>
+			<zone xml:id="p1z11-0" points="349,941 948,953 1138,890 1368,933 1990,855 2294,890 2314,809 351,888">364,934 461,926 559,920 656,916 754,909 851,905 949,898 1046,893 1144,889 1241,883 1339,879 1436,874 1534,871 1631,867 1729,863 1826,857 1924,854 2021,851 2119,848 2216,845 2314,839</zone>
+			<zone xml:id="p1z12-0" points="359,1027 1082,961 1163,996 1366,948 1603,979 2129,915 2180,948 2200,877 1995,850 1626,875 1573,915 1204,931 1135,893 953,946 362,953">373,991 464,988 556,982 647,978 739,972 831,966 922,963 1014,960 1106,955 1197,954 1289,947 1381,943 1472,938 1564,934 1656,929 1747,926 1839,920 1931,916 2022,910 2114,904 2206,904</zone>
+			<zone xml:id="p1z13-0" points="359,1085 931,1039 1047,1067 1211,1014 2046,1017 2091,979 2165,1027 2314,986 2304,893 2048,948 1828,928 1740,971 362,1014">373,1063 470,1053 567,1045 665,1042 762,1035 859,1029 957,1024 1054,1019 1151,1015 1249,1012 1346,1005 1443,1002 1541,998 1638,992 1735,991 1833,985 1930,982 2027,978 2125,971 2222,967 2320,970</zone>
+			<zone xml:id="p1z14-0" points="357,1161 455,1125 518,1161 594,1115 1087,1148 1282,1080 1558,1128 1914,1054 2056,1090 2215,1052 2324,1097 2329,994 359,1087">370,1128 468,1118 566,1108 664,1102 762,1095 860,1089 958,1087 1056,1084 1154,1079 1252,1075 1351,1072 1449,1065 1547,1062 1645,1058 1743,1054 1841,1051 1939,1048 2037,1048 2135,1046 2233,1045 2332,1048</zone>
+			<zone xml:id="p1z15-0" points="359,1211 486,1204 516,1186 577,1226 703,1204 746,1216 784,1191 814,1201 819,1123 791,1118 683,1146 597,1115 516,1161 448,1128 362,1171">376,1188 402,1188 428,1188 455,1186 481,1184 507,1182 534,1180 560,1178 586,1175 613,1173 639,1173 665,1172 692,1170 718,1168 744,1166 771,1165 797,1164 824,1164</zone>
+			<zone xml:id="p1z16-0" points="1714,1310 1851,1307 1902,1350 2048,1350 2071,1366 2185,1302 2208,1307 2210,1209 2187,1201 2091,1232 1993,1209 1864,1252 1720,1219">1732,1307 1757,1305 1782,1304 1808,1304 1833,1304 1859,1304 1884,1304 1909,1304 1935,1303 1960,1301 1986,1299 2011,1298 2037,1296 2062,1294 2087,1293 2113,1293 2138,1292 2164,1290 2189,1289 2215,1287</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!349!Autograph!01%20E_II_336__fol__312_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">349/Autograph/01 E_II_336__fol__312_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="845,1495 1421,1504 1412,1420 1303,1423 1254,1395 1126,1436 1063,1409 951,1436 845,1408">850,1483 878,1483 907,1482 935,1480 964,1480 993,1479 1021,1478 1050,1478 1079,1480 1107,1480 1136,1480 1165,1480 1193,1482 1222,1483 1251,1483 1279,1483 1308,1483 1337,1483 1365,1483 1394,1483 1423,1483</zone>
+			<zone xml:id="p2z2-0" points="899,1608 991,1608 1112,1577 1166,1608 1198,1607 1280,1570 1303,1576 1303,1520 1274,1523 1247,1501 1186,1527 899,1528">904,1552 929,1552 954,1552 979,1552 1004,1552 1029,1552 1054,1552 1079,1552 1104,1552 1129,1552 1154,1552 1179,1552 1204,1554 1229,1554 1254,1553 1279,1552 1304,1552</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Quid si conareris persuadere tuis, ut, postquam convenit inter ipsos legatos, non literis, sed ore darent responsum <placeName ref="l2448">Quinquepagicis</placeName>.</s>
-					<s n="3" xml:lang="la">Literę exponuntur pro libitu, sicut nosti; verba oris, si secus, quam sunt dicta quis interpretaretur, adessent, quibus veritas posset exponi.</s>
-					<s n="4" xml:lang="la">Deinde res nostrę valerent fieri notę etiam plebeis, qui alioqui nihil harum intelligunt et, quis scis, moneri quoque, ut longe aliter de nobis sentirent deque Cęsaris animo, quam hodie sentiant instructi a primoribus suis.</s>
-					<s n="5" xml:lang="la">Dixi nimirum de sermone, quem <placeName ref="l18">Augustanus</placeName> quidam senex hic in nundinis protulit ad hunc modum: "Rogatus Cęsar, cur nudam fere pręsidiis reliquisset Svevicas civitates, quas tamen nosset ad libertatem recuperandam plane respicere, respondit: nihil timendum; inter se nanque invicem non confidunt.</s>
-					<s n="6" xml:lang="la">Idem fere dixit de nobis facilem esse victoriam, quod dissideremus, et hoc dissidium ipse, quantum posset, foveret, usque dum voti compos fieri posset."</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Quid si conareris persuadere tuis, ut, postquam convenit inter ipsos legatos, non literis, sed ore darent <lb xml:id="p1z2"/>responsum <placeName ref="l2448">Quinquepagicis</placeName>.</s>
+					<s n="3" xml:lang="la">Literę exponuntur pro libitu, sicut nosti; verba oris, si secus, quam sunt dicta <lb xml:id="p1z3"/>quis interpretaretur, adessent, quibus veritas posset exponi.</s>
+					<s n="4" xml:lang="la">Deinde res nostrę valerent fieri <lb xml:id="p1z4"/>notę etiam plebeis, qui alioqui nihil harum intelligunt et, quis scis, moneri quoque, ut longe <lb xml:id="p1z5"/>aliter de nobis sentirent deque Cęsaris animo, quam hodie sentiant instructi a primoribus <lb xml:id="p1z6"/>suis.</s>
+					<s n="5" xml:lang="la">Dixi nimirum de sermone, quem <placeName ref="l18">Augustanus</placeName> quidam senex hic in nundinis protulit ad <lb xml:id="p1z7"/>hunc modum: "Rogatus Cęsar, cur nudam fere pręsidiis reliquisset Svevicas civitates, quas tamen nos<lb xml:id="p1z8"/>set ad libertatem recuperandam plane respicere, respondit: nihil timendum; inter se nanque <lb xml:id="p1z9"/>invicem non confidunt.</s>
+					<s n="6" xml:lang="la">Idem fere dixit de nobis facilem esse victoriam, quod dissideremus, et hoc <lb xml:id="p1z10"/>dissidium ipse, quantum posset, foveret, usque dum voti compos fieri posset."</s>
 					<s n="7" xml:lang="la">Hęc scienda sunt.</s>
-					<s n="8" xml:lang="la">Novem tonnas auri corrasit ab una <placeName ref="l15">Antverpia</placeName>, quod certum; de viginti aureis septem dare coacti sunt.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z11"/>Novem tonnas auri corrasit ab una <placeName ref="l15">Antverpia</placeName>, quod certum; de viginti aureis septem da<lb xml:id="p1z12"/>re coacti sunt.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la">Illam pecuniam credo colligi contra nos, quicquid de ipso nobis persuadeamus.</s>
-					<s n="10" xml:lang="la">Consultatio instituta est inter <placeName ref="l491">Argentinenses</placeName> et episcopum de Interim recipiendo sine offensione populi.</s>
-					<s n="11" xml:lang="la">Nescio tamen, actio sitne coepta annon.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z13"/>Consultatio instituta est inter <placeName ref="l491">Argentinenses</placeName> et episcopum de Interim recipiendo sine offensione populi.</s>
+					<s n="11" xml:lang="la">Ne<lb xml:id="p1z14"/>scio tamen, actio sitne coepta annon.</s>
 					<s n="12" xml:lang="la" ana="farewell">Vale et rem nostram graviter agito.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la">Raptim, 22. Novembris anno 1548.</s>
+					<s n="13" xml:lang="la">Raptim, 22. No<lb xml:id="p1z15"/>vembris anno 1548.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la">Tuus <persName ref="p8418">Os[valdus] Myco[nius]</persName>.</s>
+					<s n="14" xml:lang="la"><lb xml:id="p1z16"/>Tuus <persName ref="p8418">Os[valdus] Myco[<pb/><lb xml:id="p2z1"/>nius]</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse:]</note>
-					<s n="15" xml:lang="la">D. <persName ref="p495">Hheinricho Bullingero</persName>, in domino suo.</s>
+					<s n="15" xml:lang="la">D. <persName ref="p495">Hheinricho Bullingero</persName>, <lb xml:id="p2z2"/>in domino suo.</s>
 				</p>
 			</div>
 		</body>

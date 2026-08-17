@@ -79,33 +79,49 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10614!Autograph!00%20E_II_360__S__21_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10614/Autograph/00 E_II_360__S__21_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="348,362 440,321 749,312 813,351 865,312 1189,315 2146,382 2436,362 2436,301 1991,312 1891,268 1629,304 1418,224 1330,288 1048,205 346,254">363,316 467,312 571,308 675,307 779,307 883,305 987,307 1091,310 1195,312 1299,316 1403,320 1507,324 1611,328 1715,332 1819,336 1923,337 2027,340 2131,343 2235,345 2339,346 2443,352</zone>
+			<zone xml:id="p1z2-0" points="362,404 2331,418 2309,351 1388,362 1164,318 1070,354 896,312 813,351 691,315 362,359">378,384 476,378 574,378 672,375 770,375 868,375 966,375 1064,375 1162,378 1260,378 1358,381 1456,381 1554,384 1652,387 1750,389 1848,393 1946,396 2044,399 2142,399 2240,399 2339,402</zone>
+			<zone xml:id="p1z3-0" points="318,495 677,440 912,484 1018,453 1537,489 1623,451 2240,509 2450,481 2447,384 2265,445 1048,379 865,418 315,412">331,447 437,441 543,441 650,441 756,438 862,438 969,438 1075,440 1181,441 1288,442 1394,444 1500,444 1607,447 1713,447 1819,454 1926,458 2032,462 2138,465 2245,468 2351,468 2458,471</zone>
+			<zone xml:id="p1z4-0" points="382,550 545,509 948,539 1402,506 2403,564 2455,547 2453,481 379,462">396,510 499,504 602,504 705,504 809,504 912,503 1015,501 1118,504 1222,504 1325,504 1428,504 1531,507 1635,509 1738,513 1841,517 1944,519 2048,522 2151,525 2254,525 2357,528 2461,537</zone>
+			<zone xml:id="p1z5-0" points="365,600 509,567 675,608 879,578 1159,614 1349,572 1640,614 1781,578 1833,611 2464,606 2433,547 1706,550 1394,506 943,542 542,509 365,561">381,578 485,568 589,566 693,563 798,563 902,563 1006,563 1111,563 1215,566 1319,566 1424,566 1528,568 1632,572 1736,575 1841,575 1945,578 2049,578 2154,580 2258,584 2362,585 2467,590</zone>
+			<zone xml:id="p1z6-0" points="371,664 982,625 1092,664 1416,636 1468,675 1653,641 1869,697 1944,658 2375,664 2375,600 2030,581 664,608 592,570 371,622">387,641 486,632 586,629 686,627 786,626 886,626 985,626 1085,626 1185,626 1285,626 1385,626 1484,629 1584,629 1684,632 1784,635 1884,636 1983,640 2083,641 2183,641 2283,642 2383,647</zone>
+			<zone xml:id="p1z7-0" points="371,730 572,694 675,730 1164,697 1222,733 1410,697 1598,747 1781,702 1900,747 2052,705 2231,744 2406,719 2347,658 2204,644 1991,683 1653,641 1468,675 1391,633 1175,672 987,625 863,669 371,664">387,701 488,691 589,689 690,689 792,689 893,689 994,689 1096,689 1197,692 1298,692 1400,692 1501,692 1602,695 1703,698 1805,701 1906,704 2007,704 2109,704 2210,707 2311,704 2413,707</zone>
+			<zone xml:id="p1z8-0" points="376,807 567,769 647,810 924,777 1233,818 1305,771 1446,810 1482,774 2461,810 2458,730 2408,716 2278,760 1783,705 1609,749 1441,702 373,713">390,760 493,755 597,757 701,760 804,760 908,760 1012,760 1115,760 1219,760 1323,763 1427,763 1530,766 1634,769 1738,772 1841,773 1945,775 2049,775 2152,775 2256,778 2360,781 2464,781</zone>
+			<zone xml:id="p1z9-0" points="379,846 2400,871 2400,810 2187,785 1750,816 1571,774 1446,810 1399,777 1225,810 785,777 644,810 564,771 379,805">393,835 493,829 594,829 695,831 795,826 896,829 997,829 1097,829 1198,829 1299,830 1400,832 1500,832 1601,835 1702,835 1802,835 1903,836 2004,838 2104,838 2205,838 2306,837 2407,835</zone>
+			<zone xml:id="p1z10-0" points="357,926 448,901 547,951 636,901 755,948 888,915 937,962 1034,904 1714,957 2079,912 2176,951 2464,946 2464,868 2273,852 2226,888 1922,843 1598,879 1518,843 1214,874 1123,843 1067,882 816,838 357,865">372,904 476,901 581,901 686,901 791,901 896,903 1001,904 1106,903 1211,901 1316,901 1421,901 1525,899 1630,901 1735,902 1840,904 1945,907 2050,907 2155,907 2260,909 2365,912 2470,915</zone>
+			<zone xml:id="p1z11-0" points="376,1018 451,976 592,1018 752,976 1081,1023 1280,973 1430,1023 1518,976 1629,1020 1761,973 2223,1026 2281,993 2594,1009 2566,918 2483,959 2350,926 2182,957 2104,918 1908,954 1394,907 1037,954 376,918">390,975 500,971 611,972 721,974 832,972 942,972 1053,975 1163,973 1274,972 1384,972 1495,970 1606,969 1716,972 1827,972 1937,972 2048,975 2158,975 2269,978 2379,979 2490,981 2601,990</zone>
+			<zone xml:id="p1z12-0" points="371,1112 857,1051 1441,1084 1847,1042 2383,1114 2486,1081 2425,1004 2209,1026 2096,982 1866,1018 1745,979 1618,1020 1507,979 1388,1020 1277,976 968,1023 924,982 581,1018 442,979 368,1023">384,1044 489,1041 595,1043 700,1041 806,1044 911,1044 1017,1044 1122,1043 1228,1041 1333,1039 1439,1038 1544,1038 1650,1040 1755,1038 1861,1038 1966,1042 2072,1043 2177,1047 2283,1050 2388,1056 2494,1065</zone>
+			<zone xml:id="p1z13-0" points="1841,1241 1905,1219 1944,1247 2052,1208 2162,1244 2215,1208 2276,1239 2350,1239 2347,1081 2259,1109 2179,1081 2021,1131 1916,1117 1839,1134">1858,1193 1884,1188 1910,1187 1936,1187 1963,1187 1989,1187 2015,1187 2041,1187 2068,1187 2094,1184 2120,1181 2146,1181 2173,1182 2199,1184 2225,1187 2251,1191 2278,1197 2304,1199 2330,1198 2357,1196</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10614!Autograph!01%20E_II_360__S__22_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10614/Autograph/01 E_II_360__S__22_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="636,1247 726,1247 763,1225 1051,1247 1088,1234 1089,1194 999,1151 878,1145 801,1170 695,1124 639,1125">642,1229 668,1222 694,1222 721,1221 747,1219 773,1218 800,1218 826,1218 852,1218 879,1218 905,1218 931,1218 958,1217 984,1215 1010,1214 1037,1214 1063,1214 1090,1212</zone>
+			<zone xml:id="p2z2-0" points="621,1350 759,1319 934,1318 1013,1298 1015,1242 980,1232 848,1250 806,1227 673,1257 625,1249">628,1296 653,1298 679,1298 705,1298 730,1297 756,1295 782,1293 808,1292 833,1292 859,1294 885,1293 911,1289 936,1286 962,1285 988,1284 1014,1282</zone>
+			<zone xml:id="p2z3-0" points="721,1398 763,1398 807,1422 946,1402 947,1326 929,1318 769,1317 722,1336">726,1372 753,1371 781,1370 809,1370 837,1370 864,1370 892,1368 920,1368 948,1366</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Penultima aprilis <persName ref="p8412">Megander</persName> synodum <placeName ref="l69">Brugensem</placeName> conveniet<note xml:id="fn1" type="footnote" n="1">Zu <persName ref="p8412">Meganders</persName> Visitationsreise, welche ihn unter anderem zur Kapitelversammlung nach <placeName ref="l69">Brugg</placeName> führte, vgl. <hi>de Quervain</hi> 17.</note>, charissime <persName ref="p495">Heinrice</persName>.</s>
-					<s n="3" xml:lang="la">Quod eo libentius tibi significare volui, ne ulla ex parte tuam negligere videar petitionem.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z2"/>Quod eo libentius tibi significare volui, ne ulla ex parte tuam negligere videar petitionem.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">Interim te non lateat calamitas urbis nostrę, quam 19. huius mane post secundam horam passi sumus.</s>
-					<s n="5" xml:lang="la">Ignis enim vehementissimus propicio vento combussit 25 ędes praeter horrea et granaria in suprema parte civitatis, quam vocant<pb type="edition" next="206"/> <foreign xml:lang="de">an der spittelgassen<note xml:id="fn2" type="footnote" n="2">Vgl. <persName ref="p4188">Anshelm</persName> VI 228-231; Paul <hi>Hofer,</hi> Die Kunstdenkmäler des Kt. Bern, Bd. II: Die Stadt Bern. Gesellschaftshäuser und Wohnbauten, Basel 1959. - Die Kunstdenkmäler der Schweiz, Bd. 40, S. 434, Anm. 4, mit weiterer Lit.</note>.</foreign></s>
-					<s n="6" xml:lang="de">Derglychen für und schnelli der brunst bsint sich kein <placeName ref="l41">Berner</placeName>, dann man mocht nitt zuͦ dem für kummen, biß daß sich der wind endrit, und wo er sich nitt geendret hette, stuͦnd die gancze statt in gfar.</s>
-					<s n="7" xml:lang="de">Glych uff denselben tag znacht, zenächst by der statt, sind verbrunnen 2 höff mitt hüsern, schüren und spichern.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z3"/>Interim te non lateat calamitas urbis nostrę, quam 19. huius mane post secundam horam passi sumus.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z4"/>Ignis enim vehementissimus propicio vento combussit 25 ędes praeter horrea et granaria in suprema <lb xml:id="p1z5"/>parte civitatis, quam vocant<pb type="edition" next="206"/> <foreign xml:lang="de">an der spittelgassen<note xml:id="fn2" type="footnote" n="2">Vgl. <persName ref="p4188">Anshelm</persName> VI 228-231; Paul <hi>Hofer,</hi> Die Kunstdenkmäler des Kt. Bern, Bd. II: Die Stadt Bern. Gesellschaftshäuser und Wohnbauten, Basel 1959. - Die Kunstdenkmäler der Schweiz, Bd. 40, S. 434, Anm. 4, mit weiterer Lit.</note>.</foreign></s>
+					<s n="6" xml:lang="de">Derglychen für und schnelli der brunst bsint sich <lb xml:id="p1z6"/>kein <placeName ref="l41">Berner</placeName>, dann man mocht nitt zuͦ dem für kummen, biß daß sich der wind endrit, <lb xml:id="p1z7"/>und wo er sich nitt geendret hette, stuͦnd die gancze statt in gfar.</s>
+					<s n="7" xml:lang="de">Glych uff den<lb xml:id="p1z8"/>selben tag znacht, zenächst by der statt, sind verbrunnen 2 höff mitt hüsern, schüren <lb xml:id="p1z9"/>und spichern.</s>
 					<s n="8" xml:lang="de">Stond also in grosser sorg<note xml:id="fn3" type="footnote" n="3">Man verdächtigte den <persName ref="p7295">Kastellan von Musso</persName> der Aussendung von Brandstiftern, vgl. Anshelm VI 231; <bibl source="b197">EA</bibl> IV/1c 552.</note>, hab ich dir nitt wellen verhalten.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de">Der bott ist mir ze spat anzeigt, doch so weiß ich nütt wyter.</s>
+					<s n="9" xml:lang="de">Der <lb xml:id="p1z10"/>bott ist mir ze spat anzeigt, doch so weiß ich nütt wyter.</s>
 					<s n="10" xml:lang="de">Lieber, schrib doch.</s>
-					<s n="11" xml:lang="de">Ich hab sid ze <placeName ref="l582">Zofingen</placeName><note xml:id="fn4" type="footnote" n="4">Siehe oben <ref target="file10607">Nr. 569</ref>, 1-8.</note> kein brieff enpfangen.</s>
-					<s n="12" xml:lang="la">Nuncius est tutissimus, unus a <persName ref="p20765">Madiis</persName>, <persName ref="p5789">Jacobi</persName> a <persName ref="p20765">Madiis</persName> frater<note xml:id="fn5" type="footnote" ana="bio" n="5">Welcher Bruder von <persName ref="p5789">Jakob May</persName> gemeint ist, konnte nicht festgestellt werden.</note>, qui reducet ab <persName ref="p5826">Enocho</persName> mortuo duos <placeName ref="l822">germanos</placeName><note xml:id="fn6" type="footnote" n="6"><persName ref="p5826">Enoch Metzger</persName> hatte mehrere Brüder von <persName ref="p5789">Jakob May</persName> zur Erziehung bei sich, u. a. wahrscheinlich <persName ref="p5791">Wolfgang May</persName>; vgl. <bibl source="b5">HBBW III</bibl> <ref target="file10252">[Nr. 221]</ref>, S. 123, Anm. 3 und 6.</note>.</s>
+					<s n="11" xml:lang="de">Ich hab <lb xml:id="p1z11"/>sid ze <placeName ref="l582">Zofingen</placeName><note xml:id="fn4" type="footnote" n="4">Siehe oben <ref target="file10607">Nr. 569</ref>, 1-8.</note> kein brieff enpfangen.</s>
+					<s n="12" xml:lang="la">Nuncius est tutissimus, unus a <persName ref="p20765">Madiis</persName>, <persName ref="p5789">Jacobi</persName> a <persName ref="p20765">Madiis</persName> <lb xml:id="p1z12"/>frater<note xml:id="fn5" type="footnote" ana="bio" n="5">Welcher Bruder von <persName ref="p5789">Jakob May</persName> gemeint ist, konnte nicht festgestellt werden.</note>, qui reducet ab <persName ref="p5826">Enocho</persName> mortuo duos <placeName ref="l822">germanos</placeName><note xml:id="fn6" type="footnote" n="6"><persName ref="p5826">Enoch Metzger</persName> hatte mehrere Brüder von <persName ref="p5789">Jakob May</persName> zur Erziehung bei sich, u. a. wahrscheinlich <persName ref="p5791">Wolfgang May</persName>; vgl. <bibl source="b5">HBBW III</bibl> <ref target="file10252">[Nr. 221]</ref>, S. 123, Anm. 3 und 6.</note>.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" ana="farewell">Vale.</s>
@@ -114,11 +130,11 @@
 					<s n="14" xml:lang="la">22. aprilis anno 35.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la">Tuus <persName ref="p1391">Berch. H.</persName></s>
+					<s n="15" xml:lang="la"><lb xml:id="p1z13"/>Tuus <persName ref="p1391">Berch. H.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="16" xml:lang="la"><persName ref="p495">Heinrico Bullingero</persName>, fratri suo charissimo.</s>
+					<s n="16" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Heinrico Bullingero</persName>, <lb xml:id="p2z2"/>fratri suo <lb xml:id="p2z3"/>charissimo.</s>
 				</p>
 			</div>
 		</body>

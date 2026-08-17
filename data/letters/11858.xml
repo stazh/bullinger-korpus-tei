@@ -79,32 +79,45 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11858!Autograph!00%20E_II_335__fol__2066_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11858/Autograph/00 E_II_335__fol__2066_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="546,317 950,278 2448,336 2473,227 2251,283 1973,200 1786,251 1506,202 1177,244 1079,200 543,251">557,280 653,279 749,275 845,274 942,276 1038,279 1134,280 1230,280 1327,283 1423,286 1519,286 1615,288 1712,290 1808,292 1904,295 2000,299 2097,302 2193,306 2289,307 2385,307 2482,313</zone>
+			<zone xml:id="p1z2-0" points="514,373 1834,368 1939,417 2102,385 2351,414 2468,397 2468,336 1588,300 1496,331 1386,297 1140,326 950,278 809,324 512,307">528,343 625,343 722,343 819,343 917,346 1014,346 1111,349 1208,350 1306,352 1403,354 1500,355 1597,358 1695,358 1792,362 1889,363 1986,365 2084,371 2181,372 2278,375 2375,375 2473,378</zone>
+			<zone xml:id="p1z3-0" points="512,441 1666,429 2200,487 2441,456 2439,412 2188,385 1939,417 1391,358 512,380">525,411 621,408 717,408 813,408 909,410 1005,411 1101,411 1197,414 1293,418 1389,418 1485,420 1581,423 1677,425 1773,429 1869,432 1965,437 2061,439 2157,444 2253,444 2349,447 2446,450</zone>
+			<zone xml:id="p1z4-0" points="502,534 636,492 1213,558 1352,512 1878,546 1966,538 1964,480 1057,419 497,431">513,480 589,475 666,477 743,477 820,477 896,477 973,478 1050,480 1127,483 1204,486 1280,489 1357,492 1434,494 1511,495 1588,498 1664,503 1741,508 1818,510 1895,516 1972,519</zone>
+			<zone xml:id="p1z5-0" points="463,777 2422,775 2422,721 2280,670 2020,653 1895,714 1428,685 1318,731 1013,660 692,711 463,650">477,754 574,751 671,751 769,751 866,751 964,751 1061,751 1158,752 1256,751 1353,751 1451,751 1548,754 1645,754 1743,754 1840,754 1938,754 2035,754 2132,754 2230,753 2327,754 2425,754</zone>
+			<zone xml:id="p1z6-0" points="497,858 2444,826 2424,760 2222,799 2156,760 2037,797 1418,763 1355,799 1191,758 828,797 497,760">510,835 606,826 703,823 800,822 897,820 994,820 1090,818 1187,817 1284,817 1381,817 1478,817 1574,818 1671,817 1768,820 1865,820 1962,820 2058,820 2155,820 2252,817 2349,817 2446,820</zone>
+			<zone xml:id="p1z7-0" points="507,926 1720,887 1832,936 1961,889 2290,911 2344,875 2446,921 2431,826 507,867">519,909 615,904 712,898 808,894 905,888 1002,886 1098,883 1195,880 1292,883 1388,880 1485,882 1582,880 1678,882 1775,880 1872,880 1968,881 2065,880 2162,880 2258,882 2355,877 2452,877</zone>
+			<zone xml:id="p1z8-0" points="495,1006 1481,957 1744,1043 1761,901 743,936 704,906 495,948">507,990 573,981 639,973 705,968 772,964 838,960 904,958 970,956 1037,954 1103,953 1169,953 1235,954 1302,952 1368,954 1434,953 1500,954 1567,957 1633,957 1699,959 1766,957</zone>
+			<zone xml:id="p1z9-0" points="1917,1376 2017,1350 2088,1374 2154,1340 2215,1372 2349,1338 2370,1350 2378,1211 2239,1225 2207,1201 2112,1228 2059,1204 1968,1235 1925,1221">1933,1333 1959,1330 1985,1326 2011,1322 2038,1320 2064,1318 2090,1316 2117,1315 2143,1313 2169,1312 2195,1312 2222,1311 2248,1309 2274,1309 2301,1309 2327,1309 2353,1309 2380,1309</zone>
+			<zone xml:id="p1z10-0" points="2020,1423 2044,1435 2059,1428 2076,1433 2083,1425 2137,1411 2161,1433 2183,1428 2185,1362 2171,1357 2134,1381 2107,1362 2083,1374 2061,1359 2054,1367 2046,1359 2039,1364 2025,1359">2034,1414 2060,1408 2086,1406 2113,1404 2139,1403 2165,1401 2192,1399</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11858!Autograph!01%20E_II_335__fol__2066_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11858/Autograph/01 E_II_335__fol__2066_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="2166,1559 2316,1532 2386,1560 2625,1570 2701,1543 2749,1576 2785,1555 2853,1570 2876,1566 2874,1481 2686,1466 2643,1435 2574,1469 2381,1460 2299,1483 2263,1462 2164,1494">2177,1530 2212,1528 2247,1525 2282,1524 2317,1524 2352,1524 2387,1526 2422,1527 2457,1528 2492,1530 2527,1530 2562,1532 2597,1534 2632,1535 2667,1533 2702,1535 2737,1536 2772,1537 2807,1539 2842,1542 2878,1545</zone>
+			<zone xml:id="p2z2-0" points="2250,1667 2384,1627 2838,1644 2838,1583 2785,1597 2686,1551 2625,1572 2498,1549 2246,1572">2258,1610 2287,1610 2316,1609 2345,1607 2374,1609 2404,1609 2433,1607 2462,1609 2491,1610 2520,1610 2550,1612 2579,1614 2608,1616 2637,1616 2666,1616 2696,1618 2725,1619 2754,1619 2783,1619 2812,1621 2842,1625</zone>
+			<zone xml:id="p2z3-0" points="2212,1741 2637,1720 2681,1741 2838,1737 2838,1665 2779,1631 2724,1652 2643,1623 2529,1644 2485,1623 2339,1650 2289,1610 2212,1627">2222,1691 2253,1689 2284,1688 2315,1688 2346,1686 2377,1686 2408,1688 2439,1685 2470,1687 2501,1687 2532,1685 2563,1685 2594,1685 2625,1685 2656,1687 2687,1689 2718,1691 2749,1691 2780,1691 2811,1692 2842,1697</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">De muliercula christianissima, cui <placeName ref="l322">Metenses</placeName> iussu legati imperialis<note xml:id="fn1" type="footnote" n="1"><persName ref="p7267">Charles de Boisot</persName>.</note> praeciderunt linguam,<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11857">Nr. 1811</ref>, 31-33 mit Anm. 18.</note> de duabus item <placeName ref="l1322">Lovanii</placeName> vivis subtus terram defossis, de<pb type="edition" next="318"/> duobus viris ibidem decollatis<note xml:id="fn3" type="footnote" n="3">Vgl. oben ebd., Z. 14f mit Anm. 10.</note> deque multitudine exulantium dicent, qui has reddunt<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la"><lb xml:id="p1z2"/>De m<lb xml:id="p1z3"/>uli<lb xml:id="p1z4"/>er<lb xml:id="p1z5"/>cula christianissima, cui <placeName ref="l322">Metenses</placeName> iussu legati imperialis<note xml:id="fn1" type="footnote" n="1"><persName ref="p7267">Charles de Boisot</persName>.</note> praeciderunt <lb xml:id="p1z6"/>linguam,<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11857">Nr. 1811</ref>, 31-33 mit Anm. 18.</note> de duabus item <placeName ref="l1322">Lovanii</placeName> vivis subtus terram defossis, de<pb type="edition" next="318"/> duobus viris ibidem <lb xml:id="p1z7"/>decollatis<note xml:id="fn3" type="footnote" n="3">Vgl. oben ebd., Z. 14f mit Anm. 10.</note> deque multitudine exulantium dicent, qui has reddunt<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note>.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la" ana="farewell">Vale per Christum.</s>
+					<s n="3" xml:lang="la" ana="farewell">Vale <lb xml:id="p1z8"/>per Christum.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la"><placeName ref="l28">Basileę</placeName>, 8. novembris anno 1543.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z9"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z10"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="6" xml:lang="la">D. <persName ref="p495">Heinricho Bullingero</persName> doctissimo, fratri in domino observandissimo suo.</s>
+					<s n="6" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Heinricho Bullingero</persName> <lb xml:id="p2z2"/>doctissimo, fratri in <lb xml:id="p2z3"/>domino observandissimo suo.</s>
 					<s n="7" xml:lang="de"><placeName ref="l587">Z[üric]h</placeName><note xml:id="fnb" type="footnote" n="b"><hi>Teilweise auf das nur fragmentarisch erhaltene Verschlussband geschrieben.</hi></note>.</s>
 				</p>
 			</div>

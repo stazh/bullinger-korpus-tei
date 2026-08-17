@@ -74,25 +74,32 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4086!Autograph!00%20E_II_368__fol__427_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4086/Autograph/00 E_II_368__fol__427_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="674,173 1095,208 1179,171 1295,208 1496,158 1783,193 1879,144 1998,181 2117,136 2310,181 2402,141 2650,173 2667,87 1941,116 1845,82 1674,119 1515,82 1144,121 914,87 795,141 674,97">687,170 786,164 885,158 984,157 1083,155 1182,152 1281,149 1380,149 1479,149 1578,146 1677,143 1776,143 1875,142 1974,140 2073,137 2172,137 2271,140 2370,137 2469,137 2568,137 2667,134</zone>
+			<zone xml:id="p1z2-0" points="703,265 2095,270 2258,228 2657,262 2657,163 2501,191 2404,144 1976,206 1877,161 1654,213 1553,171 983,218 703,183">717,241 814,236 911,233 1009,236 1106,236 1203,236 1301,236 1398,236 1495,233 1593,233 1690,232 1787,229 1885,227 1982,225 2079,224 2177,221 2274,221 2371,221 2469,223 2566,222 2664,224</zone>
+			<zone xml:id="p1z3-0" points="708,352 773,319 1097,357 1263,302 1367,342 1585,305 2593,305 2593,240 2370,233 2184,272 708,265">722,310 815,307 909,304 1003,304 1097,304 1191,302 1285,301 1378,301 1472,301 1566,301 1660,301 1754,298 1848,300 1942,298 2035,297 2129,295 2223,293 2317,289 2411,292 2505,289 2599,292</zone>
+			<zone xml:id="p1z4-0" points="706,416 946,381 1060,441 1109,409 1194,443 1850,366 2095,411 2352,357 2481,394 2523,376 2526,295 2407,329 2315,287 2135,332 1927,305 1855,349 1748,307 1434,317 1236,359 1169,322 862,364 768,322 706,357">719,382 809,379 900,379 990,379 1081,379 1171,379 1262,377 1352,376 1443,374 1533,373 1624,373 1715,368 1805,365 1896,364 1986,361 2077,358 2167,355 2258,355 2348,352 2439,352 2530,346</zone>
+			<zone xml:id="p1z5-0" points="1662,527 1810,535 1840,508 2070,542 2132,498 2231,503 2236,396 2110,423 2008,391 1872,446 1855,423 1815,441 1667,409">1675,510 1703,510 1731,508 1759,506 1788,504 1816,502 1844,500 1872,496 1901,495 1929,495 1957,497 1985,499 2014,501 2042,498 2070,494 2098,490 2127,488 2155,486 2183,486 2211,487 2240,489</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4086!Autograph!01%20E_II_368__fol__427_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">4086/Autograph/01 E_II_368__fol__427_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="564,672 947,656 1138,715 1143,544 1067,556 971,533 758,615 566,610">569,665 597,665 626,662 654,659 683,659 712,658 740,656 769,654 798,653 826,653 855,653 884,652 912,650 941,650 970,650 998,650 1027,650 1056,650 1084,650 1113,648 1142,644</zone>
+			<zone xml:id="p2z2-0" points="605,791 640,782 675,804 744,768 811,783 967,759 1097,779 1108,726 1030,718 970,684 926,707 873,700 777,750 712,709 636,727 608,711">611,769 637,770 663,772 689,770 715,768 742,767 768,766 794,766 820,764 846,763 873,761 899,759 925,757 951,757 977,757 1004,755 1030,754 1056,754 1082,756 1109,760</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Heri ad te misi acta <placeName ref="l18">Augustanorum</placeName> comitiorum, nunc ad te mitto ad te leges academie gene[vensis?] et quę e <placeName ref="l301">Lugduno</placeName> scripta sunt.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Heri ad te misi acta <placeName ref="l18">Augustanorum</placeName> comitiorum, nunc ad te mitto ad te leges <lb xml:id="p1z2"/>academie gene[vensis?] et quę e <placeName ref="l301">Lugduno</placeName> scripta sunt.</s>
 					<s n="3" xml:lang="la">17. rex unctus est.</s>
-					<s n="4" xml:lang="la"><persName>Philippus</persName> nunc est in <placeName ref="l875">Hispania</placeName>.</s>
+					<s n="4" xml:lang="la"><persName>Philippus</persName> <lb xml:id="p1z3"/>nunc est in <placeName ref="l875">Hispania</placeName>.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la">Dux <placeName>Sabaudie</placeName> adhuc est cum <persName ref="p8112">rege Gallie</persName>.</s>
-					<s n="6" xml:lang="la">Spero me brevi te visurum.</s>
+					<s n="6" xml:lang="la">Spero me <lb xml:id="p1z4"/>brevi te visurum.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" ana="farewell">Bene vale.</s>
@@ -107,7 +114,7 @@
 					<s n="10" xml:lang="la">Tuus si suus.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la">D. H[enrico] Bul[lingero] e[cclesie] T[igurine] p[astori] v[igilantissimo] a[mico] s[uo].</s>
+					<s n="11" xml:lang="la">D. H[enrico] Bul[<lb xml:id="p1z5"/>lingero] e[cclesie] T[<pb/><lb xml:id="p2z1"/>igurine] p[astori] v[igilantissimo] <lb xml:id="p2z2"/>a[mico] s[uo].</s>
 				</p>
 			</div>
 		</body>

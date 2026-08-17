@@ -79,31 +79,46 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10433!Autograph!00%20E_II_362__fol__29_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10433/Autograph/00 E_II_362__fol__29_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="447,410 612,375 937,423 1046,386 1107,423 2587,412 2563,354 2398,373 2323,333 2259,373 2150,322 1871,381 1557,319 1203,365 1033,295 836,354 447,319">462,370 568,377 674,378 781,378 887,383 994,384 1100,385 1206,387 1313,390 1419,391 1526,393 1632,396 1738,399 1845,399 1951,402 2058,402 2164,402 2270,402 2377,399 2483,396 2590,393</zone>
+			<zone xml:id="p1z2-0" points="450,450 1203,439 1299,476 1892,487 2528,452 2528,410 450,407">465,429 568,426 672,428 775,429 879,432 982,434 1086,438 1189,438 1293,441 1396,443 1500,444 1604,447 1707,449 1811,450 1914,448 2018,450 2121,450 2225,450 2328,450 2432,450 2536,447</zone>
+			<zone xml:id="p1z3-0" points="450,495 2552,511 2549,463 2398,455 450,450">465,477 569,474 674,477 779,480 884,481 988,483 1093,486 1198,486 1303,488 1407,489 1512,492 1617,495 1722,495 1826,499 1931,501 2036,498 2141,500 2245,498 2350,498 2455,498 2560,495</zone>
+			<zone xml:id="p1z4-0" points="452,543 1682,546 1818,580 2491,551 2491,503 452,498">468,525 569,522 670,523 772,525 873,525 975,528 1076,530 1178,534 1279,534 1381,535 1482,537 1583,540 1685,544 1786,543 1888,546 1989,546 2091,546 2192,546 2294,546 2395,543 2497,537</zone>
+			<zone xml:id="p1z5-0" points="442,599 1315,580 1967,628 2025,593 2222,625 2510,596 2510,548 2400,543 1770,570 442,532">456,569 564,568 672,569 781,570 889,574 997,575 1106,574 1214,578 1322,578 1431,581 1539,584 1648,586 1756,587 1864,590 1973,587 2081,590 2189,587 2298,587 2406,581 2515,575</zone>
+			<zone xml:id="p1z6-0" points="447,647 2520,652 2496,593 447,588">462,617 565,617 668,619 771,620 874,620 977,623 1080,623 1183,626 1286,623 1389,626 1493,626 1596,629 1699,631 1802,632 1905,632 2008,634 2111,635 2214,632 2317,632 2420,632 2524,623</zone>
+			<zone xml:id="p1z7-0" points="450,681 2480,711 2544,705 2544,657 447,623">465,662 569,662 673,665 777,668 882,668 986,668 1090,671 1195,671 1299,674 1403,674 1508,677 1612,677 1716,680 1820,681 1925,681 2029,683 2133,682 2238,683 2342,680 2446,680 2551,680</zone>
+			<zone xml:id="p1z8-0" points="452,737 2475,737 2475,689 452,687">468,707 568,710 669,710 770,712 870,713 971,716 1072,716 1172,719 1273,719 1374,719 1475,722 1575,722 1676,722 1777,725 1877,725 1978,728 2079,728 2179,728 2280,730 2381,728 2482,725</zone>
+			<zone xml:id="p1z9-0" points="439,772 1842,774 2073,814 2515,785 2515,737 2243,729 439,735">453,755 556,757 659,759 763,763 866,763 970,763 1073,763 1176,766 1280,766 1383,768 1487,769 1590,772 1693,772 1797,772 1900,772 2004,775 2107,775 2210,778 2314,775 2417,775 2521,769</zone>
+			<zone xml:id="p1z10-0" points="447,828 647,876 836,809 881,846 1493,825 1900,862 1900,790 444,769">462,799 534,802 606,805 678,805 750,805 823,805 895,807 967,808 1039,808 1111,811 1184,811 1256,814 1328,814 1400,817 1472,817 1545,820 1617,820 1689,823 1761,826 1833,828 1906,826</zone>
+			<zone xml:id="p1z11-0" points="1927,1184 1983,1195 2025,1168 2084,1182 2102,1163 2273,1179 2270,1123 2190,1136 2153,1104 2108,1102 1999,1136 1924,1110">1939,1166 1964,1164 1990,1163 2016,1161 2042,1161 2068,1163 2094,1163 2120,1163 2146,1163 2172,1163 2198,1163 2224,1164 2250,1166 2276,1172</zone>
+			<zone xml:id="p1z12-0" points="1969,1227 1988,1224 2001,1235 2023,1237 2047,1227 2073,1237 2108,1229 2121,1243 2132,1237 2140,1245 2172,1243 2172,1176 2121,1171 2094,1195 2065,1171 2025,1171 1993,1192 1969,1187">1984,1211 2011,1213 2039,1214 2067,1214 2094,1214 2122,1214 2150,1216 2178,1217</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10433!Autograph!01%20E_II_362__fol__29_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10433/Autograph/01 E_II_362__fol__29_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1243,933 1331,932 1378,897 2056,898 2037,822 1897,852 1742,827 1562,854 1489,826 1410,862 1245,860">1250,892 1290,894 1330,893 1371,890 1411,889 1452,889 1492,888 1533,887 1573,889 1614,886 1654,886 1694,883 1735,881 1775,880 1816,878 1856,877 1897,877 1937,877 1978,876 2018,874 2059,874</zone>
+			<zone xml:id="p2z2-0" points="1259,974 1407,945 1520,975 1620,946 1781,966 1912,934 2093,959 2102,888 1259,928">1265,946 1309,943 1353,942 1397,941 1441,943 1485,943 1529,943 1574,940 1618,940 1662,940 1706,940 1750,940 1794,937 1839,934 1883,934 1927,934 1971,934 2015,934 2059,931 2104,931</zone>
+			<zone xml:id="p2z3-0" points="1335,1042 1401,1014 1421,1014 1454,1035 1496,1003 1547,1028 1570,1021 1571,965 1539,965 1521,976 1493,963 1448,973 1433,967 1409,981 1398,973 1382,982 1362,965 1336,960">1340,999 1365,996 1391,996 1417,996 1443,996 1468,994 1494,993 1520,993 1546,993 1572,993</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gracia et pax a deo per Iesum Christum.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gracia et pax a deo per Iesum Christum.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Qui tibi has reddidit literas, patria <placeName ref="l473">Sanctogallensis</placeName> est in agro <placeName ref="l441">Scaphusiano</placeName> hactenus verbi ministerio functus<note xml:id="fn1" type="footnote" ana="bio" n="1"><persName ref="p2810">Ritters</persName> Angabe, daß der erwähnte Pfarrer von <placeName ref="l473">St. Gallen</placeName> gebürtig sei, läßt vermuten, es handle sich um <persName ref="p5184">Konrad Heinimann (Haneman)</persName>, Pfarrer in <placeName ref="l1305">Merishausen</placeName>. Ein <placeName ref="l473">St. Galler</placeName> Student gleichen Namens immatrikulierte sich nämlich im Sommersemester 1515 an der Universität in <placeName ref="l558">Wittenberg</placeName> (s. <hi>Staerkle</hi> 272, <ref target="file10647">Nr. 609</ref>). Die Identität der beiden läßt sich allerdings sonst nicht beweisen. Der Pfarrer von <placeName ref="l1305">Merishausen</placeName> hatte sich am 16. April 1534 wegen Mißhandlung seiner Ehefrau, die im Dorf offenbar als leichtlebiges Wesen galt, vor dem <placeName ref="l441">Schaffhauser</placeName> Ehegericht zu verantworten. Wo er sich nach seiner Entlassung aufhielt, ist nicht bekannt. - Lit.: <bibl source="b520">QGTS</bibl> II 82, Nr. 103 mit Anm. 1; Hans <hi>Lieb</hi> und Karl <hi>Schib,</hi> Beschwerden und Sorgen der Schaffhauser Geistlichkeit um 1540, in: Schaffhauser Beiträge zur vaterländischen Geschichte, 48, 1971, S. 143.</note>.</s>
-					<s n="3" xml:lang="la">Hic post obitum uxoris<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note>, ex qua liberos superstites habet, aliam duxit iuvenculam<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note>, cum qua nonichil contentionis et discordiarum habuit<note xml:id="fn4" type="footnote" n="4">Siehe Anm. 1.</note>, partim propter liberos, ut fit, partim quod illis moribus non fuerit imbuta, qui eam decuissent et marito fuissent placiti.</s>
-					<s n="4" xml:lang="la">Quam causam dum pauci iuste perpenderint, occasionem offensionis ecclesie praestitisse senatus noster edoctus est.</s>
-					<s n="5" xml:lang="la">Quapropter ab officio est amotus<note xml:id="fn5" type="footnote" n="5">Zur Amtsenthebung sind keine weiteren Akten bekannt.</note> alioqui minime malus homo neque propterea indignus, qui iterum posset admitti.</s>
+					<s n="2" xml:lang="la">Qui tibi has reddidit literas, patria <placeName ref="l473">Sanctogallensis</placeName> est in agro <placeName ref="l441">Scaphusiano</placeName> <lb xml:id="p1z2"/>hactenus verbi ministerio functus<note xml:id="fn1" type="footnote" ana="bio" n="1"><persName ref="p2810">Ritters</persName> Angabe, daß der erwähnte Pfarrer von <placeName ref="l473">St. Gallen</placeName> gebürtig sei, läßt vermuten, es handle sich um <persName ref="p5184">Konrad Heinimann (Haneman)</persName>, Pfarrer in <placeName ref="l1305">Merishausen</placeName>. Ein <placeName ref="l473">St. Galler</placeName> Student gleichen Namens immatrikulierte sich nämlich im Sommersemester 1515 an der Universität in <placeName ref="l558">Wittenberg</placeName> (s. <hi>Staerkle</hi> 272, <ref target="file10647">Nr. 609</ref>). Die Identität der beiden läßt sich allerdings sonst nicht beweisen. Der Pfarrer von <placeName ref="l1305">Merishausen</placeName> hatte sich am 16. April 1534 wegen Mißhandlung seiner Ehefrau, die im Dorf offenbar als leichtlebiges Wesen galt, vor dem <placeName ref="l441">Schaffhauser</placeName> Ehegericht zu verantworten. Wo er sich nach seiner Entlassung aufhielt, ist nicht bekannt. - Lit.: <bibl source="b520">QGTS</bibl> II 82, Nr. 103 mit Anm. 1; Hans <hi>Lieb</hi> und Karl <hi>Schib,</hi> Beschwerden und Sorgen der Schaffhauser Geistlichkeit um 1540, in: Schaffhauser Beiträge zur vaterländischen Geschichte, 48, 1971, S. 143.</note>.</s>
+					<s n="3" xml:lang="la">Hic post obitum uxoris<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note>, ex qua liberos superstites habet, aliam duxit iuvenculam<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note>, <lb xml:id="p1z3"/>cum qua nonichil contentionis et discordiarum habuit<note xml:id="fn4" type="footnote" n="4">Siehe Anm. 1.</note>, partim propter liberos, ut fit, partim quod illis moribus non fuerit imbuta, <lb xml:id="p1z4"/>qui eam decuissent et marito fuissent placiti.</s>
+					<s n="4" xml:lang="la">Quam causam dum pauci iuste perpenderint, occasionem offensionis ecclesie <lb xml:id="p1z5"/>praestitisse senatus noster edoctus est.</s>
+					<s n="5" xml:lang="la">Quapropter ab officio est amotus<note xml:id="fn5" type="footnote" n="5">Zur Amtsenthebung sind keine weiteren Akten bekannt.</note> alioqui minime malus homo neque propterea indignus, <lb xml:id="p1z6"/>qui iterum posset admitti.</s>
 					<s n="6" xml:lang="la">Hunc tibi ita commendo, ut is intelligat meam commendationem tibi fuisse gratam.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Ceterum intelligo vos nonnichil sollicitare <persName ref="p8364">Beatum</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p8364">Beat Gering</persName>.</note> nostrum, ut ad vos rediret<note xml:id="fn7" type="footnote" n="7">Zu <persName ref="p8364">Gerings</persName> bevorstehender Rückkehr nach <placeName ref="l587">Zürich</placeName>, die <persName ref="p495">Bullinger</persName> nach Kräften betrieb, s. oben <ref target="file10429">Nr. 394</ref> und unten <ref target="file10438">Nr. 403</ref>.</note>.</s>
-					<s n="8" xml:lang="la">Equidem fateor, si vobis obtemperaret, iniurias, contumelias haud<pb type="edition" next="219"/> vulgares devitare posset, quas hic pati oportet.</s>
-					<s n="9" xml:lang="la">Verum quod sine maximo incomodo ecclesie nostre fieri possit, nemo credere debet.</s>
-					<s n="10" xml:lang="la">Quare te reliquosque fratres plurimum oro<note xml:id="fna" type="footnote" n="a">oro <hi>am Rande nachgetragen.</hi></note>, ut non tantum vestre ecclesie, sed etiam nostre incrementa spectetis, quae tamen una est, nempe Christi.</s>
+					<s n="7" xml:lang="la">Ceterum intelligo <lb xml:id="p1z7"/>vos nonnichil sollicitare <persName ref="p8364">Beatum</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p8364">Beat Gering</persName>.</note> nostrum, ut ad vos rediret<note xml:id="fn7" type="footnote" n="7">Zu <persName ref="p8364">Gerings</persName> bevorstehender Rückkehr nach <placeName ref="l587">Zürich</placeName>, die <persName ref="p495">Bullinger</persName> nach Kräften betrieb, s. oben <ref target="file10429">Nr. 394</ref> und unten <ref target="file10438">Nr. 403</ref>.</note>.</s>
+					<s n="8" xml:lang="la">Equidem fateor, si vobis obtemperaret, iniurias, contumelias <lb xml:id="p1z8"/>haud<pb type="edition" next="219"/> vulgares devitare posset, quas hic pati oportet.</s>
+					<s n="9" xml:lang="la">Verum quod sine maximo incomodo ecclesie nostre fieri possit, nemo <lb xml:id="p1z9"/>credere debet.</s>
+					<s n="10" xml:lang="la">Quare te reliquosque fratres plurimum oro<note xml:id="fna" type="footnote" n="a">oro <hi>am Rande nachgetragen.</hi></note>, ut non tantum vestre ecclesie, sed etiam nostre incrementa spectetis, quae tamen una est, <lb xml:id="p1z10"/>nempe Christi.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" ana="farewell">Vale et <persName ref="p2810">Erasmum</persName>, ut ipse vicissim te unice, ama.</s>
@@ -112,11 +127,11 @@
 					<s n="12" xml:lang="la">24. iunii 1534.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la"><persName ref="p2810">Erasmus Ritter</persName>, ex animo tuus.</s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z11"/><persName ref="p2810">Erasmus Ritter</persName>, ex <lb xml:id="p1z12"/>animo tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="14" xml:lang="la">Et pio et docto <persName ref="p495">Henrico Bullingero</persName> apud <placeName ref="l587">Tigurum</placeName> evangelium Christi constanter adnunctianti, fratri charissimo.</s>
+					<s n="14" xml:lang="la"><pb/><lb xml:id="p2z1"/>Et pio et docto <persName ref="p495">Henrico Bullingero</persName> apud <lb xml:id="p2z2"/><placeName ref="l587">Tigurum</placeName> evangelium Christi constanter adnunctianti, <lb xml:id="p2z3"/>fratri charissimo.</s>
 				</p>
 			</div>
 		</body>

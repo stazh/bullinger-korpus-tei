@@ -82,41 +82,58 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10413!Autograph!00%20E_II_343__fol__28_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10413/Autograph/00 E_II_343__fol__28_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="339,281 434,238 838,290 882,254 1319,254 2447,314 2444,216 2346,197 2038,240 1874,180 1625,224 1467,167 1347,213 1256,167 1101,210 696,208 336,158">355,241 459,243 564,242 669,238 774,238 879,239 984,241 1088,245 1193,246 1298,247 1403,250 1508,255 1613,256 1718,260 1822,262 1927,265 2032,268 2137,270 2242,274 2347,277 2452,283</zone>
+			<zone xml:id="p1z2-0" points="352,328 1161,347 1295,311 1439,355 1478,325 2409,363 2406,287 2305,279 1800,306 1622,262 830,287 412,249 352,284">366,307 468,304 571,304 673,304 776,304 878,306 981,307 1083,307 1186,309 1288,312 1391,316 1493,319 1596,322 1698,325 1801,328 1903,329 2006,331 2108,334 2211,334 2313,337 2416,340</zone>
+			<zone xml:id="p1z3-0" points="355,399 1308,377 2444,426 2510,407 2507,322 2343,374 1437,355 1306,309 1087,350 808,311 352,328">366,372 473,366 580,366 688,366 795,366 903,366 1010,366 1118,369 1225,369 1333,372 1440,375 1547,379 1655,383 1762,384 1870,389 1977,393 2085,393 2192,396 2300,396 2407,396 2515,393</zone>
+			<zone xml:id="p1z4-0" points="358,459 1409,434 1803,481 1956,451 2078,497 2439,467 2439,418 2294,404 358,396">372,429 475,423 579,421 683,423 786,426 890,426 994,423 1097,426 1201,426 1305,429 1409,429 1512,433 1616,437 1720,441 1823,446 1927,446 2031,450 2134,453 2238,455 2342,456 2446,456</zone>
+			<zone xml:id="p1z5-0" points="352,508 2496,546 2494,470 2450,459 2073,492 1947,456 1800,483 997,432 792,467 473,429 352,462">366,483 472,483 579,482 686,483 792,485 899,486 1006,486 1112,489 1219,492 1326,492 1433,495 1539,496 1646,500 1753,504 1859,507 1966,507 2073,510 2179,512 2286,513 2393,512 2500,519</zone>
+			<zone xml:id="p1z6-0" points="347,563 2477,595 2477,546 2275,516 347,519">361,551 467,545 573,543 679,543 785,543 892,546 998,546 1104,548 1210,551 1316,552 1423,556 1529,557 1635,560 1741,563 1847,563 1954,563 2060,566 2166,566 2272,566 2378,569 2485,572</zone>
+			<zone xml:id="p1z7-0" points="363,653 770,598 1128,642 1325,617 1423,661 1663,620 2461,656 2458,579 2395,574 2292,604 2122,565 1794,601 1674,563 363,563">378,608 482,599 586,596 690,596 795,599 899,599 1003,602 1108,605 1212,608 1316,611 1421,611 1525,614 1629,614 1733,617 1838,619 1942,620 2046,620 2151,620 2255,623 2359,620 2464,623</zone>
+			<zone xml:id="p1z8-0" points="371,680 516,661 615,705 727,658 789,694 1153,672 1516,713 1609,680 1805,716 2040,686 2078,718 2125,686 2210,718 2450,658 593,606 369,650">384,668 487,659 591,656 695,656 798,659 902,661 1006,662 1109,663 1213,667 1317,671 1421,671 1524,674 1628,674 1732,677 1835,678 1939,680 2043,683 2146,680 2250,680 2354,680 2458,683</zone>
+			<zone xml:id="p1z9-0" points="358,727 1945,770 2390,737 2548,787 2515,675 2207,718 2128,686 1805,716 1767,683 1516,713 358,672">372,716 481,713 590,713 699,714 808,716 918,716 1027,719 1136,725 1245,728 1354,730 1464,730 1573,730 1682,733 1791,733 1900,736 2010,736 2119,736 2228,739 2337,736 2446,736 2556,745</zone>
+			<zone xml:id="p1z10-0" points="355,789 2469,806 2431,746 355,729">369,775 474,771 579,766 684,766 789,767 895,767 1000,766 1105,772 1210,775 1315,778 1421,778 1526,778 1631,779 1736,783 1841,784 1947,787 2052,787 2157,787 2262,787 2367,784 2473,784</zone>
+			<zone xml:id="p1z11-0" points="350,855 2505,869 2505,776 2283,822 350,789">364,835 471,828 578,825 686,823 793,823 901,820 1008,821 1115,825 1223,827 1330,832 1438,835 1545,833 1652,834 1760,839 1867,840 1975,841 2082,841 2189,841 2297,841 2404,841 2512,835</zone>
+			<zone xml:id="p1z12-0" points="350,926 432,929 522,899 582,899 609,918 724,888 825,920 825,858 776,844 672,860 623,841 579,871 500,849 437,866 350,858">364,898 390,894 416,891 442,889 468,889 494,889 520,889 546,891 572,891 598,890 624,888 650,886 676,886 702,886 728,886 754,887 780,889 806,889 832,889</zone>
+			<zone xml:id="p1z13-0" points="1658,964 1710,986 1770,964 1824,1000 1857,983 1947,997 1980,970 2046,1000 2095,994 2095,918 2048,923 1958,890 1923,915 1882,896 1764,923 1718,888 1658,929">1673,960 1698,954 1723,954 1748,954 1774,954 1799,955 1824,956 1850,957 1875,957 1900,957 1925,957 1951,957 1976,957 2001,959 2027,960 2052,960 2077,959 2103,957</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10413!Autograph!01%20E_II_343__fol__28_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10413/Autograph/01 E_II_343__fol__28_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="410,1094 569,1091 633,1072 663,1095 760,1087 764,1006 687,1012 665,996 559,1038 498,1002 415,997">416,1088 442,1083 469,1079 495,1076 522,1074 549,1074 575,1072 602,1072 628,1071 655,1069 682,1068 708,1068 735,1068 762,1068</zone>
+			<zone xml:id="p2z2-0" points="428,1141 444,1133 479,1148 540,1129 637,1151 683,1126 749,1132 751,1093 663,1095 641,1081 578,1112 430,1108">434,1134 460,1131 487,1130 513,1130 540,1128 566,1126 593,1125 619,1124 646,1123 672,1121 699,1120 725,1118 752,1118</zone>
+			<zone xml:id="p2z3-0" points="430,1232 492,1202 552,1221 627,1184 669,1202 705,1191 735,1205 739,1141 703,1125 645,1150 622,1140 584,1163 507,1162 457,1143 435,1153">438,1194 463,1192 488,1188 513,1184 538,1181 563,1180 588,1178 613,1176 638,1175 663,1174 688,1174 713,1175 738,1178</zone>
+			<zone xml:id="p2z4-0" points="463,1278 537,1245 546,1253 564,1247 591,1271 610,1260 652,1265 666,1255 678,1264 707,1250 710,1192 657,1210 598,1195 541,1224 491,1201 467,1210">470,1246 496,1244 523,1244 550,1243 576,1241 603,1238 630,1236 656,1236 683,1236 710,1232</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Ut vobiscum, qui <placeName ref="l587">Tiguri</placeName> sacris praeestis, familiaritatem amicamque iniret consuetudinem, charissime <persName ref="p495">Heinrice</persName>, invisit vos frater noster <persName ref="p3481">Sympertus Vogtius</persName> <placeName ref="l441">Schaffhusanus</placeName>, ecclesię <placeName ref="l49">Bielensis</placeName> minister, homo et doctus et syncęrus.</s>
-					<s n="3" xml:lang="la">Quare ut commode suo voto potiri possit, cum his diebus nobiscum <placeName ref="l41">Bernę</placeName> versaretur, rem illi gratissimam feci, quod meis<note xml:id="fna" type="footnote" n="a"><hi>vor</hi> meis <hi>gestrichen</hi> tuis.</note> eum vobis commendarem litteris.</s>
-					<s n="4" xml:lang="la">Id autem libentius fęci tua fretus in omnes humanitate, maxime vero, qui nomine meo ad te veniunt, ut et is testis sit nostrę mutuae amicicię, quandoquidem <persName ref="p1391">Hallerum</persName> <persName ref="p495">Bullingero</persName> addictum omnes sic depraedicent, ut totus ab eo pendeat, quantum citra fidei et sanę doctrinę iacturam hoc licet.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Ut vobiscum, qui <placeName ref="l587">Tiguri</placeName> sacris praeestis, familiaritatem amicamque iniret consuetudinem, charissime <lb xml:id="p1z2"/><persName ref="p495">Heinrice</persName>, invisit vos frater noster <persName ref="p3481">Sympertus Vogtius</persName> <placeName ref="l441">Schaffhusanus</placeName>, ecclesię <placeName ref="l49">Bielensis</placeName> minister, <lb xml:id="p1z3"/>homo et doctus et syncęrus.</s>
+					<s n="3" xml:lang="la">Quare ut commode suo voto potiri possit, cum his diebus nobiscum <placeName ref="l41">Bernę</placeName> versaretur, <lb xml:id="p1z4"/>rem illi gratissimam feci, quod meis<note xml:id="fna" type="footnote" n="a"><hi>vor</hi> meis <hi>gestrichen</hi> tuis.</note> eum vobis commendarem litteris.</s>
+					<s n="4" xml:lang="la">Id autem libentius fęci tua fretus <lb xml:id="p1z5"/>in omnes humanitate, maxime vero, qui nomine meo ad te veniunt, ut et is testis sit nostrę mutuae amicicię, quandoquidem <lb xml:id="p1z6"/><persName ref="p1391">Hallerum</persName> <persName ref="p495">Bullingero</persName> addictum omnes sic depraedicent, ut totus ab eo pendeat, quantum citra fidei et sanę doctrinę <lb xml:id="p1z7"/>iacturam hoc licet.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Ceterum antidotum in nostram comparavimus bibliothecam<note xml:id="fn1" type="footnote" n="1">Gemeint ist wahrscheinlich der Kampf gegen Ungeziefer, Holz- und Bücherwürmer in der Bibliothek [des Ministeriums?] in <placeName ref="l41">Bern</placeName>.</note>; tuo igitur, quantum unquam per ocium licet, consilio obsequar.</s>
-					<s n="6" xml:lang="la">Proscribetur <placeName ref="l832">Gallus</placeName> <persName ref="p7242">Claudius</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p7242">Claude d'Aliod</persName>, vgl. oben S. 158, 86-97 und 171,3-22.</note> etiam <persName ref="p3481">Symperto</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p3481">Simprecht Vogt</persName>.</note> optime notus; interim opus est, ut parati simus in omnibus rationem reddere eius, quae in nos est spei<note xml:id="fn4" type="footnote" n="4">Vgl. <cit type="bible"><ref>1 Petr 3, 15</ref></cit>.</note>.</s>
-					<s n="7" xml:lang="la">Nova <placeName ref="l572">Wirtenbergica</placeName><note xml:id="fn5" type="footnote" n="5">Gemeint sind die von <persName ref="p495">Bullinger</persName> an <persName ref="p1391">Haller</persName> zugesandten Nachrichten vom siegreichen Krieg zur Wiedereinsetzung Herzog <persName ref="p9708">Ulrichs von Württemberg</persName>, vgl. unten S. 195, 3f.</note> placent, placet et hoc, quod addidisti<note xml:id="fn6" type="footnote" n="6"><persName ref="p495">Bullingers</persName> Brief an <persName ref="p1391">Haller</persName> ist nicht erhalten.</note>, quatenus in timore domini omnia suscipiamus<note xml:id="fn7" type="footnote" n="7">Vgl. <cit type="bible"><ref>Spr 1,7</ref></cit> u. a.</note>, ne «extrema gaudii nostri luctus occupet» <cit type="bible"><ref>[Spr 14, 13]</ref></cit>.</s>
-					<s n="8" xml:lang="la">Apud nos nihil est, quod scitu dignum videatur.</s>
+					<s n="5" xml:lang="la">Ceterum antidotum in nostram comparavimus bibliothecam<note xml:id="fn1" type="footnote" n="1">Gemeint ist wahrscheinlich der Kampf gegen Ungeziefer, Holz- und Bücherwürmer in der Bibliothek [des Ministeriums?] in <placeName ref="l41">Bern</placeName>.</note>; tuo igitur, quantum unquam per ocium licet, <lb xml:id="p1z8"/>consilio obsequar.</s>
+					<s n="6" xml:lang="la">Proscribetur <placeName ref="l832">Gallus</placeName> <persName ref="p7242">Claudius</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p7242">Claude d'Aliod</persName>, vgl. oben S. 158, 86-97 und 171,3-22.</note> etiam <persName ref="p3481">Symperto</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p3481">Simprecht Vogt</persName>.</note> optime notus; interim opus est, ut parati simus <lb xml:id="p1z9"/>in omnibus rationem reddere eius, quae in nos est spei<note xml:id="fn4" type="footnote" n="4">Vgl. <cit type="bible"><ref>1 Petr 3, 15</ref></cit>.</note>.</s>
+					<s n="7" xml:lang="la">Nova <placeName ref="l572">Wirtenbergica</placeName><note xml:id="fn5" type="footnote" n="5">Gemeint sind die von <persName ref="p495">Bullinger</persName> an <persName ref="p1391">Haller</persName> zugesandten Nachrichten vom siegreichen Krieg zur Wiedereinsetzung Herzog <persName ref="p9708">Ulrichs von Württemberg</persName>, vgl. unten S. 195, 3f.</note> placent, placet et hoc, quod addidisti<note xml:id="fn6" type="footnote" n="6"><persName ref="p495">Bullingers</persName> Brief an <persName ref="p1391">Haller</persName> ist nicht erhalten.</note>, <lb xml:id="p1z10"/>quatenus in timore domini omnia suscipiamus<note xml:id="fn7" type="footnote" n="7">Vgl. <cit type="bible"><ref>Spr 1,7</ref></cit> u. a.</note>, ne «extrema gaudii nostri luctus occupet» <cit type="bible"><ref>[Spr 14, 13]</ref></cit>.</s>
+					<s n="8" xml:lang="la">Apud nos nihil est, quod scitu <lb xml:id="p1z11"/>dignum videatur.</s>
 					<s n="9" xml:lang="la">Valemus alioqui omnes.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la">Valeas et tu, charissime frater, et me, ut soles, ama.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la"><placeName ref="l41">Bernę</placeName>, 21. maii anno 34.</s>
+					<s n="11" xml:lang="la"><placeName ref="l41">Bernę</placeName>, 21. <lb xml:id="p1z12"/>maii anno 34.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la">Tuus <persName ref="p1391">B. Hallerus</persName>.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z13"/>Tuus <persName ref="p1391">B. Hallerus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="13" xml:lang="la"><persName ref="p495">Heinrico Bullingero</persName>, ecclesiastę <placeName ref="l587">Tigurino</placeName>, fratri suo charissimo.</s>
+					<s n="13" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Heinrico Bullingero</persName>, <lb xml:id="p2z2"/>ecclesias<lb xml:id="p2z3"/>tę <placeName ref="l587">Tigurino</placeName>, fratri <lb xml:id="p2z4"/>suo charissimo.</s>
 				</p>
 			</div>
 		</body>

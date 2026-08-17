@@ -80,6 +80,15 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4610!Autograph!00%20E_II_357__fol__489_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4610/Autograph/00 E_II_357__fol__489_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="196,364 289,321 1097,295 1187,327 1328,289 1455,329 1771,295 2331,335 2331,247 2066,210 1890,271 1301,228 783,273 658,223 446,271 266,218 196,242">212,325 318,316 424,306 530,302 636,299 742,298 848,296 955,293 1061,291 1167,290 1273,290 1379,290 1485,290 1591,291 1698,293 1804,296 1910,301 2016,304 2122,305 2228,312 2335,319</zone>
+			<zone xml:id="p1z2-0" points="215,409 1158,353 2230,396 2201,321 1779,295 1681,332 1519,295 1471,327 1296,292 1184,327 566,303 215,358">230,382 330,374 430,365 530,361 631,358 731,357 831,355 932,352 1032,349 1132,349 1233,347 1333,346 1433,349 1533,347 1634,349 1734,352 1834,355 1935,358 2035,360 2135,363 2236,370</zone>
+			<zone xml:id="p1z3-0" points="212,473 605,419 810,457 953,414 2254,457 2254,401 2164,380 1471,356 212,412">227,448 328,439 430,428 531,419 633,416 734,412 836,409 937,409 1039,409 1140,409 1242,409 1343,411 1445,412 1546,415 1648,416 1749,420 1851,421 1952,424 2054,427 2155,432 2257,436</zone>
+			<zone xml:id="p1z4-0" points="220,531 850,473 1057,512 1582,481 1705,523 1973,494 2315,528 2315,475 1983,427 1928,459 613,422 220,473">236,508 340,496 444,489 548,483 652,478 757,475 861,472 965,472 1069,469 1173,472 1278,472 1382,475 1486,479 1590,483 1694,484 1799,487 1903,490 2007,493 2111,497 2215,504 2320,505</zone>
+			<zone xml:id="p1z5-0" points="226,592 573,547 701,611 929,544 1585,555 1707,597 1803,566 1949,627 2313,584 2313,520 1665,523 1593,486 1389,526 850,473 226,544">239,568 343,560 447,551 551,547 655,541 759,538 863,535 967,538 1071,536 1175,535 1279,539 1383,543 1487,546 1591,550 1695,554 1799,561 1903,565 2007,566 2111,573 2215,580 2320,586</zone>
+			<zone xml:id="p1z6-0" points="281,720 327,690 1160,664 1184,584 1083,555 932,608 812,579 698,611 579,550 486,584 435,558 287,579">297,689 341,687 386,684 430,681 475,678 519,675 564,672 608,669 653,666 697,666 742,663 786,660 831,657 875,657 920,654 964,651 1009,651 1053,651 1098,648 1142,648 1187,645</zone>
+			<zone xml:id="p1z7-0" points="1415,712 1508,690 1556,712 1662,677 1827,720 2031,690 2108,722 2164,701 2164,650 2068,613 1920,635 1882,605 1726,616 1699,589 1598,597 1543,645 1412,611">1429,687 1466,682 1503,679 1540,677 1577,675 1614,675 1651,675 1688,675 1725,675 1762,675 1799,676 1836,678 1873,678 1910,680 1947,681 1984,682 2021,685 2058,687 2095,687 2132,689 2170,690</zone>
+			<zone xml:id="p1z8-0" points="303,775 672,725 1054,727 1057,666 1033,661 722,698 555,677 494,709 308,690">319,741 356,737 393,735 430,732 468,730 505,727 542,726 579,725 617,723 654,723 691,721 728,718 766,716 803,713 840,711 877,711 915,709 952,708 989,708 1026,708 1064,711</zone>
+			<zone xml:id="p1z9-0" points="374,826 510,839 566,799 643,826 714,807 781,834 929,839 935,720 868,714 796,743 762,722 672,725 613,754 592,735 507,738 377,765">391,795 418,791 446,789 473,787 501,785 528,784 556,782 583,780 611,778 638,776 666,774 693,774 721,774 748,774 776,773 803,771 831,769 858,768 886,768 913,767 941,765</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4610!Autograph!01%20E_II_357__fol__489_v_.tif/full/max/0/default.jpg" n="2">
@@ -91,20 +100,20 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Scripsi ad te per <persName ref="p1541">Herterum</persName> nudius tertius.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Scripsi ad te per <persName ref="p1541">Herterum</persName> nudius tertius.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Nunc mitto, quę heri sub cenam accepi; nam casu in idi in bonum virum, nostratem civem, qui omnia bona fide, scio, ad te perferet.</s>
-					<s n="3" xml:lang="la"><persName ref="p1568">Hoserus</persName> ad me duo exemplaria misit eius libelli, quem hic accipis, alterum igitur tibi mitto.</s>
-					<s n="4" xml:lang="la">Quodsi in literis tibi inscriptis alius forte est alterius argumenti insinuatus, age fac mecum communices.</s>
+					<s n="2" xml:lang="la">Nunc mitto, quę heri sub cenam accepi; <lb xml:id="p1z2"/>nam casu in idi in bonum virum, nostratem civem, qui omnia bona fide, scio, ad te perferet.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z3"/><persName ref="p1568">Hoserus</persName> ad me duo exemplaria misit eius libelli, quem hic accipis, alterum igitur tibi <lb xml:id="p1z4"/>mitto.</s>
+					<s n="4" xml:lang="la">Quodsi in literis tibi inscriptis alius forte est alterius argumenti insinuatus, <lb xml:id="p1z5"/>age fac mecum communices.</s>
 					<s n="5" xml:lang="la" ana="farewell">Bene vale, mi venerande charissimeque frater.</s>
 					<s n="6" xml:lang="la">3. ianuarii 1561.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">T[uus] <persName ref="p8055">Ambrosius Blaurerus</persName>.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z6"/>T[uus] <persName ref="p8055">Ambrosius Blaurerus</persName>.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><persName ref="p1568">Hoserus</persName> nihil prorsus novi scribit, nisi quod hactenus solet de ubiquitariis istis etc.</s>
+					<s n="8" xml:lang="la"><persName ref="p1568">Hoserus</persName> nihil pr<lb xml:id="p1z7"/>orsus novi scribit, <lb xml:id="p1z8"/>nisi quod hactenus solet de <lb xml:id="p1z9"/>ubiquitariis istis etc.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse fehlt.]</note>

@@ -81,11 +81,23 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12599!Autograph!00%20E_II_370__fol__571_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12599/Autograph/00 E_II_370__fol__571_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="216,212 1013,144 1099,191 1530,152 1619,185 1766,170 1768,62 1577,99 1362,60 1126,117 1052,62 922,64 526,131 423,82 216,146">228,178 305,170 382,163 459,161 536,162 613,157 690,156 767,153 844,150 921,149 999,146 1076,148 1153,147 1230,144 1307,148 1384,148 1461,148 1538,150 1615,152 1692,155 1770,154</zone>
+			<zone xml:id="p1z2-0" points="212,294 477,269 555,312 637,249 928,228 1076,283 1485,232 1602,285 1695,244 1779,267 1781,160 1099,191 990,150 212,214">224,256 301,259 379,255 457,249 535,246 613,242 691,239 769,234 847,230 925,228 1003,228 1080,224 1158,224 1236,226 1314,225 1392,228 1470,228 1548,230 1626,234 1704,240 1782,244</zone>
+			<zone xml:id="p1z3-0" points="207,349 454,378 544,337 649,376 842,318 1004,355 1296,304 1347,343 1582,312 1769,370 1771,261 1374,269 1278,230 939,281 832,236 637,249 555,312 477,267 304,316 207,296">218,342 295,338 373,334 451,330 529,326 607,322 684,317 762,311 840,310 918,307 996,304 1073,303 1151,298 1229,300 1307,299 1385,304 1462,304 1540,310 1618,312 1696,322 1774,326</zone>
+			<zone xml:id="p1z4-0" points="210,444 493,477 723,401 780,431 1025,382 1247,440 1426,386 1756,405 1769,368 1582,312 1347,343 1296,304 1025,359 883,316 645,374 550,339 448,384 212,353">222,422 299,418 376,409 454,408 531,408 609,401 686,396 763,391 841,386 918,385 996,380 1073,378 1150,376 1228,376 1305,376 1383,376 1460,378 1537,380 1615,386 1692,389 1770,390</zone>
+			<zone xml:id="p1z5-0" points="224,536 629,477 1312,460 1645,522 1758,485 1758,440 1682,417 1426,388 1247,438 976,384 503,472 226,444">236,492 312,491 388,488 464,485 541,483 617,478 693,476 770,472 846,469 922,466 999,464 1075,462 1151,462 1227,462 1304,457 1380,464 1456,464 1533,466 1609,468 1685,469 1762,470</zone>
+			<zone xml:id="p1z6-0" points="242,589 474,557 655,592 818,546 1099,579 1167,538 1450,594 1518,546 1616,583 1785,561 1750,483 1598,528 1487,475 1409,522 1214,468 242,518">252,572 328,565 405,556 482,556 559,550 636,547 713,544 790,542 867,540 944,534 1021,535 1097,534 1174,534 1251,536 1328,535 1405,538 1482,541 1559,544 1636,548 1713,551 1790,550</zone>
+			<zone xml:id="p1z7-0" points="242,653 405,678 470,633 900,649 978,616 1111,670 1226,627 1384,670 1438,629 1717,647 1717,587 1520,548 1460,594 1202,538 1097,581 838,551 764,604 446,557 242,585">252,632 325,630 399,626 472,625 546,624 619,624 693,620 766,616 840,614 913,610 987,613 1060,614 1134,613 1207,614 1281,615 1354,613 1428,616 1501,619 1575,620 1648,625 1722,622</zone>
+			<zone xml:id="p1z8-0" points="226,750 366,707 587,752 665,703 994,682 1070,723 1785,721 1785,633 1654,666 1438,629 1384,668 1222,633 1115,668 791,618 470,631 405,678 226,655">236,708 313,710 391,705 469,698 546,696 624,693 702,689 779,684 857,682 935,683 1013,682 1090,684 1168,683 1246,682 1323,682 1401,688 1479,691 1556,694 1634,694 1712,701 1790,704</zone>
+			<zone xml:id="p1z9-0" points="232,795 672,768 1008,813 1380,756 1756,797 1744,702 1483,733 1220,692 813,733 663,703 587,744 368,717 232,756">242,780 317,776 393,773 469,772 545,767 621,764 697,761 773,758 849,755 925,752 1001,753 1076,754 1152,752 1228,754 1304,756 1380,756 1456,761 1532,764 1608,764 1684,768 1760,768</zone>
+			<zone xml:id="p1z10-0" points="255,902 575,844 783,883 939,832 1097,865 1232,830 1594,893 1641,877 1643,805 1399,770 1341,815 1216,758 1009,813 257,785">266,844 335,848 404,847 473,844 542,838 611,835 680,832 749,834 818,835 887,834 956,830 1025,831 1094,834 1163,832 1232,830 1301,831 1370,832 1439,830 1508,830 1577,834 1646,830</zone>
+			<zone xml:id="p1z11-0" points="538,994 815,972 932,1025 1008,996 1008,939 949,943 891,894 750,875 672,902 631,873 538,900">548,974 573,970 599,970 625,972 651,976 676,976 702,973 728,972 754,973 780,973 805,972 831,974 857,974 883,973 908,972 934,972 960,971 986,970 1012,970</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12599!Autograph!01%20E_II_370__fol__571_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12599/Autograph/01 E_II_370__fol__571_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="886,1075 913,1073 927,1060 941,1066 1011,1026 1054,1024 1056,958 1002,983 982,967 951,978 923,973 902,983 889,979">893,1023 906,1024 936,1022 966,1020 996,1018 1026,1018 1056,1018</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -93,26 +105,26 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Qui<note xml:id="fn2" type="footnote" n="2"><persName ref="p5036">Hans Großmann</persName>. - Diese Identifikation geht aus vier Beobachtungen hervor: 1. Aus unten <ref target="file12643">Nr. 2596</ref>,116f. 2. Aus einer Angabe <persName ref="p8105">Heinrich Thomanns</persName> (aus dem <placeName ref="l1202">schmalkaldischen</placeName> Lager) in seinem Brief an den Zürcher Rat vom 16. September (Zürich StA, A 177, Nr. 35), laut dem der "Bote Großmann" sich für einige Zeit nach <placeName ref="l18">Augsburg</placeName> u.a. zu <persName ref="p8018">Johannes Haller</persName> begeben habe. 3. Aus der Tatsache, dass <persName ref="p5036">Großmann</persName> in den Rechnungsbüchern <placeName ref="l587">Zürichs</placeName> (Zürich StA, F III 32) unter den "Laufenden Boten" der Stadt <placeName ref="l587">Zürich</placeName> nachgewiesen ist. 4. Aus der Feststellung, dass er von der zweiten Junihälfte 1546 ab für längere Zeit nicht mehr in diesen Rechnungsbüchern erscheint. - <persName ref="p5036">Großmann</persName> ist seit Juni 1537 als Stadtbote <placeName ref="l587">Zürichs</placeName> nachgewiesen, zunächst sehr sporadisch. Zwischen November 1540 bis Juni 1545 kommt er sehr oft zum Einsatz, daraufhin nur noch im Mai und im Juni 1546. Zwischen Oktober 1548 und April 1550 wird er erneut, allerdings nur vier Mal, von der Stadt eingesetzt.</note> has tibi fert literas<note xml:id="fn3" type="footnote" n="3">Den vorliegenden Brief und <ref target="file12598">Nr. 2551</ref>.</note>, tabellarius aliquando <placeName ref="l587">Tigurinae</placeName> urbis publicus insciis dominis<note xml:id="fn4" type="footnote" n="4">Die Ratsherren von <placeName ref="l587">Zürich</placeName>.</note> discessit.</s>
-					<s n="3" xml:lang="la">Nunc ab exercitu<note xml:id="fn5" type="footnote" n="5">Die Truppen der <placeName ref="l1202">Schmalkaldener</placeName>, vielleicht besonders die <placeName ref="l862">eidgenössischen</placeName> Fähnlein.</note> cum literis et pecuniis domum<pb type="edition" next="359"/> missus valde anxius est, ne dimittatur iterum <placeName ref="l587">Tiguri</placeName>.</s>
-					<s n="4" xml:lang="la">Rogavit, ut tibi scriberem, ut consulas ei, quo concedatur ipsi hoc unum, ut liber semper possit ad exercitum proficisci et redire.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Qui<note xml:id="fn2" type="footnote" n="2"><persName ref="p5036">Hans Großmann</persName>. - Diese Identifikation geht aus vier Beobachtungen hervor: 1. Aus unten <ref target="file12643">Nr. 2596</ref>,116f. 2. Aus einer Angabe <persName ref="p8105">Heinrich Thomanns</persName> (aus dem <placeName ref="l1202">schmalkaldischen</placeName> Lager) in seinem Brief an den Zürcher Rat vom 16. September (Zürich StA, A 177, Nr. 35), laut dem der "Bote Großmann" sich für einige Zeit nach <placeName ref="l18">Augsburg</placeName> u.a. zu <persName ref="p8018">Johannes Haller</persName> begeben habe. 3. Aus der Tatsache, dass <persName ref="p5036">Großmann</persName> in den Rechnungsbüchern <placeName ref="l587">Zürichs</placeName> (Zürich StA, F III 32) unter den "Laufenden Boten" der Stadt <placeName ref="l587">Zürich</placeName> nachgewiesen ist. 4. Aus der Feststellung, dass er von der zweiten Junihälfte 1546 ab für längere Zeit nicht mehr in diesen Rechnungsbüchern erscheint. - <persName ref="p5036">Großmann</persName> ist seit Juni 1537 als Stadtbote <placeName ref="l587">Zürichs</placeName> nachgewiesen, zunächst sehr sporadisch. Zwischen November 1540 bis Juni 1545 kommt er sehr oft zum Einsatz, daraufhin nur noch im Mai und im Juni 1546. Zwischen Oktober 1548 und April 1550 wird er erneut, allerdings nur vier Mal, von der Stadt eingesetzt.</note> has tibi fert literas<note xml:id="fn3" type="footnote" n="3">Den vorliegenden Brief und <ref target="file12598">Nr. 2551</ref>.</note>, tabellarius ali<lb xml:id="p1z2"/>quando <placeName ref="l587">Tigurinae</placeName> urbis publicus insciis dom<lb xml:id="p1z3"/>inis<note xml:id="fn4" type="footnote" n="4">Die Ratsherren von <placeName ref="l587">Zürich</placeName>.</note> discessit.</s>
+					<s n="3" xml:lang="la">Nunc ab exercitu<note xml:id="fn5" type="footnote" n="5">Die Truppen der <placeName ref="l1202">Schmalkaldener</placeName>, vielleicht besonders die <placeName ref="l862">eidgenössischen</placeName> Fähnlein.</note> cum <lb xml:id="p1z4"/>literis et pecuniis domum<pb type="edition" next="359"/> missus valde anxius est, <lb xml:id="p1z5"/>ne dimittatur iterum <placeName ref="l587">Tiguri</placeName>.</s>
+					<s n="4" xml:lang="la">Roga<lb xml:id="p1z6"/>vit, ut tibi scriberem, ut consulas ei, quo concedatur <lb xml:id="p1z7"/>ipsi hoc unum, ut liber semper possit ad <lb xml:id="p1z8"/>exercitum proficisci et redire.</s>
 					<s n="5" xml:lang="la">Iusta est causa.</s>
-					<s n="6" xml:lang="la">Non puto dominos negaturos.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z9"/>Non puto dominos negaturos.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Commendo ergo hanc tibi causam.</s>
+					<s n="7" xml:lang="la">Commendo er<lb xml:id="p1z10"/>go hanc tibi causam.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la" ana="farewell">Vale.</s>
 					<s n="9" xml:lang="la">26. augusti.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la"><persName ref="p8018">I. Hallerus</persName>.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z11"/><persName ref="p8018">I. Hallerus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="la">D. <persName ref="p495">Bullingero</persName>.</s>
+					<s n="11" xml:lang="la">D. <pb/><lb xml:id="p2z1"/><persName ref="p495">Bullingero</persName>.</s>
 				</p>
 			</div>
 		</body>

@@ -83,25 +83,39 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3322!Autograph!00%20E_II_357__fol__857_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3322/Autograph/00 E_II_357__fol__857_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="203,307 2058,314 2055,263 1538,203 1236,273 524,261 203,198">217,298 309,298 401,295 493,295 586,292 678,292 770,290 862,290 955,289 1047,291 1139,292 1231,293 1324,295 1416,295 1508,297 1600,298 1693,298 1785,301 1877,301 1969,301 2062,298</zone>
+			<zone xml:id="p1z2-0" points="222,398 2024,367 2118,403 2091,292 1927,343 1449,309 1335,341 985,290 691,338 222,321">235,373 329,367 424,364 518,361 613,360 707,357 802,358 896,356 991,355 1085,355 1180,355 1274,355 1369,358 1463,358 1558,356 1652,358 1747,361 1841,361 1936,361 2030,358 2125,361</zone>
+			<zone xml:id="p1z3-0" points="227,449 985,430 1063,471 1263,435 1420,476 1601,432 2152,469 2152,413 2021,374 1833,411 1703,372 1391,403 1065,365 930,406 686,372 227,403">241,435 336,432 432,429 528,428 624,426 720,424 815,423 911,423 1007,420 1103,421 1199,423 1294,423 1390,426 1486,428 1582,429 1678,432 1773,432 1869,432 1965,434 2061,432 2157,438</zone>
+			<zone xml:id="p1z4-0" points="222,529 483,500 700,534 756,497 1186,541 2130,522 2130,464 1840,437 1613,478 1263,435 1089,473 995,430 715,476 222,452">235,510 330,504 425,498 520,497 615,495 710,493 805,492 900,492 995,492 1090,492 1186,492 1281,495 1376,498 1471,498 1566,498 1661,501 1756,498 1851,501 1946,504 2041,505 2137,510</zone>
+			<zone xml:id="p1z5-0" points="222,621 454,628 797,563 2159,601 2159,522 1946,563 1843,522 1756,558 1647,507 222,531">235,590 331,578 428,572 524,567 621,564 717,562 814,561 910,561 1007,559 1103,558 1200,559 1297,563 1393,564 1490,567 1586,570 1683,573 1779,576 1876,581 1972,584 2069,587 2166,590</zone>
+			<zone xml:id="p1z6-0" points="227,669 1249,635 1485,686 1606,652 2140,681 2137,594 1732,628 1611,572 1512,611 1142,570 737,618 558,584 227,635">241,659 336,653 431,649 526,641 621,638 717,636 812,633 907,629 1002,629 1097,632 1193,632 1288,633 1383,635 1478,637 1573,640 1669,644 1764,647 1859,650 1954,654 2049,660 2145,668</zone>
+			<zone xml:id="p1z7-0" points="237,751 1077,722 1316,761 1410,724 1710,761 1814,729 1934,782 2137,758 2135,681 2038,662 1500,693 1239,638 966,683 838,650 237,681">250,731 344,728 439,722 533,718 628,713 723,713 817,710 912,707 1006,707 1101,707 1196,704 1290,708 1385,710 1479,711 1574,718 1669,719 1763,724 1858,730 1952,734 2047,738 2142,749</zone>
+			<zone xml:id="p1z8-0" points="234,848 633,790 710,831 1183,792 2147,819 2113,751 1932,780 1816,729 1758,770 1664,729 1565,768 1473,722 1350,768 1024,712 234,768">247,814 342,803 437,800 533,794 628,790 723,787 819,787 914,787 1009,785 1105,787 1200,785 1295,787 1391,790 1486,790 1581,793 1677,794 1772,797 1867,802 1963,802 2058,808 2154,796</zone>
+			<zone xml:id="p1z9-0" points="244,932 580,884 756,935 1055,869 1345,920 1628,874 1777,935 2091,891 2091,831 2021,855 1942,814 1710,840 1261,797 780,843 633,792 345,857 244,836">256,889 348,883 440,877 532,871 624,868 716,865 808,865 900,862 992,862 1084,862 1177,862 1269,862 1361,865 1453,865 1545,867 1637,867 1729,871 1821,874 1913,877 2005,877 2098,877</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3322!Autograph!01%20E_II_357__fol__857_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3322/Autograph/01 E_II_357__fol__857_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="2399,841 2501,817 2694,832 2733,802 2883,850 2985,835 2985,778 2863,743 2801,756 2766,730 2634,746 2597,720 2530,765 2399,769">2408,811 2437,807 2466,805 2495,805 2524,805 2553,805 2582,805 2611,805 2640,804 2669,802 2699,804 2728,805 2757,805 2786,805 2815,805 2844,805 2873,805 2902,805 2931,805 2960,805 2990,805</zone>
+			<zone xml:id="p2z2-0" points="2386,906 2462,889 2510,915 2566,913 2638,891 2673,913 2714,887 2796,915 2850,887 2913,902 2913,839 2803,841 2779,860 2655,817 2573,850 2430,830 2386,843">2396,883 2423,879 2450,877 2477,877 2505,877 2532,877 2559,877 2587,877 2614,877 2641,877 2669,877 2696,877 2723,877 2751,877 2778,877 2805,877 2833,879 2860,880 2887,880 2915,886</zone>
+			<zone xml:id="p2z3-0" points="2296,1002 2486,969 2694,991 2811,962 2965,993 2965,908 2885,889 2705,921 2610,893 2449,936 2296,902">2306,960 2339,958 2372,957 2405,956 2438,954 2471,952 2504,951 2538,951 2571,951 2604,951 2637,951 2670,951 2703,951 2736,953 2770,954 2803,954 2836,954 2869,956 2902,957 2935,957 2969,963</zone>
+			<zone xml:id="p2z4-0" points="2296,1049 2458,1036 2564,1067 2679,1049 2753,1082 2799,1058 2898,1093 2959,1075 2959,991 2909,1014 2495,965 2423,1012 2296,1002">2306,1041 2338,1035 2371,1033 2404,1030 2437,1029 2470,1029 2503,1027 2535,1026 2568,1026 2601,1026 2634,1026 2667,1026 2700,1026 2733,1029 2765,1029 2798,1029 2831,1029 2864,1031 2897,1032 2930,1034 2963,1038</zone>
+			<zone xml:id="p2z5-0" points="2293,1144 2434,1119 2499,1158 2651,1114 2811,1129 2811,1084 2775,1069 2697,1080 2657,1053 2530,1073 2476,1047 2358,1086 2293,1077">2303,1122 2328,1118 2354,1115 2379,1112 2405,1110 2430,1109 2456,1107 2481,1107 2507,1107 2532,1107 2558,1107 2584,1107 2609,1107 2635,1107 2660,1107 2686,1107 2711,1107 2737,1107 2762,1107 2788,1111 2814,1116</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Certo scribitur regem triduo ante acceptam cladem tres crudelissimos carnifices passim per <placeName ref="l832">Galliam</placeName> misisse, qui sine provocatione quidvis in hęreticos statuerent, nimirum ut nemini esset obscurum, quanti faceret <placeName ref="l862">Helvetiorum</placeName> et <placeName ref="l822">Germanorum</placeName> preces.</s>
-					<s n="2" xml:lang="la">Habet a consiliis unnicum illum cardinalem <placeName ref="l691">Lotharingum</placeName>, hominem, ut audio, inexplebilis avaricię et crudelitatis, cuius auspiciis frustra reluctante conestabili superioris etiam anni <placeName ref="l834">Italica</placeName> expeditio suscepta fuit.</s>
-					<s n="3" xml:lang="la">Adducet ille miserum regem in certissimum pręcipitium, quod ferendum tamen, nisi etiam ad alios et nos quoque perventurum esset malum.</s>
-					<s n="4" xml:lang="la">Princeps pacis Iesus Christus nos in suam tutelam susceptos ęternum conservet.!</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Certo scribitur regem triduo ante acceptam cladem tres crudelissimos <lb xml:id="p1z2"/>carnifices passim per <placeName ref="l832">Galliam</placeName> misisse, qui sine provocatione quidvis <lb xml:id="p1z3"/>in hęreticos statuerent, nimirum ut nemini esset obscurum, quanti faceret <lb xml:id="p1z4"/><placeName ref="l862">Helvetiorum</placeName> et <placeName ref="l822">Germanorum</placeName> preces.</s>
+					<s n="2" xml:lang="la">Habet a consiliis unnicum illum cardinalem <lb xml:id="p1z5"/><placeName ref="l691">Lotharingum</placeName>, hominem, ut audio, inexplebilis avaricię et crudelitatis, cuius <lb xml:id="p1z6"/>auspiciis frustra reluctante conestabili superioris etiam anni <placeName ref="l834">Italica</placeName> <lb xml:id="p1z7"/>expeditio suscepta fuit.</s>
+					<s n="3" xml:lang="la">Adducet ille miserum regem in certissimum pręcipitium, <lb xml:id="p1z8"/>quod ferendum tamen, nisi etiam ad alios et nos quoque perventurum esset malum.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z9"/>Princeps pacis Iesus Christus nos in suam tutelam susceptos ęternum conservet.!</s>
 				</p>
 				<p>
 					<note type="date">[Ohne Datum u. Unterschrift.]</note>
-					<s n="5" xml:lang="la">Clarissimo viro d. <persName ref="p495">Heinricho Bullingero</persName> suo modis omnibus venerando charissimoque in Christo fratri.</s>
+					<s n="5" xml:lang="la"><pb/><lb xml:id="p2z1"/>Clarissimo viro d. <persName ref="p495">Heinricho <lb xml:id="p2z2"/>Bullingero</persName> <lb xml:id="p2z3"/>suo modis omnibus v<lb xml:id="p2z4"/>enerando charissimoque <lb xml:id="p2z5"/>in Christo fratri.</s>
 					<s n="6" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
 				</p>
 			</div>

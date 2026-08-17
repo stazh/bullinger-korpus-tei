@@ -80,37 +80,56 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10641!Autograph!00%20E_II_342__fol__46_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10641/Autograph/00 E_II_342__fol__46_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="303,331 1129,293 1218,335 1868,312 2163,347 2147,291 1402,198 1101,277 303,240">316,316 408,310 501,307 593,303 686,301 778,299 871,300 963,298 1056,296 1148,298 1241,298 1333,298 1426,300 1518,304 1611,304 1703,307 1796,310 1888,313 1981,316 2073,317 2166,319</zone>
+			<zone xml:id="p1z2-0" points="356,440 473,394 724,424 983,375 2161,424 2161,347 2119,340 1097,356 745,307 356,363">370,393 459,388 549,385 639,382 729,379 819,376 908,373 998,370 1088,373 1178,373 1268,376 1357,376 1447,379 1537,382 1627,385 1717,385 1806,388 1896,391 1986,393 2076,396 2166,402</zone>
+			<zone xml:id="p1z3-0" points="349,494 1330,454 1379,487 2177,496 2180,408 2017,398 1828,440 1623,396 1465,433 1237,396 1046,438 778,405 352,431">361,483 452,476 543,470 634,465 725,461 816,456 907,455 999,453 1090,453 1181,453 1272,453 1363,453 1454,456 1545,456 1637,459 1728,459 1819,462 1910,462 2001,465 2092,465 2184,471</zone>
+			<zone xml:id="p1z4-0" points="363,622 866,540 1181,536 1227,571 1337,533 1572,575 1958,543 2082,580 2196,557 2198,482 1784,519 1618,473 1248,503 1090,461 363,550">376,570 467,563 558,557 649,549 741,543 832,540 923,536 1015,534 1106,532 1197,529 1289,531 1380,529 1471,530 1562,531 1654,533 1745,534 1836,534 1928,534 2019,537 2110,540 2202,549</zone>
+			<zone xml:id="p1z5-0" points="352,701 666,636 890,675 1341,610 1979,659 2131,645 2133,564 1977,589 1896,547 1791,592 1043,540 973,598 668,573 352,629">364,656 452,649 541,642 630,634 719,629 808,626 896,620 985,617 1074,613 1163,611 1252,608 1340,608 1429,608 1518,608 1607,608 1696,608 1784,608 1873,611 1962,611 2051,611 2140,614</zone>
+			<zone xml:id="p1z6-0" points="370,741 752,710 973,741 1032,696 1430,731 1598,689 1653,731 1754,692 2012,724 2121,703 2124,638 1681,626 1414,673 1281,617 1013,671 370,689">382,734 469,725 556,719 643,713 731,710 818,705 905,701 993,698 1080,695 1167,693 1255,692 1342,692 1429,689 1516,689 1604,687 1691,690 1778,692 1866,692 1953,689 2040,689 2128,689</zone>
+			<zone xml:id="p1z7-0" points="363,824 454,859 536,808 955,822 1020,782 1122,831 1255,780 1572,766 2233,806 2236,720 2112,703 1942,741 1863,701 1793,738 1737,703 1367,734 1330,703 1088,759 841,715 717,773 366,768">376,817 469,811 562,803 655,795 748,788 841,784 934,779 1027,776 1120,773 1213,770 1307,767 1400,766 1493,764 1586,764 1679,763 1772,764 1865,764 1958,763 2051,764 2144,764 2238,770</zone>
+			<zone xml:id="p1z8-0" points="354,929 610,876 796,908 983,855 1178,890 1670,843 1856,892 2019,850 2115,876 2163,817 1658,768 1553,803 1504,768 1302,817 1090,829 1032,792 356,869">367,907 461,893 556,880 651,873 745,864 840,860 935,855 1029,850 1124,850 1219,847 1313,844 1408,844 1503,844 1597,844 1692,843 1787,842 1881,841 1976,842 2071,841 2166,841</zone>
+			<zone xml:id="p1z9-0" points="349,1036 906,932 1013,966 1244,936 1306,980 1372,936 1502,973 1581,927 1728,964 1891,927 2177,945 2177,890 2019,850 1856,892 1686,850 1283,904 1225,866 1008,901 945,866 743,918 517,892 352,927">361,984 452,971 543,962 634,951 725,942 816,939 907,931 999,928 1090,925 1181,922 1272,919 1363,924 1454,922 1545,922 1637,922 1728,923 1819,922 1910,922 2001,922 2092,925 2184,934</zone>
+			<zone xml:id="p1z10-0" points="363,1106 1043,1008 1295,1076 1488,1018 2170,1050 2140,943 1819,964 1672,929 1507,971 1353,938 1306,980 1125,929 999,992 706,952 603,1020 508,990 366,1043">379,1065 473,1054 568,1041 663,1029 757,1022 852,1016 947,1010 1041,1005 1136,1003 1231,999 1325,1002 1420,1002 1515,996 1609,998 1704,999 1799,999 1893,999 1988,1000 2083,1002 2178,1011</zone>
+			<zone xml:id="p1z11-0" points="375,1188 1060,1090 1900,1132 2170,1104 2170,1043 2003,1020 1740,1064 1118,1025 734,1088 547,1055 377,1111">391,1149 480,1139 569,1130 658,1116 747,1109 837,1104 926,1098 1015,1092 1104,1089 1193,1086 1283,1083 1372,1083 1461,1083 1550,1083 1639,1083 1729,1086 1818,1083 1907,1086 1996,1089 2085,1089 2175,1092</zone>
+			<zone xml:id="p1z12-0" points="370,1248 612,1197 787,1230 885,1174 1148,1218 1630,1157 2082,1181 2180,1225 2180,1108 1786,1136 1611,1090 1092,1143 817,1108 722,1164 373,1185">385,1235 475,1217 565,1204 655,1194 745,1188 835,1176 925,1173 1015,1168 1105,1167 1195,1164 1286,1161 1376,1161 1466,1155 1556,1155 1646,1155 1736,1155 1826,1158 1916,1158 2006,1158 2096,1161 2187,1164</zone>
+			<zone xml:id="p1z13-0" points="356,1316 459,1344 605,1276 892,1246 1514,1234 1677,1269 1802,1227 2070,1283 2115,1276 2117,1190 1611,1216 1551,1178 1053,1225 962,1176 908,1216 841,1188 787,1230 508,1232 356,1283">370,1301 457,1284 544,1275 632,1269 719,1257 807,1251 894,1245 982,1242 1069,1241 1157,1236 1244,1235 1331,1238 1419,1237 1506,1234 1594,1232 1681,1232 1769,1229 1856,1229 1944,1232 2031,1235 2119,1244</zone>
+			<zone xml:id="p1z14-0" points="370,1379 1362,1320 1560,1407 1795,1386 1884,1441 1889,1248 1700,1285 1577,1246 957,1278 890,1248 370,1351">382,1372 457,1364 533,1354 608,1342 684,1334 759,1329 835,1324 910,1313 986,1311 1061,1310 1137,1307 1212,1310 1288,1310 1363,1311 1439,1316 1514,1319 1590,1318 1665,1322 1741,1327 1816,1328 1892,1331</zone>
+			<zone xml:id="p1z15-0" points="1127,1532 1290,1577 1348,1539 1416,1593 1551,1558 1709,1570 1777,1523 1875,1560 1877,1481 1826,1462 1709,1476 1430,1421 1288,1437 1223,1379 1132,1383">1140,1540 1177,1533 1214,1531 1251,1528 1288,1528 1325,1524 1362,1522 1399,1521 1436,1519 1473,1516 1510,1512 1547,1512 1584,1513 1621,1512 1658,1510 1695,1510 1732,1512 1769,1515 1806,1516 1843,1517 1880,1519</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10641!Autograph!01%20E_II_342__fol__46_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10641/Autograph/01 E_II_342__fol__46_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1091,1210 1169,1232 1300,1185 1516,1236 1702,1223 1702,1144 1649,1132 1527,1150 1385,1129 1303,1156 1169,1135 1091,1154">1096,1188 1126,1188 1156,1188 1187,1184 1217,1184 1248,1184 1278,1184 1308,1182 1339,1184 1369,1182 1400,1182 1430,1182 1460,1184 1491,1184 1521,1184 1552,1186 1582,1186 1612,1188 1643,1188 1673,1188 1704,1190</zone>
+			<zone xml:id="p2z2-0" points="977,1238 1000,1235 1017,1215 1025,1213 1011,1124 1002,1125 990,1120 980,1126 971,1138 962,1139">974,1184 999,1189 1024,1192</zone>
+			<zone xml:id="p2z3-0" points="993,1271 1584,1255 1584,1223 1410,1231 1315,1189 1169,1232 993,1234">998,1258 1027,1255 1056,1253 1086,1251 1115,1249 1145,1249 1174,1250 1203,1250 1233,1248 1262,1248 1292,1250 1321,1248 1350,1248 1380,1248 1409,1248 1439,1248 1468,1248 1497,1248 1527,1246 1556,1246 1586,1248</zone>
+			<zone xml:id="p2z4-0" points="1003,1337 1217,1318 1267,1348 1311,1323 1438,1323 1551,1358 1561,1248 1496,1253 1431,1291 1365,1284 1331,1256 1261,1295 1003,1284">1008,1322 1035,1318 1063,1316 1091,1315 1118,1314 1146,1315 1174,1312 1201,1310 1229,1310 1257,1310 1285,1310 1312,1310 1340,1310 1368,1311 1395,1312 1423,1312 1451,1313 1478,1314 1506,1312 1534,1314 1562,1312</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratiam et pacem.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratiam et pacem.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Nolui nescires <placeName ref="l2448">Pentacomeorum</placeName> olygarchas remisisse iram, rescripsisse nostris permissuros se, ut praefectus a nobis <placeName ref="l3386">Wagadalensibus</placeName> missus et iusiurandum solius divini nominis obtestatione roget, deinde ad missas neminem cogat.</s>
-					<s n="3" xml:lang="la">Se vero curaturos, ut pactis stent, qui promisere paganicam fidem professurum<note xml:id="fn1" type="footnote" n="1"><persName ref="p495">Bullinger</persName> gibt hier den Abschied eines Tags der <placeName ref="l2448">V Orte</placeName> vom 26. Juni 1535 wieder (vgl. <bibl source="b197">EA</bibl> IV/1c 518 c), durch welchen der Konflikt beigelegt wurde, der beim Amtsantritt des neuen Zürcher Landvogts in der gemeinen Herrschaft <placeName ref="l3386">Freie Ämter</placeName>, <persName ref="p6793">Itelhans Thumysen</persName>, entstanden war (vgl. oben <ref target="file10632">Nr. 594</ref>, 10-19).</note>.</s>
-					<s n="4" xml:lang="de">Dann die inn <placeName ref="l3386">Fryen Amptern</placeName> oder <placeName ref="l3386">Wagental</placeName> sind inn gheinem fryden und habend sich ann die <placeName ref="l2448">5 ort</placeName> ergäben<note xml:id="fn2" type="footnote" n="2">Die <placeName ref="l3386">Freien Ämter</placeName> waren 1531 vom Landfrieden ausgeschlossen und den <placeName ref="l2448">V Orten</placeName> zur Bestrafung vorbehalten worden, worauf eine rasche Rekatholisierung erfolgte; vgl. Adolf <hi>Bucher,</hi> Die Reformation in den Freien Ämtern und in der Stadt Bremgarten (bis 1531). Diss. phil. Freiburg/Schweiz, Sarnen 1950. - Beilage zum Jahresbericht der Kantonalen Lehranstalt Sarnen 1949/50, S. 172-176.</note>.</s>
+					<s n="2" xml:lang="la">Nolui nescires <placeName ref="l2448">Pentacomeorum</placeName> <lb xml:id="p1z2"/>olygarchas remisisse iram, rescripsisse nostris <lb xml:id="p1z3"/>permissuros se, ut praefectus a nobis <placeName ref="l3386">Wagadalensibus</placeName> <lb xml:id="p1z4"/>missus et iusiurandum solius divini nominis ob<lb xml:id="p1z5"/>testatione roget, deinde ad missas neminem cogat.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z6"/>Se vero curaturos, ut pactis stent, qui promisere <lb xml:id="p1z7"/>paganicam fidem professurum<note xml:id="fn1" type="footnote" n="1"><persName ref="p495">Bullinger</persName> gibt hier den Abschied eines Tags der <placeName ref="l2448">V Orte</placeName> vom 26. Juni 1535 wieder (vgl. <bibl source="b197">EA</bibl> IV/1c 518 c), durch welchen der Konflikt beigelegt wurde, der beim Amtsantritt des neuen Zürcher Landvogts in der gemeinen Herrschaft <placeName ref="l3386">Freie Ämter</placeName>, <persName ref="p6793">Itelhans Thumysen</persName>, entstanden war (vgl. oben <ref target="file10632">Nr. 594</ref>, 10-19).</note>.</s>
+					<s n="4" xml:lang="de">Dann die inn <placeName ref="l3386">Fryen <lb xml:id="p1z8"/>Amptern</placeName> oder <placeName ref="l3386">Wagental</placeName> sind inn gheinem <lb xml:id="p1z9"/>fryden und habend sich ann die <placeName ref="l2448">5 ort</placeName> er<lb xml:id="p1z10"/>gäben<note xml:id="fn2" type="footnote" n="2">Die <placeName ref="l3386">Freien Ämter</placeName> waren 1531 vom Landfrieden ausgeschlossen und den <placeName ref="l2448">V Orten</placeName> zur Bestrafung vorbehalten worden, worauf eine rasche Rekatholisierung erfolgte; vgl. Adolf <hi>Bucher,</hi> Die Reformation in den Freien Ämtern und in der Stadt Bremgarten (bis 1531). Diss. phil. Freiburg/Schweiz, Sarnen 1950. - Beilage zum Jahresbericht der Kantonalen Lehranstalt Sarnen 1949/50, S. 172-176.</note>.</s>
 					<s n="5" xml:lang="de">Daby wöllend sy die lüt behallten.</s>
-					<s n="6" xml:lang="la">Ex nostris nemo erat omnium, qui postulationi aquiesceret priori.</s>
-					<s n="7" xml:lang="la">Id senserunt nimirum, unde et iram remisere.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z11"/>Ex nostris nemo erat omnium, qui postulationi <lb xml:id="p1z12"/>aquiesceret priori.</s>
+					<s n="7" xml:lang="la">Id senserunt ni<lb xml:id="p1z13"/>mirum, unde et iram remisere.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Valebis in domino.</s>
+					<s n="8" xml:lang="la">Valebis <lb xml:id="p1z14"/>in domino.</s>
 					<s n="9" xml:lang="la">Ultima iunii 1535.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la"><persName ref="p495">H. Bull.</persName> tuus.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z15"/><persName ref="p495">H. Bull.</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="la">Domino <persName ref="p8418">Osvaldo Myconio</persName>, domino suo colendo.</s>
+					<s n="11" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p8418">Osvaldo <lb xml:id="p2z2"/>My<lb xml:id="p2z3"/>conio</persName>, domino <lb xml:id="p2z4"/>suo colendo.</s>
 				</p>
 			</div>
 		</body>

@@ -83,37 +83,53 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12838!Autograph!00%20E_II_342__fol__163_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12838/Autograph/00 E_II_342__fol__163_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="396,294 1289,263 1698,275 1863,341 2131,289 2228,314 2226,226 1764,253 1605,197 1284,221 1211,187 1095,224 1024,173 883,216 810,170 396,207">411,277 502,271 593,265 684,259 775,259 866,259 957,257 1048,257 1139,260 1230,263 1321,265 1412,268 1503,269 1594,272 1685,275 1776,281 1867,282 1958,280 2049,281 2140,279 2231,280</zone>
+			<zone xml:id="p1z2-0" points="414,375 1362,348 2092,401 2333,377 2333,316 1800,341 1603,280 1369,324 1241,270 1024,321 983,282 873,321 817,275 411,309">426,358 521,352 617,348 712,345 808,339 903,337 999,339 1094,334 1190,337 1285,343 1381,344 1476,346 1572,349 1667,352 1763,355 1858,358 1954,358 2049,358 2145,361 2240,363 2336,369</zone>
+			<zone xml:id="p1z3-0" points="428,469 589,431 966,472 1399,421 1676,484 1834,440 2111,445 2180,489 2360,445 2360,382 2270,365 2097,401 1866,370 1756,411 1530,362 1462,399 1253,360 1075,387 973,343 829,396 428,406">441,435 537,426 633,426 729,425 826,421 922,418 1018,417 1114,417 1211,420 1307,420 1403,423 1499,425 1596,428 1692,432 1788,435 1884,436 1981,438 2077,438 2173,438 2269,438 2366,444</zone>
+			<zone xml:id="p1z4-0" points="414,584 766,511 922,557 1224,504 1773,550 1978,518 2136,564 2357,538 2357,460 2201,506 2070,465 1773,494 1416,426 1209,482 608,431 414,479">426,528 522,525 619,518 716,515 812,510 909,507 1006,504 1102,501 1199,504 1296,502 1393,504 1489,504 1586,510 1683,510 1779,511 1876,513 1973,515 2069,516 2166,522 2263,525 2360,528</zone>
+			<zone xml:id="p1z5-0" points="406,657 506,613 771,647 905,601 1041,630 1204,598 1323,642 1603,596 1766,654 1946,601 2345,657 2345,574 2231,538 2009,579 1895,535 1321,523 406,594">420,614 516,611 613,605 709,602 806,601 902,599 999,596 1095,593 1192,590 1288,590 1385,590 1482,593 1578,593 1675,593 1771,599 1868,599 1964,600 2061,604 2157,602 2254,605 2351,611</zone>
+			<zone xml:id="p1z6-0" points="416,735 1114,684 1335,686 1404,737 1554,684 1844,681 1958,735 2041,691 2291,747 2291,645 1992,608 1802,657 1554,608 1321,642 1211,608 1024,657 662,623 462,679 416,647">429,698 522,694 615,689 709,686 802,683 896,678 989,676 1082,677 1176,677 1269,674 1363,677 1456,677 1549,677 1643,678 1736,679 1830,680 1923,680 2016,682 2110,683 2203,683 2297,695</zone>
+			<zone xml:id="p1z7-0" points="416,820 859,769 2367,795 2367,713 2304,703 1961,735 1800,703 1635,749 1343,701 416,737">429,787 526,779 623,772 720,769 818,766 915,766 1012,766 1109,763 1207,766 1304,766 1401,766 1498,763 1596,765 1693,765 1790,766 1887,763 1985,763 2082,764 2179,768 2276,769 2374,769</zone>
+			<zone xml:id="p1z8-0" points="406,907 798,856 983,907 1151,859 1340,890 1625,849 1875,905 1978,859 2301,888 2301,822 2082,788 2007,829 1873,791 1457,829 722,776 406,829">420,880 514,868 608,862 702,859 797,853 891,850 985,850 1080,847 1174,846 1268,847 1363,847 1457,847 1551,844 1645,842 1740,844 1834,845 1928,847 2023,849 2117,850 2211,853 2306,859</zone>
+			<zone xml:id="p1z9-0" points="396,971 691,995 946,937 1029,983 1477,927 1730,980 1936,934 2058,983 2270,961 2321,941 2323,881 2119,859 1951,912 1508,866 1416,907 1255,873 396,919">411,954 506,947 602,942 698,939 794,937 890,936 985,933 1081,930 1177,929 1273,927 1369,925 1464,924 1560,924 1656,924 1752,927 1848,925 1943,927 2039,927 2135,927 2231,930 2327,933</zone>
+			<zone xml:id="p1z10-0" points="426,1058 667,1063 888,1007 2357,1058 2357,995 2250,951 1552,980 1185,937 1027,983 426,1012">438,1041 534,1032 630,1025 726,1018 822,1015 919,1006 1015,1005 1111,1002 1207,999 1303,1000 1400,1004 1496,1005 1592,1002 1688,1005 1784,1008 1881,1008 1977,1011 2073,1016 2169,1016 2265,1020 2362,1022</zone>
+			<zone xml:id="p1z11-0" points="1289,1207 1438,1165 1508,1189 1593,1151 1693,1216 1800,1168 2072,1170 2072,1109 2026,1097 1917,1131 1863,1107 1822,1136 1732,1097 1581,1107 1433,1073 1289,1107">1303,1157 1341,1154 1380,1152 1419,1149 1458,1148 1497,1148 1535,1148 1574,1148 1613,1148 1652,1148 1691,1150 1729,1151 1768,1152 1807,1155 1846,1157 1885,1157 1923,1160 1962,1160 2001,1160 2040,1160 2079,1166</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12838!Autograph!01%20E_II_342__fol__163_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12838/Autograph/01 E_II_342__fol__163_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="818,1240 842,1238 854,1250 862,1244 883,1247 892,1239 915,1242 936,1230 944,1239 970,1234 987,1244 991,1195 954,1189 919,1192 890,1206 820,1206">824,1228 851,1225 879,1223 907,1222 934,1220 962,1218 990,1216</zone>
+			<zone xml:id="p2z2-0" points="1021,1151 1077,1165 1198,1138 1326,1163 1417,1142 1563,1177 1562,1123 1344,1088 1267,1088 1187,1120 1081,1086 1020,1102">1026,1140 1052,1138 1079,1138 1106,1137 1133,1135 1160,1134 1187,1135 1214,1135 1241,1134 1268,1136 1295,1136 1321,1138 1348,1139 1375,1140 1402,1142 1429,1144 1456,1144 1483,1144 1510,1144 1537,1146 1564,1148</zone>
+			<zone xml:id="p2z3-0" points="1005,1233 1176,1244 1270,1223 1309,1245 1391,1221 1459,1246 1581,1248 1580,1201 1483,1212 1404,1163 1311,1194 1221,1166 1105,1211 1004,1182">1010,1214 1038,1214 1067,1216 1095,1218 1124,1218 1153,1216 1181,1216 1210,1216 1238,1215 1267,1214 1296,1215 1324,1216 1353,1216 1381,1217 1410,1219 1439,1223 1467,1224 1496,1226 1524,1226 1553,1228 1582,1232</zone>
+			<zone xml:id="p2z4-0" points="1085,1303 1163,1290 1247,1322 1367,1290 1503,1321 1594,1312 1593,1253 1576,1249 1521,1255 1486,1283 1436,1257 1339,1275 1084,1243">1090,1294 1115,1291 1140,1289 1165,1288 1191,1288 1216,1288 1241,1286 1267,1286 1292,1286 1317,1286 1343,1287 1368,1289 1393,1290 1418,1292 1444,1292 1469,1292 1494,1293 1520,1294 1545,1294 1570,1294 1596,1294</zone>
+			<zone xml:id="p2z5-0" points="1079,1527 1111,1538 1132,1533 1179,1564 1239,1525 1265,1537 1300,1528 1300,1430 1241,1424 1195,1444 1137,1447 1113,1436 1079,1450">1084,1522 1111,1518 1138,1518 1165,1518 1193,1519 1220,1519 1247,1518 1274,1519 1302,1522</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S. D.</s>
-					<s n="2" xml:lang="la">Paucula tibi scribere cogor, quia angustum est mihi tempus, <persName ref="p8418">Myconi</persName> colendissime.<pb type="edition" next="245"/></s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S. D.</s>
+					<s n="2" xml:lang="la">Paucula tibi scribere cogor, quia <lb xml:id="p1z2"/>angustum est mihi tempus, <persName ref="p8418">Myconi</persName> colendissime.<pb type="edition" next="245"/></s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="3" xml:lang="la">Qui has tibi reddit, est <persName ref="p2336">Bernardinus <span type="pronoun">ille</span> Ochinus</persName>,<note xml:id="fn1" type="footnote" n="1">In Anbetracht von <persName ref="p495">Bullingers</persName> Äußerungen in seinem Brief <ref target="file12837">Nr. 2788</ref> an <persName ref="p8418">Myconius</persName> vom gleichen Tag ist <persName ref="p2336">Ochino</persName> am 2. Februar in <placeName ref="l587">Zürich</placeName> eingetroffen. Aus dem am 21. April verfassten Brief <persName ref="p540">Calvins</persName> an <persName ref="p8417">Wolfgang Musculus</persName> erfährt man, dass an diesem Tag auch der vermutlich aus <placeName ref="l167">Genf</placeName> via <placeName ref="l28">Basel</placeName> kommende <persName ref="p540">Calvin</persName> zufälligerweise eine halbe Stunde nach <persName ref="p2336">Ochino</persName> in <placeName ref="l587">Zürich</placeName> eintraf und diesem dort begegnete; s. <hi>CO</hi> XII 512f.</note> egregius Christi servus, unice petitus a caesare<note xml:id="fn2" type="footnote" n="2"><persName ref="p18538">Karl V.</persName> - Siehe dazu zuletzt <ref target="file12837">Nr. 2788</ref>,8- 10.</note>, sed frustratus spe sua.</s>
-					<s n="4" xml:lang="la">Liberavit enim ipsum dominus ex ore leonis.<note xml:id="fn3" type="footnote" n="3">Vgl. <cit type="bible"><ref>Dan 6, 22</ref></cit>.</note></s>
-					<s n="5" xml:lang="la">Redit<note xml:id="fn4" type="footnote" n="4">Im August 1545 hatte sich <persName ref="p2336">Ochino</persName> einige Tage lang in <placeName ref="l28">Basel</placeName> aufgehalten; s. <hi>Henrich, <persName ref="p8418">Myconius</persName> BW</hi> 813, <ref target="file10958">Nr. 916</ref>.</note> ad vos cohabitaturus vobis.</s>
-					<s n="6" xml:lang="la">Hunc tibi commendo tamquam me ipsum!</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z3"/>Qui has tibi reddit, est <persName ref="p2336">Bernardinus <span type="pronoun">ille</span> <lb xml:id="p1z4"/>Ochinus</persName>,<note xml:id="fn1" type="footnote" n="1">In Anbetracht von <persName ref="p495">Bullingers</persName> Äußerungen in seinem Brief <ref target="file12837">Nr. 2788</ref> an <persName ref="p8418">Myconius</persName> vom gleichen Tag ist <persName ref="p2336">Ochino</persName> am 2. Februar in <placeName ref="l587">Zürich</placeName> eingetroffen. Aus dem am 21. April verfassten Brief <persName ref="p540">Calvins</persName> an <persName ref="p8417">Wolfgang Musculus</persName> erfährt man, dass an diesem Tag auch der vermutlich aus <placeName ref="l167">Genf</placeName> via <placeName ref="l28">Basel</placeName> kommende <persName ref="p540">Calvin</persName> zufälligerweise eine halbe Stunde nach <persName ref="p2336">Ochino</persName> in <placeName ref="l587">Zürich</placeName> eintraf und diesem dort begegnete; s. <hi>CO</hi> XII 512f.</note> egregius Christi servus, unice petitus <lb xml:id="p1z5"/>a caesare<note xml:id="fn2" type="footnote" n="2"><persName ref="p18538">Karl V.</persName> - Siehe dazu zuletzt <ref target="file12837">Nr. 2788</ref>,8- 10.</note>, sed frustratus spe sua.</s>
+					<s n="4" xml:lang="la">Liber<lb xml:id="p1z6"/>avit enim ipsum dominus ex ore leonis.<note xml:id="fn3" type="footnote" n="3">Vgl. <cit type="bible"><ref>Dan 6, 22</ref></cit>.</note></s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z7"/>Redit<note xml:id="fn4" type="footnote" n="4">Im August 1545 hatte sich <persName ref="p2336">Ochino</persName> einige Tage lang in <placeName ref="l28">Basel</placeName> aufgehalten; s. <hi>Henrich, <persName ref="p8418">Myconius</persName> BW</hi> 813, <ref target="file10958">Nr. 916</ref>.</note> ad vos cohabitaturus vobis.</s>
+					<s n="6" xml:lang="la">Hunc tibi <lb xml:id="p1z8"/>commendo tamquam me ipsum!</s>
 					<s n="7" xml:lang="la">Pius est et doctus.</s>
-					<s n="8" xml:lang="la">De rebus <placeName ref="l18">Augustanorum</placeName> ipse omnia melius exponet.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z9"/>De rebus <placeName ref="l18">Augustanorum</placeName> ipse omnia melius <lb xml:id="p1z10"/>exponet.</s>
 					<s n="9" xml:lang="la" ana="farewell">Vale.</s>
 					<s n="10" xml:lang="la"><placeName ref="l587">Tiguri</placeName>, 2. februarii 1547.</s>
-					<s n="11" xml:lang="la"><persName ref="p495">Bullingerus</persName> tuus.</s>
+					<s n="11" xml:lang="la"><lb xml:id="p1z11"/><persName ref="p495">Bullingerus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="12" xml:lang="la">D. <persName ref="p8418">Osvaldo Myconio</persName>, colendo suo domino et fratri.</s>
-					<s n="13" xml:lang="de"><placeName ref="l28">Basel</placeName>.<note xml:id="fn5" type="footnote" n="5">Dieser Brief wurde <persName ref="p2336">Ochino</persName> mitgegeben.</note></s>
+					<s n="12" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <lb xml:id="p2z2"/><persName ref="p8418">Osvaldo Myconio</persName>, <lb xml:id="p2z3"/>colendo suo <lb xml:id="p2z4"/>domino et fratri.</s>
+					<s n="13" xml:lang="de"><lb xml:id="p2z5"/><placeName ref="l28">Basel</placeName>.<note xml:id="fn5" type="footnote" n="5">Dieser Brief wurde <persName ref="p2336">Ochino</persName> mitgegeben.</note></s>
 				</p>
 			</div>
 		</body>

@@ -74,6 +74,16 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2169!Autograph!00%20E_II_365__fol__134_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">2169/Autograph/00 E_II_365__fol__134_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="795,398 1532,376 1771,480 2063,398 2309,429 2541,383 2756,451 2756,322 2351,249 2222,302 2129,263 1773,337 1710,300 1456,329 1251,241 795,190">809,382 906,375 1004,372 1101,373 1199,370 1296,373 1394,373 1491,373 1589,372 1686,373 1784,371 1881,370 1979,370 2076,373 2174,373 2271,374 2369,373 2466,373 2564,373 2661,375 2759,382</zone>
+			<zone xml:id="p1z2-0" points="878,534 1214,517 1332,585 1375,549 1456,600 1622,602 1841,519 2078,510 2429,580 2590,507 2778,524 2778,441 2688,458 2619,407 2409,478 2222,405 1771,483 1497,419 1290,480 1110,473 1039,422 878,412">892,501 986,501 1081,504 1175,505 1270,504 1364,507 1459,504 1553,505 1648,507 1742,507 1837,504 1932,504 2026,504 2121,504 2215,505 2310,504 2404,504 2499,504 2593,504 2688,504 2783,504</zone>
+			<zone xml:id="p1z3-0" points="888,654 1246,639 1505,690 1590,641 1827,649 1961,705 2046,646 2717,683 2717,532 2661,527 2392,588 2239,549 1771,607 1451,593 1378,549 1312,595 1195,556 888,610">901,636 992,635 1083,636 1174,636 1265,639 1356,638 1447,636 1538,636 1629,636 1720,636 1812,636 1903,636 1994,636 2085,638 2176,636 2267,636 2358,636 2449,636 2540,636 2631,633 2723,633</zone>
+			<zone xml:id="p1z4-0" points="885,778 1461,763 1646,844 1751,783 2010,810 2158,776 2256,832 2705,788 2705,685 2580,668 1851,717 1634,651 1468,727 1412,680 1154,715 885,673">898,764 988,758 1079,758 1169,758 1260,761 1351,761 1441,761 1532,758 1623,761 1713,758 1804,759 1895,761 1985,761 2076,761 2167,763 2257,761 2348,761 2439,764 2529,764 2620,767 2711,764</zone>
+			<zone xml:id="p1z5-0" points="878,968 1034,895 1422,897 1556,961 1717,897 1892,932 1936,895 2129,897 2266,980 2685,929 2685,778 2451,832 1895,788 1700,844 1453,805 1295,841 1185,805 1029,846 956,795 878,819">892,895 981,895 1071,892 1161,892 1251,889 1341,889 1431,886 1521,886 1611,886 1701,886 1791,889 1880,889 1970,886 2060,889 2150,889 2240,889 2330,889 2420,889 2510,892 2600,892 2690,898</zone>
+			<zone xml:id="p1z6-0" points="876,1132 1402,1022 1573,1078 1795,1017 2802,1075 2802,912 2631,990 2427,946 2214,995 1995,907 1695,980 876,968">889,1036 985,1027 1081,1024 1177,1019 1273,1018 1369,1015 1465,1012 1561,1012 1657,1011 1753,1009 1849,1009 1945,1010 2041,1012 2137,1012 2233,1012 2329,1013 2425,1016 2521,1018 2617,1018 2713,1015 2809,1015</zone>
+			<zone xml:id="p1z7-0" points="888,1183 1019,1246 1136,1158 1478,1144 1827,1200 2127,1141 2466,1205 2592,1161 2595,1088 2300,1036 2217,1085 2010,1090 1936,1046 1483,1119 1166,1063 890,1122">901,1167 990,1161 1079,1155 1169,1152 1258,1149 1348,1146 1437,1143 1526,1143 1616,1140 1705,1140 1795,1143 1884,1140 1974,1137 2063,1137 2152,1137 2242,1137 2331,1134 2421,1137 2510,1137 2600,1137</zone>
+			<zone xml:id="p1z8-0" points="888,1344 1346,1280 1514,1327 1602,1283 1773,1317 1956,1283 2292,1346 2673,1280 2673,1144 2629,1124 2307,1236 2073,1149 1763,1239 1563,1205 1139,1249 888,1224">901,1290 989,1284 1078,1283 1167,1281 1256,1278 1345,1275 1434,1275 1522,1274 1611,1272 1700,1272 1789,1272 1878,1275 1967,1272 2056,1272 2144,1275 2233,1272 2322,1272 2411,1275 2500,1272 2589,1272 2678,1272</zone>
+			<zone xml:id="p1z9-0" points="878,1458 922,1446 941,1453 958,1439 993,1449 1061,1412 1107,1439 1161,1439 1166,1354 1139,1366 1097,1358 1078,1336 1029,1314 978,1351 932,1334 883,1341">895,1412 920,1411 945,1409 970,1407 995,1406 1020,1406 1045,1405 1070,1404 1095,1403 1120,1403 1145,1403 1170,1403</zone>
+			<zone xml:id="p1z10-0" points="1305,1963 1434,1914 1675,1953 1905,1895 2078,1944 2251,1929 2329,1980 2597,1936 2566,1768 2163,1785 2010,1858 1597,1773 1305,1819">1319,1905 1383,1900 1447,1899 1511,1899 1575,1899 1640,1899 1704,1899 1768,1896 1832,1896 1896,1896 1961,1896 2025,1896 2089,1897 2153,1896 2217,1892 2282,1892 2346,1892 2410,1890 2474,1896 2538,1894 2603,1890</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2169!Autograph!01%20E_II_365__fol__134_v_.tif/full/max/0/default.jpg" n="2">
@@ -89,25 +99,28 @@
 			<graphic xml:id="img4-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!2169!Autograph!03%20E_II_365__fol__134_a_v_.tif/full/max/0/default.jpg" n="4">
 				<desc subtype="path">2169/Autograph/03 E_II_365__fol__134_a_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p4z1-0" points="510,1306 927,1272 1343,1312 1484,1290 1486,1224 1399,1238 1277,1191 1197,1224 929,1238 810,1205 687,1238 512,1198">516,1295 564,1293 613,1286 661,1281 710,1276 759,1272 807,1269 856,1268 904,1268 953,1265 1002,1265 1050,1265 1099,1265 1147,1265 1196,1268 1245,1268 1293,1267 1342,1268 1390,1268 1439,1268 1488,1268</zone>
+			<zone xml:id="p4z2-0" points="568,1399 795,1440 958,1380 1135,1428 1224,1378 1326,1427 1479,1402 1480,1335 1316,1303 856,1350 742,1310 569,1321">575,1387 620,1385 665,1382 711,1381 756,1381 802,1381 847,1381 892,1381 938,1378 983,1378 1029,1375 1074,1375 1119,1375 1165,1372 1210,1372 1256,1372 1301,1372 1346,1369 1392,1369 1437,1369 1483,1369</zone>
+			<zone xml:id="p4z3-0" points="558,1525 750,1553 862,1498 1166,1511 1222,1537 1226,1402 1102,1464 964,1440 893,1469 561,1464">566,1506 599,1506 632,1504 665,1502 698,1500 731,1500 764,1498 797,1497 830,1497 863,1497 896,1497 929,1496 962,1494 995,1494 1028,1492 1061,1491 1094,1491 1127,1491 1160,1489 1193,1490 1226,1494</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Literas tuas cum <persName ref="p3375">Vergerii</persName> nostri fasciculo accepi; ei breviter respondeo.</s>
-					<s n="3" xml:lang="la">Si commodo tuo facere poteris, ad eum mittes.</s>
-					<s n="4" xml:lang="la">Non sum tam expers humanitatis, ut te aut ea aut alia re gravare velim.</s>
-					<s n="5" xml:lang="la">Scribo, ut se res offerunt, et scribo aperte.</s>
-					<s n="6" xml:lang="la">Nihil mihi gratius est, quam ut omnes erga me eadem libertate utantur, nedum ii, quibus tribuo, ut debeo, plurimum.</s>
-					<s n="7" xml:lang="la">Te certe imprimis amo et veneror.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Literas tuas cum <persName ref="p3375">Vergerii</persName> nostri fasciculo accepi; <lb xml:id="p1z2"/>ei breviter respondeo.</s>
+					<s n="3" xml:lang="la">Si commodo tuo facere poteris, ad <lb xml:id="p1z3"/>eum mittes.</s>
+					<s n="4" xml:lang="la">Non sum tam expers humanitatis, ut te <lb xml:id="p1z4"/>aut ea aut alia re gravare velim.</s>
+					<s n="5" xml:lang="la">Scribo, ut se res <lb xml:id="p1z5"/>offerunt, et scribo aperte.</s>
+					<s n="6" xml:lang="la">Nihil mihi gratius est, <lb xml:id="p1z6"/>quam ut omnes erga me eadem libertate utantur, nedum i<lb xml:id="p1z7"/>i, quibus tribuo, ut debeo, plurimum.</s>
+					<s n="7" xml:lang="la">Te certe <lb xml:id="p1z8"/>imprimis amo et veneror.</s>
 					<s n="8" xml:lang="la" ana="farewell">Vale.</s>
-					<s n="9" xml:lang="la"><placeName ref="l98">Curiae</placeName>, 8. calendas februarii.</s>
+					<s n="9" xml:lang="la"><placeName ref="l98">Curiae</placeName>, 8. calendas <lb xml:id="p1z9"/>februarii.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Tuus <persName ref="p8332">Ioh[annes] Frax[ineus]</persName>, episcopus <placeName ref="l1206">Bay[onensis]</placeName>.</s>
-					<s n="11" xml:lang="la">Doctissimo viro d. <persName ref="p495">Henrico Bullingero</persName>, ecclesiae <placeName ref="l587">Tigurinae</placeName> ministro, amico charissimo.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z10"/>Tuus <persName ref="p8332">Ioh[annes] Frax[ineus]</persName>, episcopus <placeName ref="l1206">Bay[onensis]</placeName>.</s>
+					<s n="11" xml:lang="la"><pb/><lb xml:id="p4z1"/>Doctissimo viro d. <persName ref="p495">Henrico <lb xml:id="p4z2"/>Bullingero</persName>, ecclesiae <placeName ref="l587">Tigurinae</placeName> <lb xml:id="p4z3"/>ministro, amico charissimo.</s>
 				</p>
 			</div>
 		</body>

@@ -71,11 +71,27 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12378!Autograph!00%20E_II_355__fol__118_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12378/Autograph/00 E_II_355__fol__118_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="478,396 805,388 938,432 1035,393 1234,437 1597,386 1822,455 2087,422 2243,475 2529,457 2527,337 2420,378 2259,273 2018,368 1911,317 1684,301 1638,342 1492,286 1288,355 1175,307 963,350 690,286 478,322">492,369 594,369 696,372 798,372 900,372 1002,378 1104,378 1207,381 1309,381 1411,384 1513,386 1615,390 1717,391 1819,395 1922,396 2024,397 2126,401 2228,404 2330,405 2432,408 2535,411</zone>
+			<zone xml:id="p1z2-0" points="529,498 672,483 733,534 835,488 920,531 1203,491 1829,565 1995,524 2113,570 2231,511 2300,562 2496,526 2412,445 2282,483 2179,424 1796,462 1722,427 1584,468 1375,404 1237,460 1068,411 989,442 789,396 529,409">542,474 639,471 737,472 835,476 933,479 1031,480 1129,483 1227,487 1325,489 1423,492 1521,495 1618,495 1716,498 1814,498 1912,500 2010,499 2108,501 2206,505 2304,508 2402,512 2500,516</zone>
+			<zone xml:id="p1z3-0" points="531,618 636,580 869,644 1078,595 1339,644 1543,611 1697,649 2190,629 2356,675 2448,644 2445,552 2261,537 2018,593 1763,588 1569,516 1232,547 1178,514 1060,562 529,516">542,581 637,575 733,581 828,584 924,587 1020,590 1115,592 1211,596 1307,599 1402,602 1498,605 1594,608 1689,610 1785,611 1881,614 1976,617 2072,617 2168,620 2263,623 2359,626 2455,629</zone>
+			<zone xml:id="p1z4-0" points="534,710 657,700 825,759 1042,710 1152,766 1571,718 1760,756 2036,733 2103,774 2264,733 2363,772 2491,751 2489,667 1998,700 1809,631 1369,629 1114,682 782,603 692,649 618,598 531,618">545,695 642,695 740,698 837,701 935,703 1033,704 1130,707 1228,707 1325,710 1423,713 1521,713 1618,716 1716,716 1813,719 1911,721 2009,723 2106,724 2204,727 2301,730 2399,733 2497,733</zone>
+			<zone xml:id="p1z5-0" points="534,848 756,825 1063,889 1262,833 1520,879 1880,838 2064,884 2254,843 2463,902 2491,749 2136,810 2006,761 1579,789 1387,744 1311,787 1019,738 787,795 590,749 531,779">545,814 642,811 740,817 838,819 936,821 1033,826 1131,826 1229,829 1327,829 1424,829 1522,832 1620,832 1718,832 1815,832 1913,832 2011,835 2109,835 2206,838 2304,839 2402,842 2500,844</zone>
+			<zone xml:id="p1z6-0" points="529,945 613,935 713,994 805,945 922,1004 1004,966 1352,1014 1421,968 1648,958 1855,1007 1926,971 2057,1014 2218,986 2509,1022 2506,884 2121,925 2034,864 1681,902 1546,864 1295,920 1180,876 917,920 759,853 529,848">542,933 640,930 739,934 837,938 936,941 1034,942 1133,945 1231,945 1330,948 1428,950 1527,951 1625,954 1724,955 1822,957 1921,956 2019,957 2118,955 2216,957 2315,957 2413,957 2512,960</zone>
+			<zone xml:id="p1z7-0" points="531,1086 846,1106 915,1060 986,1106 1201,1068 1681,1129 1870,1076 2029,1106 2077,1073 2141,1122 2425,1086 2422,1045 2236,994 1410,976 1285,1037 1073,1017 1002,968 529,1007">542,1050 636,1050 730,1050 825,1053 919,1053 1014,1053 1108,1053 1203,1056 1297,1059 1392,1059 1486,1062 1580,1065 1675,1065 1769,1066 1864,1068 1958,1068 2053,1071 2147,1071 2242,1074 2336,1077 2431,1077</zone>
+			<zone xml:id="p1z8-0" points="534,1221 1007,1168 1132,1216 1349,1170 1888,1290 2103,1191 2241,1237 2427,1209 2425,1132 2162,1140 2075,1073 1834,1145 1768,1106 1633,1142 1495,1088 1418,1117 892,1076 807,1132 687,1073 531,1086">548,1169 642,1163 736,1160 830,1161 925,1163 1019,1166 1113,1166 1208,1168 1302,1169 1396,1169 1491,1172 1585,1175 1679,1181 1773,1181 1868,1182 1962,1184 2056,1187 2151,1192 2245,1196 2339,1205 2434,1208</zone>
+			<zone xml:id="p1z9-0" points="1834,1515 2116,1513 2182,1469 2236,1492 2312,1464 2422,1530 2463,1528 2463,1428 2356,1375 2302,1400 2172,1364 2082,1418 1990,1413 1924,1369 1834,1380">1849,1470 1880,1465 1911,1464 1942,1463 1973,1461 2004,1463 2035,1463 2066,1461 2097,1461 2128,1461 2159,1461 2190,1461 2221,1461 2252,1461 2283,1461 2314,1461 2345,1461 2376,1461 2407,1461 2438,1462 2470,1464</zone>
+			<zone xml:id="p1z10-0" points="1955,1566 2016,1592 2034,1587 2080,1625 2098,1612 2118,1625 2164,1617 2202,1638 2228,1615 2251,1620 2248,1497 2202,1472 2182,1469 2116,1513 2093,1505 2052,1518 2011,1500 1955,1513">1969,1554 1995,1552 2021,1551 2047,1551 2073,1552 2099,1554 2125,1555 2151,1557 2177,1557 2203,1556 2229,1555 2255,1554</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12378!Autograph!01%20E_II_355__fol__118_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">12378/Autograph/01 E_II_355__fol__118_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="232,232 298,220 373,247 433,244 515,266 546,254 545,170 485,164 454,188 407,199 232,177">238,218 263,220 289,221 315,223 341,223 367,221 393,221 419,221 445,221 471,222 497,223 523,224 549,224</zone>
+			<zone xml:id="p2z2-0" points="1519,1281 2529,1276 2529,1187 2402,1237 2285,1193 1988,1236 1904,1173 1684,1237 1519,1201">1526,1266 1576,1263 1626,1264 1676,1266 1727,1266 1777,1264 1827,1263 1878,1263 1928,1263 1978,1263 2029,1263 2079,1264 2129,1265 2179,1265 2230,1266 2280,1264 2330,1263 2381,1263 2431,1263 2481,1264 2532,1266</zone>
+			<zone xml:id="p2z3-0" points="1558,1391 1903,1362 2043,1422 2327,1362 2553,1406 2543,1281 2340,1332 1931,1299 1850,1328 1737,1278 1558,1313">1565,1362 1614,1359 1664,1359 1713,1359 1763,1359 1812,1359 1862,1357 1911,1358 1961,1357 2010,1358 2060,1359 2110,1359 2159,1359 2209,1359 2258,1358 2308,1356 2357,1356 2407,1356 2456,1356 2506,1353 2556,1356</zone>
+			<zone xml:id="p2z4-0" points="1561,1504 2001,1464 2051,1494 2277,1474 2350,1512 2463,1490 2465,1420 2343,1390 2227,1453 1969,1416 1562,1437">1568,1475 1615,1472 1662,1469 1709,1466 1757,1466 1804,1466 1851,1466 1899,1466 1946,1465 1993,1463 2041,1463 2088,1463 2135,1463 2183,1465 2230,1466 2277,1466 2325,1466 2372,1466 2419,1469 2467,1469</zone>
+			<zone xml:id="p2z5-0" points="1711,1927 1742,1925 1748,1928 1756,1925 1765,1930 1789,1930 1789,1884 1777,1884 1766,1892 1748,1881 1741,1886 1711,1886">1717,1920 1742,1918 1767,1918 1792,1920</zone>
+			<zone xml:id="p2z6-0" points="1538,1967 1550,1969 1587,1950 1625,1960 1628,1852 1611,1854 1585,1834 1565,1834 1541,1843">1547,1923 1574,1921 1602,1920 1630,1920</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -84,20 +100,20 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Etsi multa quotidie nova vobis adferri sciam, praesertim in comitiis<note xml:id="fn3" type="footnote" n="3">Gemeint sind der Reichstag zu <placeName ref="l410">Regensburg</placeName>, der am 6. Januar 1546 beginnen sollte und am 31. Januar von <persName ref="p18538">Karl V.</persName> auf den 15. März verschoben wurde (der Kaiser traf erst am 10. April in <placeName ref="l410">Regensburg</placeName> ein und der Reichstag wurde am 5. Juni eröffnet; s. <hi>RTA-JR</hi> XVII 49. 79f), sowie das Zweite <placeName ref="l410">Regensburger</placeName> Religionsgespräch, das vom 27. Januar bis 10. März stattfand (s. dazu <ref target="file12375">Nr. 2328</ref>, Anm. 17).</note>, tamen non dubitavi mea quoque te lecturum, quae partim a senatoribus <placeName ref="l513">Ulmensibus</placeName>, partim a <placeName ref="l18">Augustensibus</placeName> huc perscribuntur.</s>
-					<s n="2" xml:lang="la">Quae quidem certa esse, minime est dubitandum, eaque schedulis inclusis<note xml:id="fn4" type="footnote" n="4">Nicht erhalten.</note> invenies.</s>
-					<s n="3" xml:lang="la">Spero me ab humanitate tua, quid in comitiis actum vel agetur (de iis rebus, quae dicenda sunt)<note xml:id="fna" type="footnote" n="a"><hi>Klammern ergänzt.</hi></note>, certiorem fieri.</s>
-					<s n="4" xml:lang="la">Plura non habeo, quod nunc scribam.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Etsi multa quotidie nova vobis adferri sciam, praesertim in <lb xml:id="p1z2"/>comitiis<note xml:id="fn3" type="footnote" n="3">Gemeint sind der Reichstag zu <placeName ref="l410">Regensburg</placeName>, der am 6. Januar 1546 beginnen sollte und am 31. Januar von <persName ref="p18538">Karl V.</persName> auf den 15. März verschoben wurde (der Kaiser traf erst am 10. April in <placeName ref="l410">Regensburg</placeName> ein und der Reichstag wurde am 5. Juni eröffnet; s. <hi>RTA-JR</hi> XVII 49. 79f), sowie das Zweite <placeName ref="l410">Regensburger</placeName> Religionsgespräch, das vom 27. Januar bis 10. März stattfand (s. dazu <ref target="file12375">Nr. 2328</ref>, Anm. 17).</note>, tamen non dubitavi mea quoque te lecturum, quae <lb xml:id="p1z3"/>partim a senatoribus <placeName ref="l513">Ulmensibus</placeName>, partim a <placeName ref="l18">Augustensibus</placeName> <lb xml:id="p1z4"/>huc perscribuntur.</s>
+					<s n="2" xml:lang="la">Quae quidem certa esse, minime est dubitandum, <lb xml:id="p1z5"/>eaque schedulis inclusis<note xml:id="fn4" type="footnote" n="4">Nicht erhalten.</note> invenies.</s>
+					<s n="3" xml:lang="la">Spero me ab human<lb xml:id="p1z6"/>itate tua, quid in comitiis actum vel agetur (de iis rebus, quae <lb xml:id="p1z7"/>dicenda sunt)<note xml:id="fna" type="footnote" n="a"><hi>Klammern ergänzt.</hi></note>, certiorem fieri.</s>
+					<s n="4" xml:lang="la">Plura non habeo, quod nunc <lb xml:id="p1z8"/>scribam.</s>
 					<s n="5" xml:lang="la">Boni consule.</s>
 					<s n="6" xml:lang="la">Sabato post epiphaniae 46.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la"><persName ref="p8311">Mathias Claudius</persName> tui deditus.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z9"/><persName ref="p8311">Mathias Claudius</persName> <lb xml:id="p1z10"/>tui deditus<pb/><lb xml:id="p2z1"/>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="8" xml:lang="la">Venerabili domino <persName ref="p495">Heinricho Bullingero</persName>, <placeName ref="l587">Tyguri</placeName> a contionibus, patrono suo unice colendo.</s>
-					<s n="9" xml:lang="la"><placeName ref="l587">Tyguri</placeName>.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p2z2"/>Venerabili domino <persName ref="p495">Heinricho <lb xml:id="p2z3"/>Bullingero</persName>, <placeName ref="l587">Tyguri</placeName> a contionibus, <lb xml:id="p2z4"/>patrono suo unice colendo.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p2z5"/><placeName ref="l587">Tyg<lb xml:id="p2z6"/>uri</placeName>.</s>
 				</p>
 			</div>
 		</body>

@@ -78,34 +78,50 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10726!Autograph!00%20E_II_340__fol__71_a_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10726/Autograph/00 E_II_340__fol__71_a_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="446,306 987,296 1115,341 1340,277 1450,333 1789,260 2129,309 2318,274 2318,221 2222,191 1904,230 1678,181 1350,238 1085,174 980,223 696,179 446,211">459,268 552,278 645,280 738,276 831,272 925,273 1018,271 1111,268 1204,268 1297,268 1391,268 1484,268 1577,264 1670,262 1763,264 1857,262 1950,263 2043,263 2136,260 2229,259 2323,262</zone>
+			<zone xml:id="p1z2-0" points="458,387 2303,368 2303,284 1936,323 1840,262 1634,328 1551,292 1446,333 1372,292 1117,343 987,299 696,331 554,282 461,328">474,370 565,367 657,370 749,369 840,367 932,364 1024,361 1115,360 1207,358 1299,357 1391,355 1482,353 1574,352 1666,352 1757,349 1849,346 1941,346 2032,346 2124,346 2216,343 2308,340</zone>
+			<zone xml:id="p1z3-0" points="468,468 762,500 889,461 960,500 1085,448 1178,505 1259,443 1490,490 1563,446 1612,490 1688,439 1955,436 2038,478 2379,429 2376,385 2188,350 1740,402 1659,368 1578,409 470,392">483,450 578,453 673,451 768,450 863,444 958,444 1053,440 1148,435 1243,432 1338,430 1434,429 1529,427 1624,427 1719,424 1814,423 1909,421 2004,420 2099,415 2194,413 2289,409 2385,406</zone>
+			<zone xml:id="p1z4-0" points="483,544 804,534 904,576 965,529 1154,556 1384,512 1548,564 1950,505 2144,559 2305,514 2308,453 2031,480 1825,441 1757,480 1661,448 1612,490 1406,456 1183,497 1022,448 960,497 911,463 483,505">495,525 585,525 676,525 766,522 857,522 948,519 1038,516 1129,514 1220,516 1310,513 1401,511 1492,510 1582,508 1673,505 1764,504 1854,501 1945,501 2036,498 2126,498 2217,495 2308,492</zone>
+			<zone xml:id="p1z5-0" points="485,644 1049,612 1171,657 1504,595 1705,637 1970,581 2379,612 2421,537 2212,517 2144,556 1948,502 1548,564 965,532 875,588 801,539 622,583 488,541">498,600 594,603 690,606 786,603 883,603 979,601 1075,600 1172,597 1268,594 1364,591 1461,588 1557,586 1653,585 1749,582 1846,579 1942,576 2038,576 2135,574 2231,575 2327,576 2424,579</zone>
+			<zone xml:id="p1z6-0" points="483,728 1014,676 1063,720 1132,681 1306,718 1382,681 1428,728 1475,696 1568,723 1747,662 1999,708 2391,696 2394,637 2188,583 2092,617 1901,586 1722,639 1632,598 1367,600 1174,654 1022,615 483,652">495,683 590,684 685,683 780,680 875,677 970,677 1065,674 1160,671 1255,670 1350,669 1446,666 1541,662 1636,662 1731,659 1826,656 1921,655 2016,653 2111,656 2206,656 2301,656 2397,659</zone>
+			<zone xml:id="p1z7-0" points="473,786 813,823 1054,755 1477,809 1610,755 1742,806 1985,740 2090,777 2264,733 2376,762 2379,664 2230,706 2134,671 1999,708 1901,664 1629,723 1470,698 1431,733 1377,681 1223,733 1132,681 1066,720 473,737">486,764 580,764 675,758 770,758 865,755 960,752 1054,752 1149,751 1244,749 1339,749 1434,751 1528,749 1623,746 1718,743 1813,740 1908,737 2002,734 2097,734 2192,734 2287,734 2382,734</zone>
+			<zone xml:id="p1z8-0" points="473,875 1142,882 1348,831 1588,838 1730,902 1835,860 1965,911 2122,835 2413,916 2438,794 2278,733 2082,784 1889,747 1749,804 1607,752 1477,809 1147,764 1036,799 933,769 813,821 473,786">486,842 589,842 692,840 795,839 898,836 1001,833 1104,830 1207,827 1310,826 1413,824 1517,824 1620,825 1723,825 1826,818 1929,821 2032,821 2135,824 2238,830 2341,835 2445,845</zone>
+			<zone xml:id="p1z9-0" points="429,914 605,956 752,926 835,982 990,948 1272,973 1360,929 1521,978 1664,958 1661,860 1298,833 1188,880 1046,848 713,897 426,860">441,904 502,906 563,914 625,919 686,923 748,920 809,919 870,919 932,919 993,916 1055,914 1116,913 1177,911 1239,913 1300,916 1362,916 1423,916 1484,923 1546,925 1607,925 1669,925</zone>
+			<zone xml:id="p1z10-0" points="1392,1107 1487,1107 1659,1186 1806,1137 2021,1174 2073,1149 2100,1174 2127,1166 2129,1105 1992,1061 1911,1098 1784,1005 1700,1071 1583,1093 1492,1041 1394,1029">1406,1146 1442,1147 1478,1149 1514,1148 1551,1146 1587,1138 1623,1139 1660,1140 1696,1141 1732,1143 1769,1140 1805,1140 1841,1138 1877,1137 1914,1137 1950,1134 1986,1134 2023,1134 2059,1133 2095,1130 2132,1128</zone>
+			<zone xml:id="p1z11-0" points="1443,1286 1597,1294 1717,1348 1862,1257 2166,1267 2171,1205 2011,1164 1830,1188 1754,1161 1681,1198 1595,1193 1497,1250 1446,1235">1457,1278 1492,1276 1528,1275 1564,1275 1600,1274 1636,1272 1671,1270 1707,1265 1743,1262 1779,1259 1815,1254 1850,1252 1886,1249 1922,1247 1958,1245 1994,1245 2029,1243 2065,1240 2101,1239 2137,1239 2173,1239</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10726!Autograph!01%20E_II_340__fol__71_a_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10726/Autograph/01 E_II_340__fol__71_a_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="388,115 442,137 691,107 692,37 661,43 644,33 608,53 573,35 546,54 508,44 485,65 440,57 389,75">396,110 423,110 450,110 477,110 504,110 531,109 558,107 585,107 612,107 639,107 666,105 694,101</zone>
+			<zone xml:id="p2z2-0" points="1083,140 1197,115 1309,144 1386,123 1420,138 1492,130 1507,123 1508,72 1421,73 1386,50 1321,82 1177,55 1084,78">1091,116 1117,111 1143,106 1169,102 1196,98 1222,100 1248,101 1275,101 1301,101 1327,101 1354,101 1380,101 1406,101 1433,100 1459,99 1485,98 1512,98</zone>
+			<zone xml:id="p2z3-0" points="877,1194 1278,1206 1352,1244 1989,1222 1987,1147 1861,1115 1763,1163 1615,1114 1371,1180 1138,1073 978,1154 877,1147">885,1175 940,1194 995,1199 1051,1204 1106,1199 1161,1199 1217,1199 1272,1199 1327,1202 1383,1202 1438,1202 1493,1202 1549,1204 1604,1205 1659,1207 1715,1205 1770,1205 1825,1208 1881,1210 1936,1208 1992,1211</zone>
+			<zone xml:id="p2z4-0" points="852,1295 1864,1303 1864,1255 1723,1220 1133,1260 852,1212">859,1282 909,1279 959,1279 1010,1279 1060,1282 1111,1279 1161,1279 1211,1279 1262,1278 1312,1276 1363,1276 1413,1276 1463,1276 1514,1276 1564,1275 1615,1273 1665,1273 1715,1273 1766,1278 1816,1279 1867,1279</zone>
+			<zone xml:id="p2z5-0" points="849,1360 1122,1375 1198,1421 1633,1363 1956,1409 1956,1270 1788,1330 1652,1295 1569,1332 1442,1278 1302,1323 849,1314">856,1342 911,1345 966,1345 1021,1347 1076,1348 1131,1347 1186,1343 1242,1343 1297,1345 1352,1345 1407,1344 1462,1342 1517,1344 1572,1345 1628,1345 1683,1346 1738,1348 1793,1351 1848,1351 1903,1351 1959,1354</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Gnad unnd frid von gott.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Gnad unnd frid von gott.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de">Lieber her gfatter<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file10723">Nr. 685</ref>, Anm. 1.</note>, <persName ref="p19145">Kappen Hanns</persName><note xml:id="fn2" type="footnote" ana="bio" n="2"><persName ref="p19145">Kappen-Hans</persName>, ein Knecht des Klosters <placeName ref="l242">Kappel</placeName> (vgl. Matthias Ludwig <hi>Senn,</hi> <persName ref="p8461">Johann Jakob Wick</persName> [1522-1588] und seine Sammlung von Nachrichten zur Zeitgeschichte, Diss. phil. Zürich 1973, S. 10), stammte aus <placeName ref="l313">Maschwanden</placeName> (<placeName ref="l803">Kt. Zürich</placeName>). Er erscheint bereits 1513 im Reisrodel des Zuges nach <placeName ref="l1288">Dijon</placeName> (vgl. Zürich StA, A 30 II, Nr. 37, 1 9r.).</note> hett mir gseyt, ir wellint die wuchen<note xml:id="fn3" type="footnote" n="3">Gemeint ist die folgende Woche vom Sonntag, dem 28. November, bis zum Samstag, dem 4. Dezember 1535.</note> kommen, welches mich von hertzen fröwty.</s>
-					<s n="3" xml:lang="de">Ich versich mich<note xml:id="fn4" type="footnote" n="4">Ich nehme an (<bibl source="b590">SI</bibl> VII 567f).</note> aber wol, ir kommt nit vor zinstag.</s>
-					<s n="4" xml:lang="de">So thuͦn ich üch zewüssenn, das ich uff mitwuch, ob<note xml:id="fn5" type="footnote" ana="lex" n="5">wenn (<bibl source="b590">SI</bibl> I 53).</note> es der will gottes ist, wird gan <placeName ref="l587">Zürich</placeName> ryten.</s>
-					<s n="5" xml:lang="de">Darumb, ob ir erst dann ouch welltind kommen, so sparents in die annder wuchen oder kommend uff mentag.</s>
+					<s n="2" xml:lang="de">Lieber her gfatter<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file10723">Nr. 685</ref>, Anm. 1.</note>, <lb xml:id="p1z2"/><persName ref="p19145">Kappen Hanns</persName><note xml:id="fn2" type="footnote" ana="bio" n="2"><persName ref="p19145">Kappen-Hans</persName>, ein Knecht des Klosters <placeName ref="l242">Kappel</placeName> (vgl. Matthias Ludwig <hi>Senn,</hi> <persName ref="p8461">Johann Jakob Wick</persName> [1522-1588] und seine Sammlung von Nachrichten zur Zeitgeschichte, Diss. phil. Zürich 1973, S. 10), stammte aus <placeName ref="l313">Maschwanden</placeName> (<placeName ref="l803">Kt. Zürich</placeName>). Er erscheint bereits 1513 im Reisrodel des Zuges nach <placeName ref="l1288">Dijon</placeName> (vgl. Zürich StA, A 30 II, Nr. 37, 1 9r.).</note> hett mir gseyt, ir wellint die wuchen<note xml:id="fn3" type="footnote" n="3">Gemeint ist die folgende Woche vom Sonntag, dem 28. November, bis zum Samstag, dem 4. Dezember 1535.</note> <lb xml:id="p1z3"/>kommen, welches mich von hertzen fröwty.</s>
+					<s n="3" xml:lang="de">Ich versich mich<note xml:id="fn4" type="footnote" n="4">Ich nehme an (<bibl source="b590">SI</bibl> VII 567f).</note> <lb xml:id="p1z4"/>aber wol, ir kommt nit vor zinstag.</s>
+					<s n="4" xml:lang="de">So thuͦn ich üch <lb xml:id="p1z5"/>zewüssenn, das ich uff mitwuch, ob<note xml:id="fn5" type="footnote" ana="lex" n="5">wenn (<bibl source="b590">SI</bibl> I 53).</note> es der will gottes <lb xml:id="p1z6"/>ist, wird gan <placeName ref="l587">Zürich</placeName> ryten.</s>
+					<s n="5" xml:lang="de">Darumb, ob ir erst dann <lb xml:id="p1z7"/>ouch welltind kommen, so sparents in die annder wuchen <lb xml:id="p1z8"/>oder kommend uff mentag.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de">Datum ze <placeName ref="l242">Cappell</placeName>, samstags vor Anndree apostoli 1535.</s>
+					<s n="6" xml:lang="de">Datum ze <placeName ref="l242">Cappell</placeName>, samstags <lb xml:id="p1z9"/>vor Anndree apostoli 1535.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="de">Üwer williger <persName ref="p8443">Petrus Simler</persName>.</s>
+					<s n="7" xml:lang="de"><lb xml:id="p1z10"/>Üwer williger <lb xml:id="p1z11"/><persName ref="p8443">Petrus Simler</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="8" xml:lang="de">Dem wolgelerten, ersamen heren Meistern <persName ref="p495">Heinrichen Bullinger</persName>, predicanten <placeName ref="l587">Zürich</placeName>, minem lieben gfatter.</s>
+					<s n="8" xml:lang="de"><pb/><lb xml:id="p2z2"/>D<lb xml:id="p2z3"/>em wolgelerten, ersamen heren <lb xml:id="p2z4"/>Meistern <persName ref="p495">Heinrichen Bullinger</persName>, <lb xml:id="p2z5"/>predicanten <placeName ref="l587">Zürich</placeName>, minem lieben gfatter.</s>
 				</p>
 			</div>
 		</body>

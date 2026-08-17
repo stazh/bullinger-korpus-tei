@@ -73,33 +73,54 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4382!Autograph!00%20E_II_362__S__21_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4382/Autograph/00 E_II_362__S__21_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="587,566 885,585 954,532 1107,568 1212,530 1723,616 1919,573 2455,575 2453,477 2174,461 2038,499 1981,461 1699,503 1451,415 1167,439 1067,489 976,449 587,465">600,543 693,537 786,534 879,534 972,534 1065,534 1158,534 1251,534 1344,539 1437,540 1530,543 1623,546 1716,549 1809,549 1902,552 1995,552 2088,552 2181,555 2274,555 2367,555 2460,558</zone>
+			<zone xml:id="p1z2-0" points="718,673 1475,642 1656,694 1742,649 1825,694 2255,713 2436,671 2434,585 2043,616 1916,575 1720,613 1460,558 1248,599 954,532 885,582 718,563">731,632 816,629 901,627 987,628 1072,628 1158,628 1243,629 1328,629 1414,632 1499,635 1585,638 1670,638 1755,641 1841,641 1926,644 2012,647 2097,648 2182,651 2268,656 2353,656 2439,659</zone>
+			<zone xml:id="p1z3-0" points="716,756 783,785 921,740 1069,771 1422,737 1515,790 1852,745 2004,807 2470,795 2467,706 2145,730 1763,666 1680,711 1558,668 1413,711 1267,651 1045,690 807,640 716,678">728,737 815,731 902,728 990,728 1077,726 1164,728 1252,727 1339,728 1426,728 1514,731 1601,735 1688,737 1776,740 1863,741 1950,746 2038,747 2125,750 2212,755 2300,758 2387,758 2475,758</zone>
+			<zone xml:id="p1z4-0" points="711,864 1009,871 1167,823 1267,864 1470,835 1561,881 1823,833 1988,883 2324,864 2479,909 2477,821 2317,799 1888,776 1752,816 1649,754 1518,792 1413,740 709,771">725,836 817,833 910,830 1002,824 1095,824 1187,824 1280,824 1373,824 1465,827 1558,829 1650,832 1743,835 1835,835 1928,841 2021,844 2113,850 2206,853 2298,856 2391,859 2484,862</zone>
+			<zone xml:id="p1z5-0" points="704,976 952,945 1062,981 1188,931 1281,978 1377,943 1580,986 1897,947 2525,1014 2522,921 2350,876 2114,895 2057,857 1756,907 1217,835 1119,890 702,859">716,940 806,937 897,934 987,928 1078,928 1169,925 1259,928 1350,931 1440,934 1531,934 1622,937 1712,940 1803,943 1893,947 1984,952 2075,956 2165,959 2256,962 2346,967 2437,971 2528,970</zone>
+			<zone xml:id="p1z6-0" points="711,1100 807,1040 1083,1036 1312,1081 1456,1045 1809,1091 1938,1055 2033,1114 2267,1079 2472,1131 2444,997 2272,1017 2109,976 1995,1026 1649,962 1551,1005 1401,966 709,976">725,1036 812,1033 900,1030 987,1027 1075,1029 1162,1030 1250,1030 1337,1033 1425,1036 1512,1038 1600,1042 1687,1043 1775,1046 1862,1050 1950,1053 2037,1056 2125,1059 2212,1062 2300,1062 2387,1065 2475,1065</zone>
+			<zone xml:id="p1z7-0" points="704,1145 1052,1126 1155,1186 1348,1138 1448,1191 1818,1145 1945,1200 2498,1203 2496,1126 2267,1079 2117,1131 1704,1052 1556,1098 1422,1055 1188,1102 1059,1048 704,1095">716,1134 805,1131 894,1128 984,1125 1073,1125 1163,1125 1252,1128 1342,1131 1431,1131 1521,1134 1610,1134 1699,1137 1789,1140 1878,1146 1968,1149 2057,1152 2147,1155 2236,1158 2326,1161 2415,1164 2505,1164</zone>
+			<zone xml:id="p1z8-0" points="709,1269 1055,1227 1227,1262 1279,1224 1899,1291 1988,1250 2088,1291 2205,1260 2291,1308 2350,1284 2348,1191 1713,1207 1324,1150 1162,1196 1052,1124 864,1198 706,1174">722,1227 803,1225 885,1222 966,1221 1048,1220 1130,1216 1211,1221 1293,1224 1375,1227 1456,1228 1538,1231 1620,1233 1701,1236 1783,1241 1865,1244 1946,1246 2028,1251 2110,1254 2191,1256 2273,1258 2355,1256</zone>
+			<zone xml:id="p1z9-0" points="702,1343 1954,1358 2086,1408 2145,1374 2377,1417 2515,1401 2510,1269 2327,1327 2140,1272 2033,1303 1847,1269 1642,1322 1236,1253 1033,1286 954,1236 699,1284">713,1328 803,1322 893,1322 983,1322 1073,1322 1163,1325 1253,1328 1344,1328 1434,1328 1524,1334 1614,1337 1704,1340 1794,1346 1884,1349 1975,1353 2065,1359 2155,1362 2245,1367 2335,1371 2425,1373 2516,1370</zone>
+			<zone xml:id="p1z10-0" points="713,1470 1293,1434 1518,1479 1630,1453 1849,1522 1938,1475 2563,1508 2560,1444 2491,1429 2396,1458 2121,1394 2047,1429 1857,1363 1482,1360 1286,1417 1184,1358 1071,1389 983,1336 711,1379">725,1430 817,1427 909,1430 1001,1430 1093,1433 1185,1433 1277,1436 1369,1439 1461,1442 1553,1445 1646,1450 1738,1456 1830,1459 1922,1462 2014,1465 2106,1471 2198,1474 2290,1480 2382,1483 2474,1486 2567,1492</zone>
+			<zone xml:id="p1z11-0" points="697,1565 1329,1534 1816,1615 1978,1563 2186,1627 2458,1594 2455,1518 2358,1508 2260,1553 2055,1494 1866,1530 1551,1465 1298,1499 1200,1465 1129,1510 1012,1453 694,1470">707,1531 794,1528 882,1525 970,1528 1058,1525 1146,1526 1233,1528 1321,1533 1409,1536 1497,1540 1585,1545 1672,1548 1760,1551 1848,1558 1936,1559 2024,1565 2111,1571 2199,1576 2287,1579 2375,1583 2463,1582</zone>
+			<zone xml:id="p1z12-0" points="694,1642 1188,1639 1322,1692 1403,1661 1479,1716 1587,1661 1981,1732 2207,1682 2296,1720 2379,1687 2465,1747 2608,1720 2603,1599 2496,1663 2124,1594 2031,1620 1926,1573 1799,1620 1389,1558 1234,1589 780,1544 692,1577">707,1624 802,1621 897,1624 993,1624 1088,1627 1184,1627 1279,1630 1374,1633 1470,1639 1565,1642 1661,1648 1756,1652 1851,1659 1947,1665 2042,1671 2138,1674 2233,1680 2328,1684 2424,1690 2519,1695 2615,1701</zone>
+			<zone xml:id="p1z13-0" points="685,1737 1248,1732 1334,1771 1613,1742 1857,1811 1978,1780 2047,1825 2549,1804 2525,1701 2463,1749 2076,1685 2014,1730 1871,1697 1821,1735 1699,1666 1484,1716 1198,1647 682,1668">698,1719 790,1716 883,1716 976,1719 1069,1723 1162,1725 1255,1725 1347,1729 1440,1734 1533,1739 1626,1742 1719,1748 1812,1752 1905,1758 1997,1764 2090,1770 2183,1776 2276,1780 2369,1783 2462,1788 2555,1794</zone>
+			<zone xml:id="p1z14-0" points="694,1828 1026,1823 1475,1902 1666,1845 2026,1928 2212,1899 2210,1811 2069,1830 1613,1763 1520,1799 1250,1735 1126,1785 692,1744">707,1824 782,1819 857,1818 933,1821 1008,1823 1084,1824 1159,1827 1234,1827 1310,1831 1385,1833 1461,1836 1536,1839 1611,1840 1687,1845 1762,1850 1838,1852 1913,1857 1988,1862 2064,1867 2139,1872 2215,1875</zone>
+			<zone xml:id="p1z15-0" points="702,2038 916,2064 1024,2031 1119,2071 1427,2038 1496,2064 1527,2055 1527,1971 1346,1981 1267,1947 1198,1969 1017,1921 826,1933 790,1969 699,1957">714,2017 755,2015 796,2015 837,2017 878,2018 919,2018 960,2018 1001,2018 1042,2017 1083,2015 1124,2015 1165,2018 1206,2018 1247,2018 1288,2020 1329,2023 1370,2026 1411,2029 1452,2031 1493,2033 1534,2036</zone>
+			<zone xml:id="p1z16-0" points="1954,2243 2040,2248 2086,2281 2121,2257 2169,2281 2212,2257 2401,2327 2458,2296 2453,2229 2401,2224 2367,2195 2324,2222 2267,2186 2188,2195 2057,2155 1950,2169">1967,2236 1992,2234 2018,2233 2044,2235 2070,2237 2096,2239 2122,2240 2148,2242 2174,2242 2200,2243 2226,2247 2252,2249 2278,2251 2304,2254 2330,2258 2356,2261 2382,2263 2408,2263 2434,2266 2460,2269</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4382!Autograph!01%20E_II_362__S__22_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">4382/Autograph/01 E_II_362__S__22_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="827,1157 1633,1139 1633,1101 1537,1064 1414,1093 1092,1046 972,1085 871,1050 828,1069">833,1149 873,1146 913,1139 953,1136 993,1133 1033,1130 1073,1129 1114,1129 1154,1129 1194,1129 1234,1129 1274,1126 1314,1128 1354,1129 1395,1129 1435,1131 1475,1132 1515,1133 1555,1136 1595,1138 1636,1141</zone>
+			<zone xml:id="p2z2-0" points="893,1231 1080,1196 1627,1217 1622,1148 1224,1166 1167,1139 1104,1172 1026,1154 981,1175 946,1146 894,1172">899,1206 935,1200 972,1199 1008,1197 1045,1197 1081,1195 1118,1194 1154,1193 1191,1192 1227,1194 1264,1192 1301,1191 1337,1191 1374,1192 1410,1194 1447,1194 1483,1194 1520,1196 1556,1197 1593,1197 1630,1197</zone>
+			<zone xml:id="p2z3-0" points="896,1328 958,1327 1030,1277 1131,1276 1177,1305 1535,1279 1627,1309 1628,1217 1364,1213 1299,1246 1141,1204 1038,1241 994,1207 896,1233">902,1272 938,1270 974,1269 1011,1269 1047,1268 1084,1266 1120,1266 1156,1266 1193,1266 1229,1266 1266,1266 1302,1266 1338,1266 1375,1266 1411,1266 1448,1267 1484,1269 1520,1269 1557,1267 1593,1267 1630,1272</zone>
+			<zone xml:id="p2z4-0" points="893,1388 944,1407 1020,1355 1125,1348 1303,1380 1374,1360 1460,1391 1593,1371 1592,1304 1475,1286 1337,1285 1293,1312 1023,1299 893,1335">899,1347 933,1347 968,1347 1003,1347 1038,1347 1073,1347 1107,1347 1142,1346 1177,1344 1212,1344 1247,1344 1281,1344 1316,1344 1351,1344 1386,1344 1421,1346 1455,1347 1490,1348 1525,1350 1560,1352 1595,1359</zone>
+			<zone xml:id="p2z5-0" points="889,1488 1134,1445 1166,1468 1409,1452 1410,1357 1301,1391 1246,1357 1123,1349 1012,1419 890,1393">896,1436 921,1436 947,1434 973,1433 999,1433 1025,1432 1050,1430 1076,1429 1102,1427 1128,1427 1154,1427 1179,1427 1205,1428 1231,1430 1257,1430 1283,1430 1308,1428 1334,1427 1360,1427 1386,1428 1412,1430</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Qui has ad te fert literas, scriba monasterii nostri est.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Commendavit d. <persName ref="p8011">Gvalthero</persName> filium suum, quem in schola vestra operam literis dare vult, in quem etiam aliquando animadvertere velis obsecro.</s>
-					<s n="4" xml:lang="la">Convictor meus fuit ultra biennium, puer pius et bonus est; spero illum in melius apud vos profecturum.</s>
-					<s n="5" xml:lang="la">Praeterea compater ille meus profectionem ad vos instituens admodum cupiebat, ut occasio illi esset te adeundi; unde, quantum potuit, me iuvit, ut colligere possem, quae iam dudum petiisti et expectasti, sed ex duobus tantum locis nondum accepi; quae me brevi accepturum et vel hodie spero.</s>
-					<s n="6" xml:lang="la">Alias plura reperi, quam speraveram; ad diem Iovis vel Veneris accipies illa deo volente.</s>
-					<s n="7" xml:lang="la">Nova apud nos nulla sunt; sparguntur varii rumores de Valesianis; audiuntur mirae practicae <placeName ref="l2448">5</placeName> vel <placeName ref="l2542">7 Cantonum</placeName> <placeName ref="l862">Helveticorum</placeName>, quae nimirum, nisi dominus avertat, in <placeName ref="l862">Helvetiae</placeName> perditionem desinent.</s>
-					<s n="8" xml:lang="la">Fama est <persName ref="p3590">Hessum</persName> et <persName ref="p8060">Pfaltzgravium</persName> laborare in colloquio habendo inter Lutheranos Zvinglianosque, te et <persName ref="p8111">Martyrem</persName> iam ab illis vocatum et appellatum esse.</s>
+					<s n="3" xml:lang="la">Commendavit d. <lb xml:id="p1z2"/><persName ref="p8011">Gvalthero</persName> filium suum, quem in schola vestra operam literis dare vult, in quem etiam <lb xml:id="p1z3"/>aliquando animadvertere velis obsecro.</s>
+					<s n="4" xml:lang="la">Convictor meus fuit ultra biennium, puer pius et <lb xml:id="p1z4"/>bonus est; spero illum in melius apud vos profecturum.</s>
+					<s n="5" xml:lang="la">Praeterea compater ille meus <lb xml:id="p1z5"/>profectionem ad vos instituens admodum cupiebat, ut occasio illi esset te adeundi; unde, quantum <lb xml:id="p1z6"/>potuit, me iuvit, ut colligere possem, quae iam dudum petiisti et expectasti, sed ex duobus <lb xml:id="p1z7"/>tantum locis nondum accepi; quae me brevi accepturum et vel hodie spero.</s>
+					<s n="6" xml:lang="la">Alias plura reperi, <lb xml:id="p1z8"/>quam speraveram; ad diem Iovis vel Veneris accipies illa deo volente.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z9"/>Nova apud nos nulla sunt; sparguntur varii rumores de Valesianis; audiuntur <lb xml:id="p1z10"/>mirae practicae <placeName ref="l2448">5</placeName> vel <placeName ref="l2542">7 Cantonum</placeName> <placeName ref="l862">Helveticorum</placeName>, quae nimirum, nisi dominus avertat, in <placeName ref="l862">Helvetiae</placeName> <lb xml:id="p1z11"/>perditionem desinent.</s>
+					<s n="8" xml:lang="la">Fama est <persName ref="p3590">Hessum</persName> et <persName ref="p8060">Pfaltzgravium</persName> laborare in colloquio <lb xml:id="p1z12"/>habendo inter Lutheranos Zvinglianosque, te et <persName ref="p8111">Martyrem</persName> iam ab illis vocatum et appellatum <lb xml:id="p1z13"/>esse.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la">Nihil tamen nobis certo constat.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Si tantum otium fuerit, nimirum quae potes, significabis nobis.</s>
+					<s n="10" xml:lang="la">Si tantum otium fuerit, nimirum quae potes, significabis <lb xml:id="p1z14"/>nobis.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" ana="farewell">Vale in domino cum omnibus piis.</s>
@@ -108,13 +129,13 @@
 					<s n="12" xml:lang="la" ana="salute">Salutat te <persName ref="p3481">Simpertus</persName> noster.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la"><placeName ref="l441">Scaphusiae</placeName> 6. augusti 1560.</s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z15"/><placeName ref="l441">Scaphusiae</placeName> 6. augusti 1560.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la">T[uus] t[otus] <persName ref="p2757">Iacobus Rüger</persName>.</s>
+					<s n="14" xml:lang="la"><lb xml:id="p1z16"/>T[uus] t[otus] <persName ref="p2757">Iacobus Rüger</persName>.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la">Singulari doctrina, pietate et humanitate praedito viro d. <persName ref="p495">Heinrycho Bullingero</persName>, antistiti ecclesiae <placeName ref="l587">Tigurinae</placeName>, d. ac fratri suo in Christo plurimum observando.</s>
+					<s n="15" xml:lang="la"><pb/><lb xml:id="p2z1"/>Singulari doctrina, pietate et hu<lb xml:id="p2z2"/>manitate praedito viro d. <persName ref="p495">Heinrycho <lb xml:id="p2z3"/>Bullingero</persName>, antistiti ecclesiae <lb xml:id="p2z4"/><placeName ref="l587">Tigurinae</placeName>, d. ac fratri suo in <lb xml:id="p2z5"/>Christo plurimum observando.</s>
 				</p>
 			</div>
 		</body>

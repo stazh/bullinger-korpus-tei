@@ -81,37 +81,49 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11828!Autograph!00%20E_II_343__fol__274_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11828/Autograph/00 E_II_343__fol__274_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="562,425 860,413 1016,465 1131,430 1307,472 1593,432 1908,475 2187,432 2358,462 2555,440 2555,365 2351,410 2122,375 1849,405 1593,348 1444,408 1397,368 1156,388 962,331 788,313 703,350 641,291 559,308">575,417 674,405 773,405 873,410 972,414 1071,417 1171,421 1270,425 1369,426 1469,426 1568,429 1667,429 1767,432 1866,432 1965,432 2065,432 2164,431 2263,429 2363,426 2462,423 2562,420</zone>
+			<zone xml:id="p1z2-0" points="683,542 835,497 2120,542 2557,509 2557,447 2502,435 2008,477 1389,437 1260,475 825,417 683,472">698,489 791,495 884,495 977,495 1070,495 1164,495 1257,498 1350,498 1443,498 1536,500 1630,500 1723,498 1816,498 1909,498 2002,498 2096,498 2189,498 2282,495 2375,496 2468,493 2562,492</zone>
+			<zone xml:id="p1z3-0" points="696,599 1210,569 1342,616 1720,577 1829,624 2045,577 2120,609 2552,579 2552,529 2396,499 2274,547 1906,507 696,544">710,578 802,575 894,572 987,569 1079,566 1172,566 1264,566 1357,566 1449,566 1542,569 1634,569 1726,571 1819,569 1911,569 2004,569 2096,567 2189,569 2281,569 2374,569 2466,569 2559,566</zone>
+			<zone xml:id="p1z4-0" points="706,688 1354,646 1521,693 1655,646 2579,671 2579,581 2448,616 2383,579 2244,614 2038,581 1826,624 1538,577 1290,621 706,604">719,653 812,650 905,650 998,648 1091,645 1185,644 1278,641 1371,644 1464,644 1557,644 1651,644 1744,644 1837,644 1930,646 2023,647 2117,647 2210,645 2303,644 2396,641 2489,641 2583,647</zone>
+			<zone xml:id="p1z5-0" points="683,770 865,736 1059,773 1275,718 1918,783 1973,753 2020,790 2321,783 2425,733 2545,760 2545,696 2391,656 683,686">698,739 790,729 883,726 975,722 1068,719 1160,719 1253,716 1345,716 1438,719 1530,719 1623,719 1715,719 1808,722 1900,724 1993,725 2085,725 2178,725 2270,725 2363,725 2455,725 2548,728</zone>
+			<zone xml:id="p1z6-0" points="696,828 726,828 738,840 773,832 823,845 845,832 872,852 912,837 912,788 892,788 837,746 808,763 798,755 763,775 696,770">710,814 736,814 762,814 788,814 814,816 840,817 866,817 892,815 918,811</zone>
+			<zone xml:id="p1z7-0" points="1183,977 1402,962 1541,1014 1757,1014 1990,967 1990,900 1956,885 1864,902 1695,872 1580,902 1280,882 1223,837 1185,845">1199,957 1238,954 1278,954 1318,954 1357,952 1397,953 1437,952 1476,950 1516,949 1556,950 1596,948 1635,948 1675,948 1715,948 1754,950 1794,949 1834,948 1873,948 1913,948 1953,948 1993,948</zone>
+			<zone xml:id="p1z8-0" points="1588,1151 1608,1151 1635,1126 1655,1143 1665,1143 1672,1136 1690,1138 1687,1069 1672,1069 1657,1076 1645,1066 1633,1066 1620,1076 1603,1061 1585,1059">1602,1112 1633,1114 1665,1115 1697,1115</zone>
+			<zone xml:id="p1z9-0" points="2140,1151 2167,1165 2182,1153 2229,1190 2254,1178 2279,1195 2343,1198 2408,1168 2463,1175 2505,1148 2505,1111 2470,1106 2423,1064 2386,1076 2351,1046 2336,1059 2294,1044 2254,1059 2202,1039 2142,1049">2154,1145 2179,1143 2205,1142 2230,1140 2256,1139 2281,1139 2307,1139 2333,1139 2358,1139 2384,1139 2409,1139 2435,1138 2460,1136 2486,1136 2512,1136</zone>
+			<zone xml:id="p1z10-0" points="2222,1280 2249,1285 2264,1277 2276,1285 2284,1277 2291,1282 2309,1275 2321,1287 2381,1292 2388,1180 2353,1185 2328,1203 2311,1190 2274,1195 2254,1178 2227,1183">2237,1229 2262,1226 2287,1224 2313,1222 2338,1220 2363,1220 2389,1220</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11828!Autograph!01%20E_II_343__fol__274_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11828/Autograph/01 E_II_343__fol__274_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="992,1721 1340,1674 1436,1718 1582,1664 1646,1686 1919,1648 1922,1582 1783,1607 1695,1566 1435,1630 1334,1593 996,1641">1000,1689 1046,1687 1092,1684 1138,1683 1184,1679 1230,1671 1276,1668 1322,1664 1368,1659 1414,1656 1461,1653 1507,1651 1553,1651 1599,1649 1645,1648 1691,1647 1737,1650 1783,1648 1829,1651 1875,1651 1922,1648</zone>
+			<zone xml:id="p2z2-0" points="1229,1814 1270,1831 1370,1780 1439,1795 1492,1792 1507,1777 1534,1789 1537,1709 1469,1704 1413,1732 1376,1704 1334,1720 1232,1719">1236,1761 1261,1759 1286,1757 1311,1755 1336,1753 1361,1752 1386,1752 1411,1752 1436,1752 1461,1752 1486,1752 1511,1751 1537,1749</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Nihil aliud potui, quam quod vides.</s>
-					<s n="3" xml:lang="la">De bello <placeName ref="l20">Inferioris Germanię</placeName><note xml:id="fn1" type="footnote" n="1">Vgl. zuletzt oben <ref target="file11821">Nr. 1775</ref>, 9-29.</note> nondum quicquam habeo.</s>
-					<s n="4" xml:lang="la">Cęsar non multo ante fuit adhuc <placeName ref="l56">Bonnę</placeName>, quamobrem et <persName ref="p467">Bucerus</persName> tardat<note xml:id="fn2" type="footnote" n="2"><persName ref="p467">Bucer</persName> blieb bis zum 27. August; zu seinen Begegnungen mit kaiserlichen Theologen während des Aufenthalts von Kaiser <persName ref="p18538">Karl V.</persName> in <placeName ref="l56">Bonn</placeName> (17.-20. August) und zum Abschluss seines dortigen Wirkens s. <hi>Pollet,</hi> Relations I 122-126.</note>.</s>
-					<s n="5" xml:lang="la"><persName ref="p4968">Glareanus</persName> stulte confabulatus dicitur cum <persName ref="p2816">Röstio</persName>;<note xml:id="fn3" type="footnote" n="3">Über ein Gespräch von <persName ref="p4968">Heinrich Glarean</persName> mit <persName ref="p2816">Diethelm Röist</persName> ist sonst nichts bekannt.</note> velim<pb type="edition" next="252"/> scire, quid hic iudicaret.</s>
-					<s n="6" xml:lang="la">De <placeName ref="l1221">Nisa</placeName>, quam <placeName ref="l1221">Niceam</placeName> vocant, velim scire pariter, siquid haberes<note xml:id="fn4" type="footnote" n="4">Nachdem <placeName ref="l1221">Nizza</placeName> vom 10. August an durch die <placeName ref="l832">französisch</placeName>-<placeName ref="l2510">türkische</placeName> Flotte belagert worden war, hatte sich die Stadt (ohne die Festung) am 22. August ergeben; s. Ion <hi>Ursu,</hi> La politique orientale de François Ier (1515-1547), Paris 1908, 143f.</note>.</s>
+					<s n="3" xml:lang="la">De bello <placeName ref="l20">Inferioris Germanię</placeName><note xml:id="fn1" type="footnote" n="1">Vgl. zuletzt oben <ref target="file11821">Nr. 1775</ref>, 9-29.</note> nondum <lb xml:id="p1z2"/>quicquam habeo.</s>
+					<s n="4" xml:lang="la">Cęsar non multo ante fuit adhuc <placeName ref="l56">Bonnę</placeName>, quamobrem et <persName ref="p467">Bucerus</persName> <lb xml:id="p1z3"/>tardat<note xml:id="fn2" type="footnote" n="2"><persName ref="p467">Bucer</persName> blieb bis zum 27. August; zu seinen Begegnungen mit kaiserlichen Theologen während des Aufenthalts von Kaiser <persName ref="p18538">Karl V.</persName> in <placeName ref="l56">Bonn</placeName> (17.-20. August) und zum Abschluss seines dortigen Wirkens s. <hi>Pollet,</hi> Relations I 122-126.</note>.</s>
+					<s n="5" xml:lang="la"><persName ref="p4968">Glareanus</persName> stulte confabulatus dicitur cum <persName ref="p2816">Röstio</persName>;<note xml:id="fn3" type="footnote" n="3">Über ein Gespräch von <persName ref="p4968">Heinrich Glarean</persName> mit <persName ref="p2816">Diethelm Röist</persName> ist sonst nichts bekannt.</note> velim<pb type="edition" next="252"/> scire, <lb xml:id="p1z4"/>quid hic iudicaret.</s>
+					<s n="6" xml:lang="la">De <placeName ref="l1221">Nisa</placeName>, quam <placeName ref="l1221">Niceam</placeName> vocant, velim scire pariter, <lb xml:id="p1z5"/>siquid haberes<note xml:id="fn4" type="footnote" n="4">Nachdem <placeName ref="l1221">Nizza</placeName> vom 10. August an durch die <placeName ref="l832">französisch</placeName>-<placeName ref="l2510">türkische</placeName> Flotte belagert worden war, hatte sich die Stadt (ohne die Festung) am 22. August ergeben; s. Ion <hi>Ursu,</hi> La politique orientale de François Ier (1515-1547), Paris 1908, 143f.</note>.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" ana="farewell">Vale cum tuis omnibus.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><placeName ref="l28">Basileae</placeName>, ipsis kalendis septembris anno 1543.</s>
+					<s n="8" xml:lang="la"><placeName ref="l28">Basileae</placeName>, ipsis kalendis septembris anno <lb xml:id="p1z6"/>1543.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Literas <persName ref="p8320">Dasypodii</persName><note xml:id="fn5" type="footnote" n="5">Der Brief von <persName ref="p8320">Petrus Dasypodius</persName> ist nicht erhalten.</note> remittito.</s>
-					<s n="10" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z7"/>Literas <persName ref="p8320">Dasypodii</persName><note xml:id="fn5" type="footnote" n="5">Der Brief von <persName ref="p8320">Petrus Dasypodius</persName> ist nicht erhalten.</note> remittito<lb xml:id="p1z8"/>.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z9"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z10"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="la">D. <persName ref="p495">Heinrycho Bullingero</persName> suo.</s>
+					<s n="11" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Heinrycho Bullingero</persName> <lb xml:id="p2z2"/>suo.</s>
 				</p>
 			</div>
 		</body>

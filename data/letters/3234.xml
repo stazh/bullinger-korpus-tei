@@ -80,32 +80,54 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3234!Autograph!00%20E_II_375__fol__499_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3234/Autograph/00 E_II_375__fol__499_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="291,376 356,343 646,387 875,353 1186,397 1305,363 1378,402 1739,363 2149,413 2237,400 2237,311 1679,288 1635,319 1580,283 1266,327 1155,262 900,317 766,254 586,306 288,275">304,346 401,343 498,343 595,343 692,346 789,346 886,349 983,349 1080,347 1177,349 1274,349 1371,352 1468,352 1565,352 1662,355 1759,358 1856,361 1953,363 2050,364 2147,364 2244,367</zone>
+			<zone xml:id="p1z2-0" points="304,449 1440,428 1889,477 2195,444 2193,402 1941,371 1406,407 1308,366 1256,400 981,358 688,392 301,363">316,417 410,411 504,411 599,412 693,414 787,414 882,414 976,414 1070,417 1165,420 1259,420 1353,423 1448,426 1542,424 1636,427 1731,429 1825,431 1919,433 2014,435 2108,435 2203,435</zone>
+			<zone xml:id="p1z3-0" points="311,498 2268,540 2268,444 2175,436 1715,480 1240,431 1189,465 1098,428 1038,465 958,428 311,439">325,483 422,483 519,483 617,483 714,483 812,489 909,489 1007,490 1104,492 1202,494 1299,497 1396,498 1494,498 1591,499 1689,501 1786,501 1884,504 1981,504 2079,508 2176,513 2274,519</zone>
+			<zone xml:id="p1z4-0" points="322,576 786,553 906,597 1150,571 1609,623 1855,581 2245,649 2302,631 2299,550 1962,514 1855,558 1611,506 1565,540 319,516">337,549 435,546 534,549 632,551 731,552 829,555 928,556 1026,559 1125,561 1223,564 1322,564 1420,567 1519,568 1617,572 1716,573 1814,576 1913,583 2011,587 2110,593 2208,602 2307,605</zone>
+			<zone xml:id="p1z5-0" points="298,636 2172,670 2141,615 1954,586 1804,625 298,566">313,620 406,617 499,620 592,620 685,620 778,623 871,624 965,626 1058,628 1151,628 1244,632 1337,632 1430,635 1523,638 1617,638 1710,641 1803,644 1896,647 1989,650 2082,655 2176,659</zone>
+			<zone xml:id="p1z6-0" points="304,711 1409,706 1591,745 1700,714 2227,766 2224,664 1993,693 304,633">319,689 414,683 510,683 605,684 701,686 797,689 892,689 988,692 1084,695 1179,696 1275,698 1371,699 1466,703 1562,706 1658,707 1753,710 1849,714 1945,720 2040,726 2136,733 2232,740</zone>
+			<zone xml:id="p1z7-0" points="322,760 2216,820 2177,758 1998,729 1409,703 1033,737 898,698 701,729 610,685 322,716">337,746 431,746 525,749 619,752 714,755 808,757 902,758 997,761 1091,761 1185,764 1280,764 1374,770 1468,771 1562,774 1657,777 1751,780 1845,782 1940,790 2034,794 2128,800 2223,806</zone>
+			<zone xml:id="p1z8-0" points="304,838 576,815 864,867 986,830 1360,882 1692,856 2190,898 2188,823 301,760">319,811 412,814 506,816 600,817 694,818 788,820 882,823 976,826 1070,828 1164,829 1258,832 1351,835 1445,838 1539,842 1633,847 1727,848 1821,850 1915,853 2009,858 2103,862 2197,868</zone>
+			<zone xml:id="p1z9-0" points="304,911 810,895 1126,947 1349,916 1601,963 1762,932 2219,986 2216,913 1975,882 301,836">319,874 414,877 509,883 604,887 699,889 795,894 890,897 985,901 1080,901 1175,904 1271,907 1366,910 1461,915 1556,918 1651,922 1747,925 1842,928 1937,931 2032,935 2127,941 2223,943</zone>
+			<zone xml:id="p1z10-0" points="298,971 2255,1046 2237,960 2019,986 1772,942 1586,968 1404,916 1129,955 810,900 296,911">313,937 410,943 507,947 605,952 702,957 800,961 897,967 995,973 1092,974 1190,976 1287,979 1384,985 1482,985 1579,991 1677,992 1774,996 1872,999 1969,1003 2067,1008 2164,1012 2262,1020</zone>
+			<zone xml:id="p1z11-0" points="304,1038 906,1030 1189,1090 1832,1074 1910,1124 2024,1080 2278,1118 2273,1030 2198,1059 1876,1009 1817,1038 301,971">316,1014 414,1009 512,1012 611,1016 709,1019 807,1023 906,1027 1004,1032 1102,1037 1201,1038 1299,1044 1397,1047 1496,1052 1594,1058 1692,1061 1791,1065 1889,1071 1987,1075 2086,1083 2184,1091 2283,1098</zone>
+			<zone xml:id="p1z12-0" points="311,1105 836,1137 913,1098 1108,1144 1189,1111 1287,1168 1484,1121 2364,1194 2359,1098 1897,1124 1824,1077 1622,1108 1443,1067 1178,1090 1074,1038 986,1082 535,1015 309,1038">322,1083 424,1077 526,1080 628,1083 731,1086 833,1090 935,1097 1037,1101 1140,1107 1242,1112 1344,1113 1446,1119 1549,1123 1651,1129 1753,1134 1855,1140 1958,1143 2060,1148 2162,1158 2264,1165 2367,1167</zone>
+			<zone xml:id="p1z13-0" points="301,1157 913,1170 1020,1225 1438,1191 1549,1246 1871,1209 2203,1282 2252,1272 2250,1186 298,1100">316,1143 413,1138 510,1141 607,1148 704,1151 801,1158 898,1164 995,1170 1092,1174 1189,1179 1286,1184 1383,1185 1480,1191 1577,1194 1674,1197 1771,1201 1868,1205 1965,1209 2062,1214 2159,1217 2256,1229</zone>
+			<zone xml:id="p1z14-0" points="304,1214 483,1264 644,1225 898,1282 1098,1256 1318,1321 1466,1277 1752,1323 1993,1292 2341,1360 2387,1334 2382,1246 2203,1282 1881,1209 1544,1246 1474,1199 1020,1225 602,1152 301,1170">319,1203 422,1207 526,1211 630,1217 734,1224 837,1231 941,1238 1045,1245 1149,1253 1252,1259 1356,1265 1460,1268 1564,1271 1667,1277 1771,1281 1875,1285 1979,1289 2082,1296 2186,1304 2290,1316 2394,1328</zone>
+			<zone xml:id="p1z15-0" points="265,1329 358,1285 747,1339 817,1310 921,1368 1015,1323 1495,1357 1658,1427 1881,1355 2252,1401 2304,1386 2302,1329 2011,1295 1285,1316 1163,1269 887,1292 257,1209">277,1289 378,1283 480,1289 581,1293 683,1295 785,1302 886,1309 988,1313 1090,1319 1191,1326 1293,1335 1395,1337 1496,1343 1598,1343 1700,1346 1801,1352 1903,1354 2005,1358 2106,1361 2208,1367 2310,1376</zone>
+			<zone xml:id="p1z16-0" points="298,1386 449,1404 516,1368 586,1399 675,1381 703,1399 838,1394 833,1310 776,1316 750,1342 682,1321 631,1344 542,1336 459,1310 428,1334 296,1326">313,1367 339,1365 366,1364 392,1364 419,1365 445,1367 472,1367 498,1367 525,1369 551,1371 578,1373 605,1373 631,1373 658,1375 684,1377 711,1379 737,1379 764,1379 790,1381 817,1383 844,1385</zone>
+			<zone xml:id="p1z17-0" points="1310,1697 1443,1619 1534,1658 1635,1624 1827,1676 2118,1692 2112,1531 2071,1523 1832,1591 1580,1536 1482,1580 1378,1523 1305,1547">1322,1617 1362,1614 1402,1614 1442,1616 1482,1617 1522,1617 1562,1617 1603,1617 1643,1617 1683,1617 1723,1620 1763,1620 1803,1622 1843,1625 1884,1628 1924,1632 1964,1637 2004,1640 2044,1638 2084,1641 2125,1647</zone>
+			<zone xml:id="p1z18-0" points="1469,1697 1513,1689 1523,1700 1560,1695 1596,1713 1653,1684 1687,1710 1718,1713 1718,1632 1643,1632 1624,1622 1601,1635 1570,1630 1531,1656 1518,1648 1469,1656">1483,1677 1509,1677 1536,1677 1563,1677 1590,1677 1617,1677 1644,1679 1671,1680 1698,1680 1725,1683</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3234!Autograph!01%20E_II_375__fol__499_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3234/Autograph/01 E_II_375__fol__499_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1308,1267 1457,1299 2400,1288 2400,1235 2158,1251 2049,1195 1655,1252 1602,1213 1308,1240">1315,1267 1369,1263 1423,1262 1478,1264 1532,1264 1587,1264 1641,1264 1695,1264 1750,1264 1804,1264 1859,1264 1913,1264 1967,1264 2022,1264 2076,1267 2131,1267 2185,1267 2239,1269 2294,1270 2348,1270 2403,1273</zone>
+			<zone xml:id="p2z2-0" points="1296,1372 1745,1330 1850,1374 1922,1333 2219,1374 2332,1337 2333,1300 1297,1284">1303,1339 1354,1333 1406,1327 1457,1327 1509,1325 1561,1324 1612,1324 1664,1324 1715,1324 1767,1324 1819,1324 1870,1324 1922,1324 1973,1321 2025,1324 2077,1324 2128,1323 2180,1323 2231,1324 2283,1324 2335,1330</zone>
+			<zone xml:id="p2z3-0" points="1326,1418 1593,1387 1718,1423 2322,1410 2322,1365 2179,1352 1326,1367">1333,1398 1382,1390 1432,1386 1481,1383 1531,1383 1581,1383 1630,1383 1680,1383 1730,1385 1779,1386 1829,1383 1879,1383 1928,1386 1978,1386 2028,1386 2077,1387 2127,1389 2177,1389 2226,1389 2276,1392 2326,1392</zone>
+			<zone xml:id="p2z4-0" points="1341,1462 1507,1485 1642,1447 1744,1481 1805,1452 1846,1491 1908,1470 2045,1484 2045,1427 1996,1414 1697,1431 1634,1409 1556,1431 1489,1402 1341,1429">1348,1446 1383,1444 1418,1443 1453,1443 1488,1443 1523,1443 1558,1443 1593,1443 1628,1444 1663,1446 1698,1446 1733,1446 1768,1446 1803,1446 1838,1446 1873,1446 1908,1446 1943,1446 1978,1446 2013,1449 2048,1449</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de">Erwirdiger, wolgelerter her und gevatter, wüssend, das zeiger diß brieffs hye zuͦ <placeName ref="l98">Chur</placeName> vor uns erschinen und uns um raat einer sach halb naach lut diß yngelegten zedels angesuͦcht hatt, daruff wir ime mitt einem sömlichen raat begegnet sind, wie diser zedel ußwyset, doch uff üwer verbesserung hin, der ir diser dingen baß bericht sind dan wir.</s>
-					<s n="2" xml:lang="de">Wir vermeynend aber, wir habind ime ein bescheidne antwort geben, doran er oder yemants anders sich nüt ze klagen habe.</s>
-					<s n="3" xml:lang="de">So feer sy aber üch nit wurde gefallen, ist unser begär und bitt an üch, ir wöllind sy by üweren handen behalten, sonst, so es üch guͦt wölte duncken, zeigeren diß brieffs lassen werden, das er sich wüste darnach ze richten.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Erwirdiger, wolgelerter her und gevatter, wüssend, das zeiger diß brieffs <lb xml:id="p1z2"/>hye zuͦ <placeName ref="l98">Chur</placeName> vor uns erschinen und uns um raat einer sach halb naach <lb xml:id="p1z3"/>lut diß yngelegten zedels angesuͦcht hatt, daruff wir ime mitt einem sömlichen <lb xml:id="p1z4"/>raat begegnet sind, wie diser zedel ußwyset, doch uff üwer verbesserung hin, <lb xml:id="p1z5"/>der ir diser dingen baß bericht sind dan wir.</s>
+					<s n="2" xml:lang="de">Wir vermeynend aber, wir <lb xml:id="p1z6"/>habind ime ein bescheidne antwort geben, doran er oder yemants anders sich <lb xml:id="p1z7"/>nüt ze klagen habe.</s>
+					<s n="3" xml:lang="de">So feer sy aber üch nit wurde gefallen, ist unser <lb xml:id="p1z8"/>begär und bitt an üch, ir wöllind sy by üweren handen behalten, sonst, so <lb xml:id="p1z9"/>es üch guͦt wölte duncken, zeigeren diß brieffs lassen werden, das er sich <lb xml:id="p1z10"/>wüste darnach ze richten.</s>
 					<s n="4" xml:lang="de">Er selbs muntlich wirt üch wyter berichten.</s>
-					<s n="5" xml:lang="de">Syn begär ist, woo es yenen müglich wäre, dise syn hußfrouw in unser g[nädigen] herren von <placeName ref="l587">Zürich</placeName> gebiet ze kilchen ze füren.</s>
-					<s n="6" xml:lang="de">Ist unser bitt an üch, ir wöllind im darinnen raaten, was üch beduncket das wägist syn, und so es by üch nit müglich wäre, doch ime anleytung geben, wyter sich in handel naach gelegenheyt zschicken.</s>
+					<s n="5" xml:lang="de"><lb xml:id="p1z11"/>Syn begär ist, woo es yenen müglich wäre, dise syn hußfrouw in unser g[nädigen] <lb xml:id="p1z12"/>herren von <placeName ref="l587">Zürich</placeName> gebiet ze kilchen ze füren.</s>
+					<s n="6" xml:lang="de">Ist unser bitt an üch, ir wöllind <lb xml:id="p1z13"/>im darinnen raaten, was üch beduncket das wägist syn, und so es by üch <lb xml:id="p1z14"/>nit müglich wäre, doch ime anleytung geben, wyter sich in handel naach gelegenheyt <lb xml:id="p1z15"/>zschicken.</s>
 					<s n="7" xml:lang="de">Hyemit sind gott befolchen.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="de">Geben zuͦ <placeName ref="l98">Chur</placeName> den 5. hewmonats anno domini 1557.</s>
-					<s n="9" xml:lang="de"><persName ref="p8009">Hanß Schmid</persName>, üwer alle zyt w[illiger] d[iener].</s>
+					<s n="8" xml:lang="de">Geben zuͦ <placeName ref="l98">Chur</placeName> den 5. hewmonats <lb xml:id="p1z16"/>anno domini 1557.</s>
+					<s n="9" xml:lang="de"><lb xml:id="p1z17"/><persName ref="p8009">Hanß Schmid</persName>, üwer alle zyt w[illige<lb xml:id="p1z18"/>r] d[iener].</s>
 				</p>
 				<p>
 					<note type="address">[Adresse:]</note>
-					<s n="10" xml:lang="de">Dem erwirdigen, wolgelerten herren herren <persName ref="p495">Heynrych Bullingern,</persName> pfarherren <placeName ref="l587">Zürich</placeName> zuͦm Großen Münster, synem günstigen herren und gevatteren, ze antworten.</s>
+					<s n="10" xml:lang="de"><pb/><lb xml:id="p2z1"/>Dem erwirdigen, wolgelerten herren herren <lb xml:id="p2z2"/><persName ref="p495">Heynrych Bullingern,</persName> pfarherren <placeName ref="l587">Zürich</placeName> zuͦm <lb xml:id="p2z3"/>Großen Münster, synem günstigen herren <lb xml:id="p2z4"/>und gevatteren, ze antworten.</s>
 				</p>
 			</div>
 		</body>

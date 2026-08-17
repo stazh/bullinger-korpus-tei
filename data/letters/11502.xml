@@ -71,6 +71,15 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11502!Autograph!00%20E_II_343__fol__198_b_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11502/Autograph/00 E_II_343__fol__198_b_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="312,450 407,465 433,487 481,478 509,505 575,498 658,450 710,465 813,442 815,409 658,387 627,360 531,371 494,343 468,358 393,347 313,378">322,444 348,447 374,447 400,447 426,447 453,447 479,445 505,441 531,441 557,441 584,441 610,440 636,438 662,438 688,438 715,436 741,435 767,435 793,433 820,429</zone>
+			<zone xml:id="p1z2-0" points="297,590 1270,570 1375,548 1377,494 299,511">307,572 360,565 414,562 467,560 521,557 574,554 628,553 681,551 735,549 788,548 842,546 896,543 949,543 1003,541 1056,540 1110,537 1163,534 1217,534 1270,534 1324,534 1378,534</zone>
+			<zone xml:id="p1z3-0" points="315,669 1370,636 1372,573 1315,568 1230,603 1104,566 721,568 317,620">328,644 380,645 432,641 485,638 537,635 589,634 642,632 694,630 746,629 799,629 851,626 903,625 956,623 1008,623 1060,623 1113,620 1165,622 1217,620 1270,618 1322,617 1375,614</zone>
+			<zone xml:id="p1z4-0" points="324,773 787,715 879,750 1257,706 1353,743 1331,640 1136,678 911,638 767,680 636,645 328,686">337,736 388,729 439,727 490,723 541,720 592,719 643,713 695,713 746,710 797,710 848,708 899,705 950,704 1001,704 1053,704 1104,701 1155,701 1206,701 1257,699 1308,698 1360,698</zone>
+			<zone xml:id="p1z5-0" points="336,832 800,835 896,795 1272,833 1368,817 1372,738 1250,706 1032,761 782,717 597,736 472,800 337,778">346,820 397,820 448,816 500,813 551,809 603,808 654,805 706,802 757,798 809,796 860,795 911,793 963,791 1014,787 1066,787 1117,783 1169,781 1220,779 1272,778 1323,775 1375,769</zone>
+			<zone xml:id="p1z6-0" points="337,948 431,922 533,970 653,905 929,933 1066,874 1232,911 1379,878 1383,800 1272,843 1208,811 693,824 502,874 345,837">349,918 400,915 452,912 504,909 556,904 607,899 659,898 711,895 763,889 814,888 866,885 918,881 970,878 1021,877 1073,874 1125,870 1177,868 1228,866 1280,863 1332,862 1384,856</zone>
+			<zone xml:id="p1z7-0" points="367,1036 1104,1001 1259,946 1359,974 1429,911 1099,891 533,974 374,953">378,1017 430,1009 483,1006 536,1005 588,1002 641,997 694,991 746,988 799,984 852,981 905,977 957,971 1010,967 1063,964 1115,960 1168,954 1221,952 1273,947 1326,941 1379,937 1432,936</zone>
+			<zone xml:id="p1z8-0" points="387,1106 1180,1090 1294,1040 1425,1071 1569,1014 1864,1014 1870,944 391,1049">399,1089 472,1084 546,1079 620,1077 693,1074 767,1073 841,1068 914,1066 988,1058 1062,1053 1136,1047 1209,1044 1283,1039 1357,1028 1430,1016 1504,1006 1578,1000 1651,993 1725,990 1799,987 1873,984</zone>
+			<zone xml:id="p1z9-0" points="1444,1082 1576,1104 1851,1049 1945,1073 2045,1021 2190,1044 2203,922 2122,959 1908,970 1768,1025 1705,997 1639,1031 1606,1012 1447,1042">1456,1071 1493,1073 1530,1071 1567,1066 1604,1063 1641,1060 1678,1057 1715,1052 1752,1050 1789,1047 1827,1045 1864,1039 1901,1033 1938,1028 1975,1023 2012,1018 2049,1015 2086,1014 2123,1013 2160,1011 2198,1008</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11502!Autograph!01%20E_II_343__fol__198_b_v_.tif/full/max/0/default.jpg" n="2">
@@ -83,17 +92,17 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la"><persName ref="p495">Bullingero</persName> suo.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/><persName ref="p495">Bullingero</persName> suo.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">S. Cum subito comitia propter inexpectatum cęsaris mandatum solverentur,<note xml:id="fn2" type="footnote" n="2">Kaiser <persName ref="p18538">Karl V.</persName> hatte am 15. Januar die Beendigung des <placeName ref="l569">Wormser</placeName> Kolloquiums angeordnet; s. <bibl source="b62">ADRG</bibl> II/1 208-2 10, Nr. 112 (vgl. den Abschied vom 18. Januar, <bibl source="b62">ADRG</bibl> II/1 210f, Nr. 113; <bibl source="b441">MO</bibl> IV 79).</note> scribere ad vos fratres, qualiter voluerunt, non potuerunt.</s>
-					<s n="3" xml:lang="la"><persName ref="p2095">Philippus</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p2095">Philipp Melanchthon</persName>.</note> ipse mihi promisit ad te se scripturum<note xml:id="fna" type="footnote" n="a"><hi>In er Vorlage</hi> scriptum.</note> diligenter esse<note xml:id="fn4" type="footnote" n="4">Ein entsprechender Brief ist nicht nachweisbar.</note>.</s>
-					<s n="4" xml:lang="la">Cęterorum unusquisque scribere paratus fuerat.</s>
-					<s n="5" xml:lang="la">Itaque oro te, ut, quod non multorum literas adfero ad vos, velitis imputare necessitati.</s>
+					<s n="2" xml:lang="la">S. <lb xml:id="p1z2"/>Cum subito comitia propter inexpectatum cęsaris <lb xml:id="p1z3"/>mandatum solverentur,<note xml:id="fn2" type="footnote" n="2">Kaiser <persName ref="p18538">Karl V.</persName> hatte am 15. Januar die Beendigung des <placeName ref="l569">Wormser</placeName> Kolloquiums angeordnet; s. <bibl source="b62">ADRG</bibl> II/1 208-2 10, Nr. 112 (vgl. den Abschied vom 18. Januar, <bibl source="b62">ADRG</bibl> II/1 210f, Nr. 113; <bibl source="b441">MO</bibl> IV 79).</note> scribere ad vos fratres, qualiter <lb xml:id="p1z4"/>voluerunt, non potuerunt.</s>
+					<s n="3" xml:lang="la"><persName ref="p2095">Philippus</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p2095">Philipp Melanchthon</persName>.</note> ipse mihi pro<lb xml:id="p1z5"/>misit ad te se scripturum<note xml:id="fna" type="footnote" n="a"><hi>In er Vorlage</hi> scriptum.</note> diligenter esse<note xml:id="fn4" type="footnote" n="4">Ein entsprechender Brief ist nicht nachweisbar.</note>.</s>
+					<s n="4" xml:lang="la">Cęterorum <lb xml:id="p1z6"/>unusquisque scribere paratus fuerat.</s>
+					<s n="5" xml:lang="la">Itaque oro <lb xml:id="p1z7"/>te, ut, quod non multorum literas adfero ad vos, <lb xml:id="p1z8"/>velitis imputare necessitati.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la"><placeName ref="l491">Argentina</placeName> tota vos pie colit et diligit.</s>
-					<s n="7" xml:lang="la" ana="farewell">Vale in domino.</s>
+					<s n="7" xml:lang="la" ana="farewell"><lb xml:id="p1z9"/>Vale in domino.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la"><persName ref="p1365">S. Grynęus</persName> tuus.</s>

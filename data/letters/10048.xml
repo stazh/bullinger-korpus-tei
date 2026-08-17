@@ -85,11 +85,21 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10048!Autograph!00%20E_II_349__fol__275_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10048/Autograph/00 E_II_349__fol__275_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="447,418 1108,416 1313,373 1526,438 1626,388 2032,398 2001,311 1585,347 1437,290 1321,353 976,288 619,371 447,341">459,399 537,397 616,395 695,390 774,387 853,387 931,384 1010,384 1089,382 1168,382 1247,381 1325,382 1404,379 1483,379 1562,379 1641,379 1719,379 1798,381 1877,379 1956,382 2035,382</zone>
+			<zone xml:id="p1z2-0" points="465,511 1126,461 1287,493 1902,469 2030,507 2030,422 1930,396 1549,438 1246,386 1025,436 765,440 670,398 611,436 465,424">477,483 554,477 632,472 710,470 788,465 866,465 944,460 1022,458 1100,456 1178,456 1256,456 1333,456 1411,459 1489,459 1567,461 1645,460 1723,462 1801,462 1879,462 1957,463 2035,462</zone>
+			<zone xml:id="p1z3-0" points="469,562 589,595 859,544 995,578 1344,542 2005,564 2007,509 1888,469 1774,514 1711,477 1478,516 1128,461 1017,509 814,481 674,532 471,522">480,558 556,552 633,548 709,543 786,541 862,537 939,534 1015,532 1092,531 1168,531 1245,528 1322,531 1398,534 1475,534 1551,534 1628,534 1704,537 1781,540 1857,540 1934,540 2011,543</zone>
+			<zone xml:id="p1z4-0" points="463,668 1187,613 2009,633 1932,558 1699,597 1551,548 1106,589 946,550 562,605 463,564">474,641 550,633 627,626 704,621 781,617 858,613 935,611 1011,608 1088,605 1165,605 1242,605 1319,605 1396,608 1473,608 1549,610 1626,611 1703,611 1780,611 1857,613 1934,614 2011,614</zone>
+			<zone xml:id="p1z5-0" points="469,759 966,690 2015,729 2003,639 1502,666 1163,611 664,678 469,662">480,716 556,709 633,703 710,698 787,693 864,689 941,686 1017,683 1094,682 1171,680 1248,680 1325,680 1402,681 1479,683 1555,683 1632,686 1709,689 1786,689 1863,691 1940,692 2017,695</zone>
+			<zone xml:id="p1z6-0" points="469,842 534,800 755,818 1021,767 1997,783 1997,720 1819,704 1784,737 1723,696 1453,733 1352,694 1210,735 895,698 471,759">480,796 556,789 632,782 708,775 784,770 860,766 936,760 1012,758 1088,756 1164,758 1241,758 1317,755 1393,757 1469,758 1545,758 1621,759 1697,761 1773,761 1849,761 1925,764 2002,769</zone>
+			<zone xml:id="p1z7-0" points="1143,1021 1242,1007 1309,1035 1352,1009 1388,1039 1465,995 1553,1009 1587,1039 1725,1019 1727,871 1632,913 1492,932 1364,905 1291,921 1246,897 1143,917">1154,993 1182,991 1211,990 1240,990 1269,990 1298,990 1326,990 1355,990 1384,989 1413,987 1442,989 1470,989 1499,988 1528,987 1557,987 1586,987 1614,987 1643,987 1672,985 1701,985 1730,987</zone>
+			<zone xml:id="p1z8-0" points="1585,1082 1599,1084 1614,1078 1668,1102 1674,1096 1680,1102 1707,1098 1707,1021 1689,1017 1672,1025 1660,1021 1640,1031 1630,1027 1601,1035 1585,1031">1596,1059 1625,1056 1654,1056 1683,1056 1713,1056</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10048!Autograph!01%20E_II_349__fol__275_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10048/Autograph/01 E_II_349__fol__275_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="921,1168 1053,1158 1159,1184 1261,1160 1356,1187 1461,1161 1514,1198 1596,1172 1596,1108 1545,1084 1446,1105 1315,1060 1158,1095 921,1081">926,1160 959,1158 993,1155 1026,1152 1060,1150 1094,1150 1127,1150 1161,1150 1194,1151 1228,1152 1262,1150 1295,1152 1329,1152 1362,1154 1396,1153 1430,1152 1463,1152 1497,1152 1530,1152 1564,1154 1598,1154</zone>
+			<zone xml:id="p2z2-0" points="1005,1266 1124,1234 1310,1254 1363,1233 1589,1274 1589,1203 1485,1204 1444,1166 1394,1190 1297,1167 1236,1195 1147,1184 1079,1203 1005,1184">1010,1234 1039,1234 1068,1232 1097,1230 1126,1228 1155,1228 1184,1228 1213,1226 1242,1226 1271,1225 1300,1224 1329,1225 1358,1226 1387,1226 1416,1226 1445,1226 1474,1227 1503,1228 1532,1229 1561,1231 1590,1234</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -98,21 +108,21 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratia et pax a domino.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratia et pax a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Rogo te plurimum, <persName ref="p4091">Zuingli</persName> mi, ut paucis mihi mentem tuam adaperias atque edoceas, quid rei sit, quod Christum ad inferna descendisse confitemur<note xml:id="fn3" type="footnote" n="3">Zur Vorstellung von der Höllenfahrt Christi in der Reformationszeit s. Erich <hi>Vogelsang,</hi> Weltbild und Kreuzestheologie in den Höllenfahrtsstreitigkeiten der Reformationszeit, in: Archiv für Reformationsgeschichte, 38. Jg., 1941, 90-132; <bibl source="b605">Staedtke</bibl> 172f. - <persName ref="p4091">Zwinglis</persName> Antwort ist nicht erhalten.</note>.</s>
-					<s n="3" xml:lang="la">Sunt enim ex doctis hodie non pauci, qui mira hic comminiscuntur, interim ut nihilo minus ipsi sese torqueant et lectores avidos a se dimittant.</s>
+					<s n="2" xml:lang="la">Rogo te plurimum, <lb xml:id="p1z2"/><persName ref="p4091">Zuingli</persName> mi, ut paucis mihi mentem tuam adaperias atque <lb xml:id="p1z3"/>edoceas, quid rei sit, quod Christum ad inferna descendis<lb xml:id="p1z4"/>se confitemur<note xml:id="fn3" type="footnote" n="3">Zur Vorstellung von der Höllenfahrt Christi in der Reformationszeit s. Erich <hi>Vogelsang,</hi> Weltbild und Kreuzestheologie in den Höllenfahrtsstreitigkeiten der Reformationszeit, in: Archiv für Reformationsgeschichte, 38. Jg., 1941, 90-132; <bibl source="b605">Staedtke</bibl> 172f. - <persName ref="p4091">Zwinglis</persName> Antwort ist nicht erhalten.</note>.</s>
+					<s n="3" xml:lang="la">Sunt enim ex doctis hodie non pauci, <lb xml:id="p1z5"/>qui mira hic comminiscuntur, interim ut nihilo minus ipsi <lb xml:id="p1z6"/>sese torqueant et lectores avidos a se dimittant.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la" ana="farewell">Vale.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la"><persName ref="p495">Heilrych Bullingerus</persName> tuus.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z7"/><persName ref="p495">Heilrych Bullingerus</persName> <lb xml:id="p1z8"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="6" xml:lang="la"><persName ref="p4091">Hulderycho Zuinglio</persName>, fratri in domino charissimo.</s>
+					<s n="6" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p4091">Hulderycho Zuinglio</persName>, <lb xml:id="p2z2"/>fratri in domino charissimo.</s>
 				</p>
 			</div>
 		</body>

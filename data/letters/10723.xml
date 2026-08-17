@@ -79,36 +79,50 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10723!Autograph!00%20E_II_340__fol__71_b_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10723/Autograph/00 E_II_340__fol__71_b_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="429,331 602,306 793,353 901,310 1040,356 1304,299 1361,349 1457,306 1617,347 1808,294 2152,299 2152,221 1847,251 1680,205 1375,276 1206,221 953,260 654,176 429,176">441,301 526,298 612,301 698,303 784,301 870,301 955,298 1041,301 1127,298 1213,298 1299,298 1384,298 1470,298 1556,295 1642,289 1728,289 1813,289 1899,286 1985,286 2071,286 2157,289</zone>
+			<zone xml:id="p1z2-0" points="440,399 834,420 1448,374 1699,413 1783,374 2025,410 2257,369 2259,287 1929,328 1808,294 1623,349 1532,317 1363,349 1304,299 1037,358 864,308 784,356 682,317 440,333">453,387 543,384 634,382 724,379 815,378 905,375 996,375 1086,373 1177,373 1267,370 1358,366 1449,367 1539,366 1630,364 1720,361 1811,358 1901,358 1992,355 2082,355 2173,352 2264,355</zone>
+			<zone xml:id="p1z3-0" points="445,492 1056,451 1151,488 1329,445 1676,477 2009,431 2161,472 2273,461 2275,381 1580,415 1252,372 821,433 447,406">459,468 550,464 641,458 732,455 823,449 914,446 1005,442 1096,438 1187,438 1278,435 1369,435 1460,435 1551,433 1642,432 1733,429 1824,426 1915,426 2006,426 2097,426 2188,426 2279,429</zone>
+			<zone xml:id="p1z4-0" points="467,549 629,586 716,529 787,559 976,520 1049,570 1104,518 1161,559 1320,508 1489,547 1603,504 1943,502 1981,538 2209,513 2273,554 2269,461 1981,435 1667,479 757,461 677,506 467,499">480,540 574,528 669,522 764,519 858,516 953,510 1048,510 1142,510 1237,507 1332,507 1426,504 1521,501 1616,497 1710,495 1805,495 1900,495 1994,497 2089,498 2184,501 2279,501</zone>
+			<zone xml:id="p1z5-0" points="449,638 832,597 1081,625 1156,581 1343,629 1434,579 1514,616 1571,575 1715,613 1849,577 2075,602 2127,565 2250,593 2253,534 1664,502 1434,554 1320,506 1256,549 1104,518 1044,563 990,527 832,565 716,529 570,581 449,538">462,608 551,599 641,593 730,587 820,587 910,581 999,578 1089,578 1179,575 1268,575 1358,572 1448,569 1537,569 1627,566 1717,566 1806,566 1896,566 1986,563 2075,566 2165,566 2255,569</zone>
+			<zone xml:id="p1z6-0" points="456,702 600,668 812,705 958,654 1306,675 1368,636 1607,668 2095,632 2282,689 2285,584 458,625">468,674 559,664 650,662 741,660 832,652 923,649 1014,646 1106,642 1197,641 1288,638 1379,636 1470,633 1561,630 1652,629 1744,626 1835,623 1926,623 2017,620 2108,620 2199,623 2291,629</zone>
+			<zone xml:id="p1z7-0" points="458,741 2107,709 2109,629 461,698">471,733 553,728 635,725 717,720 799,716 881,707 963,703 1045,701 1127,701 1209,698 1291,698 1373,695 1455,694 1537,692 1619,692 1701,689 1783,686 1865,683 1947,680 2029,677 2112,683</zone>
+			<zone xml:id="p1z8-0" points="445,841 591,791 736,834 791,780 903,819 1088,762 1368,816 1726,752 2262,787 2264,702 2175,684 2098,725 1965,682 1808,730 1065,702 775,757 682,720 618,766 449,739">459,799 549,791 640,785 730,774 821,770 911,766 1002,759 1092,757 1183,755 1273,757 1364,760 1455,755 1545,754 1636,748 1726,748 1817,748 1907,748 1998,748 2088,748 2179,745 2270,751</zone>
+			<zone xml:id="p1z9-0" points="451,889 714,891 832,841 960,898 1154,841 1208,873 1316,866 1320,791 1277,780 1156,803 948,777 903,819 791,784 652,832 588,791 454,841">465,856 510,854 555,851 600,850 645,848 691,844 736,841 781,841 826,838 871,835 917,832 962,832 1007,827 1052,826 1097,826 1143,823 1188,826 1233,826 1278,826 1324,826</zone>
+			<zone xml:id="p1z10-0" points="1528,985 1790,1001 1817,983 1874,1010 1922,976 1977,978 1981,866 1943,873 1917,855 1883,882 1835,869 1797,891 1740,885 1692,907 1635,894 1612,912 1589,898 1530,921">1539,972 1565,968 1591,965 1617,964 1643,963 1669,963 1696,961 1722,960 1748,960 1774,959 1800,957 1826,957 1853,957 1879,955 1905,954 1931,954 1957,955 1984,957</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10723!Autograph!01%20E_II_340__fol__71_b_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10723/Autograph/01 E_II_340__fol__71_b_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="744,1170 1291,1149 1393,1182 1532,1145 1621,1174 1631,1107 1527,1103 1460,1054 1286,1117 1192,1086 1046,1099 940,1046 745,1060">750,1148 794,1150 838,1151 882,1148 926,1143 970,1142 1014,1142 1058,1144 1102,1144 1146,1142 1191,1142 1235,1140 1279,1140 1323,1141 1367,1143 1411,1140 1455,1138 1499,1138 1543,1138 1587,1140 1632,1142</zone>
+			<zone xml:id="p2z2-0" points="740,1214 1041,1212 1093,1242 1145,1211 1257,1232 1448,1201 1651,1245 1651,1161 1594,1156 740,1176">746,1210 791,1210 836,1207 882,1206 927,1204 973,1204 1018,1204 1063,1204 1109,1204 1154,1204 1200,1204 1245,1203 1290,1200 1336,1198 1381,1198 1427,1201 1472,1202 1517,1202 1563,1204 1608,1204 1654,1206</zone>
+			<zone xml:id="p2z3-0" points="734,1273 898,1271 977,1314 1152,1260 1520,1275 1521,1223 1462,1208 1312,1243 735,1229">740,1266 779,1264 818,1262 857,1262 896,1264 936,1264 975,1264 1014,1262 1053,1261 1092,1260 1132,1260 1171,1258 1210,1258 1249,1260 1288,1258 1328,1257 1367,1256 1406,1256 1445,1255 1484,1255 1524,1262</zone>
+			<zone xml:id="p2z4-0" points="1146,1354 1217,1369 1443,1316 1500,1348 1666,1368 1667,1286 1578,1259 1374,1289 1201,1273 1148,1294">1153,1330 1176,1319 1202,1318 1228,1317 1254,1316 1280,1316 1306,1316 1332,1316 1358,1316 1384,1315 1410,1313 1436,1312 1462,1312 1488,1314 1514,1314 1540,1314 1566,1314 1592,1314 1618,1314 1644,1314 1670,1314</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Min früntlich diennst zuͦvor.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Min früntlich diennst zuͦvor.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de">Ersamer, getrüwer, lieber her gfatter<note xml:id="fn1" type="footnote" n="1">Zur verwandtschaftlichen Anrede vgl. <hi>Bächtold,</hi> <persName ref="p495">Bullinger</persName> vor dem Rat 208f, Anm. 62.</note>, uff üwer beger schick ich üch ein kalb.</s>
-					<s n="3" xml:lang="de">Han ich by einem nachpuren<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> erfragt.</s>
-					<s n="4" xml:lang="de">Gott wellt, es wär üch zuͦ diser zit gelegenn.</s>
-					<s n="5" xml:lang="de">Ich han aber keiner zit künnen faren; dann<note xml:id="fn3" type="footnote" ana="lex" n="3">deshalb (<bibl source="b590">SI</bibl> XIII 37).</note>, dwyl sy jetz seltzam<note xml:id="fn4" type="footnote" n="4">rar, knapp (<bibl source="b590">SI</bibl> VII 872f).</note> sinnd, han ichs gschickt, so bald ichs han ankommen<note xml:id="fn5" type="footnote" n="5">sobald ich es bekommen habe.</note>.</s>
-					<s n="6" xml:lang="de">Darumb nemmend min dienst imbesten an unnd sinnd damit gott bevolhenn.</s>
-					<s n="7" xml:lang="de">So ich zuͦ üch komm, wil ich sagen, was es kost.</s>
+					<s n="2" xml:lang="de">Ersamer, getrüwer, <lb xml:id="p1z2"/>lieber her gfatter<note xml:id="fn1" type="footnote" n="1">Zur verwandtschaftlichen Anrede vgl. <hi>Bächtold,</hi> <persName ref="p495">Bullinger</persName> vor dem Rat 208f, Anm. 62.</note>, uff üwer beger schick ich üch ein kalb.</s>
+					<s n="3" xml:lang="de"><lb xml:id="p1z3"/>Han ich by einem nachpuren<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> erfragt.</s>
+					<s n="4" xml:lang="de">Gott wellt, es wär <lb xml:id="p1z4"/>üch zuͦ diser zit gelegenn.</s>
+					<s n="5" xml:lang="de">Ich han aber keiner zit künnen <lb xml:id="p1z5"/>faren; dann<note xml:id="fn3" type="footnote" ana="lex" n="3">deshalb (<bibl source="b590">SI</bibl> XIII 37).</note>, dwyl sy jetz seltzam<note xml:id="fn4" type="footnote" n="4">rar, knapp (<bibl source="b590">SI</bibl> VII 872f).</note> sinnd, han ichs gschickt, <lb xml:id="p1z6"/>so bald ichs han ankommen<note xml:id="fn5" type="footnote" n="5">sobald ich es bekommen habe.</note>.</s>
+					<s n="6" xml:lang="de">Darumb nemmend min dienst <lb xml:id="p1z7"/>imbesten an unnd sinnd damit gott bevolhenn.</s>
+					<s n="7" xml:lang="de"><lb xml:id="p1z8"/>So ich zuͦ üch komm, wil ich sagen, was es kost.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="de">Datum zinstags vor Cathrinen 1535.</s>
+					<s n="8" xml:lang="de">Datum <lb xml:id="p1z9"/>zinstags vor Cathrinen 1535.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la"><persName ref="p8443">Petrus Simler</persName>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z10"/><persName ref="p8443">Petrus Simler</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="10" xml:lang="de">Dem wolgelerten, ersamen heren Meister <persName ref="p495">Heinrich Bullinger</persName>, predicant <placeName ref="l587">Zürich</placeName>, minen lieben heren und gfatter.</s>
+					<s n="10" xml:lang="de"><pb/><lb xml:id="p2z1"/>Dem wolgelerten, ersamen <lb xml:id="p2z2"/>heren Meister <persName ref="p495">Heinrich Bullinger</persName>, <lb xml:id="p2z3"/>predicant <placeName ref="l587">Zürich</placeName>, minen lieben <lb xml:id="p2z4"/>heren und gfatter.</s>
 				</p>
 			</div>
 		</body>

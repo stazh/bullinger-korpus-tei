@@ -74,31 +74,43 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4861!Autograph!00%20E_II_368__fol__419_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">4861/Autograph/00 E_II_368__fol__419_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="650,285 726,252 930,300 1031,247 1089,292 1200,252 1298,303 1505,267 1662,308 1944,270 2065,300 2299,229 2529,267 2529,192 2473,179 2236,207 2125,171 1891,219 1818,187 1707,217 1288,176 1117,222 650,187">665,256 758,253 852,252 945,250 1039,248 1132,247 1226,249 1319,247 1413,247 1506,247 1600,247 1693,244 1787,244 1880,241 1974,241 2067,238 2161,235 2254,235 2348,235 2441,226 2535,223</zone>
+			<zone xml:id="p1z2-0" points="645,366 759,350 835,398 908,345 1177,383 1369,343 1548,383 1891,350 2052,391 2529,345 2615,393 2615,272 2378,252 2221,315 1989,282 1755,323 1558,275 1301,303 1160,262 1082,303 645,290">659,349 757,347 855,341 953,340 1051,340 1149,337 1247,338 1345,340 1443,342 1541,343 1640,340 1738,342 1836,340 1934,341 2032,340 2130,340 2228,340 2326,340 2424,338 2522,337 2621,334</zone>
+			<zone xml:id="p1z3-0" points="658,464 842,469 920,426 1442,469 2642,431 2642,388 2473,355 1974,393 1893,350 1707,353 1626,401 1397,350 1147,398 1034,355 837,403 759,350 658,381">671,432 769,429 868,426 967,424 1066,426 1165,424 1264,424 1362,424 1461,424 1560,424 1659,424 1758,424 1857,424 1956,419 2054,421 2153,421 2252,415 2351,415 2450,415 2549,413 2648,415</zone>
+			<zone xml:id="p1z4-0" points="643,565 824,512 1215,507 1382,555 1505,499 1803,540 1956,492 2667,514 2667,441 2418,421 1593,461 1326,431 1200,482 1003,439 877,484 645,456">659,516 759,509 860,507 961,504 1062,501 1163,498 1263,497 1364,496 1465,495 1566,495 1667,495 1767,493 1868,489 1969,489 2070,489 2171,489 2271,486 2372,486 2473,486 2574,488 2675,489</zone>
+			<zone xml:id="p1z5-0" points="650,623 1011,582 1407,608 1571,562 2067,562 2161,605 2642,582 2642,512 2453,497 1795,540 1538,504 1145,555 1074,519 1019,557 653,565">668,588 767,585 866,582 965,579 1064,576 1163,573 1262,573 1361,567 1460,564 1559,564 1658,561 1757,561 1856,561 1955,561 2054,561 2153,561 2252,558 2351,558 2450,558 2549,556 2648,555</zone>
+			<zone xml:id="p1z6-0" points="650,696 779,711 945,658 1573,693 1709,645 1798,678 1951,640 2635,656 2635,572 2559,565 2342,603 1785,562 1606,610 1548,567 1177,630 1074,592 991,633 653,625">665,671 763,665 862,661 961,658 1060,654 1159,650 1258,650 1356,647 1455,644 1554,641 1653,639 1752,636 1851,633 1950,633 2048,633 2147,630 2246,630 2345,627 2444,627 2543,627 2642,624</zone>
+			<zone xml:id="p1z7-0" points="658,769 1185,731 1235,777 1452,724 1543,769 1697,711 2181,764 2438,714 2549,746 2552,661 2491,638 2350,683 1649,650 1387,698 1339,661 1225,703 900,663 661,708">671,746 765,740 859,734 954,730 1048,727 1142,725 1237,724 1331,722 1425,719 1520,716 1614,713 1708,710 1803,707 1897,707 1991,707 2086,707 2180,707 2274,708 2369,707 2463,704 2558,704</zone>
+			<zone xml:id="p1z8-0" points="666,827 1392,794 1561,842 1667,804 1775,852 1936,807 1939,724 666,774">680,809 743,803 806,801 869,800 933,799 996,797 1059,796 1123,794 1186,794 1249,791 1313,791 1376,788 1439,788 1502,788 1566,783 1629,779 1692,778 1756,778 1819,779 1882,774 1946,773</zone>
+			<zone xml:id="p1z9-0" points="1684,1026 1856,1051 2083,983 2297,1006 2350,968 2496,976 2499,903 2320,908 2176,857 1881,945 1689,908">1699,991 1739,988 1779,980 1819,977 1859,974 1899,973 1939,972 1980,969 2020,966 2060,964 2100,964 2140,964 2180,962 2220,959 2261,958 2301,956 2341,954 2381,951 2421,949 2461,949 2502,952</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!4861!Autograph!01%20E_II_368__fol__419_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">4861/Autograph/01 E_II_368__fol__419_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="215,648 451,658 643,606 756,638 912,606 1199,672 1348,647 1350,537 1277,525 1114,568 1062,535 886,564 706,504 549,573 218,535">223,647 279,641 335,636 392,630 448,628 505,624 561,622 618,616 674,612 731,609 787,606 843,606 900,606 956,606 1013,609 1069,609 1126,612 1182,615 1239,615 1295,615 1352,612</zone>
+			<zone xml:id="p2z2-0" points="376,805 586,763 654,811 744,799 815,740 1034,781 1141,750 1266,795 1267,688 1146,661 891,699 792,644 379,657">385,740 429,739 473,737 517,737 561,737 606,736 650,734 694,733 738,730 782,725 827,725 871,722 915,722 959,725 1003,725 1048,725 1092,725 1136,725 1180,728 1224,728 1269,731</zone>
+			<zone xml:id="p2z3-0" points="897,935 942,935 1000,884 1021,890 1061,867 1123,891 1213,864 1216,785 1179,767 1092,785 1038,771 968,821 903,819">907,865 932,865 958,864 984,862 1010,862 1036,862 1062,860 1087,859 1113,857 1139,855 1165,854 1191,852 1217,850</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">In hac patientię officina tam misere et ingrate vexatus et agitatus fui singulis fere momentis, ut respirandi vix datum sit ocium, nedum explendi officia scribendi.</s>
-					<s n="3" xml:lang="la">Talis est institutio huius senecte mundi.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">In hac patientię officina tam misere et ingrate vexatus <lb xml:id="p1z2"/>et agitatus fui singulis fere momentis, ut respirandi vix datum <lb xml:id="p1z3"/>sit ocium, nedum explendi officia scribendi.</s>
+					<s n="3" xml:lang="la">Talis est institutio huius <lb xml:id="p1z4"/>senecte mundi.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la">Mitto ad te supplicationem factam regi et libellum oblatum iunio mense.</s>
-					<s n="5" xml:lang="la">Epicopi et doctiores ex <placeName ref="l832">Gallia</placeName> convenire debent <placeName ref="l378">Parisiis</placeName> 20. huius mensis, ut super religionis reformatione deliberent.</s>
-					<s n="6" xml:lang="la">Orandus dominus, ut hominum mentes illuminet suo spiritu.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z5"/>Epicopi et doctiores ex <placeName ref="l832">Gallia</placeName> convenire debent <placeName ref="l378">Parisiis</placeName> 20. huius mensis, <lb xml:id="p1z6"/>ut super religionis reformatione deliberent.</s>
+					<s n="6" xml:lang="la">Orandus dominus, ut hominum <lb xml:id="p1z7"/>mentes illuminet suo spiritu.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la"><placeName ref="l646">Glaronense</placeName> negocium dilatum in <persName>sancti Galli diem</persName>. [16.10.1561]</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" ana="salute">Salutabis amicos omnes.</s>
+					<s n="8" xml:lang="la" ana="salute"><lb xml:id="p1z8"/>Salutabis amicos omnes.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la" ana="farewell">Bene vale.</s>
@@ -107,11 +119,11 @@
 					<s n="10" xml:lang="de"><placeName ref="l21">Badene</placeName> 4. iulii.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la">Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
+					<s n="11" xml:lang="la"><lb xml:id="p1z9"/>Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse von anderer Hand:]</note>
-					<s n="12" xml:lang="la">Domino <persName ref="p495">Henrico Bulinghero</persName>, ecclesie <placeName ref="l587">Tigurinae</placeName> pastori vigilantissimo.</s>
+					<s n="12" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Henrico Bulinghero</persName>, <lb xml:id="p2z2"/>ecclesie <placeName ref="l587">Tigurinae</placeName> pastori vi<lb xml:id="p2z3"/>gilantissimo.</s>
 					<s n="13" xml:lang="la">Tigury.</s>
 				</p>
 			</div>

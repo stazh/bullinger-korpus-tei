@@ -75,39 +75,46 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3791!Autograph!00%20E_II_368__fol__432_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3791/Autograph/00 E_II_368__fol__432_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="587,246 905,212 1099,251 1334,197 1479,246 2522,229 2522,180 2391,190 2253,138 1706,121 1139,180 587,118">599,229 695,220 791,217 888,214 984,211 1081,208 1177,205 1274,205 1370,202 1467,202 1563,202 1659,202 1756,202 1852,205 1949,205 2045,208 2142,208 2238,210 2335,214 2431,217 2528,217</zone>
+			<zone xml:id="p1z2-0" points="629,370 776,320 919,365 1082,311 1390,338 1541,306 1622,355 1918,296 2396,350 2539,316 2541,229 631,264">643,321 738,316 833,314 928,313 1023,307 1118,304 1213,301 1308,301 1403,298 1498,295 1594,295 1689,292 1784,292 1879,289 1974,289 2069,292 2164,293 2259,293 2354,292 2449,295 2545,292</zone>
+			<zone xml:id="p1z3-0" points="634,412 816,461 905,417 1356,380 1464,424 1693,382 1799,446 2063,377 2610,419 2578,301 2413,352 2105,298 1947,350 1735,313 1622,355 1371,320 1279,355 1210,313 634,360">646,405 744,399 843,392 941,388 1040,385 1138,381 1237,378 1335,375 1434,375 1532,372 1631,372 1730,372 1828,372 1927,372 2025,372 2124,375 2222,375 2321,378 2419,378 2518,378 2617,384</zone>
+			<zone xml:id="p1z4-0" points="643,520 1001,478 1368,505 1494,461 1563,505 1666,463 1982,491 2253,449 2603,518 2606,422 2090,380 1992,429 1799,372 1287,441 1050,402 818,461 643,439">658,491 755,483 853,479 950,473 1048,471 1145,467 1243,462 1340,460 1438,456 1535,453 1633,453 1730,450 1828,451 1925,451 2023,450 2120,450 2218,450 2315,451 2413,456 2510,459 2608,468</zone>
+			<zone xml:id="p1z5-0" points="643,594 1420,537 1775,550 1841,589 2115,532 2354,574 2357,471 1661,463 1563,508 1494,461 1371,505 1006,476 643,518">658,563 743,560 828,557 913,554 998,551 1083,548 1168,544 1253,542 1338,539 1423,536 1508,536 1593,530 1678,528 1763,527 1848,527 1933,525 2018,526 2103,527 2188,527 2273,527 2358,527</zone>
+			<zone xml:id="p1z6-0" points="1674,717 1861,680 2014,707 2127,685 2172,727 2255,737 2435,712 2435,567 2354,567 2238,621 2115,567 1974,601 1775,562 1674,587">1687,667 1724,670 1762,672 1800,673 1837,672 1875,670 1913,670 1950,670 1988,670 2026,668 2064,667 2101,667 2139,667 2177,667 2214,670 2252,670 2290,668 2327,667 2365,666 2403,664 2441,661</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3791!Autograph!01%20E_II_368__fol__432_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3791/Autograph/01 E_II_368__fol__432_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="721,730 781,737 839,696 954,684 1003,703 1056,679 1163,712 1244,709 1243,483 1144,516 1033,516 996,494 899,515 719,460">731,636 778,640 822,643 867,640 912,640 956,640 1001,643 1046,637 1091,640 1135,640 1180,643 1225,643 1248,641</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Mitto duos ex meis, qui visitent filium; sed eos nolui dimittere sine meis ad te literis.</s>
-					<s n="3" xml:lang="la">Alias te recepisse puto, quibus signifficabam mortes reginarum <placeName ref="l830">Anglie</placeName> et <placeName ref="l882">Ungarie</placeName>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Mitto duos ex meis, qui visitent filium; sed eos nolui dimittere <lb xml:id="p1z2"/>sine meis ad te literis.</s>
+					<s n="3" xml:lang="la">Alias te recepisse puto, quibus signifficabam <lb xml:id="p1z3"/>mortes reginarum <placeName ref="l830">Anglie</placeName> et <placeName ref="l882">Ungarie</placeName>.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la">De pace nihil adhuc certi habemus.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Serius accessi comitia propter infirmitatem; nunc melius habeo.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z4"/>Serius accessi comitia propter infirmitatem; nunc melius habeo.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" ana="salute">Salutabis dominos <persName ref="p8011">Galterum</persName> et <persName ref="p8111">Martirem</persName>.</s>
+					<s n="6" xml:lang="la" ana="salute">Salutabis <lb xml:id="p1z5"/>dominos <persName ref="p8011">Galterum</persName> et <persName ref="p8111">Martirem</persName>.</s>
 					<s n="7" xml:lang="la" ana="farewell">Bene vale.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="de"><placeName ref="l21">Badene</placeName> 12. decembris.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z6"/>Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">D. <persName ref="p495">Henr[ico] Bull[ingero]</persName>.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Henr[ico] Bull[ingero]</persName>.</s>
 				</p>
 			</div>
 		</body>

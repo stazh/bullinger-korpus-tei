@@ -81,30 +81,39 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!618!Autograph!00%20E_II_357__fol__354_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">618/Autograph/00 E_II_357__fol__354_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="267,376 381,325 439,365 482,328 651,352 1040,302 1273,341 1919,302 2046,341 2112,325 2114,251 1530,275 1387,201 1236,196 1064,259 926,212 775,267 720,228 270,230">283,325 374,319 466,316 558,313 650,310 742,304 834,304 926,300 1018,298 1110,297 1202,295 1293,296 1385,298 1477,300 1569,296 1661,296 1753,295 1845,295 1937,298 2029,295 2121,292</zone>
+			<zone xml:id="p1z2-0" points="304,423 532,394 688,434 1109,370 1432,408 1506,365 1802,405 1964,365 1966,312 304,349">319,396 401,387 484,387 566,384 649,383 732,379 814,376 897,373 980,373 1062,370 1145,369 1228,369 1310,367 1393,364 1476,364 1558,367 1641,367 1724,364 1806,360 1889,358 1972,352</zone>
+			<zone xml:id="p1z3-0" points="294,513 717,455 818,497 908,453 1188,487 1326,442 1387,482 1707,453 1945,484 2278,445 2281,376 1942,365 1770,413 1109,370 791,434 296,429">310,486 408,471 507,464 605,459 704,454 803,453 901,447 1000,446 1099,444 1197,444 1296,441 1395,442 1493,443 1592,441 1691,439 1789,435 1888,432 1987,429 2085,425 2184,421 2283,420</zone>
+			<zone xml:id="p1z4-0" points="304,593 722,535 839,580 976,529 1381,572 1474,535 1535,574 1672,521 1778,561 2091,553 2233,503 2355,527 2342,429 1699,503 1651,463 1164,505 929,466 773,508 307,511">319,552 421,545 523,543 625,536 727,531 830,529 932,528 1034,525 1136,525 1238,525 1341,522 1443,522 1545,522 1647,522 1749,518 1852,513 1954,510 2056,504 2158,501 2260,496 2363,495</zone>
+			<zone xml:id="p1z5-0" points="281,648 728,611 1273,659 1516,606 1942,662 2281,622 2379,672 2411,564 2157,521 2024,577 1744,537 1537,577 1302,535 974,569 913,535 834,582 532,545 281,606">295,638 400,629 506,625 612,618 718,611 824,611 929,608 1035,604 1141,602 1247,605 1353,605 1458,605 1564,602 1670,605 1776,605 1882,601 1987,600 2093,599 2199,599 2305,604 2411,617</zone>
+			<zone xml:id="p1z6-0" points="1437,863 1492,844 1545,860 1596,836 1641,860 1704,812 1733,826 1778,812 1794,683 1762,693 1728,670 1667,670 1511,733 1453,741">1459,811 1484,807 1509,802 1535,797 1560,794 1586,790 1611,787 1637,784 1662,780 1688,777 1713,775 1739,775 1764,772 1790,769</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!618!Autograph!01%20E_II_357__fol__354_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">618/Autograph/01 E_II_357__fol__354_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1031,1246 1101,1206 1195,1240 1737,1165 1886,1210 1893,1110 1649,1066 1502,1122 1382,1119 1254,1059 1156,1117 1039,1127">1039,1212 1081,1201 1124,1197 1167,1197 1209,1195 1252,1190 1295,1184 1337,1179 1380,1174 1423,1171 1466,1170 1508,1168 1551,1163 1594,1160 1636,1157 1679,1155 1722,1154 1764,1152 1807,1152 1850,1152 1893,1149</zone>
+			<zone xml:id="p2z2-0" points="1076,1337 1296,1294 1668,1302 1755,1259 2016,1275 2015,1175 1486,1240 1417,1212 1150,1240 1083,1206">1084,1305 1130,1295 1177,1289 1224,1286 1271,1283 1317,1280 1364,1277 1411,1274 1458,1271 1504,1269 1551,1266 1598,1261 1645,1258 1691,1255 1738,1254 1785,1254 1832,1251 1878,1251 1925,1251 1972,1248 2019,1254</zone>
+			<zone xml:id="p2z3-0" points="1685,1857 1781,1830 1818,1837 1851,1816 1940,1837 1949,1729 1934,1723 1872,1754 1861,1742 1789,1740 1726,1760 1693,1754">1696,1807 1721,1801 1746,1798 1771,1795 1796,1793 1821,1791 1846,1790 1871,1788 1896,1786 1921,1785 1947,1783</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de">Diewyl ich ylends disen botten find uff <placeName ref="l555">Winterthur</placeName>, hab ich euch disen brieff mines l[ieben] v[etters] <persName ref="p4082">C[onrat] Zwicken</persName> zuͦschicken wellen in höchster yl; hab euch uff mentag by <persName ref="p8393">Hieronymo Emporo</persName> und davor uff dienstag, ouch uff <placeName ref="l555">Wynterthuͦr</placeName>, geschriben.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Diewyl ich ylends disen botten find uff <placeName ref="l555">Winterthur</placeName>, <lb xml:id="p1z2"/>hab ich euch disen brieff mines l[ieben] v[etters] <persName ref="p4082">C[onrat] Zwicken</persName> <lb xml:id="p1z3"/>zuͦschicken wellen in höchster yl; hab euch uff mentag <lb xml:id="p1z4"/>by <persName ref="p8393">Hieronymo Emporo</persName> und davor uff dienstag, ouch uff <placeName ref="l555">Wynterthuͦr</placeName>, <lb xml:id="p1z5"/>geschriben.</s>
 					<s n="2" xml:lang="de">Bittend gott fuͤr unß trülich.</s>
 					<s n="3" xml:lang="la">7. augusti 1549.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la">T[uus] <persName ref="p8055">A[mbrosius] Bl[aurerus]</persName>.</s>
+					<s n="4" xml:lang="la">T[uus] <lb xml:id="p1z6"/><persName ref="p8055">A[mbrosius] Bl[aurerus]</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse:]</note>
-					<s n="5" xml:lang="de">An meister <persName ref="p495">Heinrich Bullinger</persName> in sin hand.</s>
+					<s n="5" xml:lang="de"><pb/><lb xml:id="p2z1"/>An meister <persName ref="p495">Heinrich <lb xml:id="p2z2"/>Bullinger</persName> in sin hand.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de"><placeName ref="l587">Zurich</placeName>.</s>
+					<s n="6" xml:lang="de"><lb xml:id="p2z3"/><placeName ref="l587">Zurich</placeName>.</s>
 				</p>
 			</div>
 		</body>

@@ -81,6 +81,13 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10215!Autograph!00%20E_II_336__fol__141_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10215/Autograph/00 E_II_336__fol__141_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="454,410 549,454 665,415 932,461 1110,426 1198,464 1263,426 1312,461 1622,431 1842,477 1896,440 2313,468 2311,341 1944,385 1847,338 1511,320 1451,359 1365,320 1247,357 990,311 454,322">466,406 558,406 651,409 743,410 836,412 929,413 1021,415 1114,418 1207,418 1299,421 1392,421 1485,424 1577,425 1670,427 1763,427 1855,430 1948,430 2041,433 2133,436 2226,436 2319,442</zone>
+			<zone xml:id="p1z2-0" points="459,531 591,489 948,521 1008,482 1214,524 1307,491 2318,517 2315,466 2178,452 457,431">469,484 561,481 654,484 746,482 839,484 932,482 1024,484 1117,484 1210,486 1302,486 1395,487 1488,489 1580,490 1673,490 1766,493 1858,496 1951,496 2044,502 2136,506 2229,511 2322,514</zone>
+			<zone xml:id="p1z3-0" points="454,579 925,554 1177,598 1499,561 1629,607 2028,570 2250,603 2250,554 2095,508 2032,540 1393,491 1235,538 1085,498 454,531">466,565 555,562 645,559 734,556 824,556 913,553 1003,553 1092,553 1182,553 1271,553 1361,553 1451,556 1540,556 1630,556 1719,559 1809,562 1898,565 1988,568 2077,571 2167,573 2257,573</zone>
+			<zone xml:id="p1z4-0" points="461,654 2260,670 2260,596 2171,621 2030,572 1886,605 1349,568 1207,607 946,568 461,596">475,639 564,633 654,633 743,630 833,630 922,630 1012,630 1101,630 1191,630 1280,630 1370,630 1460,630 1549,627 1639,627 1728,627 1818,627 1907,630 1997,633 2086,636 2176,642 2266,639</zone>
+			<zone xml:id="p1z5-0" points="459,723 1092,707 1367,749 1444,709 1942,707 2260,760 2260,670 2123,660 1541,651 1307,691 939,651 800,691 628,647 459,684">472,714 561,711 651,708 741,708 830,708 920,708 1010,705 1099,705 1189,702 1279,705 1369,705 1458,705 1548,702 1638,702 1727,702 1817,705 1907,705 1996,705 2086,711 2176,714 2266,714</zone>
+			<zone xml:id="p1z6-0" points="457,846 793,790 1372,793 1437,827 1835,790 2012,853 2227,818 2227,749 457,744">469,798 557,796 645,793 733,792 821,790 910,789 998,788 1086,786 1174,785 1262,783 1351,783 1439,783 1527,783 1615,784 1703,784 1792,786 1880,786 1968,789 2056,789 2144,789 2233,792</zone>
+			<zone xml:id="p1z7-0" points="447,941 508,925 556,950 737,913 878,948 939,918 1207,902 1207,862 1073,830 702,883 612,839 450,848">463,911 500,907 538,902 575,900 613,899 650,899 688,899 725,899 763,896 800,896 838,896 875,897 913,898 950,896 988,896 1025,896 1063,896 1100,895 1138,893 1175,892 1213,887</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10215!Autograph!01%20E_II_336__fol__141_v_.tif/full/max/0/default.jpg" n="2">
@@ -94,18 +101,18 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Toties scribo, toties nihil recipio.</s>
 					<s n="3" xml:lang="la">Quid esse causae potest?</s>
-					<s n="4" xml:lang="la">Quaeso te respondeas super eis, de quibus nosti quam cupide velim reddi certior, in primis de statu vestro.</s>
-					<s n="5" xml:lang="la">Quotidie enim sinistri aliquid accipimus atque ob id turbamur non mediocriter.</s>
-					<s n="6" xml:lang="la">Fac igitur, consolationem aliquam capiamus, vel haec si nulla fuerit, turbemur magis, quo ardentius dominum invocemus, ut sanctificetur nomen eius<note xml:id="fn3" type="footnote" n="3"><cit type="bible"><ref>Mt 6, 9</ref></cit>.</note>.</s>
+					<s n="4" xml:lang="la">Quaeso te respondeas <lb xml:id="p1z2"/>super eis, de quibus nosti quam cupide velim reddi certior, in primis de stat<lb xml:id="p1z3"/>u vestro.</s>
+					<s n="5" xml:lang="la">Quotidie enim sinistri aliquid accipimus atque ob id turbamur <lb xml:id="p1z4"/>non mediocriter.</s>
+					<s n="6" xml:lang="la">Fac igitur, consolationem aliquam capiamus, vel haec si <lb xml:id="p1z5"/>nulla fuerit, turbemur magis, quo ardentius dominum invocemus, ut <lb xml:id="p1z6"/>sanctificetur nomen eius<note xml:id="fn3" type="footnote" n="3"><cit type="bible"><ref>Mt 6, 9</ref></cit>.</note>.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" ana="farewell">Vale cum fratribus omnibus, in primis <persName ref="p3242">Utingero</persName>.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><placeName ref="l28">Basileae</placeName>, anno 33<note xml:id="fna" type="footnote" n="a"><hi>Von der abgeschnittenen Unterschrift nur noch unentzifferbare Reste sichtbar.</hi></note>.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z7"/><placeName ref="l28">Basileae</placeName>, anno 33<note xml:id="fna" type="footnote" n="a"><hi>Von der abgeschnittenen Unterschrift nur noch unentzifferbare Reste sichtbar.</hi></note>.</s>
 				</p>
 				<p>
 					<note type="address">[Ohne Adresse.]</note>

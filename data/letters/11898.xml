@@ -80,37 +80,52 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11898!Autograph!00%20Ms%20F%2080%20%28219%29_00001.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11898/Autograph/00 Ms F 80 (219)_00001.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="729,236 1282,206 1361,164 1567,206 1740,157 1930,213 2071,147 2247,147 2453,150 2666,236 3029,173 3225,275 3353,265 3353,52 3059,3 729,7">746,200 876,189 1007,180 1138,174 1269,167 1400,161 1530,155 1661,152 1792,149 1923,147 2054,146 2184,149 2315,152 2446,152 2577,158 2708,161 2838,167 2969,175 3100,182 3231,192 3362,203</zone>
+			<zone xml:id="p1z2-0" points="729,327 1014,314 1158,386 1590,343 1681,294 1753,347 1878,288 2054,321 2234,291 2342,337 2522,272 2735,340 2823,317 2885,366 3085,317 3271,383 3275,272 3078,190 2673,236 2398,164 2231,239 2097,209 2031,245 1799,170 1475,255 1273,219 1008,278 733,236">749,322 875,313 1002,307 1129,300 1256,295 1382,289 1509,286 1636,281 1763,276 1889,268 2016,265 2143,268 2270,266 2396,274 2523,270 2650,279 2777,284 2903,292 3030,295 3157,307 3284,319</zone>
+			<zone xml:id="p1z3-0" points="723,451 1214,429 1459,497 1747,422 2012,455 2188,419 2319,468 2509,435 2578,474 2633,442 3189,468 3189,337 2525,363 2440,298 2316,347 2231,288 2074,334 1874,288 1793,360 1688,298 1299,386 1204,353 1158,389 1063,334 723,376">740,447 862,435 985,428 1108,424 1231,418 1353,412 1476,406 1599,399 1722,397 1844,394 1967,394 2090,390 2213,388 2335,389 2458,393 2581,397 2704,400 2826,405 2949,412 3072,416 3195,418</zone>
+			<zone xml:id="p1z4-0" points="729,579 844,608 1273,536 1583,559 2198,514 2702,530 2967,592 3317,582 3317,523 3062,438 2718,494 2532,435 2156,478 2061,425 1459,494 1044,432 729,491">746,564 875,552 1004,544 1133,535 1262,526 1391,521 1520,515 1649,510 1778,510 1907,507 2036,507 2165,507 2294,507 2423,510 2552,514 2681,519 2810,523 2939,531 3068,540 3197,551 3326,567</zone>
+			<zone xml:id="p1z5-0" points="726,716 1446,648 1554,710 1858,638 2103,697 2408,641 3268,697 3268,589 3075,635 2817,553 2565,602 2123,527 1888,540 1806,592 1708,559 1639,595 1554,540 1299,608 1073,563 726,625">743,692 869,676 996,670 1122,656 1249,650 1376,642 1502,636 1629,635 1755,627 1882,627 2009,628 2135,630 2262,628 2388,630 2515,633 2642,639 2768,643 2895,652 3021,660 3148,668 3275,680</zone>
+			<zone xml:id="p1z6-0" points="713,854 1057,788 1259,841 1462,772 2100,756 2172,811 2303,759 2535,834 2885,798 3311,880 3311,795 3196,752 3153,788 2849,684 2552,644 2372,644 2221,723 1776,654 1207,752 965,690 860,739 713,729">731,803 860,794 989,786 1119,777 1248,773 1378,766 1507,761 1637,758 1766,758 1896,755 2025,758 2154,760 2284,758 2413,760 2543,765 2672,774 2802,783 2931,794 3061,806 3190,817 3320,833</zone>
+			<zone xml:id="p1z7-0" points="726,955 1073,916 1155,981 1292,896 1681,952 1894,880 2130,965 2264,896 2323,939 2470,883 2555,939 2741,887 3167,922 3167,844 3085,864 2941,815 2728,864 2467,805 2254,841 2097,756 1636,798 1564,769 726,893">743,928 864,919 986,910 1107,901 1229,896 1350,891 1472,886 1593,881 1715,880 1836,877 1958,877 2080,877 2201,877 2323,880 2444,880 2566,883 2687,886 2809,889 2930,895 3052,901 3174,907</zone>
+			<zone xml:id="p1z8-0" points="726,1080 887,1050 975,1093 1142,1030 1420,1011 1554,1073 1737,1004 2090,998 2293,1047 2391,1011 3121,1037 3275,1102 3275,978 3203,1008 3046,949 2954,998 2748,922 2656,981 2365,926 2224,968 2074,929 1982,975 1881,922 1645,978 1537,932 1423,981 1354,929 1197,991 1089,929 726,985">743,1054 869,1044 996,1036 1123,1027 1250,1020 1376,1013 1503,1007 1630,1003 1757,1000 1883,1000 2010,997 2137,997 2264,1000 2390,1003 2517,1009 2644,1012 2771,1015 2897,1021 3024,1025 3151,1033 3278,1042</zone>
+			<zone xml:id="p1z9-0" points="729,1201 841,1171 978,1223 1080,1184 1217,1210 1394,1135 1717,1187 1829,1129 1884,1161 2100,1119 2496,1184 2660,1145 2813,1194 2951,1155 3082,1220 3327,1214 3327,1122 3288,1102 2987,1040 2784,1070 2434,1021 2336,1080 2287,1047 2136,1089 1809,1040 1410,1099 1083,1063 798,1115 729,1089">746,1182 875,1167 1004,1155 1134,1143 1263,1133 1393,1128 1522,1125 1652,1119 1781,1116 1911,1116 2040,1116 2169,1116 2299,1116 2428,1121 2558,1128 2687,1131 2817,1135 2946,1144 3076,1150 3205,1158 3335,1164</zone>
+			<zone xml:id="p1z10-0" points="723,1384 1518,1243 1763,1292 2437,1256 2617,1295 2731,1259 2813,1312 2836,1194 2375,1155 2260,1214 2028,1138 1897,1191 1822,1145 1717,1191 1564,1145 1263,1220 726,1223">743,1301 847,1286 952,1276 1057,1269 1162,1262 1267,1258 1371,1251 1476,1241 1581,1237 1686,1236 1791,1232 1895,1228 2000,1230 2105,1231 2210,1235 2315,1236 2419,1242 2524,1244 2629,1245 2734,1254 2839,1257</zone>
+			<zone xml:id="p1z11-0" points="1871,1639 2110,1632 2231,1567 2421,1596 2571,1672 2640,1626 2875,1596 2872,1475 2702,1469 2525,1534 2323,1433 2185,1413 1956,1413 1868,1459">1890,1567 1939,1576 1989,1572 2039,1570 2088,1570 2138,1570 2188,1570 2237,1568 2287,1567 2337,1567 2387,1567 2436,1570 2486,1571 2536,1574 2585,1578 2635,1583 2685,1587 2734,1588 2784,1594 2834,1597 2884,1600</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11898!Autograph!01%20Ms%20F%2080%20%28219%29_00002.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11898/Autograph/01 Ms F 80 (219)_00002.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="965,1834 1677,1811 1762,1770 2068,1836 2453,1811 2453,1754 2305,1709 2075,1692 1927,1753 1851,1705 1680,1705 1394,1758 1116,1658 965,1661">975,1804 1049,1795 1123,1791 1197,1789 1271,1791 1345,1789 1419,1787 1494,1787 1568,1787 1642,1789 1716,1790 1790,1789 1864,1785 1938,1787 2013,1784 2087,1787 2161,1788 2235,1789 2309,1791 2383,1792 2458,1795</zone>
+			<zone xml:id="p2z2-0" points="980,1922 1225,1948 1593,1899 1937,1944 2155,1904 2324,1980 2463,1942 2463,1834 2170,1884 1994,1802 1798,1884 1451,1815 980,1874">990,1894 1063,1899 1137,1900 1211,1897 1285,1897 1359,1896 1433,1894 1506,1894 1580,1894 1654,1897 1728,1897 1802,1897 1876,1897 1950,1897 2023,1900 2097,1900 2171,1901 2245,1903 2319,1906 2393,1910 2467,1912</zone>
+			<zone xml:id="p2z3-0" points="991,2094 1263,2104 1506,2007 1682,2064 1783,2016 2058,2011 2392,2091 2512,2056 2512,1982 2402,1948 2330,1988 2187,1923 1828,1963 1737,1910 1585,1986 1403,1941 989,1973">999,2022 1074,2020 1150,2016 1226,2013 1302,2013 1378,2010 1454,2006 1530,2004 1606,2004 1682,2004 1758,2004 1833,2004 1909,2007 1985,2010 2061,2012 2137,2014 2213,2019 2289,2024 2365,2031 2441,2038 2517,2046</zone>
+			<zone xml:id="p2z4-0" points="1430,2351 1506,2335 1587,2381 1656,2391 1671,2375 1756,2366 1781,2341 1804,2349 1810,2195 1711,2180 1568,2225 1542,2201 1500,2208 1435,2187">1440,2329 1466,2327 1492,2324 1519,2322 1545,2321 1572,2321 1598,2320 1625,2318 1651,2318 1677,2318 1704,2316 1730,2314 1757,2313 1783,2312 1810,2312</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">[...] commissum habeas adolescentulum<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>; polliceor et ego me non ingratum fore.</s>
+					<s n="1" xml:lang="la">[...] <lb xml:id="p1z1"/>commissum habeas adolescentulum<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>; polliceor et ego <lb xml:id="p1z2"/>me non ingratum fore.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">De comitiis <placeName ref="l471">Spirensibus</placeName><note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11881">Nr. 1835</ref>, Anm. 3.</note> si quid habes certi, fac sciam.</s>
-					<s n="3" xml:lang="la">Nos nihil habemus rerum novarum, nisi quod <persName ref="p18593">Turca</persName><note xml:id="fn3" type="footnote" n="3">Sultan <persName ref="p18593">Suleiman I.</persName></note> a <placeName ref="l522">Venetis</placeName> dicitur<note xml:id="fnb" type="footnote" n="b">dicitur <hi>am Rande nachgetragen.</hi></note> transitum petiisse in <placeName ref="l834">Italiam</placeName> ac <placeName ref="l832">Gallum</placeName><note xml:id="fn4" type="footnote" n="4">König <persName ref="p20225">Franz I.</persName> von <placeName ref="l832">Frankreich</placeName>.</note> non infeliciter pulsis e <placeName ref="l736">Pedemontana</placeName> regione <placeName ref="l875">Hispanis</placeName><note xml:id="fn5" type="footnote" n="5">Die Mitteilung ist ungenau: Zwar wurden die <placeName ref="l875">Spanier</placeName> im Winter 1543/1544 in einigen <placeName ref="l736">piemontesischen</placeName> Orten von den <placeName ref="l832">Franzosen</placeName> besiegt, aber nicht völlig aus der Region vertrieben; s. <persName ref="p17970">Du Bellay</persName>, Mémoires IV 194-200.</note> properare versus <placeName ref="l306">Mediolanum</placeName>.</s>
-					<s n="4" xml:lang="la">Quam vera sint, nescio; sunt tamen, qui pro certissimis venditent.</s>
+					<s n="2" xml:lang="la">De comitiis <placeName ref="l471">Spirensibus</placeName><note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11881">Nr. 1835</ref>, Anm. 3.</note> <lb xml:id="p1z3"/>si quid habes certi, fac sciam.</s>
+					<s n="3" xml:lang="la">Nos <lb xml:id="p1z4"/>nihil habemus rerum novarum, nisi quod <persName ref="p18593">Turca</persName><note xml:id="fn3" type="footnote" n="3">Sultan <persName ref="p18593">Suleiman I.</persName></note> a <placeName ref="l522">Venetis</placeName> <lb xml:id="p1z5"/>dicitur<note xml:id="fnb" type="footnote" n="b">dicitur <hi>am Rande nachgetragen.</hi></note> transitum petiisse in <placeName ref="l834">Italiam</placeName> ac <lb xml:id="p1z6"/><placeName ref="l832">Gallum</placeName><note xml:id="fn4" type="footnote" n="4">König <persName ref="p20225">Franz I.</persName> von <placeName ref="l832">Frankreich</placeName>.</note> non infeliciter pulsis e <placeName ref="l736">Pedemontana</placeName> <lb xml:id="p1z7"/>regione <placeName ref="l875">Hispanis</placeName><note xml:id="fn5" type="footnote" n="5">Die Mitteilung ist ungenau: Zwar wurden die <placeName ref="l875">Spanier</placeName> im Winter 1543/1544 in einigen <placeName ref="l736">piemontesischen</placeName> Orten von den <placeName ref="l832">Franzosen</placeName> besiegt, aber nicht völlig aus der Region vertrieben; s. <persName ref="p17970">Du Bellay</persName>, Mémoires IV 194-200.</note> properare versus <lb xml:id="p1z8"/><placeName ref="l306">Mediolanum</placeName>.</s>
+					<s n="4" xml:lang="la">Quam vera sint, nescio; sunt tam<lb xml:id="p1z9"/>en, qui pro certissimis venditent.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la" ana="farewell">Vale.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la"><placeName ref="l587">Tiguri</placeName>, 20. februarii anno 1544.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z10"/><placeName ref="l587">Tiguri</placeName>, 20. februarii anno 1544.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la"><persName ref="p495">H. Bullingerus</persName>.</s>
+					<s n="7" xml:lang="la"><lb xml:id="p1z11"/><persName ref="p495">H. Bullingerus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="8" xml:lang="la">Clarissimo viro d. <persName ref="p8418">Osvaldo Myconio</persName>, <placeName ref="l28">Basileiensis</placeName> ecclesiae vigilantissimo pastori, fratri colendissimo.</s>
-					<s n="9" xml:lang="de"><placeName ref="l28">Basel</placeName>.</s>
+					<s n="8" xml:lang="la"><pb/><lb xml:id="p2z1"/>Clarissimo viro d. <persName ref="p8418">Osvaldo Myconio</persName>, <lb xml:id="p2z2"/><placeName ref="l28">Basileiensis</placeName> ecclesiae vigilantissimo <lb xml:id="p2z3"/>pastori, fratri colendissimo.</s>
+					<s n="9" xml:lang="de"><lb xml:id="p2z4"/><placeName ref="l28">Basel</placeName>.</s>
 				</p>
 			</div>
 		</body>

@@ -81,11 +81,26 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10862!Autograph!00%20E_I_12_1__Nr__3_2__r__.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10862/Autograph/00 E_I_12_1__Nr__3_2__r__.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="525,393 1351,427 1529,377 1674,432 2269,425 2269,343 2219,327 1789,308 1531,356 1390,306 1195,358 946,301 768,338 666,273 525,304">537,388 623,388 710,388 797,388 883,391 970,387 1057,386 1143,385 1230,385 1317,385 1404,386 1490,388 1577,388 1664,388 1750,388 1837,391 1924,391 2010,394 2097,396 2184,399 2271,403</zone>
+			<zone xml:id="p1z2-0" points="670,518 870,488 1056,534 1182,484 1726,477 1984,544 2067,494 2251,507 2251,425 2115,468 1982,408 1835,451 1726,408 1611,453 1136,416 848,447 787,410 670,449">681,493 759,487 838,486 917,487 996,487 1074,481 1153,481 1232,481 1311,478 1389,476 1468,478 1547,476 1626,478 1704,477 1783,478 1862,479 1941,481 2019,481 2098,484 2177,484 2256,484</zone>
+			<zone xml:id="p1z3-0" points="672,642 1412,583 1479,638 1637,581 2119,633 2242,622 2245,542 2049,510 1633,542 1548,501 1297,538 1206,503 674,523">687,582 765,582 843,582 921,582 999,582 1077,579 1155,577 1233,579 1311,579 1389,576 1467,576 1545,576 1623,576 1701,576 1779,576 1857,576 1935,576 2013,578 2091,580 2169,582 2247,588</zone>
+			<zone xml:id="p1z4-0" points="696,692 1531,729 1759,672 2030,737 2290,701 2256,607 2008,646 1828,599 1609,657 1349,607 831,657 696,605">708,678 787,675 866,675 946,678 1025,675 1104,678 1184,675 1263,675 1342,675 1422,675 1501,672 1580,674 1660,672 1739,672 1818,672 1898,674 1977,675 2056,678 2136,678 2215,679 2295,684</zone>
+			<zone xml:id="p1z5-0" points="698,805 1379,763 1694,833 2171,805 2154,698 2030,737 1742,742 1687,707 1592,748 1355,692 763,727 696,696">711,774 784,771 857,768 930,768 1003,768 1077,766 1150,766 1223,765 1296,765 1369,765 1443,762 1516,762 1589,762 1662,765 1735,765 1809,768 1882,768 1955,768 2028,772 2101,774 2175,777</zone>
+			<zone xml:id="p1z6-0" points="690,885 841,915 907,887 987,933 1061,907 1108,935 1286,868 1425,868 1427,818 1267,835 1158,798 1087,835 915,798 692,813">702,875 738,871 774,869 810,869 847,869 883,866 919,866 956,865 992,863 1028,863 1065,860 1101,860 1137,860 1173,860 1210,860 1246,860 1282,860 1319,860 1355,861 1391,864 1428,869</zone>
+			<zone xml:id="p1z7-0" points="1280,1091 1644,1078 1689,1045 1820,1100 1971,1050 2286,1091 2286,959 2128,926 1922,1019 1661,926 1371,978 1280,941">1291,1054 1340,1051 1390,1050 1440,1048 1490,1049 1540,1051 1590,1049 1640,1048 1690,1048 1740,1048 1790,1046 1839,1046 1889,1046 1939,1046 1989,1046 2039,1046 2089,1048 2139,1048 2189,1048 2239,1051 2289,1054</zone>
+			<zone xml:id="p1z8-0" points="687,1282 761,1282 770,1290 787,1282 822,1314 859,1303 894,1310 896,1171 831,1184 800,1165 742,1191 718,1175 687,1178">699,1270 724,1267 749,1267 775,1267 800,1267 825,1267 851,1267 876,1266 902,1264</zone>
+			<zone xml:id="p1z9-0" points="690,1349 781,1347 820,1364 844,1353 907,1392 922,1379 954,1386 956,1282 935,1282 896,1314 865,1303 822,1316 785,1306 755,1282 740,1290 692,1282">702,1344 728,1342 754,1341 780,1341 806,1339 832,1338 858,1338 884,1337 910,1335 936,1335 962,1335</zone>
+			<zone xml:id="p1z10-0" points="687,1423 802,1442 874,1427 928,1462 1028,1440 1061,1460 1104,1438 1143,1473 1201,1460 1199,1353 1154,1340 1089,1362 1011,1349 907,1395 844,1353 731,1373 687,1347">699,1413 724,1417 749,1418 774,1417 800,1416 825,1416 850,1417 875,1419 901,1419 926,1419 951,1419 976,1419 1002,1419 1027,1420 1052,1422 1077,1420 1103,1419 1128,1421 1153,1421 1178,1420 1204,1413</zone>
+			<zone xml:id="p1z11-0" points="694,1503 720,1514 805,1494 876,1516 946,1501 1011,1546 1067,1520 1093,1533 1113,1512 1165,1518 1162,1466 1106,1436 1082,1457 969,1447 911,1466 766,1425 692,1431">705,1494 730,1492 756,1491 782,1491 808,1492 834,1494 860,1494 886,1494 912,1494 938,1495 963,1496 989,1497 1015,1497 1041,1498 1067,1500 1093,1498 1119,1497 1145,1497 1171,1497</zone>
+			<zone xml:id="p1z12-0" points="672,1585 744,1575 822,1616 911,1577 985,1614 1154,1596 1152,1514 1058,1522 1013,1546 807,1494 718,1512 670,1492">684,1569 709,1572 734,1574 759,1573 784,1572 809,1574 834,1574 859,1574 884,1575 909,1577 934,1577 959,1577 984,1577 1009,1577 1034,1577 1059,1577 1084,1577 1109,1577 1134,1577 1159,1577</zone>
+			<zone xml:id="p1z13-0" points="711,1676 861,1663 935,1696 1002,1657 1089,1670 1089,1616 1061,1603 1041,1614 952,1609 907,1579 854,1590 822,1614 766,1581 711,1594">723,1640 749,1640 775,1640 802,1638 828,1638 855,1640 881,1642 908,1643 934,1643 960,1643 987,1643 1013,1643 1040,1643 1066,1643 1093,1643</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10862!Autograph!01%20E_I_12_1__Nr__3_2__v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10862/Autograph/01 E_I_12_1__Nr__3_2__v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1472,283 1602,291 1623,274 1672,282 1701,257 1809,282 1804,240 1781,247 1746,230 1678,226 1651,207 1565,212 1461,197">1470,226 1496,224 1522,224 1548,227 1574,230 1600,232 1626,236 1652,241 1678,245 1704,248 1730,252 1756,255 1782,259 1808,265</zone>
+			<zone xml:id="p2z2-0" points="1883,206 2004,221 2114,292 2244,221 2370,244 2453,232 2453,123 2397,100 2346,131 2219,134 2135,162 1883,107">1888,187 1916,187 1944,187 1973,187 2001,189 2029,190 2058,188 2086,187 2114,187 2143,187 2171,188 2199,190 2228,190 2256,190 2284,190 2313,189 2341,187 2369,189 2398,189 2426,187 2455,187</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
@@ -93,13 +108,13 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Lieber h[err] stattschryber, verhälffend, das die sach der pfarreren, von dero wagen ich üch brieff<note xml:id="fn2" type="footnote" n="2">Siehe <ref target="file10861">Nr. 822</ref>.</note> gäben, ußgemacht<note xml:id="fn3" type="footnote" n="3">vor dem 24. Juni, d. h. vor dem Ratswechsel.</note> werde vor Ioannis, und das sy nitt also lang uffzogen<note xml:id="fn4" type="footnote" ana="lex" n="4">aufgeschoben (<bibl source="b260">Grimm</bibl> I 784f).</note> werde.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Lieber h[err] stattschryber, verhälffend, das die <lb xml:id="p1z2"/>sach der pfarreren, von dero wagen ich <lb xml:id="p1z3"/>üch brieff<note xml:id="fn2" type="footnote" n="2">Siehe <ref target="file10861">Nr. 822</ref>.</note> gäben, ußgemacht<note xml:id="fn3" type="footnote" n="3">vor dem 24. Juni, d. h. vor dem Ratswechsel.</note> werde vor <lb xml:id="p1z4"/>Ioannis, und das sy nitt also lang uffzo<lb xml:id="p1z5"/>gen<note xml:id="fn4" type="footnote" ana="lex" n="4">aufgeschoben (<bibl source="b260">Grimm</bibl> I 784f).</note> werde.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de">Wil ich umb üch, wo ich könde, verdienen.</s>
+					<s n="2" xml:lang="de">Wil ich umb üch, wo ich <lb xml:id="p1z6"/>könde, verdienen.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="de"><persName ref="p495">H. Bullinger</persName>, der uwer<note xml:id="fna" type="footnote" n="a"><hi>Darunter von der Hand des Stadtschreibers:</hi> M. <persName ref="p1419">[Johannes] Hab</persName>, m. <persName ref="p5413">[Ulrich] Cambli</persName>, m. <persName ref="p8340">Conradt Escher</persName>, m. <persName ref="p5836">Peter Meyger</persName>, m. <persName ref="p8123">Jörg Müller</persName> stattschryber; <hi>auf der Rückseite:</hi> Der competentzen [Einkünfte] halb.</note>.</s>
+					<s n="3" xml:lang="de"><lb xml:id="p1z7"/><persName ref="p495">H. Bullinger</persName>, <lb xml:id="p1z10"/>de<lb xml:id="p1z12"/>r uwe<lb xml:id="p1z13"/>r<note xml:id="fna" type="footnote" n="a"><hi>Darunter von der Hand des Stadtschreibers:</hi> M. <persName ref="p1419">[Johannes] Hab</persName>, m. <persName ref="p5413">[Ulrich] Cambli</persName>, m. <persName ref="p8340">Conradt Escher</persName>, m. <persName ref="p5836">Peter Meyger</persName>, m. <persName ref="p8123">Jörg Müller</persName> stattschryber; <hi>auf der Rückseite:</hi> Der competentzen [Einkünfte] halb.</note><pb/><lb xml:id="p2z1"/>.</s>
 				</p>
 				<p>
 					<note type="address">[Ohne Adresse.]</note>

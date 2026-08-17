@@ -83,11 +83,28 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!13140!Autograph!00%20E_II_441__fol__92_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">13140/Autograph/00 E_II_441__fol__92_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="140,435 293,394 419,432 495,398 588,432 1196,394 1290,435 1583,425 1583,329 1515,360 1345,309 1207,358 980,311 867,345 799,309 421,309 349,354 140,313">150,392 221,396 293,396 365,392 437,396 509,394 581,394 653,394 725,394 797,392 869,392 940,393 1012,394 1084,392 1156,392 1228,392 1300,395 1372,396 1444,396 1516,396 1588,394</zone>
+			<zone xml:id="p1z2-0" points="160,468 1586,477 1585,423 1016,399 711,437 658,399 417,432 293,394 160,433">170,450 241,448 312,448 383,450 454,448 525,448 596,448 667,449 738,448 809,450 880,450 951,452 1022,452 1093,454 1164,454 1235,456 1306,458 1377,462 1448,463 1519,468 1590,468</zone>
+			<zone xml:id="p1z3-0" points="160,545 545,505 1594,547 1592,484 1331,457 1023,493 865,455 739,489 509,451 160,469">170,510 241,505 312,505 383,504 455,504 526,504 597,502 669,503 740,504 811,505 883,506 954,508 1025,508 1096,510 1168,513 1239,515 1310,518 1382,520 1453,522 1524,522 1596,528</zone>
+			<zone xml:id="p1z4-0" points="158,577 1569,594 1556,529 943,549 538,505 158,549">168,560 238,558 308,558 378,558 448,558 519,557 589,556 659,556 729,556 799,558 870,558 940,560 1010,562 1080,565 1150,566 1221,570 1291,571 1361,574 1431,576 1501,578 1572,580</zone>
+			<zone xml:id="p1z5-0" points="164,612 1567,649 1538,585 164,579">174,610 243,610 313,610 383,610 453,609 523,610 592,612 662,610 732,610 802,610 872,612 941,613 1011,616 1081,618 1151,622 1221,622 1290,626 1360,628 1430,632 1500,632 1570,636</zone>
+			<zone xml:id="p1z6-0" points="173,685 804,669 1196,725 1489,694 1489,658 1176,628 173,630">182,670 247,666 313,666 378,664 444,664 510,662 575,662 641,662 706,661 772,663 838,662 903,664 969,666 1034,669 1100,673 1165,676 1231,678 1297,680 1362,684 1428,684 1494,686</zone>
+			<zone xml:id="p1z7-0" points="167,764 930,721 1104,775 1554,761 1554,702 1504,689 1076,711 588,664 279,705 167,667">178,730 247,723 316,722 385,722 454,720 523,720 592,720 661,720 730,719 799,720 868,720 937,723 1006,724 1075,728 1144,730 1213,730 1282,730 1351,734 1420,736 1489,737 1558,742</zone>
+			<zone xml:id="p1z8-0" points="164,793 1270,784 948,725 164,768">174,786 229,782 284,782 339,778 394,778 449,776 504,774 559,776 614,774 669,774 724,774 779,776 834,776 889,776 944,778 999,778 1054,781 1109,783 1164,784 1219,786 1274,784</zone>
+			<zone xml:id="p1z9-0" points="162,860 511,833 655,872 759,835 1531,896 1552,800 160,793">170,844 239,837 308,834 377,832 447,832 516,833 585,832 655,832 724,832 793,834 863,838 932,840 1001,842 1070,844 1140,848 1209,850 1278,852 1348,857 1417,859 1486,862 1556,862</zone>
+			<zone xml:id="p1z10-0" points="162,914 407,892 489,944 554,903 824,941 919,896 1121,937 1277,912 1261,865 975,881 858,845 162,860">172,890 227,886 283,886 338,886 394,884 449,884 505,886 560,884 616,886 671,886 727,887 782,888 838,890 893,892 949,894 1004,894 1060,895 1115,899 1171,900 1226,902 1282,904</zone>
+			<zone xml:id="p1z11-0" points="187,984 725,995 867,959 968,997 1058,962 1239,1009 1529,995 1527,934 1345,876 1288,923 1122,937 707,901 475,944 185,903">196,960 262,956 329,955 396,956 463,956 530,956 597,956 664,956 731,958 798,958 865,959 931,959 998,960 1065,962 1132,962 1199,967 1266,967 1333,972 1400,974 1467,975 1534,982</zone>
+			<zone xml:id="p1z12-0" points="158,1032 1560,1036 1560,993 1239,964 158,988">168,1012 237,1006 307,1005 377,1004 446,1004 516,1004 586,1006 655,1006 725,1006 795,1008 865,1008 934,1010 1004,1010 1074,1014 1143,1015 1213,1018 1283,1020 1352,1021 1422,1024 1492,1026 1562,1026</zone>
+			<zone xml:id="p1z13-0" points="169,1070 779,1065 847,1112 932,1065 1153,1124 1227,1086 1405,1117 1491,1085 1489,1045 863,1009 167,1038">178,1062 243,1058 309,1058 375,1058 441,1058 507,1060 573,1062 639,1060 705,1060 771,1062 837,1066 902,1064 968,1066 1034,1068 1100,1071 1166,1072 1232,1074 1298,1077 1364,1078 1430,1078 1496,1078</zone>
+			<zone xml:id="p1z14-0" points="176,1158 333,1126 432,1167 588,1119 1013,1139 1011,1092 926,1063 847,1106 745,1065 581,1095 174,1068">186,1122 227,1121 269,1118 310,1116 352,1119 394,1116 435,1116 477,1116 518,1116 560,1113 602,1112 643,1112 685,1114 726,1116 768,1116 810,1118 851,1118 893,1121 934,1122 976,1123 1018,1128</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!13140!Autograph!01%20E_II_441__fol__92_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">13140/Autograph/01 E_II_441__fol__92_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="744,680 893,646 960,680 1016,661 1168,693 1262,660 1366,688 1519,673 1505,581 1402,606 1334,574 1122,606 955,572 872,600 744,591">749,657 787,657 826,655 864,654 903,656 942,657 980,655 1019,654 1057,653 1096,654 1135,655 1173,657 1212,657 1250,657 1289,657 1328,657 1366,656 1405,655 1443,655 1482,655 1521,657</zone>
+			<zone xml:id="p2z2-0" points="741,729 886,703 942,745 998,722 1064,758 1169,725 1250,755 1527,732 1526,692 1440,672 1198,698 1059,666 1001,689 740,679">745,705 784,704 823,703 862,703 901,703 941,703 980,703 1019,703 1058,704 1097,706 1137,707 1176,710 1215,711 1254,713 1293,712 1333,711 1372,711 1411,711 1450,709 1489,709 1529,711</zone>
+			<zone xml:id="p2z3-0" points="729,796 786,775 804,785 840,780 860,762 1029,781 1031,740 996,749 953,735 940,745 885,711 841,727 732,727">735,767 761,769 788,767 815,764 842,763 869,762 896,760 923,758 950,757 977,757 1004,757 1031,757</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
@@ -95,39 +112,39 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Salus a Christo, etc.</s>
-					<s n="2" xml:lang="de">Lieber bruͦder, wuß unser aller gsuntheit.<note xml:id="fn2" type="footnote" n="2">Zu verstehen: Wisse, dass wir alle wohlauf sind.</note></s>
-					<s n="3" xml:lang="de">Sölichs von uich<note xml:id="fn3" type="footnote" ana="lex" n="3">euch.</note> ze hören, wer uns ein freydt, etc.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Salus a Christo, etc.</s>
+					<s n="2" xml:lang="de">Lieber bruͦder, wuß <lb xml:id="p1z2"/>unser aller gsuntheit.<note xml:id="fn2" type="footnote" n="2">Zu verstehen: Wisse, dass wir alle wohlauf sind.</note></s>
+					<s n="3" xml:lang="de">Sölichs von uich<note xml:id="fn3" type="footnote" ana="lex" n="3">euch.</note> ze <lb xml:id="p1z3"/>hören, wer uns ein freydt, etc.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="4" xml:lang="de">Ich schick uich da ein meining<note xml:id="fn4" type="footnote" n="4">Angesichts der darauffolgenden zwei Sätze ist hier nicht ein Text mit guten Absichten (Wünschen) gemeint, sondern ein für <persName ref="p495">Bullinger</persName> bestimmter Geldbetrag (z.B. <persName ref="p495">Bullingers</persName> Anteil an einem den beiden Brüdern zugutekommenden Zins oder Mietzins); s. <bibl source="b590">SI</bibl> IV 307.</note> zum guͦtten jar.</s>
-					<s n="5" xml:lang="de">Hett ich die<note xml:id="fn5" type="footnote" ana="lex" n="5">diejenigen, die.</note> mir konttendt helffen, wer mir wol mee worden.</s>
-					<s n="6" xml:lang="de">Sust<note xml:id="fn6" type="footnote" n="6">So aber.</note> muͦß ich an 8 vergutt han,<note xml:id="fn7" type="footnote" n="7">Zu verstehen: So muss ich mich mit 8 zufriedengeben. - Hier wird von einer Währung die Rede sein.</note> deran<note xml:id="fn8" type="footnote" ana="lex" n="8">davon.</note> myr der vogt<note xml:id="fn9" type="footnote" n="9">Der Vogt der Herrschaft <placeName ref="l998">Knonau</placeName>, der die Ortschaft <placeName ref="l375">Ottenbach</placeName> verwaltete. - Stimmt die Datierung des vorliegenden Briefes, handelt es sich um den im Juni 1547 neu gewählten <persName ref="p18066">Jakob Freytag (Freitag)</persName>; s. <bibl source="b384">LL</bibl> XI 144; <bibl source="b196">Dütsch, Landvögte</bibl> 21 und Anm. 42; 114.</note> 4 hat.</s>
-					<s n="7" xml:lang="de">Gitt es die tag mee<note xml:id="fn10" type="footnote" n="10">die tag mee: in nächster Zeit.</note>, ist uwer teil auch darby.<pb type="edition" next="699"/></s>
+					<s n="4" xml:lang="de">Ich schick uich <lb xml:id="p1z4"/>da ein meining<note xml:id="fn4" type="footnote" n="4">Angesichts der darauffolgenden zwei Sätze ist hier nicht ein Text mit guten Absichten (Wünschen) gemeint, sondern ein für <persName ref="p495">Bullinger</persName> bestimmter Geldbetrag (z.B. <persName ref="p495">Bullingers</persName> Anteil an einem den beiden Brüdern zugutekommenden Zins oder Mietzins); s. <bibl source="b590">SI</bibl> IV 307.</note> zum guͦtten jar.</s>
+					<s n="5" xml:lang="de">Hett ich <lb xml:id="p1z5"/>die<note xml:id="fn5" type="footnote" ana="lex" n="5">diejenigen, die.</note> mir konttendt helffen, wer mir wol mee <lb xml:id="p1z6"/>worden.</s>
+					<s n="6" xml:lang="de">Sust<note xml:id="fn6" type="footnote" n="6">So aber.</note> muͦß ich an 8 vergutt <lb xml:id="p1z7"/>han,<note xml:id="fn7" type="footnote" n="7">Zu verstehen: So muss ich mich mit 8 zufriedengeben. - Hier wird von einer Währung die Rede sein.</note> deran<note xml:id="fn8" type="footnote" ana="lex" n="8">davon.</note> myr der vogt<note xml:id="fn9" type="footnote" n="9">Der Vogt der Herrschaft <placeName ref="l998">Knonau</placeName>, der die Ortschaft <placeName ref="l375">Ottenbach</placeName> verwaltete. - Stimmt die Datierung des vorliegenden Briefes, handelt es sich um den im Juni 1547 neu gewählten <persName ref="p18066">Jakob Freytag (Freitag)</persName>; s. <bibl source="b384">LL</bibl> XI 144; <bibl source="b196">Dütsch, Landvögte</bibl> 21 und Anm. 42; 114.</note> 4 hat.</s>
+					<s n="7" xml:lang="de">Gitt es die <lb xml:id="p1z8"/>tag mee<note xml:id="fn10" type="footnote" n="10">die tag mee: in nächster Zeit.</note>, ist uwer teil auch darby.<pb type="edition" next="699"/></s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="8" xml:lang="de">Laß mich wussen, wer geen<note xml:id="fn11" type="footnote" n="11">nach (gegen).</note> <placeName ref="l248">Kilchberg</placeName> sig kon<note xml:id="fn12" type="footnote" ana="bio" n="12">sig kon: gekommen sei (zu verstehen: ernannt wurde, um dahin zu kommen). - <persName ref="p6986">Albrecht Wecker</persName>, der hier vermutlich gemeint ist (s. oben <ptr target="qvfn17358-1" type="qv"/>), stammte aus <placeName ref="l159">Frauenfeld</placeName> (s. Zürich StA, E I 30.64, Nr. 4) und hatte zuvor einige Jahre im <placeName ref="l774">Thurgau</placeName> gewirkt; s. <bibl source="b8">HBBW VI</bibl> 34. - <persName ref="p527">Johannes</persName>' Nachfrage könnte sich insofern erklären, als der vorhergehende Pfarrer, <persName ref="p2292">Hans Rudolf Ammann</persName>, welcher altershalber eine kleinere Pfarrei beantragt hatte, bis zu diesem Zeitpunkt ein "Lipding" (Einkommen in Form von Naturalien oder Geldauszahlungen) aus <placeName ref="l375">Ottenbach</placeName> erhalten hatte, auf das er am 21. Dezember 1547 verzichten musste; s. E I 30.64, Nr. 5, den letzten Abschnitt.</note>, ouch waß nuwer meeren<note xml:id="fn13" type="footnote" ana="lex" n="13">Nachrichten.</note> vorhanden sig.</s>
+					<s n="8" xml:lang="de"><lb xml:id="p1z9"/>Laß mich wussen, wer geen<note xml:id="fn11" type="footnote" n="11">nach (gegen).</note> <placeName ref="l248">Kilchberg</placeName> sig kon<note xml:id="fn12" type="footnote" ana="bio" n="12">sig kon: gekommen sei (zu verstehen: ernannt wurde, um dahin zu kommen). - <persName ref="p6986">Albrecht Wecker</persName>, der hier vermutlich gemeint ist (s. oben <ptr target="qvfn17358-1" type="qv"/>), stammte aus <placeName ref="l159">Frauenfeld</placeName> (s. Zürich StA, E I 30.64, Nr. 4) und hatte zuvor einige Jahre im <placeName ref="l774">Thurgau</placeName> gewirkt; s. <bibl source="b8">HBBW VI</bibl> 34. - <persName ref="p527">Johannes</persName>' Nachfrage könnte sich insofern erklären, als der vorhergehende Pfarrer, <persName ref="p2292">Hans Rudolf Ammann</persName>, welcher altershalber eine kleinere Pfarrei beantragt hatte, bis zu diesem Zeitpunkt ein "Lipding" (Einkommen in Form von Naturalien oder Geldauszahlungen) aus <placeName ref="l375">Ottenbach</placeName> erhalten hatte, auf das er am 21. Dezember 1547 verzichten musste; s. E I 30.64, Nr. 5, den letzten Abschnitt.</note>, <lb xml:id="p1z10"/>ouch waß nuwer meeren<note xml:id="fn13" type="footnote" ana="lex" n="13">Nachrichten.</note> vorhanden sig<lb xml:id="p1z11"/>.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="9" xml:lang="de">Ich weiß dyr jetzt nuit<note xml:id="fn14" type="footnote" ana="lex" n="14">nichts.</note> sunders ze schriben, dan ich vast muidt<note xml:id="fn15" type="footnote" n="15">vast muidt: sehr müde.</note> bin; das ander, faan ich die tag etwaß,<note xml:id="fn16" type="footnote" n="16">Zu verstehen: zum anderen, wenn ich dieser Tage etwas fange (bei der Jagd). - Wie schon <persName ref="p527">Johannes</persName> und <persName ref="p495">Heinrich Bullingers</persName> Großvater <persName ref="p20929">Hans</persName> und deren Vater <persName ref="p20449">Heinrich d.Ä.</persName> (s. Bernhard <hi>Stettler,</hi> Bullingers Familiengeschichte. Edition und Kommentar, in: <bibl source="b714">Zwa</bibl> XLII, 2015, 18f. 27. 32), hat offensichtlich auch <persName ref="p527">Johannes</persName> gejagt. Vgl. auch <ref target="file12771">Nr. 2724</ref>a,5f, des Anhangs.<ptr target="zfnfn17358-2" type="zfn"/></note> wil ich selbs inhan.<note xml:id="fn17" type="footnote" n="17">hinein (nach <placeName ref="l587">Zürich</placeName>, zum Bruder, um ihm einen Teil der Jagdbeute zu bringen).</note></s>
+					<s n="9" xml:lang="de">Ich weiß dyr jetzt nuit<note xml:id="fn14" type="footnote" ana="lex" n="14">nichts.</note> sunders ze schriben, <lb xml:id="p1z12"/>dan ich vast muidt<note xml:id="fn15" type="footnote" n="15">vast muidt: sehr müde.</note> bin; das ander, faan <lb xml:id="p1z13"/>ich die tag etwaß,<note xml:id="fn16" type="footnote" n="16">Zu verstehen: zum anderen, wenn ich dieser Tage etwas fange (bei der Jagd). - Wie schon <persName ref="p527">Johannes</persName> und <persName ref="p495">Heinrich Bullingers</persName> Großvater <persName ref="p20929">Hans</persName> und deren Vater <persName ref="p20449">Heinrich d.Ä.</persName> (s. Bernhard <hi>Stettler,</hi> Bullingers Familiengeschichte. Edition und Kommentar, in: <bibl source="b714">Zwa</bibl> XLII, 2015, 18f. 27. 32), hat offensichtlich auch <persName ref="p527">Johannes</persName> gejagt. Vgl. auch <ref target="file12771">Nr. 2724</ref>a,5f, des Anhangs.<ptr target="zfnfn17358-2" type="zfn"/></note> wil ich selbs inhan.<note xml:id="fn17" type="footnote" n="17">hinein (nach <placeName ref="l587">Zürich</placeName>, zum Bruder, um ihm einen Teil der Jagdbeute zu bringen).</note></s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="10" xml:lang="de">Gott sig mit uich allen!</s>
+					<s n="10" xml:lang="de"><lb xml:id="p1z14"/>Gott sig mit uich allen!</s>
 				</p>
 				<p>
 					<note type="signature">[Ohne Unterschrift.]</note>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="11" xml:lang="de">M. <persName ref="p495">Heinrichen Bullinger</persName> zu <placeName ref="l587">Zurich</placeName>, sinem bruͦder.</s>
+					<s n="11" xml:lang="de"><pb/><lb xml:id="p2z1"/>M. <persName ref="p495">Heinrichen Bullinger</persName> <lb xml:id="p2z2"/>zu <placeName ref="l587">Zurich</placeName>, sinem <lb xml:id="p2z3"/>bruͦder.</s>
 				</p>
 			</div>
 		</body>

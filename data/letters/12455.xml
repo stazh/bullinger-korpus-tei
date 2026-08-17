@@ -74,6 +74,13 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12455!Autograph!00%20E_II_357__fol__169_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">12455/Autograph/00 E_II_357__fol__169_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="529,505 676,472 733,515 1146,488 1414,529 1526,478 1683,531 1848,480 1994,529 2125,450 1807,407 1703,344 1573,409 1252,397 1178,456 1026,385 936,444 527,425">540,474 619,470 698,474 778,474 857,474 936,474 1016,474 1095,474 1174,476 1254,477 1333,478 1412,480 1492,477 1571,478 1650,477 1730,477 1809,477 1888,477 1968,477 2047,474 2127,471</zone>
+			<zone xml:id="p1z2-0" points="596,602 1158,627 1370,584 1496,627 1781,566 2232,594 2234,531 1864,495 1799,539 1636,509 1498,556 1127,492 897,539 598,505">608,572 689,576 770,575 852,572 933,572 1014,572 1096,572 1177,572 1258,570 1340,570 1421,570 1502,570 1584,567 1665,567 1746,564 1828,564 1909,561 1990,558 2072,557 2153,554 2235,546</zone>
+			<zone xml:id="p1z3-0" points="590,694 747,692 804,737 1032,665 1431,722 1614,682 1659,714 1819,649 2216,661 2218,582 2070,623 1711,578 1323,635 1260,594 1101,645 869,602 592,623">602,677 683,674 764,672 845,670 926,668 1007,665 1088,665 1169,662 1250,662 1331,662 1412,659 1493,656 1574,653 1655,652 1736,650 1817,647 1898,644 1979,642 2060,641 2141,640 2223,635</zone>
+			<zone xml:id="p1z4-0" points="570,798 747,786 881,851 1353,759 1935,786 2179,739 2179,704 2070,720 1968,665 1856,704 1707,684 1606,737 1357,686 1150,747 845,759 759,704 572,747">581,790 661,784 741,779 821,772 901,769 981,766 1061,766 1142,760 1222,760 1302,759 1382,760 1462,758 1542,755 1622,754 1703,751 1783,749 1863,744 1943,740 2023,737 2103,734 2184,734</zone>
+			<zone xml:id="p1z5-0" points="551,944 779,877 2167,845 2139,755 1514,798 1341,763 877,853 556,802">564,883 644,880 724,875 805,870 885,865 966,859 1046,856 1126,853 1207,852 1287,850 1368,850 1448,850 1528,849 1609,846 1689,845 1770,847 1850,844 1930,842 2011,840 2091,837 2172,835</zone>
+			<zone xml:id="p1z6-0" points="578,1013 1392,958 1608,999 1687,967 2072,991 2074,899 1947,924 1825,861 1573,934 1325,875 1099,889 1026,940 952,889 757,961 580,924">590,999 664,990 738,984 813,982 887,977 961,972 1036,969 1110,965 1184,963 1259,960 1333,957 1407,954 1482,954 1556,950 1630,954 1705,954 1779,954 1853,960 1928,962 2002,963 2077,960</zone>
+			<zone xml:id="p1z7-0" points="1673,1131 1703,1131 1764,1103 1795,1113 1817,1101 1864,1125 1888,1107 1917,1125 1952,1115 1956,1018 1917,1005 1781,1024 1718,977 1681,971">1686,1116 1713,1110 1740,1107 1767,1105 1794,1103 1821,1101 1848,1099 1875,1098 1902,1098 1929,1099 1957,1101</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!12455!Autograph!01%20E_II_357__fol__169_v_.tif/full/max/0/default.jpg" n="2">
@@ -85,16 +92,16 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Accepi heri literas istas ab <persName ref="p1410">Herbrotio</persName><note xml:id="fn1" type="footnote" n="1">Der Brief <persName ref="p1410">Jakob Herbrots</persName> vom 24. März (<ref target="file12439">Nr. 2392</ref>).</note>, <placeName ref="l18">Augustanorum</placeName> consule, quas ad te mitto nihil praeterea addens, quod verear, ne tui<note xml:id="fn2" type="footnote" n="2">Unbekannte Zürcher.</note>, de quorum praesentia certior nunc sim factus, mihi elabantur.</s>
-					<s n="3" xml:lang="la">Ad alias literas tuas<note xml:id="fn3" type="footnote" n="3"><persName ref="p495">Bullingers</persName> Briefe vom 22. (<ref target="file12434">Nr. 2387</ref>) und 29. März (<ref target="file12443">Nr. 2396</ref>).</note> alias.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Accepi heri literas istas ab <persName ref="p1410">Herbrotio</persName><note xml:id="fn1" type="footnote" n="1">Der Brief <persName ref="p1410">Jakob Herbrots</persName> vom 24. März (<ref target="file12439">Nr. 2392</ref>).</note>, <lb xml:id="p1z2"/><placeName ref="l18">Augustanorum</placeName> consule, quas ad te mitto <lb xml:id="p1z3"/>nihil praeterea addens, quod verear, ne <lb xml:id="p1z4"/>tui<note xml:id="fn2" type="footnote" n="2">Unbekannte Zürcher.</note>, de quorum praesentia certior nunc sim <lb xml:id="p1z5"/>factus, mihi elabantur.</s>
+					<s n="3" xml:lang="la">Ad alias literas <lb xml:id="p1z6"/>tuas<note xml:id="fn3" type="footnote" n="3"><persName ref="p495">Bullingers</persName> Briefe vom 22. (<ref target="file12434">Nr. 2387</ref>) und 29. März (<ref target="file12443">Nr. 2396</ref>).</note> alias.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la" ana="farewell">Vale.</s>
 					<s n="5" xml:lang="la">2. aprilis 1546.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Tuus <persName ref="p8055">Ambr. Bl.</persName></s>
+					<s n="6" xml:lang="la">Tuus <lb xml:id="p1z7"/><persName ref="p8055">Ambr. Bl.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Ohne Adresse.]</note>

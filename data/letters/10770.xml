@@ -81,11 +81,24 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10770!Autograph!00%20E_II_336__fol__178_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10770/Autograph/00 E_II_336__fol__178_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="291,305 303,305 312,293 321,298 329,293 347,298 355,288 376,293 371,163 352,168 345,165 326,177 317,168 284,173">301,256 328,258 355,259 382,259</zone>
+			<zone xml:id="p1z2-0" points="416,286 572,279 707,336 782,284 929,293 986,343 1527,298 1761,355 1841,303 2253,336 2250,253 2156,232 2071,272 1548,258 1319,170 1135,248 872,194 730,251 633,206 560,239 414,170">429,253 520,265 611,268 703,274 794,274 885,278 977,280 1068,281 1159,283 1251,286 1342,287 1433,290 1525,292 1616,295 1707,297 1799,297 1890,298 1981,300 2073,301 2164,304 2256,304</zone>
+			<zone xml:id="p1z3-0" points="433,359 1274,362 1350,411 1454,371 1574,416 1657,373 1865,411 2087,378 2288,416 2286,352 1761,355 1520,305 1243,336 782,284 730,329 430,288">444,334 536,337 628,340 721,344 813,347 906,350 998,352 1090,355 1183,355 1275,357 1368,360 1460,363 1552,364 1645,367 1737,370 1830,370 1922,373 2014,373 2107,376 2199,379 2292,382</zone>
+			<zone xml:id="p1z4-0" points="425,461 529,470 598,421 697,454 808,421 901,475 1196,430 1449,485 1558,437 1692,473 2274,456 2272,402 2205,390 1882,430 1659,373 1572,421 1399,366 1357,411 1224,366 425,390">438,408 530,411 622,411 714,414 806,417 898,418 990,423 1082,423 1174,423 1266,426 1359,428 1451,431 1543,435 1635,440 1727,441 1819,444 1911,447 2003,450 2095,453 2187,453 2280,456</zone>
+			<zone xml:id="p1z5-0" points="430,506 754,553 846,520 1560,539 1596,506 1735,567 1827,513 1983,560 2045,518 2286,544 2283,494 2142,463 1430,480 1258,435 969,477 825,430 430,461">444,495 536,492 628,492 721,492 813,492 906,492 998,494 1090,495 1183,496 1275,497 1368,498 1460,501 1552,504 1645,509 1737,510 1830,513 1922,516 2014,519 2107,522 2199,526 2292,528</zone>
+			<zone xml:id="p1z6-0" points="435,584 574,633 617,593 851,586 1066,624 1149,579 1354,626 1425,579 1496,615 1579,581 2324,626 2324,567 2274,544 1938,570 1825,515 1340,551 1050,515 924,555 489,506 435,537">447,573 541,573 635,573 729,574 823,574 917,576 1011,574 1105,571 1199,570 1293,567 1387,570 1481,570 1575,573 1669,577 1763,580 1857,583 1951,587 2045,590 2139,593 2233,597 2328,602</zone>
+			<zone xml:id="p1z7-0" points="440,707 1232,709 1392,655 1799,707 2316,695 2316,624 2066,600 1962,641 1721,586 1470,626 1397,593 1359,626 440,607">453,653 546,650 639,650 732,653 826,653 919,653 1012,653 1106,653 1199,653 1292,653 1386,653 1479,653 1572,650 1665,650 1759,653 1852,654 1945,656 2039,660 2132,662 2225,662 2319,665</zone>
+			<zone xml:id="p1z8-0" points="447,754 1501,792 1730,733 2075,780 2342,747 2342,697 1799,707 1510,659 1300,671 1224,719 752,681 447,714">459,737 553,734 648,734 742,734 837,737 931,737 1026,737 1120,737 1215,737 1309,737 1404,734 1498,733 1593,730 1687,731 1782,731 1876,731 1971,734 2065,737 2160,737 2254,737 2349,737</zone>
+			<zone xml:id="p1z9-0" points="435,820 797,858 1279,830 1369,865 1508,832 1671,875 2253,839 2253,794 2045,766 1926,804 1808,763 1532,801 435,780">447,814 537,814 627,814 718,814 808,814 899,814 989,814 1080,817 1170,817 1261,820 1351,820 1441,819 1532,817 1622,818 1713,821 1803,822 1894,827 1984,829 2075,826 2165,826 2256,826</zone>
+			<zone xml:id="p1z10-0" points="437,969 754,922 972,976 1151,927 1149,841 1090,834 993,860 870,834 697,877 631,846 525,877 477,841 437,856">450,910 485,912 520,911 556,910 591,910 627,910 662,910 697,908 733,908 768,910 804,910 839,912 874,913 910,914 945,916 981,919 1016,919 1051,919 1087,919 1122,919 1158,913</zone>
+			<zone xml:id="p1z11-0" points="1820,1002 1924,1021 1964,1007 2009,1035 2056,1016 2113,1038 2172,1026 2234,1059 2302,1026 2302,915 2269,924 2137,886 2116,905 1948,927 1917,953 1820,960">1832,1000 1857,1001 1882,1002 1907,1002 1932,1003 1957,1004 1982,1004 2007,1002 2032,1002 2057,1002 2082,1003 2107,1004 2132,1002 2157,1001 2182,1000 2207,1002 2232,1001 2257,1000 2282,1000 2307,1000</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10770!Autograph!01%20E_II_336__fol__178_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10770/Autograph/01 E_II_336__fol__178_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="856,693 1683,685 1700,600 1326,568 1236,609 859,551">862,674 906,671 950,671 994,671 1038,669 1082,671 1126,671 1171,668 1215,664 1259,659 1303,656 1347,656 1391,656 1436,656 1480,656 1524,659 1568,659 1612,656 1656,656 1701,653</zone>
+			<zone xml:id="p2z2-0" points="1028,821 1100,820 1225,756 1322,784 1332,700 1276,680 1183,694 1155,678 1108,704 1044,690">1041,761 1067,763 1093,760 1120,756 1146,753 1172,749 1199,746 1225,742 1251,739 1278,735 1304,733 1331,731</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -93,31 +106,31 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Ne iota quidem <persName ref="p5565">Capito</persName> ad nos per hunc<note xml:id="fn2" type="footnote" n="2">Unbekannt; vgl. Anm. 1.</note> - contemptor, ut interpretor, ministrorum <placeName ref="l28">Basiliensium</placeName>.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la"><lb xml:id="p1z2"/>Ne iota quidem <persName ref="p5565">Capito</persName> ad nos per hunc<note xml:id="fn2" type="footnote" n="2">Unbekannt; vgl. Anm. 1.</note> - contemptor, ut interpretor, <lb xml:id="p1z3"/>ministrorum <placeName ref="l28">Basiliensium</placeName>.</s>
 					<s n="3" xml:lang="la">Cave tibi pro <placeName ref="l257">Constantiensium</placeName> pia admonitione<note xml:id="fn3" type="footnote" n="3">Besonders <persName ref="p4082">Konrad Zwick</persName> hatte bei seinem Besuch in <placeName ref="l587">Zürich</placeName> vor den Konkordienplänen <persName ref="p467">Bucers</persName> gewarnt; vgl. oben <ref target="file10763">Nr. 725</ref>, 2-6 und 731, 59-81.</note>.</s>
-					<s n="4" xml:lang="la">Ego enim hęreo.</s>
-					<s n="5" xml:lang="la">Quo pluribus de diligenti a <persName ref="p467">Bucero</persName> cautione hic dico, eo, credo, magis ipsi favent.</s>
-					<s n="6" xml:lang="la">Quamvis nemini quicquam ego nisi patri<note xml:id="fn4" type="footnote" n="4"><persName ref="p8129">Jakob Meyer zum Hirzen</persName> (vgl. <bibl source="b6">HBBW IV</bibl>, s. 448, Anm. c).</note> et <persName ref="p1365">Grynęo</persName> et <persName ref="p8054">Marco</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8054">Markus Bertschi</persName>.</note>.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z4"/>Ego enim hęreo.</s>
+					<s n="5" xml:lang="la">Quo pluribus de diligenti a <persName ref="p467">Bucero</persName> cautione hic dico, <lb xml:id="p1z5"/>eo, credo, magis ipsi favent.</s>
+					<s n="6" xml:lang="la">Quamvis nemini quicquam ego nisi patri<note xml:id="fn4" type="footnote" n="4"><persName ref="p8129">Jakob Meyer zum Hirzen</persName> (vgl. <bibl source="b6">HBBW IV</bibl>, s. 448, Anm. c).</note> et <lb xml:id="p1z6"/><persName ref="p1365">Grynęo</persName> et <persName ref="p8054">Marco</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8054">Markus Bertschi</persName>.</note>.</s>
 					<s n="7" xml:lang="la">Age; equidem, prout deus dederit, faciam.</s>
-					<s n="8" xml:lang="la">Tedet, quod <placeName ref="l491">Argentinenses</placeName> nil nisi nugas ad nos.</s>
-					<s n="9" xml:lang="la">Nescio quis malus dęmon de conventu futuro omnia dederit ad <placeName ref="l491">Argentinenses</placeName><note xml:id="fn6" type="footnote" n="6">Gemeint ist zweifellos die auf den 30. Januar nach <placeName ref="l28">Basel</placeName> einberufene Tagung, von der die <placeName ref="l491">Straßburger</placeName> zunächst ausgeschlossen bleiben sollten; vgl. oben <ref target="file10751">Nr. 713</ref>, 6-12.</note>.</s>
+					<s n="8" xml:lang="la">Tedet, <lb xml:id="p1z7"/>quod <placeName ref="l491">Argentinenses</placeName> nil nisi nugas ad nos.</s>
+					<s n="9" xml:lang="la">Nescio quis malus dęmon <lb xml:id="p1z8"/>de conventu futuro omnia dederit ad <placeName ref="l491">Argentinenses</placeName><note xml:id="fn6" type="footnote" n="6">Gemeint ist zweifellos die auf den 30. Januar nach <placeName ref="l28">Basel</placeName> einberufene Tagung, von der die <placeName ref="l491">Straßburger</placeName> zunächst ausgeschlossen bleiben sollten; vgl. oben <ref target="file10751">Nr. 713</ref>, 6-12.</note>.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" ana="farewell">Vale et hunccine stomachum, nemini nocentem tamen, ęqui consule.</s>
+					<s n="10" xml:lang="la" ana="farewell">Vale et huncci<lb xml:id="p1z9"/>ne stomachum, nemini nocentem tamen, ęqui consule.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" ana="farewell">Vale iterum.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la"><placeName ref="l28">Basileę</placeName>, anno 1536.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z10"/><placeName ref="l28">Basileę</placeName>, anno 1536.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la"><persName ref="p8418">T. Myco.</persName></s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z11"/><persName ref="p8418">T. Myco.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="14" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName> suo.</s>
+					<s n="14" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName> <lb xml:id="p2z2"/>suo.</s>
 				</p>
 			</div>
 		</body>

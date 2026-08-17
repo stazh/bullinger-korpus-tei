@@ -78,40 +78,50 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10434!Autograph!00%20E_II_342__fol__38_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10434/Autograph/00 E_II_342__fol__38_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="381,364 700,291 785,336 1269,277 1950,312 2272,277 2260,203 2201,239 1674,210 1610,246 1480,191 1440,227 1137,217 856,269 771,229 548,269 383,236">397,307 491,301 585,298 679,295 773,295 867,290 961,287 1055,284 1149,278 1243,277 1337,277 1431,274 1525,271 1619,274 1713,273 1807,271 1901,270 1995,271 2089,271 2183,268 2277,268</zone>
+			<zone xml:id="p1z2-0" points="440,433 693,378 815,414 931,369 1080,404 1191,364 1234,402 1414,357 1458,402 2338,357 2338,317 2229,274 1986,326 1926,286 1629,314 1574,281 844,350 683,295 581,352 442,347">453,394 547,385 642,379 736,373 831,369 925,364 1020,361 1114,358 1209,355 1303,349 1398,349 1492,349 1587,346 1681,346 1776,345 1870,344 1965,344 2059,343 2154,346 2248,346 2343,349</zone>
+			<zone xml:id="p1z3-0" points="454,506 943,454 1061,492 1132,456 2321,449 2321,409 2243,383 1908,407 1726,366 1678,402 1201,418 1045,381 903,433 702,392 454,473">468,489 561,475 654,467 747,458 840,451 933,445 1026,441 1119,438 1212,435 1305,432 1398,432 1491,431 1584,429 1677,428 1770,426 1863,426 1956,426 2049,428 2142,429 2235,429 2328,429</zone>
+			<zone xml:id="p1z4-0" points="459,600 1073,532 1198,567 1321,527 2331,544 2333,482 2255,470 1659,454 1560,494 1005,468 461,551">471,576 564,569 657,558 750,550 844,544 937,537 1030,532 1124,528 1217,525 1310,522 1404,519 1497,516 1590,516 1683,513 1777,513 1870,513 1963,513 2057,514 2150,518 2243,519 2337,525</zone>
+			<zone xml:id="p1z5-0" points="451,700 1189,615 1267,648 1317,612 1466,645 2014,605 2269,648 2347,629 2350,551 1922,584 1631,541 1182,596 1047,558 988,600 775,579 520,629 454,596">465,680 559,668 653,655 748,643 842,633 936,628 1031,620 1125,617 1219,614 1314,610 1408,609 1502,606 1597,603 1691,603 1785,602 1880,601 1974,603 2068,603 2163,605 2257,609 2352,614</zone>
+			<zone xml:id="p1z6-0" points="463,789 806,728 1000,749 1083,704 1596,688 1761,759 1919,693 2040,759 2359,735 2361,629 2028,657 1922,607 1718,648 1674,612 1347,622 1165,669 1073,633 555,733 466,693">477,761 571,752 665,743 760,733 854,720 948,712 1043,705 1137,699 1231,698 1326,695 1420,692 1514,692 1609,686 1703,690 1797,686 1892,689 1986,695 2080,696 2175,700 2269,701 2364,707</zone>
+			<zone xml:id="p1z7-0" points="447,870 1123,778 1659,782 1664,700 1598,685 1520,719 1083,702 938,775 844,726 454,763">459,853 519,843 579,834 639,825 699,816 759,810 819,803 880,797 940,791 1000,784 1060,780 1120,779 1180,775 1240,773 1301,770 1361,767 1421,765 1481,764 1541,761 1601,761 1662,767</zone>
+			<zone xml:id="p1z8-0" points="1515,981 1567,962 1664,969 1726,936 1848,990 1908,964 1964,967 1964,912 1893,917 1796,872 1756,896 1709,889 1655,910 1586,884 1515,924">1528,949 1554,946 1580,943 1606,943 1632,943 1658,943 1684,943 1710,943 1736,945 1762,947 1788,948 1814,949 1840,949 1866,951 1892,952 1918,952 1944,953 1970,955</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10434!Autograph!01%20E_II_342__fol__38_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10434/Autograph/01 E_II_342__fol__38_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="913,1205 1026,1181 1084,1208 1232,1175 1334,1188 1385,1162 1531,1225 1574,1198 1637,1208 1638,1134 914,1123">918,1187 954,1185 990,1184 1026,1183 1062,1181 1098,1178 1134,1176 1170,1174 1206,1172 1242,1172 1279,1169 1315,1169 1351,1171 1387,1173 1423,1175 1459,1175 1495,1175 1531,1177 1567,1177 1603,1175 1640,1175</zone>
+			<zone xml:id="p2z2-0" points="932,1296 1167,1262 1318,1293 1350,1270 1656,1293 1687,1287 1686,1236 1558,1238 1515,1209 1411,1238 1282,1228 1190,1196 931,1249">936,1258 973,1256 1011,1255 1048,1255 1086,1255 1124,1254 1161,1252 1199,1249 1236,1249 1274,1249 1312,1249 1349,1250 1387,1252 1424,1252 1462,1254 1500,1255 1537,1256 1575,1258 1612,1258 1650,1261 1688,1267</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratiam et pacem.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratiam et pacem.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Audio, vir clarissime, animum tuum nonnihil mutatum erga <persName ref="p5547">Wolphgangi</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p5547">Wolfgang Kuchimeister</persName>.</note> filium<note xml:id="fn2" type="footnote" n="2">Wohl <persName ref="p5545">Balthasar Kuchimeister</persName>, s. oben <ref target="file10391">[Nr. 359]</ref> S. 134, Anm. 27.</note>.</s>
-					<s n="3" xml:lang="la">Verum ne an falsum audierim ignoro.</s>
-					<s n="4" xml:lang="la">Caeterum unice te oro, ut adulescentulum tibi habeas commendatum.</s>
-					<s n="5" xml:lang="la">Viri enim optimi filius est, puer, quod spero, non omnino malus<note xml:id="fn3" type="footnote" n="3">Die Schwierigkeiten mit seinem Kostgänger beschreibt <persName ref="p8418">Myconius</persName> zu Beginn von <ref target="file10446">Nr. 411</ref>.</note>.</s>
+					<s n="2" xml:lang="la">Audio, vir clarissime, animum tuum <lb xml:id="p1z2"/>nonnihil mutatum erga <persName ref="p5547">Wolphgangi</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p5547">Wolfgang Kuchimeister</persName>.</note> filium<note xml:id="fn2" type="footnote" n="2">Wohl <persName ref="p5545">Balthasar Kuchimeister</persName>, s. oben <ref target="file10391">[Nr. 359]</ref> S. 134, Anm. 27.</note>.</s>
+					<s n="3" xml:lang="la">Verum ne <lb xml:id="p1z3"/>an falsum audierim ignoro.</s>
+					<s n="4" xml:lang="la">Caeterum unice te oro, <lb xml:id="p1z4"/>ut adulescentulum tibi habeas commendatum.</s>
+					<s n="5" xml:lang="la">Viri enim optim<lb xml:id="p1z5"/>i filius est, puer, quod spero, non omnino malus<note xml:id="fn3" type="footnote" n="3">Die Schwierigkeiten mit seinem Kostgänger beschreibt <persName ref="p8418">Myconius</persName> zu Beginn von <ref target="file10446">Nr. 411</ref>.</note>.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" ana="farewell">Vale et haec nostra boni consule.</s>
+					<s n="6" xml:lang="la" ana="farewell">Vale <lb xml:id="p1z6"/>et haec nostra boni consule.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la"><placeName ref="l587">Tiguri</placeName>, iunii 27, 1534.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" ana="salute">Salvum volo <persName ref="p4349">Carolostadium</persName> nostrum.</s>
+					<s n="8" xml:lang="la" ana="salute"><lb xml:id="p1z7"/>Salvum volo <persName ref="p4349">Carolostadium</persName> nostrum.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Hein. tuus.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z8"/>Hein. tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="10" xml:lang="la">Domino <persName ref="p8418">Osvaldo Myconio</persName>, fratri suo charissimo.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p8418">Osvaldo Myconio</persName>, <lb xml:id="p2z2"/>fratri suo charissimo.</s>
 				</p>
 			</div>
 		</body>

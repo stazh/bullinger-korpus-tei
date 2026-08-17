@@ -83,39 +83,50 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10095!Autograph!00%20E_II_361__fol__331_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10095/Autograph/00 E_II_361__fol__331_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="451,346 694,323 892,376 957,321 1237,363 1506,316 1738,363 2104,333 2287,403 2465,321 2265,256 2109,281 1896,225 1428,223 1250,283 989,220 782,256 448,225">465,307 565,310 665,310 765,312 865,310 965,310 1065,310 1166,313 1266,313 1366,313 1466,313 1566,313 1666,316 1766,319 1867,322 1967,322 2067,327 2167,331 2267,332 2367,341 2468,346</zone>
+			<zone xml:id="p1z2-0" points="448,411 621,443 1112,393 1230,431 1508,406 1806,451 2119,418 2452,453 2450,393 2390,378 2242,401 1956,336 1876,368 1596,326 1145,366 1032,331 909,371 448,351">462,396 561,396 661,395 761,393 861,388 961,391 1061,389 1160,391 1260,391 1360,391 1460,393 1560,394 1660,398 1760,402 1859,405 1959,408 2059,410 2159,417 2259,424 2359,433 2459,444</zone>
+			<zone xml:id="p1z3-0" points="451,534 521,491 1273,488 1378,541 1794,498 2199,564 2372,551 2370,448 2219,473 2109,431 1981,468 1691,418 1338,463 954,398 666,456 448,411">465,486 560,480 656,480 751,479 847,475 942,474 1038,477 1133,477 1229,477 1324,479 1420,482 1515,484 1611,491 1706,494 1802,498 1897,501 1993,504 2088,511 2184,516 2279,522 2375,528</zone>
+			<zone xml:id="p1z4-0" points="458,591 949,616 997,571 1202,576 1420,631 1521,586 1606,631 1964,594 2179,656 2332,616 2330,541 2097,559 2001,521 1874,556 1791,498 1380,539 819,486 741,529 544,491 456,529">471,561 564,564 657,561 750,561 844,561 937,559 1030,564 1124,566 1217,566 1310,569 1404,573 1497,576 1590,573 1683,582 1777,586 1870,588 1963,593 2057,596 2150,598 2243,604 2337,602</zone>
+			<zone xml:id="p1z5-0" points="456,684 952,656 1237,706 1774,689 1916,767 2204,714 2365,739 2362,664 2244,626 2147,679 1999,631 1891,664 1779,609 1578,649 1503,589 1420,629 1105,576 997,574 949,619 897,586 453,596">468,656 563,653 658,653 753,651 848,653 943,650 1038,651 1133,653 1228,656 1323,659 1418,660 1513,666 1608,669 1703,676 1798,680 1893,685 1988,692 2083,695 2178,699 2273,704 2369,707</zone>
+			<zone xml:id="p1z6-0" points="451,784 1225,752 1774,797 1819,834 1929,797 2007,844 2062,804 2332,819 2327,734 1934,767 1771,686 1713,734 1578,684 1242,709 982,674 927,724 817,681 448,701">465,746 558,743 651,743 745,741 838,743 932,742 1025,743 1119,743 1212,743 1306,745 1399,749 1492,752 1586,758 1679,761 1773,768 1866,783 1960,787 2053,793 2147,798 2240,801 2334,805</zone>
+			<zone xml:id="p1z7-0" points="461,872 554,847 684,899 994,859 1125,927 1335,869 1468,907 1591,854 1779,917 1826,877 2067,912 2187,882 2187,827 1846,837 1455,762 458,782">474,829 559,835 645,835 731,832 817,832 903,829 988,828 1074,829 1160,829 1246,830 1332,829 1417,835 1503,835 1589,841 1675,846 1761,852 1846,858 1932,864 2018,869 2104,875 2190,877</zone>
+			<zone xml:id="p1z8-0" points="1543,1065 1733,1130 1801,1115 1904,1147 2014,1095 2082,1132 2172,1105 2222,1130 2219,972 2059,1002 1921,964 1836,982 1786,949 1538,954">1558,1050 1591,1046 1625,1044 1658,1045 1692,1047 1725,1049 1759,1050 1792,1051 1826,1053 1859,1055 1893,1056 1927,1056 1960,1056 1994,1058 2027,1059 2061,1060 2094,1062 2128,1064 2161,1066 2195,1069 2229,1071</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10095!Autograph!01%20E_II_361__fol__331_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10095/Autograph/01 E_II_361__fol__331_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="985,647 1088,610 1403,614 1503,658 1585,623 1675,624 1675,562 1601,546 1413,579 1241,557 1182,581 1088,520 985,544">990,614 1024,608 1058,608 1093,608 1127,608 1161,608 1196,608 1230,608 1264,608 1299,608 1333,607 1367,605 1402,608 1436,606 1470,605 1505,605 1539,608 1573,608 1608,608 1642,608 1677,608</zone>
+			<zone xml:id="p2z2-0" points="982,719 1014,704 1070,734 1119,706 1216,732 1250,707 1423,693 1514,740 1631,724 1632,664 1553,674 1462,632 1355,624 1133,671 1072,636 983,652">987,707 1019,700 1051,698 1083,700 1116,698 1148,695 1180,695 1212,695 1245,694 1277,692 1309,692 1341,692 1374,692 1406,692 1438,692 1470,692 1503,692 1535,692 1567,692 1599,692 1632,692</zone>
+			<zone xml:id="p2z3-0" points="1015,812 1154,847 1201,816 1331,805 1645,822 1646,722 1527,745 1448,714 1365,765 1016,723">1020,787 1051,787 1082,786 1114,784 1145,782 1176,781 1208,781 1239,781 1270,781 1302,780 1333,779 1364,779 1396,779 1427,779 1458,779 1490,779 1521,779 1552,779 1584,780 1615,782 1647,784</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratiam et pacem a domino.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratiam et pacem a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Epistolam<note xml:id="fn1" type="footnote" n="1">Gemeint ist wahrscheinlich <persName ref="p2442">Oekolampads</persName> Antwort (<persName ref="p2442">Oekolampad</persName> BA II 925 a) auf <persName ref="p495">Bullingers</persName> Ausführungen über die Exkommunikation im Schreiben an <persName ref="p1391">Haller</persName> vom 6. Juli 1531 (<bibl source="b1">HBBW I</bibl> Nr. 39), das <persName ref="p8440">Schuler</persName> bereits in Nr. 58 erwähnt hatte (oben S. 35, 6ff). Diese Vermutung äußert schon <persName ref="p2979">J. J. Simler</persName> in seiner Abschrift des vorliegenden Briefes (Zürich ZB, Ms S 31, Nr. 52).</note>, quam litteris<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> exposcebas, nuncii inportunitas, tum laborum meorum assiduitas in causa fuit ne mitterem.</s>
-					<s n="3" xml:lang="la">Proximo tamen nunctio voti te compotem reddere volo epistola satis prolixa, que exscribendo opera opus habet.</s>
+					<s n="2" xml:lang="la">Epistolam<note xml:id="fn1" type="footnote" n="1">Gemeint ist wahrscheinlich <persName ref="p2442">Oekolampads</persName> Antwort (<persName ref="p2442">Oekolampad</persName> BA II 925 a) auf <persName ref="p495">Bullingers</persName> Ausführungen über die Exkommunikation im Schreiben an <persName ref="p1391">Haller</persName> vom 6. Juli 1531 (<bibl source="b1">HBBW I</bibl> Nr. 39), das <persName ref="p8440">Schuler</persName> bereits in Nr. 58 erwähnt hatte (oben S. 35, 6ff). Diese Vermutung äußert schon <persName ref="p2979">J. J. Simler</persName> in seiner Abschrift des vorliegenden Briefes (Zürich ZB, Ms S 31, Nr. 52).</note>, quam litteris<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> exposcebas, nuncii inportunitas, <lb xml:id="p1z2"/>tum laborum meorum assiduitas in causa fuit ne mitterem.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z3"/>Proximo tamen nunctio voti te compotem reddere volo epistola satis <lb xml:id="p1z4"/>prolixa, que exscribendo opera opus habet.</s>
 					<s n="4" xml:lang="la">Sed ut polliceor, praestabo.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la" ana="farewell">Vale in domino et <persName ref="p8440">Gervasium</persName> pristino studio prosequere.</s>
+					<s n="5" xml:lang="la" ana="farewell"><lb xml:id="p1z5"/>Vale in domino et <persName ref="p8440">Gervasium</persName> pristino studio prosequere.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Datum vicesima prima februarii anno 1532.</s>
+					<s n="6" xml:lang="la">Datum <lb xml:id="p1z6"/>vicesima prima februarii anno 1532.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="de" ana="salute">Grüß mir von hertzen din hußfrow<note xml:id="fn3" type="footnote" ana="bio" n="3"><persName ref="p8051">Anna Bullinger, geb. Adlischwyler</persName>.</note>, myner triebßal ein trüwe mittlyde[rin]<note xml:id="fna" type="footnote" n="a"><hi>Loch im Papier infolge der Öffnung des Siegels: das Ende des Wortes fehlt.</hi></note>.</s>
+					<s n="7" xml:lang="de" ana="salute">Grüß mir von <lb xml:id="p1z7"/>hertzen din hußfrow<note xml:id="fn3" type="footnote" ana="bio" n="3"><persName ref="p8051">Anna Bullinger, geb. Adlischwyler</persName>.</note>, myner triebßal ein trüwe mittlyde[rin]<note xml:id="fna" type="footnote" n="a"><hi>Loch im Papier infolge der Öffnung des Siegels: das Ende des Wortes fehlt.</hi></note>.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la"><persName ref="p8440">Gervasius Scolasticus</persName>.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z8"/><persName ref="p8440">Gervasius Scolasticus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="la">Plane docto ac pio viro <persName ref="p495">Heynricho Bullingero</persName>, domino primum observando.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/>Plane docto ac pio viro <lb xml:id="p2z2"/><persName ref="p495">Heynricho Bullingero</persName>, <lb xml:id="p2z3"/>domino primum observando.</s>
 				</p>
 			</div>
 		</body>

@@ -74,30 +74,47 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3794!Autograph!00%20E_II_368__fol__452_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3794/Autograph/00 E_II_368__fol__452_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="418,232 1115,219 1178,254 1386,210 1596,263 1809,221 1923,263 2598,254 2611,138 2506,196 2302,89 2163,160 2044,113 1828,166 1751,130 1436,127 1284,177 1225,136 921,174 653,136 592,180 415,147">429,205 538,203 647,205 757,205 866,203 976,202 1085,202 1194,199 1304,202 1413,202 1523,204 1632,208 1741,209 1851,209 1960,209 2070,211 2179,211 2288,211 2398,214 2507,215 2617,214</zone>
+			<zone xml:id="p1z2-0" points="423,310 537,296 620,340 694,299 1178,282 1281,324 1444,288 2645,335 2642,282 2503,232 2141,274 2039,232 1640,266 1386,210 1176,257 1046,213 918,249 423,235">438,280 548,280 659,277 769,277 880,277 991,277 1101,277 1212,277 1322,280 1433,281 1544,286 1654,283 1765,288 1875,289 1986,288 2097,292 2207,295 2318,295 2428,298 2539,301 2650,310</zone>
+			<zone xml:id="p1z3-0" points="420,382 1046,368 1123,407 1389,373 1452,415 1552,376 1734,418 1947,376 2108,415 2169,376 2467,426 2539,420 2537,335 1485,337 1325,296 1181,335 988,296 935,337 741,299 609,340 418,302">432,358 537,356 643,361 749,361 854,361 960,361 1066,361 1171,361 1277,361 1383,364 1489,364 1594,364 1700,367 1806,369 1911,367 2017,370 2123,370 2228,376 2334,377 2440,382 2546,388</zone>
+			<zone xml:id="p1z4-0" points="432,481 686,434 750,479 819,443 1170,479 1217,443 1618,459 1668,495 1795,456 1876,498 1950,454 2077,506 2232,465 2310,503 2404,462 2617,479 2617,387 2467,426 2188,385 1953,423 1557,379 1452,418 1112,407 1046,368 913,412 863,371 429,390">447,435 555,432 664,432 773,433 882,432 991,435 1099,435 1208,438 1317,438 1426,438 1535,438 1643,441 1752,441 1861,441 1970,444 2079,444 2187,444 2296,449 2405,453 2514,453 2623,459</zone>
+			<zone xml:id="p1z5-0" points="440,553 725,506 1012,553 1076,512 1342,575 2000,528 2423,584 2473,548 2598,570 2598,476 2285,512 2138,462 2083,506 1994,462 1676,492 1447,445 437,467">456,510 563,507 670,504 778,504 885,504 993,504 1100,506 1208,510 1315,513 1423,515 1530,516 1637,519 1745,522 1852,526 1960,528 2067,531 2175,532 2282,534 2390,537 2497,542 2605,543</zone>
+			<zone xml:id="p1z6-0" points="434,620 708,584 841,617 929,578 1347,642 1513,598 1870,653 2548,639 2548,562 2501,556 2418,589 2124,545 2011,586 1945,542 1748,575 1671,537 1331,570 755,509 434,553">450,582 555,579 660,578 765,576 870,576 975,578 1080,579 1185,582 1290,587 1395,591 1501,594 1606,599 1711,602 1816,605 1921,608 2026,609 2131,611 2236,614 2341,613 2446,613 2552,614</zone>
+			<zone xml:id="p1z7-0" points="437,686 2578,711 2548,639 2346,625 1903,669 1480,600 1364,653 924,575 841,617 761,586 434,622">450,656 556,655 663,650 769,653 876,654 982,656 1089,662 1195,667 1302,671 1408,674 1515,677 1622,680 1728,685 1835,689 1941,690 2048,692 2154,695 2261,695 2367,695 2474,696 2581,698</zone>
+			<zone xml:id="p1z8-0" points="434,755 573,744 656,799 769,747 813,786 996,741 1350,750 1491,819 1707,761 1972,808 2216,772 2553,799 2550,747 2385,705 1983,741 1646,692 1314,722 1040,669 824,711 434,689">450,734 555,734 660,736 766,737 871,737 977,737 1082,740 1187,746 1293,749 1398,752 1504,751 1609,755 1714,756 1820,758 1925,761 2031,764 2136,764 2241,764 2347,766 2452,766 2558,770</zone>
+			<zone xml:id="p1z9-0" points="448,849 949,844 996,808 2124,885 2235,835 2351,871 2440,844 2509,882 2606,869 2606,819 2445,777 2196,811 1903,772 1779,808 1707,761 1599,805 1358,758 445,763">462,814 569,811 677,811 784,808 892,808 1000,808 1107,808 1215,811 1322,817 1430,822 1538,823 1645,826 1753,829 1860,832 1968,830 2076,832 2183,832 2291,838 2398,841 2506,844 2614,850</zone>
+			<zone xml:id="p1z10-0" points="459,905 689,924 938,880 1059,929 1120,885 1336,949 1400,902 1549,938 1718,896 2044,913 2191,985 2479,932 2639,957 2620,858 2490,896 2324,844 1964,882 1898,844 1729,877 1469,835 1422,871 1073,813 866,858 689,819 573,866 459,849">474,889 582,885 691,880 799,879 908,877 1017,877 1125,880 1234,883 1343,886 1451,889 1560,893 1669,895 1777,898 1886,901 1995,904 2103,908 2212,912 2321,916 2429,918 2538,922 2647,928</zone>
+			<zone xml:id="p1z11-0" points="448,982 1892,990 1892,913 1837,905 1223,932 1098,896 1007,929 805,882 448,929">462,961 533,958 605,955 677,953 749,952 821,952 892,952 964,951 1036,951 1108,955 1180,955 1251,958 1323,962 1395,964 1467,964 1539,964 1610,966 1682,968 1754,970 1826,970 1898,973</zone>
+			<zone xml:id="p1z12-0" points="1549,1134 1806,1082 1997,1162 2077,1112 2254,1154 2260,990 2155,965 2072,1004 1953,988 1867,1024 1754,999 1613,1029 1555,999">1567,1101 1601,1098 1636,1098 1671,1094 1706,1090 1741,1088 1776,1086 1811,1083 1846,1081 1881,1080 1916,1079 1950,1077 1985,1077 2020,1077 2055,1077 2090,1077 2125,1074 2160,1078 2195,1077 2230,1073 2265,1071</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3794!Autograph!01%20E_II_368__fol__452_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3794/Autograph/01 E_II_368__fol__452_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="960,788 1033,814 1178,790 1301,832 1430,828 1431,714 1330,739 1274,708 1230,710 1132,754 1078,721 962,728">970,788 995,791 1021,789 1047,788 1073,788 1099,788 1125,788 1150,788 1176,787 1202,786 1228,785 1254,785 1280,783 1305,782 1331,782 1357,782 1383,782 1409,782 1435,782</zone>
+			<zone xml:id="p2z2-0" points="882,958 1138,910 1230,957 1292,910 1392,919 1392,824 1312,826 1279,852 1183,819 1078,872 987,844 882,853">892,892 917,894 942,895 967,895 992,895 1018,895 1043,895 1068,895 1093,895 1118,895 1144,895 1169,895 1194,895 1219,895 1244,895 1270,895 1295,895 1320,895 1345,895 1370,895 1396,895</zone>
+			<zone xml:id="p2z3-0" points="786,1045 864,1055 908,1027 995,1027 1036,1060 1147,1011 1147,944 1100,929 1002,931 977,953 958,939 937,955 904,953 879,977 786,948">796,1002 821,1002 846,1002 872,1000 897,999 923,999 948,999 974,999 999,999 1024,999 1050,999 1075,999 1101,999 1126,1000 1152,1002</zone>
+			<zone xml:id="p2z4-0" points="1165,1129 1190,1127 1209,1140 1239,1129 1270,1145 1339,1102 1350,1109 1382,1105 1384,1053 1361,1060 1344,1045 1326,1056 1288,1047 1261,1056 1239,1038 1169,1031">1176,1092 1202,1092 1228,1090 1254,1089 1280,1087 1306,1086 1332,1086 1358,1085 1385,1083</zone>
+			<zone xml:id="p2z5-0" points="1167,1263 1225,1247 1247,1248 1268,1265 1303,1247 1337,1274 1388,1270 1390,1103 1303,1120 1270,1143 1254,1136 1196,1174 1167,1178">1176,1196 1203,1192 1230,1190 1257,1188 1284,1188 1311,1188 1338,1188 1365,1190 1393,1194</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Heri tuas accepi literas, quibus nihil respondi, quod expectarem, quid ii, quos ad te miseram, referrent.</s>
-					<s n="3" xml:lang="la">Scripsisse me puto antea curaturum, ut hospes <persName>Ciconie</persName> intelligat tuam commendationem multum illi profuisse eique te posse polliceri me praestaturum, que tu faceres, si ipse legatus esses.</s>
-					<s n="4" xml:lang="la">Mors regine <placeName ref="l830">Anglie</placeName> interrupit colloquium de pace, et omnia sunt dilata ad principium februarii, estque semper spes pacem coalituram, tametsi multe sint difficultates et multa minori tempore accidere possint, que dissipent omnia.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Heri tuas accepi literas, quibus nihil respondi, quod expectarem, quid ii, quos ad te <lb xml:id="p1z2"/>miseram, referrent.</s>
+					<s n="3" xml:lang="la">Scripsisse me puto antea curaturum, ut hospes <persName>Ciconie</persName> intelligat <lb xml:id="p1z3"/>tuam commendationem multum illi profuisse eique te posse polliceri me praestaturum, que tu <lb xml:id="p1z4"/>faceres, si ipse legatus esses.</s>
+					<s n="4" xml:lang="la">Mors regine <placeName ref="l830">Anglie</placeName> interrupit colloquium de pace, et omnia <lb xml:id="p1z5"/>sunt dilata ad principium februarii, estque semper spes pacem coalituram, tametsi multe <lb xml:id="p1z6"/>sint difficultates et multa minori tempore accidere possint, que dissipent omnia.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">Accepi cardinalem <persName>Paulum</persName> finxisse se mortuum et funus elatum, omnia ad id disposita, dum aufugeret.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z7"/>Accepi cardinalem <persName>Paulum</persName> finxisse se mortuum et funus elatum, omnia ad id disposita, <lb xml:id="p1z8"/>dum aufugeret.</s>
 					<s n="6" xml:lang="la">Fertur etiam <placeName ref="l306">Mediolani</placeName> colligi militem et omnia parari ad bellum.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Deus, quod commodum erit et ad gloriam suam pertinebit, faciet.</s>
-					<s n="8" xml:lang="la">In statu <placeName ref="l862">Helvetiorum</placeName> ut pax constet et omnes quieta sequantur consilia, annitar nec aliquid praetermittam.</s>
-					<s n="9" xml:lang="la" ana="salute">Salutabis amicos omnes.</s>
+					<s n="7" xml:lang="la">Deus, <lb xml:id="p1z9"/>quod commodum erit et ad gloriam suam pertinebit, faciet.</s>
+					<s n="8" xml:lang="la">In statu <placeName ref="l862">Helvetiorum</placeName> <lb xml:id="p1z10"/>ut pax constet et omnes quieta sequantur consilia, annitar nec aliquid praetermittam.</s>
+					<s n="9" xml:lang="la" ana="salute"><lb xml:id="p1z11"/>Salutabis amicos omnes.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la" ana="farewell">Bene vale.</s>
@@ -106,16 +123,16 @@
 					<s n="11" xml:lang="la"><placeName ref="l21">Badene</placeName> 13. decembris.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la">Tuus ex animo.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z12"/>Tuus ex animo.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la">D. <persName ref="p495">Henricho Bullingero</persName>, eclesie <placeName ref="l587">Tigurine</placeName> pastori vigilantissimo.</s>
+					<s n="13" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Henricho Bullingero</persName>, ecles<lb xml:id="p2z2"/>ie <placeName ref="l587">Tigurine</placeName> pastori <lb xml:id="p2z3"/>vigilantissimo.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+					<s n="14" xml:lang="la"><lb xml:id="p2z4"/><placeName ref="l587">Tiguri</placeName>.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="de"><placeName ref="l587">Zurich</placeName>.</s>
+					<s n="15" xml:lang="de"><lb xml:id="p2z5"/><placeName ref="l587">Zurich</placeName>.</s>
 				</p>
 			</div>
 		</body>

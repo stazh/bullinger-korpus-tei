@@ -78,36 +78,43 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3855!Autograph!00%20E_II_368__fol__407_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3855/Autograph/00 E_II_368__fol__407_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="627,242 721,272 839,220 1062,254 1266,217 1689,267 1859,232 2602,311 2607,163 2444,136 2333,202 2217,158 2153,207 1694,148 1580,185 1432,133 1207,188 921,133 738,190 625,126">641,214 739,212 838,213 937,211 1035,209 1134,208 1233,208 1331,208 1430,210 1529,211 1628,214 1726,217 1825,220 1924,223 2022,226 2121,232 2220,238 2318,241 2417,246 2516,250 2615,259</zone>
+			<zone xml:id="p1z2-0" points="637,304 1064,351 1242,301 1607,348 1674,304 1807,358 2029,318 2133,363 2271,333 2550,375 2587,368 2585,304 2335,314 2168,247 1997,299 1908,247 1664,281 1555,244 886,264 775,230 711,267 634,235">650,292 747,289 844,292 941,292 1038,291 1135,292 1232,295 1329,295 1426,299 1523,301 1620,304 1717,306 1814,310 1911,313 2008,317 2105,320 2202,327 2299,333 2396,340 2493,346 2591,352</zone>
+			<zone xml:id="p1z3-0" points="639,397 2538,420 2513,360 2133,363 2002,318 1837,360 1649,318 1444,358 1239,299 1064,348 844,314 639,358">653,373 747,370 842,370 936,369 1031,368 1125,370 1220,370 1314,373 1409,373 1503,376 1598,376 1692,377 1787,380 1881,379 1976,384 2070,384 2165,388 2259,391 2354,397 2448,403 2543,409</zone>
+			<zone xml:id="p1z4-0" points="644,489 1131,437 1429,449 1511,496 1600,457 1763,489 1886,459 2091,526 2484,484 2484,422 2313,442 2207,395 1745,430 1592,383 1402,427 1160,378 1066,412 644,395">659,453 750,447 842,441 933,441 1025,441 1116,438 1208,439 1299,441 1391,442 1482,444 1574,444 1666,445 1757,446 1849,449 1940,450 2032,452 2123,456 2215,459 2306,462 2398,464 2490,465</zone>
+			<zone xml:id="p1z5-0" points="642,553 716,546 770,565 795,555 834,583 881,551 948,555 948,459 911,476 876,464 849,486 800,496 741,457 699,489 679,476 644,484">656,531 682,528 709,528 736,528 763,528 790,527 817,525 844,525 871,524 898,523 925,520 952,516</zone>
+			<zone xml:id="p1z6-0" points="1657,622 1718,620 1800,652 1854,630 1891,664 1970,632 2160,639 2158,514 2066,528 2010,504 1901,570 1802,514 1758,509 1706,546 1654,533">1668,588 1693,588 1719,588 1745,588 1771,589 1797,591 1823,590 1849,588 1875,592 1901,595 1927,596 1953,596 1979,594 2005,596 2031,597 2057,597 2083,597 2109,597 2135,598 2161,600</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3855!Autograph!01%20E_II_368__fol__407_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3855/Autograph/01 E_II_368__fol__407_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="508,634 619,646 768,613 868,669 1233,660 1233,578 1144,580 1101,548 968,582 913,557 756,563 706,592 508,563">513,623 519,620 564,620 609,620 653,617 698,617 743,617 788,617 832,617 877,617 922,617 967,617 1012,617 1056,617 1101,617 1146,615 1191,615 1235,612</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Mitto ad te, que antea te puto intellexisse ex <placeName ref="l822">Germania</placeName>.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">D. conestabilis et alii deputati nunc sunt una, ut conferant de pacis conditionibus; ea a domini voluntate pendet.</s>
-					<s n="4" xml:lang="la">Expecto pecuniam, quę capitaneis promissa est.</s>
+					<s n="3" xml:lang="la">D. conestabilis <lb xml:id="p1z2"/>et alii deputati nunc sunt una, ut conferant de pacis conditionibus; <lb xml:id="p1z3"/>ea a domini voluntate pendet.</s>
+					<s n="4" xml:lang="la">Expecto pecuniam, quę capitaneis promissa <lb xml:id="p1z4"/>est.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la">Filium tibi et amicis commendo et me illorum precibus.</s>
 					<s n="6" xml:lang="la" ana="farewell">Bene vale.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la"><placeName ref="l760">Sol[uturi]</placeName> 3. februarii.</s>
+					<s n="7" xml:lang="la"><placeName ref="l760">Sol[u<lb xml:id="p1z5"/>turi]</placeName> 3. februarii.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Tuus, quem nosti.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z6"/>Tuus, quem nosti.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">D. <persName ref="p495">Henricho Bullingero</persName>.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Henricho Bullingero</persName>.</s>
 				</p>
 			</div>
 		</body>

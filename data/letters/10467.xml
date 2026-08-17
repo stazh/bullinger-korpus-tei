@@ -78,21 +78,31 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10467!Autograph!00%20E_II_362__S__30_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10467/Autograph/00 E_II_362__S__30_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="336,367 2552,380 2552,273 2384,328 2086,270 1651,314 1461,276 1370,317 910,273 739,328 681,289 336,270">352,358 462,358 572,358 682,354 792,355 903,352 1013,352 1123,352 1233,352 1343,352 1454,353 1564,355 1674,357 1784,358 1894,355 2005,355 2115,354 2225,352 2335,352 2445,355 2556,358</zone>
+			<zone xml:id="p1z2-0" points="356,433 2511,433 2511,361 356,375">372,411 479,408 586,408 693,405 801,405 908,405 1015,405 1122,405 1230,405 1337,403 1444,402 1551,405 1659,405 1766,405 1873,405 1980,402 2088,405 2195,405 2302,405 2409,405 2517,405</zone>
+			<zone xml:id="p1z3-0" points="356,493 1648,496 1811,460 2448,491 2448,433 2244,411 356,433">372,465 476,459 580,459 684,456 788,456 892,459 996,459 1100,459 1204,459 1308,459 1412,456 1516,456 1620,457 1724,457 1828,459 1932,459 2036,459 2140,459 2244,460 2348,462 2452,462</zone>
+			<zone xml:id="p1z4-0" points="356,554 775,515 1020,560 1207,515 1701,562 1877,521 1929,565 2125,518 2379,537 2379,477 2268,463 356,477">372,522 472,519 573,518 674,516 774,513 875,513 976,514 1076,516 1177,516 1278,515 1379,513 1479,510 1580,510 1681,510 1781,513 1882,511 1983,510 2083,510 2184,513 2285,513 2386,516</zone>
+			<zone xml:id="p1z5-0" points="1971,684 2053,656 2186,653 2202,642 2233,659 2257,639 2266,648 2299,634 2299,590 2263,595 2246,579 2197,590 2164,568 2136,590 2100,590 2075,565 2056,579 2020,568 1979,579">1989,647 2015,642 2041,637 2068,634 2094,631 2121,629 2147,629 2173,629 2200,627 2226,625 2253,624 2279,623 2306,623</zone>
+			<zone xml:id="p1z6-0" points="2031,697 2089,711 2139,686 2175,695 2191,684 2279,706 2315,686 2346,695 2348,626 2318,623 2255,650 2199,642 2153,656 2131,648 2111,659 2031,659">2046,689 2071,689 2096,687 2122,684 2147,682 2172,680 2198,678 2223,677 2248,677 2274,676 2299,674 2324,675 2350,677</zone>
+			<zone xml:id="p1z7-0" points="648,739 697,741 733,761 763,758 772,769 799,763 810,752 816,758 838,752 841,681 813,678 794,656 766,670 730,653 711,662 695,650 684,656 667,639 653,639">662,721 688,718 714,718 740,717 766,714 792,711 818,710 844,710</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10467!Autograph!01%20E_II_362__S__31_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10467/Autograph/01 E_II_362__S__31_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="964,1684 1168,1645 1629,1666 1630,1607 1533,1588 1303,1619 1196,1587 1092,1623 966,1606">970,1660 1003,1654 1036,1652 1069,1648 1102,1645 1135,1645 1168,1645 1201,1644 1234,1642 1267,1639 1300,1639 1333,1639 1366,1639 1399,1639 1432,1641 1465,1641 1498,1639 1531,1639 1564,1639 1597,1640 1630,1642</zone>
+			<zone xml:id="p2z2-0" points="1016,1716 1725,1721 1725,1660 1656,1653 1016,1669">1021,1711 1056,1708 1091,1703 1126,1702 1162,1702 1197,1702 1232,1702 1267,1702 1303,1702 1338,1702 1373,1702 1408,1702 1444,1702 1479,1702 1514,1702 1549,1702 1585,1699 1620,1699 1655,1698 1690,1697 1726,1699</zone>
+			<zone xml:id="p2z3-0" points="1114,1794 1237,1779 1264,1800 1365,1786 1423,1808 1642,1767 1641,1705 1469,1728 1386,1718 1223,1758 1157,1725 1116,1746">1120,1774 1146,1772 1172,1770 1198,1768 1225,1768 1251,1768 1277,1768 1303,1768 1330,1768 1356,1768 1382,1768 1408,1766 1435,1764 1461,1762 1487,1762 1513,1762 1540,1760 1566,1759 1592,1759 1618,1758 1645,1756</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gracia et pax a deo per Iesum Christum.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gracia et pax a deo per Iesum Christum.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Mitto ad te exemplar, quod optima fide ab epistola manu <persName ref="p8055">Blaureri</persName> scripta excerpsi, quam hiis diebus ad <persName ref="p264">Benedictum Burgoverum</persName> dedit<note xml:id="fn1" type="footnote" n="1"><persName ref="p8055">Ambrosius Blarers</persName> Brief an <persName ref="p264">Burgauer</persName> ist in <placeName ref="l496">Stuttgart</placeName> am 27. August 1534 datiert. Die Abschrift <persName ref="p2810">Ritters</persName> befindet sich in Zürich StA, E II 360, 281 und ist abgedruckt in <bibl source="b51">Blarer BW</bibl> I 529. Eine weitere Kopie des <persName ref="p8055">Blarer</persName>-Briefes von der Hand <persName ref="p8435">Christoph Schappelers</persName> befindet sich in <placeName ref="l473">St. Gallen</placeName>, Kantonsbibliothek (Vadiana), Ms 32, 215.</note>, ex qua sentenciam suam de cena dominica<note xml:id="fn2" type="footnote" n="2">Zur <placeName ref="l496">Stuttgarter</placeName> Einigungsformel zwischen <persName ref="p8055">Blarer</persName> und <persName ref="p6469">Schnepf</persName> s. oben S. 291f, 3-6 und 279, Anm. 47.</note>, quam coram <persName ref="p9708">principe</persName><note xml:id="fn3" type="footnote" n="3">Herzog <persName ref="p9708">Ulrich von Württemberg</persName>.</note> fassus est, liquido ac certissime cognoscere potes, deinde etiam, quid te ceterosque deceat, veritati scilicet periclitanti humeros supponere.</s>
+					<s n="2" xml:lang="la">Mitto ad te exemplar, quod optima fide ab epistola manu <persName ref="p8055">Blaureri</persName> scripta excerpsi, <lb xml:id="p1z2"/>quam hiis diebus ad <persName ref="p264">Benedictum Burgoverum</persName> dedit<note xml:id="fn1" type="footnote" n="1"><persName ref="p8055">Ambrosius Blarers</persName> Brief an <persName ref="p264">Burgauer</persName> ist in <placeName ref="l496">Stuttgart</placeName> am 27. August 1534 datiert. Die Abschrift <persName ref="p2810">Ritters</persName> befindet sich in Zürich StA, E II 360, 281 und ist abgedruckt in <bibl source="b51">Blarer BW</bibl> I 529. Eine weitere Kopie des <persName ref="p8055">Blarer</persName>-Briefes von der Hand <persName ref="p8435">Christoph Schappelers</persName> befindet sich in <placeName ref="l473">St. Gallen</placeName>, Kantonsbibliothek (Vadiana), Ms 32, 215.</note>, ex qua sentenciam suam de cena dominica<note xml:id="fn2" type="footnote" n="2">Zur <placeName ref="l496">Stuttgarter</placeName> Einigungsformel zwischen <persName ref="p8055">Blarer</persName> und <persName ref="p6469">Schnepf</persName> s. oben S. 291f, 3-6 und 279, Anm. 47.</note>, quam coram <persName ref="p9708">principe</persName><note xml:id="fn3" type="footnote" n="3">Herzog <persName ref="p9708">Ulrich von Württemberg</persName>.</note> fassus <lb xml:id="p1z3"/>est, liquido ac certissime cognoscere potes, deinde etiam, quid te ceterosque deceat, veritati scilicet periclitanti humeros <lb xml:id="p1z4"/>supponere.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" ana="farewell">Vale et animum tuum super hac re michi indicato<note xml:id="fn4" type="footnote" n="4">Eine diesbezügliche Äußerung <persName ref="p495">Bullingers</persName> gegenüber <persName ref="p2810">Ritter</persName> ist nicht erhalten. Am 27. August hatte er in einem Brief an <persName ref="p8049">Vadian</persName> seine Zweifel an der Einigungsformel signalisiert, von der er nur neuen Streit befürchtete, s. oben S. 292, 6-8.</note>, oro.</s>
@@ -101,11 +111,11 @@
 					<s n="4" xml:lang="la">Ex <placeName ref="l441">Scaphusia</placeName>, 2. septembris 1534.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la"><persName ref="p2810">Erasmus Ritter</persName>, ex animo tuus.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z5"/><persName ref="p2810">Erasmus Ritter</persName>, <lb xml:id="p1z6"/>ex animo tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="6" xml:lang="la">Et pio et docto M. <persName ref="p495">Heinrichio Bullingero</persName> apud <placeName ref="l587">Tigurum</placeName> Christi evangelium adnunctianti, fratri observando.</s>
+					<s n="6" xml:lang="la"><pb/><lb xml:id="p2z1"/>Et pio et docto M. <persName ref="p495">Heinrichio <lb xml:id="p2z2"/>Bullingero</persName> apud <placeName ref="l587">Tigurum</placeName> Christi evangelium <lb xml:id="p2z3"/>adnunctianti, fratri observando.</s>
 				</p>
 			</div>
 		</body>

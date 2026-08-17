@@ -79,30 +79,42 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10762!Autograph!00%20E_II_343__fol__115_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10762/Autograph/00 E_II_343__fol__115_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="255,263 469,277 603,222 888,271 1118,230 1778,274 1860,233 2376,279 2354,159 2217,216 2091,173 1987,211 1786,164 1299,184 973,132 726,186 614,148 460,195 255,164">271,250 376,231 482,226 587,223 693,222 798,220 904,223 1009,223 1115,226 1220,227 1326,232 1431,232 1537,232 1642,232 1748,235 1853,235 1959,237 2064,241 2170,244 2275,246 2381,256</zone>
+			<zone xml:id="p1z2-0" points="274,362 359,315 647,329 756,288 912,323 1003,288 1066,337 1252,299 2334,329 2299,269 2019,244 1340,271 978,227 874,266 718,230 663,269 545,236 274,266">289,307 391,297 494,292 596,286 699,286 801,283 904,283 1006,283 1109,286 1211,288 1314,289 1417,292 1519,295 1622,297 1724,298 1827,298 1929,301 2032,304 2134,308 2237,312 2340,313</zone>
+			<zone xml:id="p1z3-0" points="279,406 1006,351 1614,397 1721,364 1852,400 1940,364 2063,403 2370,381 2485,425 2482,334 2293,318 1107,332 1000,288 279,334">295,370 404,363 514,355 623,351 733,349 842,347 952,349 1061,349 1171,351 1280,352 1390,355 1500,355 1609,358 1719,358 1828,359 1938,363 2047,364 2157,369 2266,373 2376,376 2486,385</zone>
+			<zone xml:id="p1z4-0" points="296,477 433,433 690,466 1033,416 1323,455 2408,447 2408,392 2293,419 1954,367 1852,403 1006,353 663,356 400,419 296,389">310,447 415,433 520,421 625,417 730,414 836,411 941,408 1046,406 1151,408 1256,408 1362,414 1467,417 1572,417 1677,420 1782,423 1888,424 1993,428 2098,432 2203,436 2308,440 2414,444</zone>
+			<zone xml:id="p1z5-0" points="293,532 740,485 880,521 1088,482 1556,521 1647,480 1740,515 1847,482 2419,501 2419,441 1326,455 1203,416 981,452 775,425 696,466 425,438 293,490">307,510 418,498 530,489 641,486 753,480 864,477 976,477 1087,474 1199,474 1310,474 1422,476 1533,477 1645,474 1756,477 1868,477 1979,477 2091,482 2202,486 2314,493 2426,501</zone>
+			<zone xml:id="p1z6-0" points="301,589 353,616 485,559 690,586 819,543 869,586 1049,540 1173,573 1321,534 1389,567 1685,540 1734,573 1819,543 2430,578 2430,490 2236,526 2060,482 1562,512 1271,480 301,526">316,576 422,561 528,554 634,546 740,543 846,537 952,533 1058,531 1164,531 1270,528 1377,531 1483,531 1589,534 1695,531 1801,531 1907,531 2013,534 2119,540 2225,543 2331,545 2438,549</zone>
+			<zone xml:id="p1z7-0" points="326,658 1151,597 1551,638 2455,614 2455,556 2367,584 1792,540 1729,575 1321,534 1189,573 595,553 326,611">340,638 446,623 552,613 658,608 764,602 870,598 976,594 1082,591 1188,591 1294,591 1401,591 1507,593 1613,596 1719,594 1825,593 1931,594 2037,594 2143,596 2249,596 2355,601 2462,605</zone>
+			<zone xml:id="p1z8-0" points="326,726 926,671 1014,707 1491,663 1836,669 1888,715 1978,660 2126,707 2192,663 2384,693 2384,614 2195,638 2041,600 2003,633 1932,600 1526,636 1159,595 1096,636 326,658">340,704 442,694 545,684 647,674 750,667 852,663 955,659 1057,657 1160,656 1262,656 1365,656 1467,659 1570,660 1672,659 1775,658 1877,656 1980,659 2082,659 2185,659 2287,659 2390,662</zone>
+			<zone xml:id="p1z9-0" points="315,811 841,740 1143,775 1430,743 1551,806 1767,754 1767,669 1496,660 318,723">334,773 406,764 478,757 550,750 622,745 694,740 766,737 838,734 910,733 982,733 1054,731 1126,734 1198,730 1270,730 1342,728 1414,728 1486,730 1558,738 1630,742 1702,742 1774,744</zone>
+			<zone xml:id="p1z10-0" points="1762,912 1913,912 1934,891 1992,929 2093,896 2178,937 2348,940 2343,784 2293,778 2222,833 2113,795 1989,838 1934,817 1888,833 1847,800 1756,811">1773,889 1803,887 1833,886 1864,886 1894,888 1925,890 1955,892 1986,892 2016,892 2047,892 2077,892 2108,892 2138,893 2169,897 2199,898 2230,899 2260,903 2291,904 2321,905 2352,907</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10762!Autograph!01%20E_II_343__fol__115_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10762/Autograph/01 E_II_343__fol__115_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1202,1091 1413,1054 1506,1092 1652,1063 2000,1098 2100,1086 2101,1008 1970,1037 1885,995 1654,1025 1552,992 1425,1044 1298,983 1203,1001">1209,1068 1253,1065 1298,1062 1343,1059 1388,1062 1432,1062 1477,1059 1522,1056 1567,1056 1611,1056 1656,1056 1701,1059 1746,1056 1790,1056 1835,1056 1880,1056 1925,1056 1969,1056 2014,1056 2059,1056 2104,1056</zone>
+			<zone xml:id="p2z2-0" points="1328,1188 1421,1201 1560,1155 1650,1185 1672,1168 1898,1173 1897,1126 1802,1101 1631,1100 1571,1140 1437,1102 1328,1103">1334,1158 1362,1155 1390,1155 1419,1154 1447,1152 1475,1152 1504,1152 1532,1152 1560,1152 1589,1152 1617,1150 1645,1150 1674,1152 1702,1152 1730,1151 1759,1150 1787,1150 1815,1152 1844,1150 1872,1149 1901,1149</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la"><persName ref="p8412">Megander</persName> tuas mihi nuper literas<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note> reddidit, quas aiebat <persName ref="p5124">Ioannem Hager</persName> a me non visum attulisse.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">Iam primum senatus decrevit exercitum <placeName ref="l167">Gebennas</placeName> mittendum<note xml:id="fn2" type="footnote" n="2">Am Vortag hatte der <placeName ref="l41">Berner</placeName> Rat zur Unterstützung <placeName ref="l167">Genfs</placeName> einen Feldzug gegen <placeName ref="l2478">Savoyen</placeName> beschlossen; s. <hi>Gilliard,</hi> Conquête 52.</note>, quandoquidem ita premuntur ab <placeName ref="l2478">Allobrogis</placeName>, ut vel perire oporteat illos vel manibus inimicorum occurrere, sed quanto numero, nescio, et quibus consiliis, hoc minus scio.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z2"/>Iam primum senatus decrevit exercitum <placeName ref="l167">Gebennas</placeName> mittendum<note xml:id="fn2" type="footnote" n="2">Am Vortag hatte der <placeName ref="l41">Berner</placeName> Rat zur Unterstützung <placeName ref="l167">Genfs</placeName> einen Feldzug gegen <placeName ref="l2478">Savoyen</placeName> beschlossen; s. <hi>Gilliard,</hi> Conquête 52.</note>, quandoquidem ita premuntur ab <placeName ref="l2478">Allobrogis</placeName>, ut <lb xml:id="p1z3"/>vel perire oporteat illos vel manibus inimicorum occurrere, sed quanto numero, nescio, et quibus consiliis, hoc minus <lb xml:id="p1z4"/>scio.</s>
 					<s n="4" xml:lang="la">Vereor omnibus, quae ad bellum fortiter administrandum pertinent, nos carere.</s>
-					<s n="5" xml:lang="la">Proinde dominum ab ecclesiis exorandum, ut et synceros animos omnibus praestet et ipse belli dux sit.</s>
+					<s n="5" xml:lang="la">Proinde dominum ab ecclesiis exorandum, <lb xml:id="p1z5"/>ut et synceros animos omnibus praestet et ipse belli dux sit.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la">Indicta est et nobis dies ad conventum 30. huius mensis<note xml:id="fn3" type="footnote" n="3">Der einladende Stand <placeName ref="l28">Basel</placeName> hatte die geplante Zusammenkunft der evangelischen Orte auf den 30. Januar 1536 angesetzt; s. <bibl source="b197">EA</bibl> IV/1c 598.</note>, sed quid futurum sit bello ingruente, nescio.</s>
+					<s n="6" xml:lang="la">Indicta est et nobis dies ad conventum 30. <lb xml:id="p1z6"/>huius mensis<note xml:id="fn3" type="footnote" n="3">Der einladende Stand <placeName ref="l28">Basel</placeName> hatte die geplante Zusammenkunft der evangelischen Orte auf den 30. Januar 1536 angesetzt; s. <bibl source="b197">EA</bibl> IV/1c 598.</note>, sed quid futurum sit bello ingruente, nescio.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Si nuncius noster<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> a <placeName ref="l648">Rhetis</placeName> rursus apud vos transierit, onerabis eum Tessalonicensibus tuis<note xml:id="fn5" type="footnote" n="5"><persName ref="p495">Bullingers</persName> Kommentar zu den Thessalonicher- und Pastoralbriefen sowie zum Philemonbrief wurde zwischen Januar und März 1536 gedruckt (s. <bibl source="b286">HBBibl</bibl> I 81); die Vorrede zum Thessalonicher-Kommentar (oben <ref target="file10745">Nr. 707</ref>) datiert vom Januar.</note></s>
+					<s n="7" xml:lang="la">Si nuncius noster<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> a <placeName ref="l648">Rhetis</placeName> rursus apud <lb xml:id="p1z7"/>vos transierit, onerabis eum Tessalonicensibus tuis<note xml:id="fn5" type="footnote" n="5"><persName ref="p495">Bullingers</persName> Kommentar zu den Thessalonicher- und Pastoralbriefen sowie zum Philemonbrief wurde zwischen Januar und März 1536 gedruckt (s. <bibl source="b286">HBBibl</bibl> I 81); die Vorrede zum Thessalonicher-Kommentar (oben <ref target="file10745">Nr. 707</ref>) datiert vom Januar.</note></s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la">Quodsi <persName ref="p8049">Vadiano</persName> meas miseris<note xml:id="fn6" type="footnote" n="6"><persName ref="p1391">Haller</persName> hatte <persName ref="p495">Bullinger</persName> gebeten, einen Brief an <persName ref="p8049">Vadian</persName> weiterzuleiten; s. <bibl source="b7">HBBW V</bibl> <ref target="file10743">[Nr. 705]</ref>, S. 483,66f.</note>, indica.</s>
@@ -111,18 +123,18 @@
 					<s n="9" xml:lang="la" ana="farewell">Vale.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Quodsi morbus meus ita accreverit usque ad pasca<note xml:id="fn7" type="footnote" n="7">Ostern (16. April 1536).</note> ut cępit, aut moriundum aut usque ad mortem lecto incumbendum erit<note xml:id="fn8" type="footnote" n="8"><persName ref="p1391">Haller</persName> erlag seinem Leiden am 25. Februar; s. Melchior <hi>Kirchhofer,</hi> Bertold Haller oder die Reformation von Bern, Zürich 1828, S. 232.</note>.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z8"/>Quodsi morbus meus ita accreverit usque ad pasca<note xml:id="fn7" type="footnote" n="7">Ostern (16. April 1536).</note> ut cępit, aut moriundum aut usque ad mortem <lb xml:id="p1z9"/>lecto incumbendum erit<note xml:id="fn8" type="footnote" n="8"><persName ref="p1391">Haller</persName> erlag seinem Leiden am 25. Februar; s. Melchior <hi>Kirchhofer,</hi> Bertold Haller oder die Reformation von Bern, Zürich 1828, S. 232.</note>.</s>
 					<s n="11" xml:lang="la" ana="farewell">Vale.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la">14. ianuarii anno 1536.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la">Tuus <persName ref="p1391">Bertol. H.</persName></s>
+					<s n="13" xml:lang="la"><lb xml:id="p1z10"/>Tuus <persName ref="p1391">Bertol. H.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="14" xml:lang="la">Domino <persName ref="p495">Heinricho Bullingero</persName>, fratri suo charissimo.</s>
+					<s n="14" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Heinricho Bullingero</persName>, <lb xml:id="p2z2"/>fratri suo charissimo.</s>
 				</p>
 			</div>
 		</body>

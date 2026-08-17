@@ -80,6 +80,13 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1555!Autograph!00%20E_II_357__fol__387_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">1555/Autograph/00 E_II_357__fol__387_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="335,321 562,269 762,311 1287,254 1502,311 1682,274 2109,333 2281,279 2281,239 2170,190 1963,239 1832,175 1731,219 1556,180 1470,227 1238,175 1019,234 338,200">349,274 445,271 542,268 639,264 736,262 833,260 929,257 1026,256 1123,253 1220,251 1317,250 1413,247 1510,248 1607,247 1704,250 1801,253 1897,253 1994,259 2091,259 2188,262 2285,265</zone>
+			<zone xml:id="p1z2-0" points="348,437 1319,400 1529,444 1815,397 2106,449 2326,424 1953,316 1783,350 1581,318 1458,370 1191,321 1100,367 1026,333 846,375 742,330 666,377 515,330 348,345">361,418 459,411 558,409 656,406 755,404 854,400 952,400 1051,397 1149,397 1248,397 1347,397 1445,397 1544,399 1642,397 1741,397 1840,400 1938,403 2037,406 2135,408 2234,412 2333,418</zone>
+			<zone xml:id="p1z3-0" points="350,503 1324,464 1509,513 1795,469 1951,515 1985,483 2284,496 2286,449 1971,417 1867,451 1142,404 905,449 713,409 639,461 353,434">364,486 460,483 556,479 653,477 749,474 845,472 942,469 1038,469 1134,466 1231,463 1327,463 1423,463 1520,466 1616,466 1712,466 1809,469 1905,470 2001,473 2098,474 2194,480 2291,483</zone>
+			<zone xml:id="p1z4-0" points="360,604 1255,530 1699,543 1771,585 2045,545 2126,580 2101,508 1776,474 1569,513 1425,471 1300,508 1088,478 1033,513 363,515">373,564 461,559 549,555 637,552 725,546 813,542 901,536 989,534 1077,531 1165,528 1254,524 1342,525 1430,526 1518,528 1606,531 1694,531 1782,534 1870,537 1958,540 2046,540 2135,543</zone>
+			<zone xml:id="p1z5-0" points="363,661 1273,604 1342,639 1571,602 1916,654 2141,629 2141,567 1773,585 1697,543 1601,572 1371,533 732,560 609,604 469,565 365,604">379,630 467,627 555,626 644,621 732,615 821,611 909,608 997,603 1086,599 1174,596 1263,594 1351,594 1439,595 1528,597 1616,600 1705,603 1793,606 1881,609 1970,609 2058,612 2147,615</zone>
+			<zone xml:id="p1z6-0" points="338,740 681,691 1194,713 1278,668 1672,710 1867,678 1983,732 2084,688 2254,700 2227,641 1707,654 1564,607 338,654">352,710 447,703 542,697 638,690 733,687 829,681 924,681 1020,674 1115,669 1211,666 1306,666 1401,666 1497,666 1592,669 1688,673 1783,676 1879,679 1974,684 2070,686 2165,687 2261,690</zone>
+			<zone xml:id="p1z7-0" points="358,792 1019,747 1159,782 1273,737 1887,777 1872,710 1717,683 1620,715 1532,673 1006,720 945,686 779,730 427,705 358,742">370,767 446,764 522,760 598,755 674,753 750,751 826,746 903,746 979,741 1055,739 1131,734 1207,734 1283,734 1359,734 1436,734 1512,734 1588,737 1664,740 1740,742 1816,744 1893,746</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!1555!Autograph!01%20E_II_357__fol__387_v_.tif/full/max/0/default.jpg" n="2">
@@ -91,12 +98,12 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Fefellit me, qui se hanc epistolam ad te perferri curaturum promiserat.</s>
-					<s n="2" xml:lang="la">Sed adest nunc m. <persName>Ioannes Thomas</persName>, <placeName ref="l303">Magdeburgens[ium]</placeName> legatus, quem tamen non est, ut tibi commendem, quandoquidem caussa ipsa et honestissimum legationis munus satis illum commendant.</s>
-					<s n="3" xml:lang="la">Ipse tibi coram totum illud bellum cum eventu suo diligentissime exponet.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Fefellit me, qui se hanc epistolam ad te perferri curaturum promiserat.</s>
+					<s n="2" xml:lang="la"><lb xml:id="p1z2"/>Sed adest nunc m. <persName>Ioannes Thomas</persName>, <placeName ref="l303">Magdeburgens[ium]</placeName> legatus, quem <lb xml:id="p1z3"/>tamen non est, ut tibi commendem, quandoquidem caussa ipsa et <lb xml:id="p1z4"/>honestissimum legationis munus satis illum commendant.</s>
+					<s n="3" xml:lang="la"><lb xml:id="p1z5"/>Ipse tibi coram totum illud bellum cum eventu suo diligentissime exponet.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la" ana="farewell">Bene vale, mi anime; non possum plura, quod legat huic etiam <placeName ref="l18">Augustam</placeName> commendaticias scribere opporteat.</s>
+					<s n="4" xml:lang="la" ana="farewell"><lb xml:id="p1z6"/>Bene vale, mi anime; non possum plura, quod legat huic etiam <placeName ref="l18">Augustam</placeName> <lb xml:id="p1z7"/>commendaticias scribere opporteat.</s>
 					<s n="5" xml:lang="la">1. februarii 1552.</s>
 				</p>
 				<p>

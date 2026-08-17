@@ -63,6 +63,11 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8135!Beilage!00%20E_II_348__fol__45_b_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">8135/Beilage/00 E_II_348__fol__45_b_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="1566,127 1584,130 1626,103 1687,142 1742,142 1754,130 1790,157 1829,161 1826,6 1745,42 1684,0 1642,9 1611,0 1563,18">1580,104 1605,104 1630,104 1656,104 1681,105 1707,106 1732,107 1757,107 1783,107 1808,107 1834,104</zone>
+			<zone xml:id="p1z2-0" points="1845,115 1954,142 2032,118 2135,173 2387,142 2444,179 2499,167 2493,94 2432,100 2405,73 2305,88 2235,27 2150,3 1960,3 1926,33 1838,18">1861,107 1892,107 1924,108 1956,110 1988,113 2020,113 2052,114 2084,116 2116,118 2148,120 2180,122 2211,124 2243,127 2275,129 2307,131 2339,133 2371,135 2403,137 2435,140 2467,142 2499,143</zone>
+			<zone xml:id="p1z3-0" points="64,200 472,139 536,173 697,148 748,191 912,130 1112,185 1324,142 1299,0 815,106 533,67 67,88">83,149 145,141 207,140 270,140 332,138 394,137 457,137 519,137 581,134 644,134 706,134 768,131 831,128 893,128 955,128 1018,125 1080,122 1142,120 1205,116 1267,114 1330,110</zone>
+			<zone xml:id="p1z4-0" points="79,251 233,224 342,267 724,215 1018,251 1263,200 1457,245 2514,230 2514,164 2138,176 2032,118 1757,161 1475,118 1118,182 887,136 751,188 636,154 551,185 488,142 133,191 79,161">95,211 216,211 337,211 458,208 579,211 700,211 821,214 942,208 1063,206 1184,202 1306,199 1427,196 1548,193 1669,191 1790,193 1911,193 2032,199 2153,205 2274,212 2395,214 2517,214</zone>
+			<zone xml:id="p1z5-0" points="112,363 424,297 733,373 1163,318 1360,354 1427,336 1430,209 1021,251 469,218 327,270 115,221">128,304 193,300 258,296 324,295 389,295 455,295 520,292 586,292 651,289 717,286 782,286 847,284 913,280 978,278 1044,277 1109,273 1175,271 1240,271 1306,271 1371,265 1437,265</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!8135!Beilage!01%20E_II_348__fol__45_b_v_.tif/full/max/0/default.jpg" n="2">
@@ -74,8 +79,8 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de">Ich bith den herren gantz vlissig, e. e. wolle meins lieben mitbrueders nit vergessen.</s>
-					<s n="2" xml:lang="de">Sein nahm ist <persName ref="p20425">Joannes Eckel</persName> von <placeName ref="l202">Hall</placeName> im <placeName ref="l2922">Inthal</placeName>, predicant zue <placeName ref="l2716">Herbishoffen</placeName> im <placeName ref="l6">Algey</placeName>.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Ich bith den <lb xml:id="p1z2"/>herren gantz vliss<lb xml:id="p1z3"/>ig, e. e. wolle meins lieben mitbrueders <lb xml:id="p1z4"/>nit vergessen.</s>
+					<s n="2" xml:lang="de">Sein nahm ist <persName ref="p20425">Joannes Eckel</persName> von <placeName ref="l202">Hall</placeName> im <placeName ref="l2922">Inthal</placeName>, <lb xml:id="p1z5"/>predicant zue <placeName ref="l2716">Herbishoffen</placeName> im <placeName ref="l6">Algey</placeName>.</s>
 				</p>
 				<p>
 					<note>[Ohne Adresse.]</note>

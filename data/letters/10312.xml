@@ -80,51 +80,68 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10312!Autograph!00%20E_II_343__fol__21_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10312/Autograph/00 E_II_343__fol__21_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="331,281 653,247 767,286 875,245 959,289 1203,258 1512,311 1692,278 1995,314 2187,272 2443,308 2440,203 2359,233 2006,186 1817,242 1598,192 1373,236 1256,172 1086,228 856,172 734,217 586,158 328,156">346,233 451,233 556,238 661,238 766,239 871,244 976,244 1081,250 1186,252 1291,259 1396,263 1501,267 1606,268 1711,272 1816,275 1921,277 2026,277 2131,274 2236,271 2341,268 2446,265</zone>
+			<zone xml:id="p1z2-0" points="339,353 470,306 964,358 1298,322 1595,370 1776,333 2379,361 2351,275 1765,317 1701,278 1523,308 1206,258 1162,295 653,245 339,281">355,304 456,302 557,304 659,306 760,307 862,310 963,311 1064,316 1166,316 1267,320 1369,324 1470,325 1571,328 1673,331 1774,334 1876,334 1977,333 2078,332 2180,331 2281,325 2383,319</zone>
+			<zone xml:id="p1z3-0" points="325,397 2454,406 2420,328 2076,370 1953,333 1601,367 1298,322 325,336">340,369 445,368 551,366 657,366 763,367 869,369 975,372 1081,375 1187,378 1293,381 1399,383 1504,387 1610,390 1716,390 1822,390 1928,389 2034,387 2140,384 2246,382 2352,378 2458,369</zone>
+			<zone xml:id="p1z4-0" points="325,478 756,431 1978,478 2367,445 2365,392 2315,389 2028,425 811,375 322,397">337,435 438,429 540,423 642,425 743,426 845,426 947,427 1048,429 1150,429 1252,435 1354,435 1455,438 1557,441 1659,441 1760,444 1862,444 1964,444 2065,444 2167,441 2269,434 2371,429</zone>
+			<zone xml:id="p1z5-0" points="328,509 2423,503 2423,456 2367,445 1978,481 689,433 328,478">343,498 447,490 551,486 655,486 760,486 864,489 968,490 1072,491 1177,492 1281,490 1385,492 1489,495 1594,498 1698,498 1802,498 1906,498 2011,498 2115,495 2219,494 2323,490 2428,483</zone>
+			<zone xml:id="p1z6-0" points="336,595 628,550 678,589 1081,550 1534,592 2515,553 2515,475 2059,534 1431,497 336,517">352,554 460,548 569,545 677,545 786,545 894,545 1003,548 1111,546 1220,548 1328,548 1437,553 1546,551 1654,556 1763,557 1871,557 1980,557 2088,551 2197,551 2305,545 2414,542 2523,537</zone>
+			<zone xml:id="p1z7-0" points="331,634 1537,614 1695,659 2509,597 2481,547 2112,589 848,547 331,592">346,614 454,611 563,607 671,606 780,606 888,605 997,605 1105,605 1214,605 1322,605 1431,608 1540,605 1648,611 1757,611 1865,611 1974,611 2082,609 2191,605 2299,602 2408,594 2517,587</zone>
+			<zone xml:id="p1z8-0" points="328,681 1753,667 1990,703 2529,670 2559,584 2126,642 328,639">343,671 454,665 565,659 676,659 787,659 898,661 1009,659 1120,662 1231,660 1342,660 1454,664 1565,664 1676,665 1787,665 1898,665 2009,663 2120,659 2231,653 2342,650 2453,640 2565,629</zone>
+			<zone xml:id="p1z9-0" points="331,736 1109,759 1387,725 1423,756 1539,722 1995,761 2529,714 2490,656 1967,703 1756,667 1698,700 331,689">346,724 455,717 564,716 674,716 783,718 893,718 1002,718 1112,718 1221,718 1331,718 1440,721 1549,721 1659,721 1768,724 1878,721 1987,721 2097,718 2206,714 2316,709 2425,702 2535,692</zone>
+			<zone xml:id="p1z10-0" points="333,800 2456,803 2456,725 2373,722 333,753">349,790 454,781 560,777 666,775 772,775 877,775 983,778 1089,778 1195,778 1300,778 1406,778 1512,778 1618,778 1723,778 1829,778 1935,777 2041,773 2146,769 2252,768 2358,761 2464,754</zone>
+			<zone xml:id="p1z11-0" points="331,881 433,878 514,839 614,867 692,834 848,875 984,836 1042,873 1084,861 1084,789 989,814 925,784 884,811 789,784 689,811 400,786 331,817">346,847 383,844 420,844 457,839 495,836 532,834 569,832 606,832 644,832 681,830 718,831 755,831 793,829 830,829 867,829 904,831 942,832 979,833 1016,835 1053,835 1091,835</zone>
+			<zone xml:id="p1z12-0" points="445,931 667,898 1520,950 2237,881 2206,798 1623,886 1570,853 1428,881 1375,836 1303,889 945,845 445,867">459,903 548,897 637,895 726,897 815,897 905,900 994,903 1083,903 1172,903 1261,906 1351,909 1440,909 1529,909 1618,906 1707,900 1797,895 1886,892 1975,886 2064,883 2153,874 2243,868</zone>
+			<zone xml:id="p1z13-0" points="464,978 503,989 545,964 572,973 606,964 622,981 653,953 692,978 759,964 761,914 717,920 667,898 628,911 589,906 561,923 514,909 467,931">483,951 508,950 534,949 560,947 585,945 611,943 637,942 663,940 688,939 714,939 740,938 766,936</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10312!Autograph!01%20E_II_343__fol__21_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10312/Autograph/01 E_II_343__fol__21_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="634,1070 680,1048 704,1060 728,1042 824,1058 844,1038 894,1042 932,1078 962,1080 964,1014 938,1002 914,1012 886,982 840,962 792,984 774,972 692,1020 662,992 636,996">644,1047 670,1043 697,1041 724,1039 751,1037 778,1036 805,1035 831,1035 858,1033 885,1032 912,1032 939,1032 966,1032</zone>
+			<zone xml:id="p2z2-0" points="634,1120 692,1120 708,1108 744,1106 762,1124 792,1100 826,1112 890,1102 894,1044 842,1040 824,1056 796,1052 766,1066 758,1056 726,1072 680,1048 658,1066 638,1066">647,1094 672,1094 697,1092 722,1091 747,1089 772,1087 797,1086 822,1084 847,1082 872,1081 897,1079</zone>
+			<zone xml:id="p2z3-0" points="652,1170 700,1168 714,1182 770,1168 796,1180 838,1168 868,1178 904,1154 978,1154 978,1086 926,1086 836,1112 794,1100 766,1122 740,1106 656,1118">665,1148 691,1151 718,1151 744,1149 771,1147 797,1146 824,1144 851,1142 877,1140 904,1138 930,1137 957,1135 984,1133</zone>
+			<zone xml:id="p2z4-0" points="672,1240 688,1240 696,1246 722,1246 732,1242 744,1252 756,1252 764,1178 748,1178 748,1174 716,1182 704,1168 692,1176 680,1174">689,1205 714,1203 740,1199 766,1196</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Non dubito, quin a <placeName ref="l257">Constantia</placeName> rediens<note xml:id="fn1" type="footnote" n="1"><persName ref="p495">Bullinger</persName> war am 11. Oktober 1533 von einem Besuch in <placeName ref="l257">Konstanz</placeName> zurückgekehrt, s. oben <ref target="file10310">[Nr. 279]</ref> S. 220, Anm. 15.</note>, amicissime frater, domi inveneris binas literas<note xml:id="fn2" type="footnote" n="2">Vielleicht die Briefe vom 23. September und 18. Oktober 1533 (oben <ref target="file10297">Nr. 266</ref> und 275); möglicherweise ist aber einer der von <persName ref="p1391">Haller</persName> erwähnten Briefe nicht erhalten.</note>, quibus quid a te velim obnixiusque et hodie precor, intellexeris.</s>
-					<s n="3" xml:lang="la">Expectabam responsum cum sagittariis nostris<note xml:id="fn3" type="footnote" n="3">Siehe oben S. 209, 20 und Anm. 7.</note>, sed nemo illorum me verbo dignatus est.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Non dubito, quin a <placeName ref="l257">Constantia</placeName> rediens<note xml:id="fn1" type="footnote" n="1"><persName ref="p495">Bullinger</persName> war am 11. Oktober 1533 von einem Besuch in <placeName ref="l257">Konstanz</placeName> zurückgekehrt, s. oben <ref target="file10310">[Nr. 279]</ref> S. 220, Anm. 15.</note>, amicissime frater, domi inveneris binas literas<note xml:id="fn2" type="footnote" n="2">Vielleicht die Briefe vom 23. September und 18. Oktober 1533 (oben <ref target="file10297">Nr. 266</ref> und 275); möglicherweise ist aber einer der von <persName ref="p1391">Haller</persName> erwähnten Briefe nicht erhalten.</note>, quibus <lb xml:id="p1z2"/>quid a te velim obnixiusque et hodie precor, intellexeris.</s>
+					<s n="3" xml:lang="la">Expectabam responsum cum sagittariis nostris<note xml:id="fn3" type="footnote" n="3">Siehe oben S. 209, 20 und Anm. 7.</note>, <lb xml:id="p1z3"/>sed nemo illorum me verbo dignatus est.</s>
 					<s n="4" xml:lang="la">Habes igitur nuncium<note xml:id="fn4" type="footnote" n="4">Unbekannt, wahrscheinlich ein <placeName ref="l41">Berner</placeName> Ratsbote.</note> hunc nostrum, qui tuam humanitatem non satis depraedicare potuit.</s>
-					<s n="5" xml:lang="la">Huic, si quid potes, tutissime committes.</s>
-					<s n="6" xml:lang="la">Maxime autem volebam aut tua in reliquas Pauli epistolas<note xml:id="fn5" type="footnote" n="5">Bereits erschienen war <persName ref="p495">Bullingers</persName> Kommentar zum Römerbrief (<bibl source="b286">HBBibl</bibl> I 42), jener zum 1. Korintherbrief erschien 1534 (<bibl source="b286">HBBibl</bibl> I 53).</note> aut ex ore <persName ref="p8171">Theodori</persName> in aliquot prophetas congesta<note xml:id="fn6" type="footnote" n="6">Es handelt sich um <persName ref="p8171">Theodor Biblianders</persName> im Sommer 1533 abgehaltene Vorlesungen über die Propheten, <hi>s. Egli,</hi> Analecta II 32. 135.</note>.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z4"/>Huic, si quid potes, tutissime committes.</s>
+					<s n="6" xml:lang="la">Maxime autem volebam aut tua in reliquas Pauli epistolas<note xml:id="fn5" type="footnote" n="5">Bereits erschienen war <persName ref="p495">Bullingers</persName> Kommentar zum Römerbrief (<bibl source="b286">HBBibl</bibl> I 42), jener zum 1. Korintherbrief erschien 1534 (<bibl source="b286">HBBibl</bibl> I 53).</note> aut <lb xml:id="p1z5"/>ex ore <persName ref="p8171">Theodori</persName> in aliquot prophetas congesta<note xml:id="fn6" type="footnote" n="6">Es handelt sich um <persName ref="p8171">Theodor Biblianders</persName> im Sommer 1533 abgehaltene Vorlesungen über die Propheten, <hi>s. Egli,</hi> Analecta II 32. 135.</note>.</s>
 					<s n="7" xml:lang="la">Repeto nunc commentarios tuos in Acta<note xml:id="fn7" type="footnote" n="7"><persName ref="p495">Bullingers</persName> Kommentar zur Apostelgeschichte, 1533 (<bibl source="b286">HBBibl</bibl> I 43).</note>.</s>
-					<s n="8" xml:lang="la">Age igitur, cum <placeName ref="l257">Constantia</placeName> te praesentem habuerit, ego tuis non caream.</s>
+					<s n="8" xml:lang="la">Age igitur, cum <placeName ref="l257">Constantia</placeName> te <lb xml:id="p1z6"/>praesentem habuerit, ego tuis non caream.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la">Cęterum <persName ref="p4409">Othonem Brunfelsium</persName><note xml:id="fn8" type="footnote" ana="bio" n="8"><persName ref="p4409">Otto Brunfels (Braunfels)</persName>, 1488-1534, geboren in <placeName ref="l307">Mainz</placeName>, seit ca. 1510 Kartäusermönch, wandte sich der Reformation zu und genoß die Protektion <persName ref="p7580">Huttens</persName>, der ihm 1521 die Pfarrei <placeName ref="l1178">Steinau bei Schlüchtern</placeName> vermittelte. Vorübergehend hielt sich <persName ref="p4409">Brunfels</persName> in <placeName ref="l157">Frankfurt</placeName> auf, bevor er 1522 als Prediger in <placeName ref="l710">Neuenburg am Rhein</placeName> wirkte. Im März 1524 siedelte er nach <placeName ref="l491">Straßburg</placeName> über, wo er als Lehrer wirkte, Medizin studierte und daneben auch publizistisch in Erscheinung trat. <persName ref="p4409">Brunfels</persName> war von täuferischen Ideen stark beeinflußt, was sich auch in seinem literarischen Werk niederschlug. 1530 promovierte er in <placeName ref="l28">Basel</placeName> zum Doktor der Medizin; 1533 wurde er Stadtarzt in <placeName ref="l41">Bern</placeName>, wo er im folgenden Jahr starb. <persName ref="p4409">Brunfels</persName> stand «als kirchlicher, pädagogischer und politischer Publizist, als Exeget, Botaniker und Mediziner in dem Spannungsfeld zwischen <persName ref="p1974">Luther</persName>, <persName ref="p18722">Erasmus</persName> und <persName ref="p4091">Zwingli</persName>» (Wilhelm <hi>Maurer,</hi> in: RGG I 1388). - Lit.: <hi>F.</hi> W. E. <hi>Roth,</hi> Otto Brunfels. Nach seinem Leben und litterarischen Wirken geschildert, in: <bibl source="b704">ZGO</bibl> 48, 1894, 284-320; <bibl source="b700">Z</bibl> VII 535. VIII 25f; Carlo <hi>Ginzburg,</hi> Il nicodemismo. Simulazione e dissimulazione religiosa nell'Europa del '500, Turin 1970; Heinrich <hi>Grimm,</hi> in: <bibl source="b457">NDB</bibl> II 677f; Christian <hi>Neff,</hi> in: <bibl source="b439">ML</bibl> I 287.</note> urbs nostra in medicum suscępit.</s>
-					<s n="10" xml:lang="la">Is ab <placeName ref="l491">Argentina</placeName> nunc urbem appulit.</s>
-					<s n="11" xml:lang="la">E <placeName ref="l28">Basilęa</placeName> iuvenem quendam satis eruditum <persName ref="p3099">Simonem Sulcerum</persName> Interlacensem nunc ad nostras nundinas Martinianas recipiemus.</s>
+					<s n="10" xml:lang="la">Is ab <placeName ref="l491">Argentina</placeName> <lb xml:id="p1z7"/>nunc urbem appulit.</s>
+					<s n="11" xml:lang="la">E <placeName ref="l28">Basilęa</placeName> iuvenem quendam satis eruditum <persName ref="p3099">Simonem Sulcerum</persName> Interlacensem nunc ad nostras <lb xml:id="p1z8"/>nundinas Martinianas recipiemus.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la">Nova nulla sunt apud nos.</s>
-					<s n="13" xml:lang="la">Si quę tu <placeName ref="l257">Constantię</placeName> acceperis, nobiscum communica et prioribus literis affectibus meis refertis responde.</s>
-					<s n="14" xml:lang="la">Libellum de ratione studii<note xml:id="fn9" type="footnote" n="9"><persName ref="p495">Bullingers</persName> «Studiorum ratio».</note> Cristannus Dannmatter absolvet<note xml:id="fn10" type="footnote" n="10">Siehe oben S. 209, 14f.</note>, ut ad nundinas, si saltem <persName ref="p19066">Burckardus</persName> ille tuͤchler adfuerit, habiturus illum sis.</s>
+					<s n="13" xml:lang="la">Si quę tu <placeName ref="l257">Constantię</placeName> acceperis, nobiscum <lb xml:id="p1z9"/>communica et prioribus literis affectibus meis refertis responde.</s>
+					<s n="14" xml:lang="la">Libellum de ratione studii<note xml:id="fn9" type="footnote" n="9"><persName ref="p495">Bullingers</persName> «Studiorum ratio».</note> Cristannus Dannmatter absolvet<note xml:id="fn10" type="footnote" n="10">Siehe oben S. 209, 14f.</note>, ut <lb xml:id="p1z10"/>ad nundinas, si saltem <persName ref="p19066">Burckardus</persName> ille tuͤchler adfuerit, habiturus illum sis.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" ana="farewell"><pb type="edition" next="223"/>Vale et vive cum <persName ref="p8127">Pellicano</persName> meo fęlicissime.</s>
+					<s n="15" xml:lang="la" ana="farewell"><pb type="edition" next="223"/>Vale et vive cum <persName ref="p8127">Pellicano</persName> meo <lb xml:id="p1z11"/>fęlicissime.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la">30. octobris anno 33.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la">Tuus <persName ref="p1391">Berch. H.</persName></s>
+					<s n="17" xml:lang="la">Tuu<lb xml:id="p1z12"/>s <persName ref="p1391">Berch. H.</persName></s>
 				</p>
 				<p>
-					<s n="18" xml:lang="la">Gaudeo te non accępisse pecunias, tametsi optimo iure potuisses, a <placeName ref="l157">Franckfordianis</placeName>.<note xml:id="fn11" type="footnote" n="11">Zum Geldgeschenk der <placeName ref="l157">Frankfurter</placeName> an <persName ref="p495">Bullingers</persName>, oben S. 185, 8-11 und Anm. 6.</note>.</s>
+					<s n="18" xml:lang="la">Gaudeo te non accępisse pecunias, tametsi optimo iure potuisses, a <lb xml:id="p1z13"/><placeName ref="l157">Franckfordianis</placeName>.<note xml:id="fn11" type="footnote" n="11">Zum Geldgeschenk der <placeName ref="l157">Frankfurter</placeName> an <persName ref="p495">Bullingers</persName>, oben S. 185, 8-11 und Anm. 6.</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="19" xml:lang="la">Suo omnium longe charissimo fratri <persName ref="p495">Heinrico Bullingero</persName>.</s>
+					<s n="19" xml:lang="la"><pb/><lb xml:id="p2z1"/>Suo omnium longe <lb xml:id="p2z2"/>charissimo fratri <lb xml:id="p2z3"/><persName ref="p495">Heinrico Bullingero</persName><lb xml:id="p2z4"/>.</s>
 				</p>
 			</div>
 		</body>

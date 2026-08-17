@@ -73,37 +73,47 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3958!Autograph!00%20E_II_368__fol__428_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">3958/Autograph/00 E_II_368__fol__428_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="714,178 2505,209 2520,88 2342,140 2223,102 1986,142 1877,97 1817,140 1409,95 1246,93 1174,140 712,116">725,155 815,155 905,155 995,155 1085,158 1175,155 1265,158 1355,158 1445,158 1535,161 1626,158 1716,161 1806,161 1896,161 1986,164 2076,164 2166,164 2256,164 2346,164 2436,167 2527,167</zone>
+			<zone xml:id="p1z2-0" points="724,256 1473,247 1575,294 1870,261 1957,294 2081,254 2157,301 2354,278 2406,311 2631,282 2631,218 2567,197 2237,183 1146,209 902,164 724,218">737,235 831,232 926,232 1021,234 1116,232 1211,232 1306,234 1400,235 1495,235 1590,238 1685,239 1780,245 1875,246 1970,246 2064,250 2159,250 2254,253 2349,256 2444,262 2539,265 2634,265</zone>
+			<zone xml:id="p1z3-0" points="724,356 1167,316 1257,356 1578,327 2168,377 2501,365 2501,297 2168,313 2097,266 2010,316 1374,247 1329,287 1238,249 923,299 721,270">737,316 825,313 913,316 1002,316 1090,316 1179,313 1267,316 1356,316 1444,319 1533,317 1621,319 1709,322 1798,324 1886,328 1975,328 2063,333 2152,336 2240,337 2329,342 2417,346 2506,349</zone>
+			<zone xml:id="p1z4-0" points="724,437 1039,391 1117,425 1521,399 1587,441 1777,399 2055,456 2240,413 2427,463 2619,439 2619,377 721,344">737,390 831,390 925,390 1019,389 1114,390 1208,390 1302,390 1396,393 1491,393 1585,396 1679,396 1773,399 1868,402 1962,402 2056,406 2150,413 2245,414 2339,419 2433,423 2527,429 2622,432</zone>
+			<zone xml:id="p1z5-0" points="726,522 1163,479 1376,527 1440,486 1533,536 1836,484 2610,536 2607,456 2515,439 2064,463 1879,413 1483,456 1400,406 1331,439 1025,401 724,448">737,471 830,474 924,471 1018,474 1112,471 1206,474 1299,476 1393,477 1487,477 1581,474 1675,474 1768,474 1862,477 1956,477 2050,480 2144,483 2237,486 2331,490 2425,492 2519,494 2613,492</zone>
+			<zone xml:id="p1z6-0" points="726,591 759,603 781,586 821,600 849,574 897,574 928,553 970,574 996,567 1020,591 1063,569 1063,501 1044,508 1006,493 928,527 809,486 726,522">740,549 765,549 790,549 815,549 840,549 866,549 891,549 916,549 941,549 967,549 992,549 1017,549 1042,549 1068,549</zone>
+			<zone xml:id="p1z7-0" points="1639,664 1832,633 1917,655 1976,624 2088,667 2233,629 2482,652 2465,522 2413,541 2335,512 2273,550 2114,510 1988,572 1798,529 1725,574 1637,555">1653,599 1694,602 1736,607 1778,606 1820,603 1861,604 1903,605 1945,603 1987,602 2028,602 2070,603 2112,605 2154,604 2195,602 2237,605 2279,608 2321,608 2362,611 2404,611 2446,611 2488,611</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!3958!Autograph!01%20E_II_368__fol__428_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">3958/Autograph/01 E_II_368__fol__428_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="461,720 696,698 862,758 1022,676 1321,718 1321,620 1212,593 999,644 858,581 782,587 659,657 566,604 462,615">468,689 510,691 553,685 596,683 639,685 682,686 724,688 767,689 810,686 853,683 896,683 938,683 981,682 1024,681 1067,683 1110,682 1152,680 1195,680 1238,680 1281,680 1324,683</zone>
+			<zone xml:id="p2z2-0" points="453,822 572,854 663,808 785,848 922,823 974,866 1149,832 1208,859 1209,769 1039,715 973,756 856,764 762,740 626,758 568,722 454,771">459,802 496,802 534,799 571,799 609,797 647,797 684,799 722,799 759,799 797,799 835,799 872,799 910,799 947,799 985,796 1023,796 1060,796 1098,796 1135,795 1173,793 1211,796</zone>
+			<zone xml:id="p2z3-0" points="436,1001 495,986 568,1002 667,958 717,984 837,996 878,977 882,866 662,890 582,850 440,851">444,921 469,919 495,917 521,915 547,915 573,915 598,915 624,915 650,913 676,913 702,913 728,911 753,910 779,910 805,910 831,910 857,909 883,907</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Tuas recepi literas scriptas 6. huius mensis.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la">De comitiis <placeName ref="l18">Augustanis</placeName> ex vestro legato intellexisti et vidisti propositionem legatorum regis; responsum mitto.</s>
-					<s n="4" xml:lang="la">Iis, que de pace vulgo dictitant, te non commoveri scio, cum dominus regnet et moderetur omnia.</s>
+					<s n="3" xml:lang="la">De comitiis <placeName ref="l18">Augustanis</placeName> <lb xml:id="p1z2"/>ex vestro legato intellexisti et vidisti propositionem legatorum regis; responsum mitto.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z3"/>Iis, que de pace vulgo dictitant, te non commoveri scio, cum dominus <lb xml:id="p1z4"/>regnet et moderetur omnia.</s>
 					<s n="5" xml:lang="la">Spero me brevi te visurum et colloquemur.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" ana="farewell">Interim bene vale.</s>
+					<s n="6" xml:lang="la" ana="farewell"><lb xml:id="p1z5"/>Interim bene vale.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" ana="salute">Salutabis d. d. <persName ref="p8111">Martirem</persName>, <persName ref="p8011">Galterum</persName>, et qui de me percunctabuntur.</s>
-					<s n="8" xml:lang="la"><placeName ref="l760">Sol[uturi]</placeName> 18. maii.</s>
+					<s n="8" xml:lang="la"><placeName ref="l760">S<lb xml:id="p1z6"/>ol[uturi]</placeName> 18. maii.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">Tuus ex animo, quem nosti.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p1z7"/>Tuus ex animo, quem nosti.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la">Domino <persName ref="p495">Henrico Bullingero</persName>, ecclesiae <placeName ref="l587">Tigurinę</placeName> pastori vigilantissimo.</s>
+					<s n="10" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Henrico Bullingero</persName>, <lb xml:id="p2z2"/>ecclesiae <placeName ref="l587">Tigurinę</placeName> pastori <lb xml:id="p2z3"/>vigilantissimo.</s>
 				</p>
 				<p>
 					<note>[von anderer Hand.]</note>

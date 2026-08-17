@@ -79,24 +79,36 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10618!Autograph!00%20E_II_343__fol__75_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10618/Autograph/00 E_II_343__fol__75_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="308,305 510,265 747,311 916,278 1836,335 1953,308 2032,344 2084,308 2482,319 2479,248 2269,199 2067,224 2018,270 1691,259 1626,215 1467,256 1266,191 1162,240 1058,202 846,256 521,199 308,237">322,271 430,262 538,265 646,268 755,271 863,274 971,274 1080,277 1188,281 1296,283 1405,286 1513,286 1621,289 1729,293 1838,295 1946,298 2054,301 2163,301 2271,301 2379,301 2488,307</zone>
+			<zone xml:id="p1z2-0" points="322,357 2463,374 2463,314 2395,308 750,314 529,267 322,297">337,334 443,331 550,331 656,331 763,331 870,331 976,333 1083,334 1190,337 1296,338 1403,342 1510,344 1616,348 1723,352 1830,353 1936,355 2043,355 2150,357 2256,358 2363,355 2470,358</zone>
+			<zone xml:id="p1z3-0" points="322,431 2490,439 2457,365 2182,395 1328,349 1222,382 1184,344 322,360">337,408 445,399 553,396 661,396 769,396 877,396 985,396 1093,396 1201,399 1309,401 1417,405 1525,407 1633,408 1741,411 1849,412 1957,412 2065,414 2173,417 2281,417 2389,420 2497,417</zone>
+			<zone xml:id="p1z4-0" points="322,485 2493,507 2493,453 2261,425 2204,455 1140,406 1077,442 1015,409 322,423">337,480 445,473 553,468 661,467 769,463 877,465 985,465 1094,465 1202,465 1310,467 1418,468 1526,471 1634,471 1742,471 1851,474 1959,474 2067,476 2175,477 2283,478 2391,480 2500,486</zone>
+			<zone xml:id="p1z5-0" points="322,570 524,584 742,532 2515,573 2515,507 2411,491 1268,510 1066,475 990,507 796,472 747,510 704,477 322,507">337,548 446,542 555,537 664,533 773,531 882,528 991,528 1100,528 1209,529 1318,531 1427,531 1536,534 1645,535 1754,537 1863,537 1972,537 2081,537 2190,538 2299,540 2408,543 2518,548</zone>
+			<zone xml:id="p1z6-0" points="322,657 1020,597 1146,646 1339,608 1451,641 2177,608 2340,649 2411,616 2411,573 2163,556 1544,548 1476,581 731,529 521,589 322,570">337,617 441,611 545,608 649,601 753,597 857,596 961,595 1065,596 1169,596 1273,599 1378,599 1482,602 1586,602 1690,602 1794,602 1898,602 2002,604 2106,605 2210,602 2314,604 2419,599</zone>
+			<zone xml:id="p1z7-0" points="327,682 1604,712 1656,676 1950,706 2040,671 2108,712 2433,676 2408,616 2340,649 2182,611 2097,649 1694,608 1623,644 1533,614 1364,649 1304,611 1154,649 963,608 327,649">343,674 447,673 552,672 657,668 762,666 867,665 972,665 1076,666 1181,668 1286,671 1391,671 1496,668 1601,670 1706,668 1810,665 1915,668 2020,668 2125,668 2230,668 2335,668 2440,668</zone>
+			<zone xml:id="p1z8-0" points="319,775 813,736 878,775 990,745 1066,788 1143,745 1342,788 1680,734 1956,791 2035,739 2100,780 2223,736 2471,745 2471,701 2226,674 2111,709 2040,671 1942,706 1661,676 1601,712 1495,676 1069,712 728,674 546,726 319,674">334,748 441,745 548,742 655,738 762,733 869,730 976,729 1083,730 1190,732 1297,732 1405,733 1512,731 1619,733 1726,735 1833,733 1940,739 2047,736 2154,736 2261,736 2368,734 2476,736</zone>
+			<zone xml:id="p1z9-0" points="1926,938 2103,895 2157,919 2231,897 2335,944 2417,944 2411,794 2384,786 2283,840 2209,802 2127,824 2100,805 2043,854 2010,837 1923,851">1939,889 1964,887 1989,886 2015,886 2040,887 2066,889 2091,890 2116,892 2142,892 2167,892 2193,892 2218,892 2244,892 2269,893 2294,895 2320,897 2345,898 2371,898 2396,898 2422,898</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10618!Autograph!01%20E_II_343__fol__75_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10618/Autograph/01 E_II_343__fol__75_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="636,1303 835,1286 876,1257 922,1284 1092,1271 1094,1193 1080,1187 952,1177 856,1222 810,1202 730,1206 674,1168 641,1179">642,1276 667,1271 692,1268 717,1265 742,1264 767,1264 792,1262 817,1262 842,1262 868,1262 893,1261 918,1259 943,1256 968,1256 993,1257 1018,1258 1043,1257 1068,1256 1094,1258</zone>
+			<zone xml:id="p2z2-0" points="636,1397 664,1406 754,1349 824,1382 857,1369 949,1371 1007,1354 1009,1299 958,1284 940,1294 916,1277 863,1289 845,1278 750,1316 638,1320">642,1348 668,1351 694,1350 720,1349 747,1348 773,1348 799,1344 826,1344 852,1344 878,1344 904,1344 931,1343 957,1342 983,1342 1010,1340</zone>
+			<zone xml:id="p2z3-0" points="690,1488 764,1482 821,1447 861,1471 889,1463 922,1473 964,1455 979,1463 981,1392 934,1369 848,1370 811,1395 765,1377 693,1377">696,1446 722,1444 748,1444 774,1442 800,1440 826,1440 852,1440 878,1439 904,1438 930,1438 956,1438 982,1438</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Non eram dignus, ut vestrum aliquis <placeName ref="l582">Zofingę</placeName> me conveniret<note xml:id="fn1" type="footnote" n="1">Wegen plötzlich aufgebrochener Spannungen zwischen <placeName ref="l587">Zürich</placeName> und den <placeName ref="l2448">V Orten</placeName> war <persName ref="p1753">Leo Jud</persName> nicht zum verabredeten Treffen erschienen, vgl. oben <ref target="file10607">Nr. 569</ref>, 1-8.</note>, qui non sine periculo valetudinarii corporis illuc redintegrandę amicicię gratia concesseram, nec ab eo tempore dignus fui vel a te unicum accipere iota.</s>
-					<s n="3" xml:lang="la">Si mea culpa id factum scirem, dolorem certe mihi gravissimum adferret, at cum mihi bene conscius sim de utroque vestrum, cogor tam absentiam quam silentium susque deque ferre et in angulo meo meos exanclare labores.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Non eram dignus, ut vestrum aliquis <placeName ref="l582">Zofingę</placeName> me conveniret<note xml:id="fn1" type="footnote" n="1">Wegen plötzlich aufgebrochener Spannungen zwischen <placeName ref="l587">Zürich</placeName> und den <placeName ref="l2448">V Orten</placeName> war <persName ref="p1753">Leo Jud</persName> nicht zum verabredeten Treffen erschienen, vgl. oben <ref target="file10607">Nr. 569</ref>, 1-8.</note>, qui non sine periculo valetudinarii <lb xml:id="p1z2"/>corporis illuc redintegrandę amicicię gratia concesseram, nec ab eo tempore dignus fui vel a te <lb xml:id="p1z3"/>unicum accipere iota.</s>
+					<s n="3" xml:lang="la">Si mea culpa id factum scirem, dolorem certe mihi gravissimum adferret, at <lb xml:id="p1z4"/>cum mihi bene conscius sim de utroque vestrum, cogor tam absentiam quam silentium susque deque ferre <lb xml:id="p1z5"/>et in angulo meo meos exanclare labores.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la"><persName ref="p5497">Franciscus</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p5497">Franz Kolb</persName>.</note> amplius prae ingenti struma<note xml:id="fna" type="footnote" n="a"><hi>in der Vorlage</hi> strunna.</note> officio fungi facile non potest, unde alio symmista indigebimus.</s>
-					<s n="5" xml:lang="la">Cuius gratia vestro consilio cum opus esset, non potui nec meum communicare nec a vobis exigere, nisi prius animo excident in universum, quod occasione neglecta votis meis erga te imprimis potin non potui.</s>
+					<s n="4" xml:lang="la"><persName ref="p5497">Franciscus</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p5497">Franz Kolb</persName>.</note> amplius prae ingenti struma<note xml:id="fna" type="footnote" n="a"><hi>in der Vorlage</hi> strunna.</note> officio fungi <lb xml:id="p1z6"/>facile non potest, unde alio symmista indigebimus.</s>
+					<s n="5" xml:lang="la">Cuius gratia vestro consilio cum opus esset, non potui <lb xml:id="p1z7"/>nec meum communicare nec a vobis exigere, nisi prius animo excident in universum, quod occasione <lb xml:id="p1z8"/>neglecta votis meis erga te imprimis potin non potui.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la" ana="farewell">Vale.</s>
@@ -105,11 +117,11 @@
 					<s n="7" xml:lang="la"><placeName ref="l41">Bernę</placeName>, ipso ascensionis die 35.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Tuus <persName ref="p1391">Bert. H.</persName></s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z9"/>Tuus <persName ref="p1391">Bert. H.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="la"><persName ref="p495">Heinrico Bullingero</persName>, fratri suo charissimo.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/><persName ref="p495">Heinrico Bullingero</persName>, <lb xml:id="p2z2"/>fratri suo <lb xml:id="p2z3"/>charissimo.</s>
 				</p>
 			</div>
 		</body>

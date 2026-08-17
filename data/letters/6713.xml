@@ -66,31 +66,41 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!6713!Autograph!00%20Ms%20F%2062%20%28142%29_00001.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">6713/Autograph/00 Ms F 62 (142)_00001.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="669,188 878,175 969,222 1134,172 1238,216 1462,162 1669,197 1831,166 2169,216 2306,166 3075,228 3050,100 2934,138 2578,84 2291,125 1891,119 1831,78 1606,128 1488,81 1144,125 984,81 669,88">687,152 806,166 926,164 1046,164 1166,160 1286,158 1406,155 1525,152 1645,152 1765,152 1885,152 2005,155 2125,155 2245,158 2364,158 2484,160 2604,162 2724,164 2844,166 2964,170 3084,173</zone>
+			<zone xml:id="p1z2-0" points="653,312 1172,266 1378,266 1453,312 1700,259 2003,322 2216,259 2453,328 2594,272 2812,338 3025,306 3025,197 2869,238 2288,166 1900,238 1784,166 1188,241 1047,178 972,222 862,181 653,203">669,269 787,266 905,263 1023,263 1141,261 1259,260 1377,259 1495,259 1613,257 1731,257 1849,257 1967,257 2085,257 2203,257 2321,260 2439,260 2557,263 2675,265 2793,266 2911,269 3030,269</zone>
+			<zone xml:id="p1z3-0" points="688,366 956,400 1028,359 1106,400 1228,356 1341,394 1950,356 2212,416 2353,366 3200,394 3172,278 2825,341 2694,284 2484,341 2334,278 2081,272 1994,331 1884,275 1731,325 1544,278 1469,316 1366,262 1250,300 1062,278 981,325 850,272 688,288">705,352 836,349 968,349 1099,352 1231,352 1362,349 1494,350 1625,352 1757,352 1888,355 2020,356 2151,359 2283,361 2414,364 2546,364 2677,364 2809,367 2940,367 3072,365 3204,367</zone>
+			<zone xml:id="p1z4-0" points="681,456 1003,475 1072,434 1294,488 1372,444 1597,441 1819,516 2200,453 2772,494 2966,462 3056,500 3150,488 3147,400 2853,378 2647,422 2450,378 2203,416 1953,366 1294,369 1144,409 1025,356 800,406 678,369">699,439 822,436 945,436 1068,433 1191,436 1314,436 1437,439 1560,439 1683,442 1806,444 1929,448 2052,449 2175,451 2298,451 2421,454 2544,454 2667,454 2790,454 2913,454 3036,457 3159,457</zone>
+			<zone xml:id="p1z5-0" points="694,556 838,541 975,597 1094,531 1291,559 1366,528 1772,594 1853,550 2025,534 2150,575 2291,541 2412,584 2528,550 2741,631 2847,572 2984,606 3138,569 3138,491 2953,462 2781,497 2009,462 1822,509 1659,450 1319,506 1072,434 838,494 694,475">711,529 832,532 954,529 1075,529 1197,529 1319,526 1440,529 1562,526 1684,529 1805,529 1927,532 2049,532 2170,535 2292,536 2414,541 2535,543 2657,545 2779,549 2900,551 3022,555 3144,558</zone>
+			<zone xml:id="p1z6-0" points="672,653 1475,622 1722,697 2000,706 2088,666 2612,691 2750,650 2728,547 2625,603 2556,559 2184,550 2084,609 1856,550 1716,603 1562,544 1409,588 1353,538 1100,528 853,600 672,559">690,633 793,630 896,630 1000,627 1103,627 1207,624 1310,622 1413,621 1517,624 1620,624 1724,624 1827,630 1930,630 2034,630 2137,634 2241,633 2344,633 2447,633 2551,633 2654,633 2758,639</zone>
+			<zone xml:id="p1z7-0" points="2019,850 2553,847 2650,906 2825,856 2959,872 2959,719 2853,738 2750,697 2019,778">2035,824 2081,824 2128,827 2174,827 2221,830 2268,830 2314,830 2361,830 2408,831 2454,833 2501,833 2548,833 2594,833 2641,833 2688,833 2734,835 2781,834 2828,833 2874,833 2921,833 2968,830</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!6713!Autograph!01%20Ms%20F%2062%20%28142%29_00002.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">6713/Autograph/01 Ms F 62 (142)_00002.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="335,513 1347,560 1535,542 1534,447 1056,416 693,471 334,423">343,511 402,506 462,508 522,508 582,512 642,514 701,514 761,515 821,517 881,517 941,516 1000,516 1060,517 1120,517 1180,517 1240,517 1299,517 1359,517 1419,517 1479,516 1539,514</zone>
+			<zone xml:id="p2z2-0" points="371,642 664,705 823,631 968,676 1212,675 1203,552 651,584 534,524 371,597">379,621 420,621 462,621 504,621 546,624 588,624 630,624 671,627 713,625 755,624 797,624 839,624 881,624 923,623 964,621 1006,621 1048,621 1090,621 1132,621 1174,618 1216,615</zone>
+			<zone xml:id="p2z3-0" points="349,922 407,925 453,949 494,943 525,962 539,952 604,959 612,838 530,845 506,829 453,832 420,814 356,817">358,914 383,909 408,907 434,905 459,902 485,899 510,899 535,899 561,899 586,896 612,893</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">Nihil, quod scribam, occurrit nisi me expectare responsum ad meas ultimas literas, nos bene valere, negocium etiam religionis magnos indies progressus facere etiam invitus omnibus perditis.</s>
-					<s n="3" xml:lang="la">Et cum nunc d. <persName ref="p8160">Bellieure</persName> legati officio fungatur, literis frequentioribus amicitiam nostram fruere tutum et integrum erit.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">Nihil, quod scribam, occurrit nisi me expectare responsum ad meas <lb xml:id="p1z2"/>ultimas literas, nos bene valere, negocium etiam religionis magnos <lb xml:id="p1z3"/>indies progressus facere etiam invitus omnibus perditis.</s>
+					<s n="3" xml:lang="la">Et cum nunc d. <persName ref="p8160">Bellieure</persName> <lb xml:id="p1z4"/>legati officio fungatur, literis frequentioribus amicitiam nostram fruere tutum <lb xml:id="p1z5"/>et integrum erit.</s>
 					<s n="4" xml:lang="la" ana="salute">Salutat te plurimum uxor.</s>
-					<s n="5" xml:lang="la" ana="salute">Salutabis amplissimum senatum et amicos omnes.</s>
+					<s n="5" xml:lang="la" ana="salute">Salutabis amplissimum senatum <lb xml:id="p1z6"/>et amicos omnes.</s>
 					<s n="6" xml:lang="la" ana="farewell">Bene vale.</s>
 					<s n="7" xml:lang="la"><placeName ref="l378">Parisiis</placeName> raptim 6. martii 1566.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z7"/>Tuus ex animo <persName ref="p629">Coignetius</persName>.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la">D. <persName ref="p495">Henricho Bullingero</persName>, <placeName ref="l587">Tigurine</placeName> ecclesie pastori vigilantissimo.</s>
-					<s n="10" xml:lang="la"><placeName ref="l587">Tiguri</placeName>.</s>
+					<s n="9" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Henricho Bullingero</persName>, <placeName ref="l587">Tigurine</placeName> <lb xml:id="p2z2"/>ecclesie pastori vigilantissimo.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p2z3"/><placeName ref="l587">Tiguri</placeName>.</s>
 				</p>
 			</div>
 		</body>

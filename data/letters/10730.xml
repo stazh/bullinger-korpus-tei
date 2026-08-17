@@ -79,73 +79,97 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10730!Autograph!00%20E_II_343__fol__96_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10730/Autograph/00 E_II_343__fol__96_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="266,218 974,175 1074,218 1171,172 1555,215 1629,175 2154,155 2288,203 2512,172 2514,112 1655,112 1472,149 538,103 381,146 269,92">283,179 394,179 506,173 618,169 730,167 842,167 954,164 1065,167 1177,170 1289,170 1401,170 1513,170 1625,167 1737,162 1848,161 1960,158 2072,155 2184,155 2296,158 2408,155 2520,155</zone>
+			<zone xml:id="p1z2-0" points="304,284 662,235 1103,269 1707,226 1979,272 2125,223 2174,255 2297,215 2526,229 2526,166 2196,192 2151,155 1632,175 1558,215 1171,172 1074,215 524,212 470,178 304,218">319,247 429,238 540,238 650,235 761,237 872,232 982,232 1093,232 1204,232 1314,232 1425,232 1536,232 1646,228 1757,226 1868,223 1978,221 2089,220 2200,215 2310,211 2421,210 2532,209</zone>
+			<zone xml:id="p1z3-0" points="318,332 2466,284 2466,238 2300,218 2257,252 2105,223 2073,255 1930,226 1091,269 891,235 318,281">334,304 440,301 547,298 654,298 761,299 868,298 975,295 1082,295 1189,294 1296,292 1403,292 1509,290 1616,289 1723,285 1830,281 1937,280 2044,277 2151,274 2258,274 2365,271 2472,271</zone>
+			<zone xml:id="p1z4-0" points="318,415 538,361 1091,392 1283,344 1463,387 1638,347 2297,367 2357,329 2406,361 2603,329 2603,263 2520,255 2460,295 2145,312 1856,321 1773,284 1466,324 321,329">334,373 447,365 561,360 675,358 789,358 902,355 1016,352 1130,349 1244,346 1357,346 1471,346 1585,343 1699,340 1812,339 1926,335 2040,333 2154,331 2267,327 2381,322 2495,319 2609,319</zone>
+			<zone xml:id="p1z5-0" points="315,475 644,418 968,455 1060,415 1171,450 1647,401 1956,435 2036,392 2119,424 2620,398 2609,315 2408,358 1650,347 1469,384 530,364 318,415">334,435 448,425 563,421 677,418 792,415 906,412 1021,409 1135,408 1250,406 1364,406 1479,403 1593,403 1708,403 1822,397 1937,394 2051,390 2166,388 2280,384 2395,379 2509,373 2624,367</zone>
+			<zone xml:id="p1z6-0" points="321,518 610,478 690,513 928,473 1085,510 1229,470 2033,490 2096,452 2231,495 2480,455 2483,401 1856,435 1647,398 1171,447 1111,415 971,452 696,424 601,461 378,441 321,481">337,507 444,494 552,484 659,476 767,471 874,468 982,470 1089,468 1197,465 1304,465 1412,462 1519,464 1627,463 1734,458 1842,456 1949,453 2057,449 2164,444 2272,438 2379,436 2487,429</zone>
+			<zone xml:id="p1z7-0" points="324,587 756,536 1117,573 1231,533 2552,515 2552,452 2374,447 2245,487 1234,467 1080,507 882,473 828,513 610,484 324,521">340,564 450,549 561,542 672,537 783,533 894,531 1005,530 1116,528 1227,525 1338,523 1449,522 1559,522 1670,522 1781,519 1892,516 2003,514 2114,510 2225,508 2336,507 2447,507 2558,507</zone>
+			<zone xml:id="p1z8-0" points="321,636 2520,573 2523,524 2391,510 324,587">337,624 446,613 555,606 665,602 774,597 884,591 993,591 1103,588 1212,585 1322,582 1431,579 1540,579 1650,576 1759,573 1869,569 1978,567 2088,564 2197,564 2307,561 2416,558 2526,558</zone>
+			<zone xml:id="p1z9-0" points="318,696 1667,673 1973,627 2254,656 2529,624 2532,576 321,633">337,677 447,670 557,663 667,659 777,656 887,653 997,650 1107,650 1217,647 1327,644 1437,641 1547,638 1657,634 1767,631 1877,629 1987,625 2097,624 2207,618 2317,615 2427,610 2537,612</zone>
+			<zone xml:id="p1z10-0" points="304,779 1005,710 1226,750 1355,699 1713,699 1747,736 1884,693 2282,710 2471,679 2474,613 2048,664 1973,624 1667,676 621,673 564,710 306,679">322,752 429,736 537,729 645,725 753,719 861,716 968,710 1076,708 1184,707 1292,704 1400,701 1507,698 1615,698 1723,692 1831,689 1939,686 2046,682 2154,678 2262,673 2370,669 2478,665</zone>
+			<zone xml:id="p1z11-0" points="326,836 495,793 558,830 690,785 1644,796 2615,727 2617,650 2580,641 2351,707 2119,684 1747,736 1355,699 1229,747 1051,710 329,773">346,803 459,795 573,790 687,783 801,778 914,776 1028,770 1142,773 1256,767 1369,764 1483,762 1597,758 1711,755 1824,751 1938,746 2052,742 2166,740 2279,733 2393,725 2507,719 2621,719</zone>
+			<zone xml:id="p1z12-0" points="318,885 790,836 1011,868 1131,839 1186,876 1389,830 2434,819 2566,788 2569,733 1635,796 704,785 558,830 490,790 318,830">334,865 451,854 569,849 687,839 805,836 923,830 1041,830 1158,827 1276,824 1394,821 1512,818 1630,815 1748,812 1865,805 1983,803 2101,797 2219,794 2337,789 2455,781 2573,776</zone>
+			<zone xml:id="p1z13-0" points="326,948 478,911 593,951 742,902 1051,928 1174,885 1458,919 1627,879 1672,911 1985,868 2268,893 2540,859 2543,790 2408,825 1879,810 1833,848 664,842 604,885 326,891">343,919 453,912 563,905 673,900 783,893 893,889 1003,886 1114,886 1224,885 1334,880 1444,877 1554,874 1664,871 1774,868 1885,867 1995,862 2105,859 2215,856 2325,847 2435,842 2546,833</zone>
+			<zone xml:id="p1z14-0" points="335,1002 2391,931 2586,871 1707,911 1621,879 1469,916 1177,882 1054,928 335,939">352,985 469,977 587,969 705,961 823,959 941,952 1059,947 1176,943 1294,940 1412,938 1530,934 1648,934 1766,929 1883,924 2001,920 2119,916 2237,913 2355,906 2473,897 2591,892</zone>
+			<zone xml:id="p1z15-0" points="338,1065 1392,997 1472,1051 1824,991 2368,1005 2506,974 2509,914 338,1008">355,1048 468,1039 582,1033 695,1026 809,1021 923,1014 1036,1009 1150,1003 1264,1000 1377,998 1491,996 1604,994 1718,990 1832,985 1945,981 2059,976 2173,973 2286,970 2400,966 2514,964</zone>
+			<zone xml:id="p1z16-0" points="338,1143 1068,1077 1183,1111 1503,1060 2406,1060 2506,1042 2509,974 341,1065">355,1110 468,1103 582,1098 695,1094 809,1089 923,1082 1036,1077 1150,1072 1264,1068 1377,1063 1491,1059 1604,1055 1718,1051 1832,1046 1945,1039 2059,1036 2173,1033 2286,1030 2400,1026 2514,1024</zone>
+			<zone xml:id="p1z17-0" points="338,1180 1283,1166 1366,1125 1512,1160 1581,1120 1833,1148 1899,1108 2228,1123 2314,1085 2446,1114 2500,1103 2503,1048 1503,1068 1372,1108 1065,1080 338,1143">355,1167 462,1158 570,1156 678,1152 786,1145 894,1140 1001,1139 1109,1135 1217,1131 1325,1128 1433,1125 1540,1118 1648,1114 1756,1110 1864,1105 1972,1098 2079,1094 2187,1090 2295,1085 2403,1081 2511,1080</zone>
+			<zone xml:id="p1z18-0" points="347,1251 859,1206 1071,1237 1495,1180 2096,1197 2162,1157 2297,1188 2506,1166 2509,1097 349,1180">364,1230 471,1223 579,1216 686,1208 794,1204 901,1200 1009,1197 1116,1192 1224,1187 1331,1185 1439,1182 1546,1178 1654,1173 1761,1169 1869,1165 1976,1161 2084,1158 2191,1153 2299,1149 2406,1146 2514,1143</zone>
+			<zone xml:id="p1z19-0" points="347,1314 1194,1303 1317,1260 1372,1297 1452,1254 1781,1303 1879,1243 2411,1272 2466,1257 2471,1163 1246,1194 1071,1234 601,1217 349,1272">361,1298 466,1285 572,1280 678,1271 783,1267 889,1264 995,1260 1100,1257 1206,1255 1312,1251 1418,1247 1523,1243 1629,1237 1735,1233 1840,1230 1946,1227 2052,1224 2157,1221 2263,1221 2369,1214 2475,1203</zone>
+			<zone xml:id="p1z20-0" points="344,1380 1566,1369 1569,1280 1452,1254 1372,1297 1317,1260 1197,1306 945,1283 836,1329 747,1283 596,1332 347,1312">358,1370 418,1364 479,1364 540,1361 601,1354 662,1350 723,1346 784,1346 845,1346 906,1346 967,1342 1027,1340 1088,1340 1149,1337 1210,1332 1271,1325 1332,1323 1393,1319 1454,1315 1515,1311 1576,1310</zone>
+			<zone xml:id="p1z21-0" points="1970,1443 1999,1438 2016,1449 2088,1438 2159,1475 2185,1466 2196,1478 2231,1475 2231,1380 2208,1389 2179,1380 2154,1355 2122,1352 2105,1363 2070,1343 2025,1360 1970,1346">1985,1433 2010,1431 2035,1430 2061,1428 2086,1427 2112,1427 2137,1428 2162,1430 2188,1430 2213,1431 2239,1436</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10730!Autograph!01%20E_II_343__fol__96_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10730/Autograph/01 E_II_343__fol__96_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="931,1023 1042,991 1385,1020 1475,986 1522,1021 1923,1020 1923,952 1798,913 1111,928 1012,893 931,922">937,997 986,991 1035,982 1085,979 1134,979 1184,978 1233,976 1283,978 1332,979 1382,982 1431,979 1480,979 1530,982 1579,982 1629,982 1678,982 1728,982 1777,984 1827,983 1876,982 1926,982</zone>
+			<zone xml:id="p2z2-0" points="984,1137 1085,1089 1281,1108 1541,1069 1632,1101 1813,1075 1940,1119 1969,1052 1786,1016 1346,1051 1255,1012 985,1022">991,1099 1040,1086 1089,1072 1138,1071 1187,1069 1236,1071 1285,1072 1334,1070 1383,1066 1432,1066 1481,1066 1530,1066 1579,1065 1628,1064 1677,1066 1726,1066 1775,1068 1824,1071 1873,1074 1922,1075 1971,1072</zone>
+			<zone xml:id="p2z3-0" points="1147,1216 1260,1166 1349,1208 1506,1163 1890,1164 1891,1115 1772,1079 1460,1143 1150,1078">1155,1158 1191,1158 1228,1158 1265,1158 1302,1158 1339,1158 1376,1158 1413,1158 1450,1156 1487,1154 1524,1151 1560,1149 1597,1149 1634,1149 1671,1149 1708,1148 1745,1146 1782,1149 1819,1149 1856,1151 1893,1161</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Scripseram nuper sub noctem de conventu <placeName ref="l2">Araugię</placeName> servando<note xml:id="fn1" type="footnote" n="1"><persName ref="p1391">Haller</persName> hatte <persName ref="p495">Bullinger</persName> am Vortag mitgeteilt, daß die Einladung zum Theologenkonvent in <placeName ref="l2">Aarau</placeName> zu spät in <placeName ref="l41">Bern</placeName> eingetroffen war, s. oben <ref target="file10728">Nr. 690</ref>.</note>.</s>
 					<s n="3" xml:lang="la">Dubii autem reddebamur, quid faciendum.</s>
-					<s n="4" xml:lang="la">Penitebat nos, si frustra itineris pericula et incommoda vestrates subirent nosque abessemus in negocio tam arduo.</s>
-					<s n="5" xml:lang="la">Misimus ergo 30. novembris nuncium<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> ad <placeName ref="l2">Aroiam</placeName>, ut si illic essent vestri, non discederent, sed expectarent celerrimum <persName ref="p8412">Megandri</persName> adventum, deinde si illic non essetis, nova dies tempestivius indiceretur, quam <placeName ref="l28">Basilienses</placeName> nobiscum inviserent.</s>
+					<s n="4" xml:lang="la"><lb xml:id="p1z2"/>Penitebat nos, si frustra itineris pericula et incommoda vestrates subirent nosque abessemus in negocio <lb xml:id="p1z3"/>tam arduo.</s>
+					<s n="5" xml:lang="la">Misimus ergo 30. novembris nuncium<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> ad <placeName ref="l2">Aroiam</placeName>, ut si illic essent vestri, non discederent, sed ex<lb xml:id="p1z4"/>pectarent celerrimum <persName ref="p8412">Megandri</persName> adventum, deinde si illic non essetis, nova dies tempestivius indiceretur, <lb xml:id="p1z5"/>quam <placeName ref="l28">Basilienses</placeName> nobiscum inviserent.</s>
 					<s n="6" xml:lang="la">Quid futurum sit, nescio.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la">Deinde de <placeName ref="l167">Gebennensibus</placeName> quae habui, festinando descripsi<note xml:id="fn3" type="footnote" n="3">Siehe oben <ref target="file10729">Nr. 691</ref>.</note>, ut nunquam relegerim.</s>
+					<s n="7" xml:lang="la">Deinde de <placeName ref="l167">Gebennensibus</placeName> quae habui, festinando <lb xml:id="p1z6"/>descripsi<note xml:id="fn3" type="footnote" n="3">Siehe oben <ref target="file10729">Nr. 691</ref>.</note>, ut nunquam relegerim.</s>
 					<s n="8" xml:lang="la">Credo tamen te intellexisse.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la">Addidi, ut petebas, de exulibus responsionem<note xml:id="fn4" type="footnote" n="4">Siehe oben <ref target="file10727">Nr. 689</ref>.</note>.</s>
-					<s n="10" xml:lang="la">Si quid interim aliud acciderit aut si quid aliud velis, indica.</s>
+					<s n="10" xml:lang="la"><lb xml:id="p1z7"/>Si quid interim aliud acciderit aut si quid aliud velis, indica.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la">Quod de <placeName ref="l2448">Antroniis</placeName> addideram<note xml:id="fn5" type="footnote" n="5">Siehe oben <ref target="file10729">Nr. 691</ref>, 74f.</note>, ex secretis<note xml:id="fn6" type="footnote" n="6">von den "Heimlichem" (Mitgliedern des Geheimen Rates).</note> est.</s>
-					<s n="12" xml:lang="la">Tu facile apud tuos percontari poteris.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z8"/>Tu facile apud tuos percontari poteris.</s>
 					<s n="13" xml:lang="la">Nunc sit, convenerint sub<note xml:id="fna" type="footnote" n="a"><hi>vor</hi> sub <hi>gestrichenes</hi> urbe.</note> ardente <placeName ref="l300">lucerna</placeName><note xml:id="fn7" type="footnote" n="7">Zum Tag der <placeName ref="l2542">VII Orte</placeName> vom 23. November 1535 in <placeName ref="l300">Luzern</placeName> s. <bibl source="b197">EA</bibl> IV/1c 587f.</note>.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la">De commentariis tuis in reliquas Pauli epistolas nihil addideras<note xml:id="fn8" type="footnote" n="8"><persName ref="p1391">Haller</persName> hatte sich mehrfach danach erkundigt, s. zuletzt oben <ref target="file10714">Nr. 676</ref>, 19.</note>.</s>
+					<s n="14" xml:lang="la">De commentariis <lb xml:id="p1z9"/>tuis in reliquas Pauli epistolas nihil addideras<note xml:id="fn8" type="footnote" n="8"><persName ref="p1391">Haller</persName> hatte sich mehrfach danach erkundigt, s. zuletzt oben <ref target="file10714">Nr. 676</ref>, 19.</note>.</s>
 					<s n="15" xml:lang="la">Thimotheum <persName ref="p8412">Megandri</persName> nondum vidi; nescio, excusus sit necne<note xml:id="fn9" type="footnote" n="9">Der Druck dieses Kommentars von <persName ref="p8412">Megander</persName> (s. oben <ref target="file10625">Nr. 587</ref>, Anm. 9) wurde erst 1536 abgeschlossen.</note>.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la">Articulos concordie<note xml:id="fn10" type="footnote" n="10">Gemeint ist die den <placeName ref="l862">Schweizern</placeName> von <persName ref="p4079">Zwick</persName> zugespielte Konkordienformel, die seit Anfang November 1535 diskutiert wurde; s. oben <ref target="file10711">Nr. 673</ref>, Anm. 12. Wie <persName ref="p495">Bullinger</persName> den Teilnehmern des Konvents in <placeName ref="l2">Aarau</placeName> mitteilte, war <persName ref="p8412">Megander</persName> im Besitz dieses Dokuments; s. Zürich ZB, Ms S 39, 150f.</note> remisi.</s>
-					<s n="17" xml:lang="la">Inter te et me facile conveniret iis verborum ambagibus, quoniam amica charitas defert, quicquid potest, citra fidei dispendium,<pb type="edition" next="452"/> sed num nobis sic liceat concordiam in publicum confiteri, sit conventus fratrum iudicium.</s>
-					<s n="18" xml:lang="la">Unam epistolam semel ad <persName ref="p467">Bucerum</persName> scripsisti, cuius copiam ad me quoque miseras<note xml:id="fn11" type="footnote" n="11"><persName ref="p1391">Haller</persName> hatte <persName ref="p495">Bullingers</persName> Brief an <persName ref="p467">Bucer</persName> vom 28. März 1535 (oben <ref target="file10598">Nr. 562</ref>) schon mehrmals in ähnlicher Weise gewürdigt, s. zuletzt oben <ref target="file10671">Nr. 633</ref>, 6-9.</note>; in ea tam aperta et brevia sunt omnia, ut nihil tale unquam a vobis omnibus acceperim.</s>
+					<s n="16" xml:lang="la"><lb xml:id="p1z10"/>Articulos concordie<note xml:id="fn10" type="footnote" n="10">Gemeint ist die den <placeName ref="l862">Schweizern</placeName> von <persName ref="p4079">Zwick</persName> zugespielte Konkordienformel, die seit Anfang November 1535 diskutiert wurde; s. oben <ref target="file10711">Nr. 673</ref>, Anm. 12. Wie <persName ref="p495">Bullinger</persName> den Teilnehmern des Konvents in <placeName ref="l2">Aarau</placeName> mitteilte, war <persName ref="p8412">Megander</persName> im Besitz dieses Dokuments; s. Zürich ZB, Ms S 39, 150f.</note> remisi.</s>
+					<s n="17" xml:lang="la">Inter te et me facile conveniret iis verborum ambagibus, quoniam amica charitas <lb xml:id="p1z11"/>defert, quicquid potest, citra fidei dispendium,<pb type="edition" next="452"/> sed num nobis sic liceat concordiam in publicum confiteri, sit conventus fratrum iudicium.</s>
+					<s n="18" xml:lang="la"><lb xml:id="p1z12"/>Unam epistolam semel ad <persName ref="p467">Bucerum</persName> scripsisti, cuius copiam ad me quoque miseras<note xml:id="fn11" type="footnote" n="11"><persName ref="p1391">Haller</persName> hatte <persName ref="p495">Bullingers</persName> Brief an <persName ref="p467">Bucer</persName> vom 28. März 1535 (oben <ref target="file10598">Nr. 562</ref>) schon mehrmals in ähnlicher Weise gewürdigt, s. zuletzt oben <ref target="file10671">Nr. 633</ref>, 6-9.</note>; in ea tam aperta et brevia sunt omnia, <lb xml:id="p1z13"/>ut nihil tale unquam a vobis omnibus acceperim.</s>
 					<s n="19" xml:lang="la">Faxit dominus, ut omnia sinceris animis in domini gloriam fiant.</s>
 				</p>
 				<p>
-					<s n="20" xml:lang="la">Aiunt <persName ref="p8127">Pellicanum</persName> meditari registra<note xml:id="fnb" type="footnote" n="b"><hi>in der Vorlage</hi> registrae.</note> in biblia seu novas concordantias, deinde et commentarios in totum novum testamentum<note xml:id="fn12" type="footnote" n="12"><persName ref="p8127">Pellikans</persName> "Index bibliorum" wurde 1535 vollendet (gedruckt 1537), seine Kommentare zum Neuen Testament erschienen 1537/39; vgl. Das Chronikon des Konrad Pellikan. Zur vierten Säkularfeier der Universität Tübingen hg. durch Bernhard Riggenbach, Basel 1877, S. XXVIII. XXXIII. 130.</note>.</s>
+					<s n="20" xml:lang="la">Aiunt <lb xml:id="p1z14"/><persName ref="p8127">Pellicanum</persName> meditari registra<note xml:id="fnb" type="footnote" n="b"><hi>in der Vorlage</hi> registrae.</note> in biblia seu novas concordantias, deinde et commentarios in totum novum testam<lb xml:id="p1z15"/>entum<note xml:id="fn12" type="footnote" n="12"><persName ref="p8127">Pellikans</persName> "Index bibliorum" wurde 1535 vollendet (gedruckt 1537), seine Kommentare zum Neuen Testament erschienen 1537/39; vgl. Das Chronikon des Konrad Pellikan. Zur vierten Säkularfeier der Universität Tübingen hg. durch Bernhard Riggenbach, Basel 1877, S. XXVIII. XXXIII. 130.</note>.</s>
 					<s n="21" xml:lang="la">Qualia hęc, si saltem, futura sint, vel uno verbo significa.</s>
 					<s n="22" xml:lang="la">Video iam lectionum vestrarum diligentiam<note xml:id="fn13" type="footnote" n="13"><persName ref="p1391">Haller</persName> hatte kurz zuvor Nachschriften von Vorlesungen <persName ref="p8171">Theodor Biblianders</persName> erworben, vgl. oben <ref target="file10729">Nr. 691</ref>, 1-11.</note>.</s>
-					<s n="23" xml:lang="la">Qui apud vos sacra discere nolunt, certe stupidi sunt.</s>
+					<s n="23" xml:lang="la"><lb xml:id="p1z16"/>Qui apud vos sacra discere nolunt, certe stupidi sunt.</s>
 				</p>
 				<p>
-					<s n="24" xml:lang="la">De avicula quadam in cavea detenta scripseram<note xml:id="fn14" type="footnote" n="14">Siehe ebd., Z. 79f.</note>, cuius cantum, ubi primum inteliexero, ignorare te non patiar.</s>
-					<s n="25" xml:lang="la">Ex primatibus unus est<note xml:id="fn15" type="footnote" n="15">Nämlich <persName ref="p4314">Antoni Bischoff</persName>, vgl. unten <ref target="file10743">Nr. 705</ref>, 17-22.</note>, qui tantae seditionis incusatur, ut si voti compos factus esset, miram omnium rerum vidisses mutationem.</s>
+					<s n="24" xml:lang="la">De avicula quadam in cavea detenta scripseram<note xml:id="fn14" type="footnote" n="14">Siehe ebd., Z. 79f.</note>, <lb xml:id="p1z17"/>cuius cantum, ubi primum inteliexero, ignorare te non patiar.</s>
+					<s n="25" xml:lang="la">Ex primatibus unus est<note xml:id="fn15" type="footnote" n="15">Nämlich <persName ref="p4314">Antoni Bischoff</persName>, vgl. unten <ref target="file10743">Nr. 705</ref>, 17-22.</note>, qui tantae seditionis incusatur, ut si voti <lb xml:id="p1z18"/>compos factus esset, miram omnium rerum vidisses mutationem.</s>
 					<s n="26" xml:lang="la">Homo, ni fallor, tibi cognitus est.</s>
 				</p>
 				<p>
-					<s n="27" xml:lang="la">Vides nunc me egregie diluere notam insignis illius inertię et pigricię, quam mihi non immerito impingere volebas.</s>
+					<s n="27" xml:lang="la">Vides nunc me <lb xml:id="p1z19"/>egregie diluere notam insignis illius inertię et pigricię, quam mihi non immerito impingere volebas.</s>
 				</p>
 				<p>
-					<s n="28" xml:lang="la" ana="farewell">Rursum vale.</s>
+					<s n="28" xml:lang="la" ana="farewell">Rursum <lb xml:id="p1z20"/>vale.</s>
 				</p>
 				<p>
 					<s n="29" xml:lang="la">30. novembris, hora 11. antemeridiana.</s>
 				</p>
 				<p>
-					<s n="30" xml:lang="la">Tuus <persName ref="p1391">Berch. H.</persName></s>
+					<s n="30" xml:lang="la">Tuus <lb xml:id="p1z21"/><persName ref="p1391">Berch. H.</persName></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="31" xml:lang="de">An Meister <persName ref="p495">Heinrich Bullinger</persName>, [predicanten]<note xml:id="fnc" type="footnote" n="c"><hi>Adresse teilweise abgeschnitten.</hi></note> ze <placeName ref="l587">Zürich</placeName>, sinem insunders ge[liepten]<note xml:id="fnd" type="footnote" n="d"><hi>Adresse teilweise abgeschnitten.</hi></note> herren und bruͦder.</s>
+					<s n="31" xml:lang="de"><pb/><lb xml:id="p2z1"/>An Meister <persName ref="p495">Heinrich Bullinger</persName>, [predicanten]<note xml:id="fnc" type="footnote" n="c"><hi>Adresse teilweise abgeschnitten.</hi></note> <lb xml:id="p2z2"/>ze <placeName ref="l587">Zürich</placeName>, sinem insunders ge[liepten]<note xml:id="fnd" type="footnote" n="d"><hi>Adresse teilweise abgeschnitten.</hi></note> <lb xml:id="p2z3"/>herren und bruͦder.</s>
 				</p>
 			</div>
 		</body>

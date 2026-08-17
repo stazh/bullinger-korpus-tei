@@ -73,6 +73,12 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5999!Autograph!00%20E_II_441__fol__702_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">5999/Autograph/00 E_II_441__fol__702_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="182,233 886,252 1365,204 1589,235 1656,217 1657,119 1494,169 1290,127 1022,178 900,118 689,160 549,127 424,191 182,162">192,214 265,213 338,210 412,210 485,210 559,206 632,204 706,204 779,204 853,202 926,201 999,200 1073,199 1146,198 1220,201 1293,202 1367,202 1440,202 1514,202 1587,205 1661,206</zone>
+			<zone xml:id="p1z2-0" points="211,307 1652,294 1624,239 1356,213 924,230 867,268 211,228">222,300 293,298 365,298 437,296 509,292 580,290 652,289 724,286 796,284 867,283 939,282 1011,280 1083,278 1154,278 1226,278 1298,276 1370,279 1441,280 1513,280 1585,282 1657,286</zone>
+			<zone xml:id="p1z3-0" points="217,413 1101,356 1444,366 1558,412 1676,397 1678,312 1272,288 1104,327 974,287 483,344 379,300 314,340 219,323">228,384 300,380 373,377 445,374 518,374 591,371 663,368 736,368 809,366 881,363 954,364 1027,360 1099,358 1172,358 1245,358 1317,360 1390,360 1463,363 1535,364 1608,366 1681,374</zone>
+			<zone xml:id="p1z4-0" points="197,480 1606,454 1606,390 1498,380 814,419 445,386 311,447 198,397">206,474 276,466 346,464 416,460 487,457 557,454 627,450 697,451 768,448 838,446 908,445 978,442 1049,442 1119,443 1189,438 1259,437 1330,438 1400,440 1470,436 1540,438 1611,444</zone>
+			<zone xml:id="p1z5-0" points="206,582 590,537 684,579 948,529 1611,555 1613,481 1474,503 1251,459 208,511">216,560 286,555 356,550 426,546 496,543 566,538 636,536 706,533 776,530 846,530 916,528 986,526 1056,528 1126,528 1196,526 1266,525 1336,526 1406,526 1476,529 1546,528 1617,532</zone>
+			<zone xml:id="p1z6-0" points="209,645 408,684 544,630 792,667 832,632 1007,617 1150,665 1152,560 691,584 390,557 209,619">220,642 266,639 313,638 360,634 407,632 453,627 500,626 547,624 594,622 640,622 687,619 734,618 781,616 827,616 874,616 921,616 968,616 1014,617 1061,620 1108,623 1155,626</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!5999!Autograph!01%20E_II_441__fol__702_v_.tif/full/max/0/default.jpg" n="2">
@@ -84,7 +90,7 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la">Si retineri posset in <placeName ref="l648">Rhetia</placeName> d. <persName ref="p4037">Zanchus</persName>, vir in rebus ecclesiae utilissimus et toti <placeName ref="l648">Rhetiae</placeName> necessarius, prudentissime et optime fieret; sed oportebat provideri viro tanto, ne indigeret re ulla etc.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Si retineri posset in <placeName ref="l648">Rhetia</placeName> d. <lb xml:id="p1z2"/><persName ref="p4037">Zanchus</persName>, vir in rebus ecclesiae utilissimus <lb xml:id="p1z3"/>et toti <placeName ref="l648">Rhetiae</placeName> necessarius, pr<lb xml:id="p1z4"/>udentissime et optime fieret; sed <lb xml:id="p1z5"/>oportebat provideri viro tanto, ne <lb xml:id="p1z6"/>indigeret re ulla etc.</s>
 				</p>
 				<p>
 					<note>[Zettel ohne Datum, Unterschrift und Adresse.]</note>

@@ -79,11 +79,26 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10179!Autograph!00%20E_II_343__fol__41_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">10179/Autograph/00 E_II_343__fol__41_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="295,203 553,179 702,214 808,168 1201,214 1528,179 2336,217 2466,206 2466,138 2122,117 2030,163 1732,92 1382,89 1087,141 946,103 862,144 580,146 293,95">310,176 418,176 526,174 634,172 742,170 850,170 958,167 1066,167 1174,171 1282,173 1391,173 1499,176 1607,176 1715,177 1823,181 1931,182 2039,185 2147,185 2255,188 2363,191 2472,194</zone>
+			<zone xml:id="p1z2-0" points="336,263 2442,263 2442,201 2374,195 336,201">352,244 456,239 561,235 666,235 771,233 876,232 980,232 1085,232 1190,235 1295,235 1400,235 1504,235 1609,237 1714,235 1819,235 1924,238 2028,238 2133,238 2238,238 2343,238 2448,238</zone>
+			<zone xml:id="p1z3-0" points="339,304 428,339 612,293 732,333 840,298 965,331 2450,312 2450,268 2360,247 1959,274 1916,233 1642,274 1396,241 339,260">355,292 465,291 575,292 686,292 796,292 907,294 1017,295 1128,293 1238,295 1349,293 1459,295 1570,295 1680,295 1791,292 1901,294 2012,295 2122,295 2233,295 2343,293 2454,289</zone>
+			<zone xml:id="p1z4-0" points="336,377 1480,360 1650,404 1783,363 2482,366 2463,301 2404,333 2144,295 2057,331 528,301 420,333 336,298">352,358 458,352 565,355 672,355 779,355 886,355 993,353 1100,352 1207,355 1314,355 1421,355 1527,355 1634,358 1741,358 1848,356 1955,355 2062,355 2169,352 2276,352 2383,350 2490,352</zone>
+			<zone xml:id="p1z5-0" points="347,442 2379,444 2458,423 2461,366 350,379">361,421 466,415 571,415 676,412 782,412 887,412 992,412 1097,412 1203,412 1308,412 1413,414 1518,415 1624,415 1729,415 1834,412 1939,412 2045,412 2150,409 2255,408 2360,406 2466,403</zone>
+			<zone xml:id="p1z6-0" points="347,512 675,472 924,512 1019,477 1279,512 1401,480 2458,493 2458,436 2293,412 1905,453 1835,420 1406,458 859,417 347,444">361,480 466,476 571,474 676,471 781,472 886,471 991,471 1096,471 1201,474 1306,474 1412,477 1517,477 1622,476 1727,476 1832,474 1937,474 2042,474 2147,468 2252,465 2357,460 2463,459</zone>
+			<zone xml:id="p1z7-0" points="358,585 778,534 2474,542 2474,469 1970,512 1794,477 1724,512 358,507">373,549 478,539 583,537 689,534 794,533 900,531 1005,531 1110,531 1216,531 1321,531 1427,531 1532,533 1637,531 1743,533 1848,531 1954,531 2059,531 2164,525 2270,525 2375,522 2481,516</zone>
+			<zone xml:id="p1z8-0" points="347,648 512,650 602,596 710,642 799,599 870,631 984,602 1038,645 1211,599 1366,645 1447,593 1661,629 2089,596 2127,634 2317,593 2523,623 2523,558 2436,528 2133,569 1206,531 350,583">364,618 472,606 580,597 689,591 797,591 905,591 1014,594 1122,591 1230,591 1339,590 1447,590 1555,592 1664,591 1772,591 1880,593 1989,594 2097,591 2205,589 2314,588 2422,583 2531,579</zone>
+			<zone xml:id="p1z9-0" points="339,688 1087,650 1550,702 1930,659 2043,718 2217,656 2444,683 2428,593 1965,634 1482,596 1379,634 799,599 748,634 610,596 339,648">355,671 459,666 564,659 669,656 774,653 879,653 983,651 1088,650 1193,653 1298,653 1403,651 1507,647 1612,650 1717,650 1822,653 1927,654 2031,654 2136,650 2241,647 2346,642 2451,635</zone>
+			<zone xml:id="p1z10-0" points="336,764 477,734 591,778 1079,780 1141,740 1463,743 1463,659 1314,699 1003,661 336,686">352,731 407,731 463,729 519,726 575,728 631,724 687,722 742,722 798,719 854,722 910,722 966,722 1022,722 1078,722 1133,722 1189,722 1245,725 1301,721 1357,719 1413,719 1469,719</zone>
+			<zone xml:id="p1z11-0" points="1791,878 1864,862 1902,881 1930,859 2014,854 2065,870 2089,846 2211,881 2252,846 2312,854 2314,756 2271,743 2103,802 1978,745 1935,770 1794,756">1806,853 1831,853 1857,851 1882,849 1908,848 1934,847 1959,847 1985,845 2011,844 2036,843 2062,842 2088,842 2113,841 2139,839 2165,839 2190,839 2216,839 2242,838 2267,837 2293,836 2319,836</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!10179!Autograph!01%20E_II_343__fol__41_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">10179/Autograph/01 E_II_343__fol__41_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="177,155 861,107 1018,151 1440,130 1440,63 1387,86 1269,30 1114,64 935,0 562,5 398,80 329,27 179,88">188,140 250,129 313,120 376,120 438,122 501,119 564,119 626,117 689,115 752,113 815,110 877,110 940,112 1003,116 1065,116 1128,110 1191,110 1253,110 1316,106 1379,106 1442,107</zone>
+			<zone xml:id="p2z2-0" points="758,1335 1136,1333 1191,1308 1290,1324 1300,1180 1164,1208 1106,1170 932,1228 769,1197">767,1335 793,1331 819,1327 846,1323 872,1320 899,1317 925,1315 952,1313 978,1311 1005,1311 1031,1311 1057,1309 1084,1306 1110,1303 1137,1299 1163,1296 1190,1294 1216,1292 1243,1288 1269,1287 1296,1287</zone>
+			<zone xml:id="p2z3-0" points="739,1495 819,1475 904,1421 1017,1431 1073,1407 1246,1406 1250,1346 1178,1322 1108,1338 1067,1322 1009,1359 933,1373 864,1351 750,1365">752,1427 778,1424 804,1421 830,1419 857,1417 883,1416 909,1414 935,1412 962,1411 988,1410 1014,1408 1040,1404 1067,1399 1093,1397 1119,1395 1145,1393 1172,1391 1198,1387 1224,1385 1251,1383</zone>
+			<zone xml:id="p2z4-0" points="822,1541 984,1572 1126,1501 1239,1492 1246,1442 1051,1435 963,1473 911,1470 893,1453 830,1468">833,1520 858,1518 884,1514 910,1514 936,1513 961,1510 987,1507 1013,1503 1039,1501 1064,1499 1090,1496 1116,1492 1142,1487 1167,1482 1193,1479 1219,1477 1245,1475</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -91,24 +106,24 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">Gratiam et pacem a domino.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>Gratiam et pacem a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la">Ad nundinas nostras martinianas scribunt <persName ref="p8418">Miconius</persName> et <persName ref="p3099">Sultzerus</persName> noster<note xml:id="fn2" type="footnote" n="2">Der Brief scheint nicht erhalten zu sein.</note>, quis sit non solum rumor, sed et fama apud eos, nempe, cum in extendendo imperio suo <placeName ref="l2448">Immontanos</placeName><note xml:id="fn3" type="footnote" n="3">Die <placeName ref="l2448">V Orte</placeName>.</note> totos esse constet, non solum communis ditionis<note xml:id="fn4" type="footnote" n="4">der Gemeinen Herrschaften.</note> partem subigere sibi proposuisse, sed et lacum <placeName ref="l587">Tigurinum</placeName> et <placeName ref="l41">Bernatium</placeName> superiorum vallium partem Iacubus adiacentem, atque id molituros esse non aperte, sed conspirationibus clanculariis<note xml:id="fn5" type="footnote" n="5">Zur gespannten Atmosphäre und zu ähnlichen Gerüchten im November 1532 vgl. ASchweizerRef IV 1984; <bibl source="b292">HBRG</bibl> III 330f; <bibl source="b483">Pestalozzi</bibl> 113f. Zum Mandatstreit s. unten <ref target="file10196">[Nr. 165]</ref> S. 288f, Anm. 7.</note>.</s>
-					<s n="3" xml:lang="la">Hoc igitur ubi ignoraveris, te monuisse velim, non quod verear facto nefandum facinus aggressuros, nisi ea sit virga, qua dominus e cęlo minatur, sed ut accuratius consilia quorundam notentur, qui sibi videntur patrię patres.</s>
-					<s n="4" xml:lang="la">Nos apud privatos, quibus erat credendum, ęgimus, quae potuimus, id quod te quoque facturum minime dubito.</s>
+					<s n="2" xml:lang="la">Ad nundinas nostras martinianas scribunt <persName ref="p8418">Miconius</persName> <lb xml:id="p1z2"/>et <persName ref="p3099">Sultzerus</persName> noster<note xml:id="fn2" type="footnote" n="2">Der Brief scheint nicht erhalten zu sein.</note>, quis sit non solum rumor, sed et fama apud eos, nempe, cum in <lb xml:id="p1z3"/>extendendo imperio suo <placeName ref="l2448">Immontanos</placeName><note xml:id="fn3" type="footnote" n="3">Die <placeName ref="l2448">V Orte</placeName>.</note> totos esse constet, non solum communis ditionis<note xml:id="fn4" type="footnote" n="4">der Gemeinen Herrschaften.</note> partem subigere <lb xml:id="p1z4"/>sibi proposuisse, sed et lacum <placeName ref="l587">Tigurinum</placeName> et <placeName ref="l41">Bernatium</placeName> superiorum vallium partem Iacubus adiacentem, <lb xml:id="p1z5"/>atque id molituros esse non aperte, sed conspirationibus clanculariis<note xml:id="fn5" type="footnote" n="5">Zur gespannten Atmosphäre und zu ähnlichen Gerüchten im November 1532 vgl. ASchweizerRef IV 1984; <bibl source="b292">HBRG</bibl> III 330f; <bibl source="b483">Pestalozzi</bibl> 113f. Zum Mandatstreit s. unten <ref target="file10196">[Nr. 165]</ref> S. 288f, Anm. 7.</note>.</s>
+					<s n="3" xml:lang="la">Hoc igitur ubi ignoraveris, te <lb xml:id="p1z6"/>monuisse velim, non quod verear facto nefandum facinus aggressuros, nisi ea sit virga, <lb xml:id="p1z7"/>qua dominus e cęlo minatur, sed ut accuratius consilia quorundam notentur, qui sibi videntur <lb xml:id="p1z8"/>patrię patres.</s>
+					<s n="4" xml:lang="la">Nos apud privatos, quibus erat credendum, ęgimus, quae potuimus, id quod <lb xml:id="p1z9"/>te quoque facturum minime dubito.</s>
 					<s n="5" xml:lang="la">Caeterum salvi sitis omnes.</s>
-					<s n="6" xml:lang="la">Scribe, quoties ocium permittat negociumque exigat.</s>
+					<s n="6" xml:lang="la">Scribe, quoties ocium <lb xml:id="p1z10"/>permittat negociumque exigat.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="de">12. novembris.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la">Tuum minimum nummisma.</s>
+					<s n="8" xml:lang="la"><lb xml:id="p1z11"/>Tuum minimum nummisma<pb/><lb xml:id="p2z1"/>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="la"><persName ref="p495">Heinrico Bullingero</persName>, fratri suo charissimo.</s>
+					<s n="9" xml:lang="la"><lb xml:id="p2z2"/><persName ref="p495">Heinrico Bullingero</persName>, <lb xml:id="p2z3"/>fratri suo <lb xml:id="p2z4"/>charissimo.</s>
 				</p>
 			</div>
 		</body>

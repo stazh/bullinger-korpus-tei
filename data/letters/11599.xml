@@ -78,11 +78,20 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11599!Autograph!00%20E_II_364__fol__28_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11599/Autograph/00 E_II_364__fol__28_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="470,666 605,582 675,633 811,605 1238,668 2215,603 2215,537 2114,556 1990,470 1549,493 1364,563 1126,460 927,500 470,472">483,602 569,593 656,596 743,596 830,596 917,599 1004,599 1090,602 1177,601 1264,602 1351,605 1438,604 1525,602 1612,599 1698,598 1785,596 1872,596 1959,593 2046,593 2133,593 2220,584</zone>
+			<zone xml:id="p1z2-0" points="500,752 710,797 853,729 1128,787 1374,748 1437,785 1659,731 2378,771 2378,675 2252,633 2026,680 1827,631 1238,668 1021,631 874,680 706,642 500,689">513,737 606,734 699,731 793,730 886,728 980,730 1073,727 1166,728 1260,728 1353,725 1447,725 1540,722 1633,722 1727,721 1820,719 1914,721 2007,719 2100,722 2194,722 2287,722 2381,725</zone>
+			<zone xml:id="p1z3-0" points="505,890 766,874 825,916 1119,855 1663,888 1724,841 1890,841 2070,913 2306,913 2308,766 2276,759 2037,806 1733,762 1668,808 1514,766 1110,771 720,829 507,750">519,862 608,859 698,856 788,856 878,856 968,853 1057,853 1147,850 1237,850 1327,847 1417,841 1506,841 1596,841 1686,841 1776,838 1866,838 1955,841 2045,835 2135,838 2225,838 2315,835</zone>
+			<zone xml:id="p1z4-0" points="500,1100 776,1126 942,1065 1063,1096 1299,1061 1535,1114 1990,1040 2166,1063 2170,958 2030,916 1937,965 1589,927 1325,1016 965,991 829,932 692,1000 505,984">516,1086 603,1080 690,1075 777,1069 865,1064 952,1060 1039,1057 1127,1054 1214,1053 1301,1052 1389,1047 1476,1047 1563,1044 1651,1041 1738,1040 1825,1035 1913,1035 2000,1032 2087,1029 2175,1029</zone>
+			<zone xml:id="p1z5-0" points="986,1217 1005,1215 1033,1236 1075,1229 1098,1243 1112,1234 1133,1243 1177,1220 1271,1234 1273,1131 1220,1119 1114,1175 1058,1159 1044,1168 1014,1147 986,1154">999,1208 1024,1206 1049,1203 1074,1201 1100,1199 1125,1199 1150,1199 1175,1199 1201,1199 1226,1199 1251,1199 1277,1199</zone>
+			<zone xml:id="p1z6-0" points="1593,1514 1638,1540 1738,1507 1895,1528 2019,1472 2278,1486 2285,1341 2261,1327 2149,1360 2070,1334 1792,1404 1701,1406 1603,1364">1608,1510 1641,1510 1675,1505 1709,1491 1743,1492 1776,1494 1810,1495 1844,1494 1878,1489 1911,1489 1945,1486 1979,1483 2013,1483 2046,1481 2080,1479 2114,1476 2148,1474 2181,1472 2215,1470 2249,1468 2283,1468</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11599!Autograph!01%20E_II_364__fol__28_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11599/Autograph/01 E_II_364__fol__28_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1137,1465 1239,1462 1306,1499 1406,1464 1564,1500 1773,1459 1922,1501 1968,1486 1970,1390 1879,1404 1744,1368 1620,1405 1541,1382 1423,1422 1344,1390 1254,1423 1139,1368">1143,1453 1184,1454 1225,1456 1267,1455 1308,1453 1350,1453 1391,1453 1433,1450 1474,1450 1516,1450 1557,1450 1598,1446 1640,1444 1681,1445 1723,1446 1764,1444 1806,1444 1847,1443 1889,1441 1930,1441 1972,1441</zone>
+			<zone xml:id="p2z2-0" points="1153,1597 1298,1629 1451,1560 1715,1603 1902,1559 1903,1503 1832,1477 1677,1540 1154,1504">1158,1560 1195,1556 1232,1554 1269,1554 1307,1552 1344,1551 1381,1551 1419,1551 1456,1551 1493,1551 1531,1551 1568,1550 1605,1549 1642,1551 1680,1551 1717,1551 1754,1549 1792,1548 1829,1547 1866,1546 1904,1546</zone>
+			<zone xml:id="p2z3-0" points="1179,1712 1281,1724 1351,1689 1619,1696 1653,1675 1725,1698 1725,1636 1597,1642 1521,1608 1489,1630 1365,1600 1278,1640 1179,1635">1184,1665 1211,1663 1238,1662 1265,1662 1292,1662 1320,1662 1347,1662 1374,1662 1401,1662 1428,1662 1456,1662 1483,1662 1510,1663 1537,1665 1564,1665 1592,1665 1619,1665 1646,1665 1673,1665 1700,1665 1728,1665</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
@@ -90,18 +99,18 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
 					<s n="2" xml:lang="la">Heri frater rediit<note xml:id="fn2" type="footnote" n="2"><persName ref="p4082">Konrad Zwick</persName> hatte <placeName ref="l257">Konstanz</placeName> am Reichstag zu <placeName ref="l410">Regensburg</placeName> vertreten (vgl. oben <ref target="file11569">Nr. 1526</ref>, Anm. 3); das genaue Datum seiner Rückkehr ist nicht bekannt.</note>.</s>
-					<s n="3" xml:lang="la">Relationem senatui non fecit adhuc.</s>
-					<s n="4" xml:lang="la">Qua facta etiam nos sciemus certa, quae te non celabo tabellione proximo.</s>
+					<s n="3" xml:lang="la">Relationem senatui <lb xml:id="p1z2"/>non fecit adhuc.</s>
+					<s n="4" xml:lang="la">Qua facta etiam nos sciemus <lb xml:id="p1z3"/>certa, quae te non celabo tabellione proximo.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la">De <persName ref="p1365">Grynei</persName> obitu<note xml:id="fn3" type="footnote" ana="bio" n="3">Zum Tod von <persName ref="p1365">Simon Grynäus</persName> vgl. oben <ref target="file11595">Nr. 1552</ref>, Anm. b.</note> omnes sumus consternati.</s>
-					<s n="6" xml:lang="la">Tuus <persName ref="p4079">Io. Zvick</persName>.</s>
+					<s n="5" xml:lang="la"><lb xml:id="p1z4"/>De <persName ref="p1365">Grynei</persName> obitu<note xml:id="fn3" type="footnote" ana="bio" n="3">Zum Tod von <persName ref="p1365">Simon Grynäus</persName> vgl. oben <ref target="file11595">Nr. 1552</ref>, Anm. b.</note> omnes sumus consternati.</s>
+					<s n="6" xml:lang="la"><lb xml:id="p1z5"/>Tuus <lb xml:id="p1z6"/><persName ref="p4079">Io. Zvick</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="7" xml:lang="la">Domino <persName ref="p495">Hainricho Bullingero</persName>, <placeName ref="l803">Tigurinae</placeName> ecclesię pastori vigilantissimo.</s>
+					<s n="7" xml:lang="la"><pb/><lb xml:id="p2z1"/>Domino <persName ref="p495">Hainricho Bullingero</persName>, <lb xml:id="p2z2"/><placeName ref="l803">Tigurinae</placeName> ecclesię pastori <lb xml:id="p2z3"/>vigilantissimo.</s>
 				</p>
 			</div>
 		</body>

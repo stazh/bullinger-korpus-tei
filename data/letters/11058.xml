@@ -79,53 +79,70 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11058!Autograph!00%20E_II_351__fol__179_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11058/Autograph/00 E_II_351__fol__179_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="510,199 646,237 1126,180 1184,224 1525,188 1636,229 1953,194 2032,240 2081,205 2280,237 2599,210 2599,112 2485,82 2359,136 2212,98 1942,153 1244,87 1053,145 993,104 644,145 510,101">525,199 629,194 733,187 837,182 941,179 1045,176 1149,176 1253,176 1357,179 1461,183 1566,186 1670,190 1774,192 1878,192 1982,193 2086,193 2190,193 2294,193 2398,193 2502,193 2607,196</zone>
+			<zone xml:id="p1z2-0" points="546,284 944,248 1225,284 1326,245 1369,278 1596,251 1724,300 2220,267 2433,303 2588,256 2586,199 2280,237 2215,202 1636,229 1091,183 546,229">560,265 661,256 763,250 865,243 967,239 1069,238 1170,238 1272,239 1374,241 1476,244 1578,247 1679,249 1781,252 1883,253 1985,253 2087,253 2188,256 2290,256 2392,256 2494,256 2596,256</zone>
+			<zone xml:id="p1z3-0" points="412,338 488,371 685,322 1301,303 1388,344 1920,319 2043,355 2141,322 2343,363 2384,322 2597,344 2594,254 2490,300 2337,265 2247,297 1615,254 1473,284 1219,237 736,295 409,265">426,325 534,325 643,318 752,311 861,304 969,299 1078,298 1187,298 1296,301 1404,302 1513,304 1622,307 1731,310 1839,316 1948,314 2057,316 2166,319 2274,319 2383,319 2492,320 2601,319</zone>
+			<zone xml:id="p1z4-0" points="409,420 573,390 685,431 824,371 1064,360 2422,423 2588,385 2588,341 2474,327 2343,360 2136,319 1503,344 1301,300 674,360 586,330 494,374 409,338">423,399 531,390 640,380 748,373 857,366 965,361 1074,361 1182,358 1291,358 1399,359 1508,363 1616,365 1725,369 1833,372 1942,373 2050,375 2159,378 2267,378 2376,378 2484,382 2593,375</zone>
+			<zone xml:id="p1z5-0" points="412,488 581,491 630,450 955,477 1143,420 1315,458 1440,425 2007,472 2111,439 2599,458 2599,371 2504,415 2286,415 1146,360 412,420">426,462 535,448 644,441 753,433 862,426 971,422 1080,417 1189,417 1298,417 1407,420 1516,422 1625,426 1734,426 1843,429 1952,429 2061,431 2170,432 2279,432 2388,432 2497,432 2607,429</zone>
+			<zone xml:id="p1z6-0" points="393,532 616,559 1034,499 1083,537 1178,491 1462,540 1784,494 1838,537 2018,502 2174,540 2239,496 2482,540 2580,502 2580,469 2430,439 2005,472 1636,425 1456,464 1146,417 966,472 761,439 393,491">408,525 522,514 637,507 752,504 866,493 981,492 1096,487 1210,486 1325,485 1440,487 1554,489 1669,492 1784,492 1898,492 2013,495 2128,495 2242,493 2357,492 2472,492 2587,489</zone>
+			<zone xml:id="p1z7-0" points="393,608 1116,565 1350,608 1486,562 2264,606 2558,565 2558,510 2245,499 2163,540 2002,502 1838,537 1787,494 1538,535 1132,499 1075,537 1031,496 927,543 848,507 750,548 393,535">408,593 515,580 623,573 731,569 839,565 947,560 1055,557 1163,555 1271,552 1379,552 1487,552 1594,554 1702,555 1810,557 1918,556 2026,557 2134,557 2242,559 2350,557 2458,557 2566,555</zone>
+			<zone xml:id="p1z8-0" points="395,676 794,641 876,682 952,633 1467,674 1582,625 1702,668 2095,619 2542,646 2542,584 2455,567 2187,603 1912,565 1366,603 761,570 660,616 398,611">411,653 517,639 624,635 731,629 838,626 945,625 1052,623 1158,620 1265,620 1372,620 1479,620 1586,617 1693,617 1800,618 1906,618 2013,617 2120,618 2227,620 2334,619 2441,614 2548,608</zone>
+			<zone xml:id="p1z9-0" points="398,723 2575,682 2575,638 2378,619 2231,655 1296,663 1208,630 1159,663 949,633 892,668 851,636 401,676">414,713 522,707 630,698 739,695 847,692 955,689 1064,689 1172,686 1280,683 1389,685 1497,683 1605,680 1714,678 1822,677 1930,677 2039,674 2147,673 2255,671 2364,668 2472,665 2581,662</zone>
+			<zone xml:id="p1z10-0" points="387,791 1737,734 2280,794 2572,731 2572,682 2425,666 2324,701 1735,709 1675,676 1631,715 1544,682 1366,720 390,717">402,766 510,760 619,753 728,749 837,745 946,743 1054,742 1163,740 1272,739 1381,737 1490,735 1598,734 1707,731 1816,731 1925,728 2034,725 2142,723 2251,722 2360,719 2469,716 2578,710</zone>
+			<zone xml:id="p1z11-0" points="363,848 813,818 897,873 1026,876 1137,805 1620,854 1956,829 1958,761 1045,745 363,794">378,817 457,817 536,814 615,811 695,806 774,805 853,804 932,799 1012,799 1091,796 1170,796 1249,796 1329,796 1408,793 1487,790 1566,787 1646,787 1725,788 1804,787 1883,788 1963,787</zone>
+			<zone xml:id="p1z12-0" points="1784,911 1830,933 1860,908 1967,933 1988,916 2046,952 2196,906 2239,933 2321,919 2324,848 2297,837 2182,873 2138,832 2081,818 1887,884 1857,856 1787,848">1799,904 1825,906 1851,907 1878,907 1904,907 1931,907 1957,907 1983,906 2010,904 2036,902 2063,901 2089,901 2115,900 2142,898 2168,898 2195,898 2221,896 2247,894 2274,893 2300,893 2327,895</zone>
+			<zone xml:id="p1z13-0" points="1800,982 1871,985 1898,1012 2013,998 2051,971 2081,998 2149,968 2204,990 2261,960 2329,963 2329,914 2234,933 2196,906 2073,936 2043,919 2024,938 1986,914 1964,933 1800,919">1814,969 1841,963 1868,965 1895,965 1923,963 1950,963 1977,963 2005,961 2032,960 2059,960 2087,960 2114,960 2141,960 2169,959 2196,957 2223,955 2251,954 2278,954 2305,953 2333,951</zone>
+			<zone xml:id="p1z14-0" points="1789,1058 1926,1075 1958,1050 1991,1064 2027,1050 2062,1077 2144,1064 2174,1080 2250,1050 2280,1064 2283,960 2174,990 2122,971 2095,998 2051,974 1969,1006 1953,990 1896,1006 1792,985">1805,1026 1830,1028 1856,1028 1881,1026 1907,1025 1932,1023 1958,1023 1984,1023 2009,1023 2035,1022 2060,1020 2086,1020 2111,1020 2137,1020 2163,1020 2188,1018 2214,1017 2239,1017 2265,1017 2291,1017</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11058!Autograph!01%20E_II_351__fol__179_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11058/Autograph/01 E_II_351__fol__179_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="1131,621 1385,617 1535,652 1584,624 1635,644 1701,626 1795,661 1853,642 1852,589 1807,583 1570,591 1476,548 1271,583 1130,557">1136,617 1173,617 1211,617 1249,617 1287,617 1325,617 1363,617 1400,617 1438,617 1476,617 1514,617 1552,617 1590,617 1627,617 1665,617 1703,617 1741,619 1779,619 1817,618 1855,623</zone>
+			<zone xml:id="p2z2-0" points="1125,715 1392,681 1583,723 1616,699 1645,723 1693,688 1824,694 1824,646 1761,659 1730,635 1694,656 1585,623 1467,656 1330,632 1239,661 1166,617 1125,624">1130,683 1164,677 1199,677 1234,677 1269,679 1303,680 1338,680 1373,680 1408,678 1442,677 1477,677 1512,677 1547,677 1581,677 1616,677 1651,677 1686,677 1720,677 1755,677 1790,677 1825,677</zone>
+			<zone xml:id="p2z3-0" points="1411,761 1565,759 1622,784 1727,797 1793,779 1795,725 1719,690 1664,720 1612,702 1583,723 1521,703 1412,730">1417,748 1442,748 1467,748 1492,747 1518,743 1543,741 1568,739 1593,739 1619,739 1644,739 1669,739 1694,739 1720,738 1745,736 1770,739 1796,742</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de">Die gnad gottes mitt uns.</s>
+					<s n="1" xml:lang="de"><lb xml:id="p1z1"/>Die gnad gottes mitt uns.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de">Fürgliepter herr und güner, wist unssern wolstandt<note xml:id="fn1" type="footnote" ana="lex" n="1">Wohlergehen.</note>, gott syg lob, der uns mitt frid har belaitett hat etc<note xml:id="fn2" type="footnote" ana="bio" n="2"><persName ref="p8071">Vogler</persName> war von Graf <persName ref="p8098">Georg von Württemberg</persName> als Schaffner nach <placeName ref="l411">Reichenweier</placeName> berufen worden (vgl. <persName ref="p8098">Graf Georgs</persName> Bitte vom 14. April 1537, <placeName ref="l587">Zürich</placeName> möge <persName ref="p8071">Vogler</persName> freigeben; Zürich StA, A 195. 1, <ref target="file10261">Nr. 230</ref>). Etwa sechs Wochen nach dem Georgstag 1537, d. h. Anfang Juli, sei er mit Frau und Kind nach <placeName ref="l411">Reichenweier</placeName> gezogen, notierte <persName ref="p8071">Vogler</persName> in sein Familienbuch (vgl. Zürich ZB, Ms S 318, 12).</note>., und früntlichen empfangen, ain grossen palast ingeben, aber wenig cost nochmaln, doch guͦtt <placeName ref="l632">Elsässer</placeName>, dann mir die wal glassen in m[ines] g[nedigen] h[erren]<note xml:id="fn3" type="footnote" n="3">Graf <persName ref="p8098">Georg von Württemberg</persName>.</note> ker<note xml:id="fn4" type="footnote" ana="lex" n="4">Keller.</note> etc.</s>
+					<s n="2" xml:lang="de">Fürgliepter herr und güner, wist unssern wolstandt<note xml:id="fn1" type="footnote" ana="lex" n="1">Wohlergehen.</note>, gott syg <lb xml:id="p1z2"/>lob, der uns mitt frid har belaitett hat etc<note xml:id="fn2" type="footnote" ana="bio" n="2"><persName ref="p8071">Vogler</persName> war von Graf <persName ref="p8098">Georg von Württemberg</persName> als Schaffner nach <placeName ref="l411">Reichenweier</placeName> berufen worden (vgl. <persName ref="p8098">Graf Georgs</persName> Bitte vom 14. April 1537, <placeName ref="l587">Zürich</placeName> möge <persName ref="p8071">Vogler</persName> freigeben; Zürich StA, A 195. 1, <ref target="file10261">Nr. 230</ref>). Etwa sechs Wochen nach dem Georgstag 1537, d. h. Anfang Juli, sei er mit Frau und Kind nach <placeName ref="l411">Reichenweier</placeName> gezogen, notierte <persName ref="p8071">Vogler</persName> in sein Familienbuch (vgl. Zürich ZB, Ms S 318, 12).</note>., und früntlichen empfangen, ain grossen palast <lb xml:id="p1z3"/>ingeben, aber wenig cost nochmaln, doch guͦtt <placeName ref="l632">Elsässer</placeName>, dann mir die wal glassen in m[ines] g[nedigen] h[erren]<note xml:id="fn3" type="footnote" n="3">Graf <persName ref="p8098">Georg von Württemberg</persName>.</note> <lb xml:id="p1z4"/>ker<note xml:id="fn4" type="footnote" ana="lex" n="4">Keller.</note> etc.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="de">Wist, das m. g. h. mandat hat usgon lassen, schweren, zuͦtrincken, spilen ferpieten lassen; finden gotzforcht by sinen gnaden.</s>
-					<s n="4" xml:lang="de">Wiewol es laider im <placeName ref="l632">Elsas</placeName> oberhand, mer dann da oben<note xml:id="fn5" type="footnote" n="5">mehr als in der <placeName ref="l862">Schweiz</placeName>.</note>.</s>
+					<s n="3" xml:lang="de">Wist, das m. g. h. mandat hat usgon lassen, schweren, zuͦtrincken, spilen ferpieten <lb xml:id="p1z5"/>lassen; finden gotzforcht by sinen gnaden.</s>
+					<s n="4" xml:lang="de">Wiewol es laider im <placeName ref="l632">Elsas</placeName> oberhand, mer dann da <lb xml:id="p1z6"/>oben<note xml:id="fn5" type="footnote" n="5">mehr als in der <placeName ref="l862">Schweiz</placeName>.</note>.</s>
 					<s n="5" xml:lang="de">Dester lenger ist ze arbaiten etc.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de">Es werden och fil knecht angenomen, alhie im stätly am hoptman<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note> zum <persName ref="p18538">kayser</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p18538">Karl V.</persName></note>.</s>
+					<s n="6" xml:lang="de">Es werden och fil knecht angenomen, alhie im stätly am <lb xml:id="p1z7"/>hoptman<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note> zum <persName ref="p18538">kayser</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p18538">Karl V.</persName></note>.</s>
 					<s n="7" xml:lang="de">Sagt, uff nächst mentag söll man ussin<note xml:id="fn8" type="footnote" ana="lex" n="8">hinaus.</note> hinweg<note xml:id="fna" type="footnote" n="a">hinweg <hi>am Rande nachgetragen.</hi></note> gen <placeName ref="l1620">Fuͦssach</placeName><note xml:id="fn9" type="footnote" n="9"><placeName ref="l1620">Fußach</placeName> am <placeName ref="l2528">Bodensee</placeName> (<placeName ref="l2511">Vorarlberg</placeName>).</note> zuͦ.</s>
-					<s n="8" xml:lang="de" ana="salute">Das sagen minem her <persName ref="p2816">Rösten</persName><note xml:id="fn10" type="footnote" n="10">Bürgermeister <persName ref="p2816">Diethelm Röist</persName>.</note> mitsampt minem gruͦß.</s>
+					<s n="8" xml:lang="de" ana="salute">Das <lb xml:id="p1z8"/>sagen minem her <persName ref="p2816">Rösten</persName><note xml:id="fn10" type="footnote" n="10">Bürgermeister <persName ref="p2816">Diethelm Röist</persName>.</note> mitsampt minem gruͦß.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de">Der erst gotzlestrer, der in gfängnus glegt der tagen, ist ains edelmans diener<note xml:id="fn11" type="footnote" n="11">Unbekannt.</note> hie, an dem nit verschont worden.</s>
+					<s n="9" xml:lang="de">Der erst gotzlestrer, der in gfängnus glegt <lb xml:id="p1z9"/>der tagen, ist ains edelmans diener<note xml:id="fn11" type="footnote" n="11">Unbekannt.</note> hie, an dem nit verschont worden.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="de">Ich rit mornn zuͦ m. g. h. gen <placeName ref="l327">Mümpelgart</placeName>, pflicht ze ton<note xml:id="fn12" type="footnote" n="12">den Amtseid abzulegen.</note>.</s>
+					<s n="10" xml:lang="de">Ich rit mornn <lb xml:id="p1z10"/>zuͦ m. g. h. gen <placeName ref="l327">Mümpelgart</placeName>, pflicht ze ton<note xml:id="fn12" type="footnote" n="12">den Amtseid abzulegen.</note>.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="de" ana="salute"><persName ref="p4248">Min frow</persName><note xml:id="fn13" type="footnote" ana="bio" n="13"><persName ref="p4248">Appolonia, geb. Baumgartner</persName>.</note> laßt uch alle gruͤssen, och ich, och unser son<note xml:id="fn14" type="footnote" n="14"><persName ref="p6935">Hans Rudolf</persName> (vgl. oben <ref target="file10987">Nr. 945</ref>, Anm. 3).</note>.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="de">Ich wird zur zit komen<note xml:id="fn15" type="footnote" ana="bio" n="15"><persName ref="p8071">Vogler</persName> war möglicherweise kurz darauf wieder in <placeName ref="l587">Zürich</placeName>, wo er sich mit <persName ref="p495">Bullinger</persName> u. a. über die Heirat seiner Tochter <persName ref="p4391">Anna</persName> besprach (vgl. unten <ref target="file11093">Nr. 1050</ref>, 4f und Anm. 8).</note>.</s>
+					<s n="12" xml:lang="de"><lb xml:id="p1z11"/>Ich wird zur zit komen<note xml:id="fn15" type="footnote" ana="bio" n="15"><persName ref="p8071">Vogler</persName> war möglicherweise kurz darauf wieder in <placeName ref="l587">Zürich</placeName>, wo er sich mit <persName ref="p495">Bullinger</persName> u. a. über die Heirat seiner Tochter <persName ref="p4391">Anna</persName> besprach (vgl. unten <ref target="file11093">Nr. 1050</ref>, 4f und Anm. 8).</note>.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="de"><pb type="edition" next="187"/>Actum mentag, den 9. tag iuliy anno 37. jar.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="de">U[wer] williger <persName ref="p8071">Hans Vogler</persName>, burger zuͦ <placeName ref="l587">Zürich</placeName>, yetz ze <placeName ref="l411">Richenwir</placeName> schaffner.</s>
+					<s n="14" xml:lang="de"><lb xml:id="p1z12"/>U[wer] williger <persName ref="p8071">Hans Vogler</persName>, <lb xml:id="p1z13"/>burger zuͦ <placeName ref="l587">Zürich</placeName>, yetz <lb xml:id="p1z14"/>ze <placeName ref="l411">Richenwir</placeName> schaffner.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="15" xml:lang="de">An min gelieptten Maister <persName ref="p495">Hainrichen Bullingern</persName>, prediger zuͦ <placeName ref="l587">Zürych</placeName> etc.</s>
+					<s n="15" xml:lang="de"><pb/><lb xml:id="p2z1"/>An min gelieptten Maister <lb xml:id="p2z2"/><persName ref="p495">Hainrichen Bullingern</persName>, prediger <lb xml:id="p2z3"/>zuͦ <placeName ref="l587">Zürych</placeName> etc.</s>
 				</p>
 			</div>
 		</body>

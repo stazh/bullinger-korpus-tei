@@ -83,37 +83,54 @@
 			<graphic xml:id="img1-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11874!Autograph!00%20E_II_336__fol__217_r_.tif/full/max/0/default.jpg" n="1">
 				<desc subtype="path">11874/Autograph/00 E_II_336__fol__217_r_.tif</desc>
 			</graphic>
+			<zone xml:id="p1z1-0" points="410,363 2494,368 2491,280 2411,267 2217,303 2139,264 1867,306 1086,254 656,293 407,241">424,334 527,334 631,336 734,337 838,336 942,337 1045,334 1149,337 1253,337 1356,340 1460,340 1564,342 1667,340 1771,340 1875,342 1978,342 2082,343 2186,340 2289,343 2393,343 2497,340</zone>
+			<zone xml:id="p1z2-0" points="498,438 1006,394 1151,430 1939,399 2035,443 2087,407 2491,415 2491,368 2292,347 2196,381 498,347">513,397 612,397 711,396 810,394 909,394 1009,391 1108,391 1207,391 1306,393 1405,394 1505,394 1604,394 1703,394 1802,394 1901,397 2001,397 2100,398 2199,402 2298,402 2397,406 2497,409</zone>
+			<zone xml:id="p1z3-0" points="493,482 576,508 1047,454 1524,498 1721,454 2481,490 2463,430 2139,404 493,436">507,466 606,459 705,456 804,454 903,451 1002,451 1101,451 1200,451 1299,451 1398,448 1497,448 1596,448 1695,450 1794,451 1893,454 1992,454 2091,458 2190,460 2289,465 2388,469 2488,469</zone>
+			<zone xml:id="p1z4-0" points="495,547 2437,547 2437,482 2393,474 1514,498 1034,456 983,500 897,459 495,493">510,531 606,525 703,522 799,519 896,517 993,516 1089,516 1186,516 1283,516 1379,516 1476,516 1573,516 1669,516 1766,516 1863,519 1959,519 2056,522 2153,524 2249,525 2346,525 2443,528</zone>
+			<zone xml:id="p1z5-0" points="490,627 739,594 988,627 1076,591 1229,622 1317,586 2484,607 2484,547 2310,529 2245,570 2206,534 1566,557 1460,518 1226,563 985,526 490,550">504,594 603,591 702,588 801,585 900,585 1000,582 1099,582 1198,582 1297,582 1396,582 1496,582 1595,582 1694,582 1793,582 1892,585 1992,586 2091,589 2190,593 2289,596 2388,600 2488,600</zone>
+			<zone xml:id="p1z6-0" points="485,674 2478,677 2478,607 2097,594 1973,627 1434,586 485,622">498,660 597,656 696,653 796,651 895,651 994,648 1094,648 1193,648 1292,645 1392,645 1491,642 1590,642 1690,642 1789,642 1888,642 1988,645 2087,649 2186,651 2286,657 2385,663 2485,666</zone>
+			<zone xml:id="p1z7-0" points="485,736 1156,752 1408,713 1545,749 1999,708 2471,757 2471,674 2188,692 1934,648 1825,687 1703,646 485,690">498,725 596,722 695,716 794,712 893,710 992,710 1091,710 1190,707 1289,705 1388,705 1487,707 1585,707 1684,707 1783,706 1882,704 1981,707 2080,707 2179,710 2278,715 2377,719 2476,719</zone>
+			<zone xml:id="p1z8-0" points="485,814 1283,773 1374,817 1851,775 2455,796 2455,754 1999,708 485,767">498,788 596,784 694,779 792,776 890,773 988,773 1086,770 1185,770 1283,768 1381,767 1479,767 1577,767 1675,768 1773,769 1872,770 1970,770 2068,770 2166,773 2264,773 2362,778 2461,779</zone>
+			<zone xml:id="p1z9-0" points="493,887 1270,884 1498,837 1545,881 2027,837 2204,887 2463,866 2463,798 2152,775 493,809">507,857 605,850 703,845 801,842 899,839 997,836 1095,836 1194,833 1292,833 1390,833 1488,833 1586,833 1684,833 1782,833 1881,833 1979,833 2077,834 2175,836 2273,839 2371,842 2470,845</zone>
+			<zone xml:id="p1z10-0" points="485,938 2465,944 2465,858 2383,848 2206,884 1965,840 1918,879 1804,843 1543,879 1480,840 1312,884 485,887">498,917 596,916 695,913 793,909 892,906 991,905 1089,904 1188,902 1286,902 1385,902 1484,899 1582,900 1681,900 1779,899 1878,899 1977,899 2075,900 2174,902 2272,904 2371,905 2470,905</zone>
+			<zone xml:id="p1z11-0" points="487,1024 1268,977 1496,1016 1677,972 1939,1019 2058,972 2248,1019 2447,1003 2447,928 2232,920 889,928 664,967 487,938">501,994 598,986 696,983 794,979 891,976 989,976 1087,973 1184,973 1282,971 1380,967 1478,968 1575,969 1673,967 1771,970 1868,967 1966,970 2064,970 2161,973 2259,976 2357,979 2455,982</zone>
+			<zone xml:id="p1z12-0" points="487,1089 791,1050 1063,1050 1195,1097 1428,1060 1540,1104 2173,1068 2173,1011 1810,980 1763,1011 1683,972 1493,1016 1286,977 1159,1019 487,1024">501,1054 589,1051 677,1051 766,1048 854,1047 942,1045 1031,1044 1119,1044 1207,1042 1296,1042 1384,1039 1473,1039 1561,1039 1649,1039 1738,1039 1826,1036 1914,1039 2003,1039 2091,1045 2180,1048</zone>
+			<zone xml:id="p1z13-0" points="2025,1317 2056,1320 2123,1288 2230,1307 2258,1283 2284,1296 2346,1283 2388,1307 2385,1242 2315,1229 2268,1242 2227,1218 2141,1237 2110,1213 2074,1234 2022,1237">2040,1272 2065,1270 2090,1269 2116,1269 2141,1268 2166,1266 2192,1267 2217,1269 2242,1271 2268,1272 2293,1272 2318,1272 2344,1272 2369,1271 2395,1269</zone>
+			<zone xml:id="p1z14-0" points="2097,1384 2110,1384 2131,1371 2141,1379 2157,1371 2170,1379 2183,1371 2230,1377 2230,1301 2214,1301 2204,1312 2178,1307 2170,1299 2147,1309 2139,1301 2128,1309 2097,1307">2112,1341 2137,1341 2162,1341 2187,1341 2212,1340 2237,1338</zone>
 		</surface>
 		<surface>
 			<graphic xml:id="img2-0" url="https://media.sources-online.org/cantaloupe/iiif/3/bullinger!11874!Autograph!01%20E_II_336__fol__217_v_.tif/full/max/0/default.jpg" n="2">
 				<desc subtype="path">11874/Autograph/01 E_II_336__fol__217_v_.tif</desc>
 			</graphic>
+			<zone xml:id="p2z1-0" points="915,1442 1486,1419 1488,1367 1359,1352 918,1391">921,1431 949,1428 977,1428 1006,1427 1034,1423 1062,1421 1091,1419 1119,1417 1147,1415 1176,1413 1204,1413 1232,1412 1261,1410 1289,1408 1317,1407 1346,1407 1374,1406 1402,1404 1431,1404 1459,1404 1488,1404</zone>
+			<zone xml:id="p2z2-0" points="985,1528 1040,1530 1116,1494 1299,1477 1340,1489 1409,1474 1452,1493 1455,1441 1350,1454 1203,1425 1124,1452 989,1454">993,1488 1018,1490 1044,1486 1070,1483 1095,1479 1121,1476 1147,1473 1172,1473 1198,1472 1224,1470 1249,1469 1275,1467 1301,1467 1326,1467 1352,1465 1378,1464 1403,1464 1429,1464 1455,1464</zone>
+			<zone xml:id="p2z3-0" points="1122,1564 1166,1559 1202,1573 1218,1573 1225,1504 1215,1503 1194,1511 1164,1496 1157,1500 1128,1497">1130,1536 1161,1533 1193,1529 1225,1527</zone>
 		</surface>
 	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la">S.</s>
-					<s n="2" xml:lang="la">De comitiis scribit quidam<note xml:id="fn1" type="footnote" n="1">Ein entsprechender Brief liegt nicht vor.</note> cęsarem quidem <placeName ref="l471">Spirę</placeName> parasse sibi et suis hospitium idemque fecisse <placeName ref="l491">Argentinenses</placeName>,<note xml:id="fn2" type="footnote" n="2">Kaiser <persName ref="p18538">Karl V.</persName> und die Gesandten <placeName ref="l491">Straßburgs</placeName> trafen erst am 30. Januar bzw. am 1. Februar in <placeName ref="l471">Speyer</placeName> ein; s. <bibl source="b480">PC</bibl> III 452. Zu den organisatorischen Vorbereitungen vgl. RTA JR XV/1 112, Anm. 240.</note> verum sibi non videri coitura esse ante epiphaniam<note xml:id="fn3" type="footnote" n="3">6. Januar.</note>, tum forsitan adparitura cum magis<note xml:id="fn4" type="footnote" n="4">mit den Hl. Drei Königen. -Die Eröffnung des Reichstags verzögerte sich bis zum 20. Februar; s. RTA JR XV/1 118.</note>.</s>
-					<s n="3" xml:lang="la">Rumor est reginam <persName ref="p19482">Galliae</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p19482">Claude de France</persName>.</note> una cum filio altero<note xml:id="fn6" type="footnote" n="6"><persName ref="p8112">Kronprinz Heinrich</persName>.</note> ad comitia venturam.</s>
+					<s n="1" xml:lang="la"><lb xml:id="p1z1"/>S.</s>
+					<s n="2" xml:lang="la">De comitiis scribit quidam<note xml:id="fn1" type="footnote" n="1">Ein entsprechender Brief liegt nicht vor.</note> cęsarem quidem <placeName ref="l471">Spirę</placeName> parasse sibi et suis hospitium idemque <lb xml:id="p1z2"/>fecisse <placeName ref="l491">Argentinenses</placeName>,<note xml:id="fn2" type="footnote" n="2">Kaiser <persName ref="p18538">Karl V.</persName> und die Gesandten <placeName ref="l491">Straßburgs</placeName> trafen erst am 30. Januar bzw. am 1. Februar in <placeName ref="l471">Speyer</placeName> ein; s. <bibl source="b480">PC</bibl> III 452. Zu den organisatorischen Vorbereitungen vgl. RTA JR XV/1 112, Anm. 240.</note> verum sibi non videri coitura esse ante epiphaniam<note xml:id="fn3" type="footnote" n="3">6. Januar.</note>, tum forsitan <lb xml:id="p1z3"/>adparitura cum magis<note xml:id="fn4" type="footnote" n="4">mit den Hl. Drei Königen. -Die Eröffnung des Reichstags verzögerte sich bis zum 20. Februar; s. RTA JR XV/1 118.</note>.</s>
+					<s n="3" xml:lang="la">Rumor est reginam <persName ref="p19482">Galliae</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p19482">Claude de France</persName>.</note> una cum filio altero<note xml:id="fn6" type="footnote" n="6"><persName ref="p8112">Kronprinz Heinrich</persName>.</note> ad comitia <lb xml:id="p1z4"/>venturam.</s>
 					<s n="4" xml:lang="la">Quod si fiet, divina, quid possit esse futurum de evangelio.</s>
-					<s n="5" xml:lang="la">Unde sunt, qui nihil minus credunt quam rumorem esse.</s>
-					<s n="6" xml:lang="la">Sęvit malus<note xml:id="fn7" type="footnote" ana="lex" n="7">der Teufel.</note> contra evangelium, sęviunt membra eius multo crudelissime; <foreign xml:lang="el">ἀκηδία</foreign> nos occupavit valde turpiter, quamobrem ego nihil aliud expecto quam malum.</s>
-					<s n="7" xml:lang="la">Interim scio ecclesiam Christi non derelictum iri, sed corpori semel patiendum esse.</s>
-					<s n="8" xml:lang="la">Opus est itaque nobis certitudine doctrinę nostrę et multo robore spiritus, quo possimus in tentationibus perdurare.</s>
-					<s n="9" xml:lang="la">Ergo impellendus populus, ut in emendanda vita sit diligentia et labor, in implorando iugiter domino studium et fidelis constantia; secus enim si factum fuerit, periimus omnes.</s>
+					<s n="5" xml:lang="la">Unde <lb xml:id="p1z5"/>sunt, qui nihil minus credunt quam rumorem esse.</s>
+					<s n="6" xml:lang="la">Sęvit malus<note xml:id="fn7" type="footnote" ana="lex" n="7">der Teufel.</note> contra evangelium, sęvi<lb xml:id="p1z6"/>unt membra eius multo crudelissime; <foreign xml:lang="el">ἀκηδία</foreign> nos occupavit valde turpiter, quamob<lb xml:id="p1z7"/>rem ego nihil aliud expecto quam malum.</s>
+					<s n="7" xml:lang="la">Interim scio ecclesiam Christi non derelictum <lb xml:id="p1z8"/>iri, sed corpori semel patiendum esse.</s>
+					<s n="8" xml:lang="la">Opus est itaque nobis certitudine doctrinę nostrę <lb xml:id="p1z9"/>et multo robore spiritus, quo possimus in tentationibus perdurare.</s>
+					<s n="9" xml:lang="la">Ergo impellendus <lb xml:id="p1z10"/>populus, ut in emendanda vita sit diligentia et labor, in implorando iugiter domino <lb xml:id="p1z11"/>studium et fidelis constantia; secus enim si factum fuerit, periimus omnes.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" ana="farewell">Vale per dominum cum tuis et <persName ref="p8171">Theodoro</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p8171">Theodor Bibliander</persName>.</note>.</s>
+					<s n="10" xml:lang="la" ana="farewell">Vale per dominum <lb xml:id="p1z12"/>cum tuis et <persName ref="p8171">Theodoro</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p8171">Theodor Bibliander</persName>.</note>.</s>
 					<s n="11" xml:lang="la"><placeName ref="l28">Basileae</placeName>, 16. decembris ante lucem anno 1543.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la"><persName ref="p8418">Os. Myconius</persName> tuus.</s>
+					<s n="12" xml:lang="la"><lb xml:id="p1z13"/><persName ref="p8418">Os. Myconius</persName> <lb xml:id="p1z14"/>tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="13" xml:lang="la">D. <persName ref="p495">Heinricho Bullingero</persName> doctissimo, in domino suo.</s>
+					<s n="13" xml:lang="la"><pb/><lb xml:id="p2z1"/>D. <persName ref="p495">Heinricho Bullingero</persName> <lb xml:id="p2z2"/>doctissimo, in domino <lb xml:id="p2z3"/>suo.</s>
 					<s n="14" xml:lang="de"><placeName ref="l587">Z[ürich]</placeName><note xml:id="fnb" type="footnote" n="b"><hi>Teilweise auf das nicht mehr vorhandene Verschlussband geschrieben.</hi></note>.</s>
 				</p>
 			</div>
